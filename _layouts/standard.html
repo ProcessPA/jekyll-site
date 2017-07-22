@@ -2,66 +2,55 @@
 layout: default
 ---
 
-<header class="site-header" id="header" role="banner">
-    <div class="container">
-        <div class="row">
-            <div class="logo_container col-sm-5">
-                <p class="site-title"><a class="ql_logo" href="~/" rel="home"><img src="/wp-content/uploads/2016/03/logo-sml.png" scale="0"></a></p>
-            </div><!-- /logo_container -->
-            <button class="navbar-toggle collapsed" id="ql_nav_btn" aria-expanded="false" type="button" data-toggle="collapse" data-target="#ql_nav_collapse">
-                <i class="fa fa-navicon"></i>
+<header role="banner">
+    <div class="container-fluid">
+        <nav class="navbar navbar-toggleable-md navbar-light">
+            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
             </button>
 
-            <div class="col-sm-7">
-                <div class="collapse navbar-collapse" id="ql_nav_collapse">
-                    <nav class="jqueryslidemenu navbar " id="jqueryslidemenu" role="navigation">
-                        <div class="menu-front-page-menu-container">
-                            <ul class="nav" id="primary-menu">
-                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1671" id="menu-item-1671"><a title="Features" href="#phone-section">Features</a></li>
-                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2861" id="menu-item-2861"><a title="Help" href="http://processpa.com/quick-start-guide/">Help</a></li>
-                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3371" id="menu-item-3371"><a title="Pricing" href="http://processpa.com/pricing/">Pricing</a></li>
-                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3951 dropdown" id="menu-item-3951">
-                                    <a title="Resources" class="dropdown-toggle" aria-haspopup="true" href="#" data-toggle="dropdown">Resources <i class="fa fa-angle-down"></i></a>
-                                    <ul class=" dropdown-menu" role="menu">
-                                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6251" id="menu-item-6251"><a title="Blog" href="http://processpa.com/blog/">Blog</a></li>
-                                        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8481" id="menu-item-8481"><a title="Product Updates" href="http://processpa.com/ExecutiveMatters/category/product-updates/">Product Updates</a></li>
-                                        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6191" id="menu-item-6191"><a title="Governance" href="http://processpa.com/ExecutiveMatters/category/governance/">Governance</a></li>
-                                        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6181" id="menu-item-6181"><a title="Meetings" href="http://processpa.com/ExecutiveMatters/category/meetings/">Meetings</a></li>
-                                        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6161" id="menu-item-6161"><a title="Volunteering" href="http://processpa.com/ExecutiveMatters/category/volunteering/">Volunteering</a></li>
-                                    </ul>
-                                </li>
-                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1261" id="menu-item-1261"><a title="About" href="http://processpa.com/about/">About</a></li>
-                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2401" id="menu-item-2401"><a title="Login" href="https://app.processpa.com">Login</a></li>
-                            </ul>
-                        </div>
-                    </nav>
-                </div><!-- /ql_nav_collapse -->
-            </div><!-- /col-md-7 -->
-            <div class="clearfix"></div>
-        </div><!-- row-->
-    </div><!-- /container -->
+            <a class="navbar-brand" href="/">
+                <img src="/wp-content/uploads/2016/03/logo-sml.png">
+            </a>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Link</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Disabled</a>
+                    </li>
+                </ul>
+                <a class="btn nav-link mr-sm-2" href="#">Log in</a>
+                <a class="btn btn-outline-success nav-link my-2 my-sm-0" href="#">Register</a>
+            </div>
+        </nav>
+    </div>
 </header>
-<div class="clearfix"></div>
 
 {{ content }}
 
 <div class="sub-footer">
-    <div class="container">
+    <div class="container-fluid">
+
         <div class="row">
-            <div class="col-md-5">
-                <p>
-                    <a href="/terms-and-conditions/">Terms &amp; Conditions</a> | <a href="/privacy-policy/">Privacy Policy</a> | <a href="/security/">Security</a> | <a href="/partners/">Partners</a>
-                </p>
+            <div class="col nav">
+                <a class="nav-link" href="/terms-and-conditions/">Terms &amp; Conditions</a>
+                <a class="nav-link" href="/privacy-policy/">Privacy Policy</a>
+                <a class="nav-link" href="/security/">Security</a>
+                <a class="nav-link" href="/partners/">Partners</a>
             </div>
-            <div class="col-md-7">
-                <div class="menu" id="menu-social">
-                    <ul class="menu-items nav nav_social" id="menu-social-items">
-                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1741" id="menu-item-1741"><a href="http://facebook.com/ProcessPA"><span class="screen-reader-text">Facebook</span></a></li>
-                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1751" id="menu-item-1751"><a href="http://twitter.com/ProcessPA"><span class="screen-reader-text">Twitter</span></a></li>
-                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1761" id="menu-item-1761"><a href="https://www.linkedin.com/company/process-pa"><span class="screen-reader-text">LinkedIn</span></a></li>
-                    </ul>
-                </div>
-            </div>
+
+            <ul class="col nav justify-content-end">
+                <li class="nav-link"><a href="http://facebook.com/ProcessPA"><span class="screen-reader-text">Facebook</span></a></li>
+                <li class="nav-link"><a href="http://twitter.com/ProcessPA"><span class="screen-reader-text">Twitter</span></a></li>
+                <li class="nav-link"><a href="https://www.linkedin.com/company/process-pa"><span class="screen-reader-text">LinkedIn</span></a></li>
+            </ul>
+
         </div><!-- .row -->
     </div><!-- .container -->
 </div><!-- .sub-footer -->

@@ -1,4 +1,4 @@
-﻿---
+---
 id: 6811
 title: What Millennials want from a Not-for-profit
 date: 2016-12-14T20:49:00+00:00

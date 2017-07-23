@@ -1,4 +1,4 @@
-﻿---
+---
 id: 7141
 title: Expired Trial
 date: 2017-01-05T15:35:44+00:00

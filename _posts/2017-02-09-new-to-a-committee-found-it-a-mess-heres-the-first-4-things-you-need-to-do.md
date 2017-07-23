@@ -1,4 +1,4 @@
-﻿---
+---
 id: 7651
 title: 'New to a committee? Found it a mess? Here&rsquo;s the first 4 things you need to do!'
 date: 2017-02-09T13:12:10+00:00

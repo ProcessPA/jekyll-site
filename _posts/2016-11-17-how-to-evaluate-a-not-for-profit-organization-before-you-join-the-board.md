@@ -1,4 +1,4 @@
-﻿---
+---
 id: 6321
 title: How to evaluate a not-for-profit organization before you join the board
 date: 2016-11-17T19:03:18+00:00

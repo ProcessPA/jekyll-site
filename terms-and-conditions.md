@@ -1,4 +1,4 @@
-﻿---
+---
 id: 2351
 title: Terms and Conditions
 date: 2016-05-03T22:23:09+00:00

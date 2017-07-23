@@ -1,4 +1,4 @@
-﻿---
+---
 id: 7121
 title: Do All Motions Need To Be Moved And Seconded?
 date: 2017-01-05T11:32:00+00:00

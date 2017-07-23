@@ -1,4 +1,4 @@
-﻿---
+---
 id: 7191
 title: Paper is not as reliable as you think!
 date: 2017-01-09T08:19:00+00:00

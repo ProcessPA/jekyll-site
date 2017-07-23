@@ -1,4 +1,4 @@
-﻿---
+---
 id: 7221
 title: How to Measure Meeting Effectiveness
 date: 2017-01-09T10:49:00+00:00

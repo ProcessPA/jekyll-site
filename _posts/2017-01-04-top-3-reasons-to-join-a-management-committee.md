@@ -1,4 +1,4 @@
-﻿---
+---
 id: 7091
 title: Top 3 Reasons to Join a Management Committee
 date: 2017-01-04T20:13:13+00:00

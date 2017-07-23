@@ -1,4 +1,4 @@
-﻿---
+---
 id: 5521
 title: 'Scheduled Meetings &amp; Action Items'
 date: 2016-10-31T12:08:55+00:00

@@ -1,4 +1,4 @@
-﻿---
+---
 id: 6721
 title: 'When to Motion a report &#8211; 3 simple guidelines to follow!'
 date: 2016-12-01T10:44:34+00:00

@@ -1,4 +1,4 @@
-﻿---
+---
 id: 6
 title: Find the volunteer talent within your school community
 date: 2015-06-23T11:12:46+00:00

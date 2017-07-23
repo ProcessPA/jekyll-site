@@ -1,4 +1,4 @@
-﻿---
+---
 id: 2121
 title: '2016 Queensland P&amp;C Constitution changes'
 date: 2016-03-07T11:57:19+00:00

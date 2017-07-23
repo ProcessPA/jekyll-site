@@ -1,4 +1,4 @@
-﻿---
+---
 id: 211
 title: Are you ready to take a break?
 date: 2015-10-27T20:24:00+00:00

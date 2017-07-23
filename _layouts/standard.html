@@ -15,18 +15,17 @@ layout: default
 
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
-                    <li class="nav-item active">
-                        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                    {% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %}
+                    {% for p in navigation_pages %}
+                    {% if p.navigation_weight %}
+                    <li class="nav-item {% if p.url == page.url %}active{% endif %}">
+                        <a class="nav-link" href="{{ p.url }}">{{ p.navigation_title }}</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Link</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Disabled</a>
-                    </li>
+                    {% endif %}
+                    {% endfor %}
                 </ul>
-                <a class="btn nav-link mr-sm-2" href="#">Log in</a>
-                <a class="btn btn-outline-success nav-link my-2 my-sm-0" href="#">Register</a>
+                <a class="btn nav-link mr-sm-2" href="https://app.processpa.com/">Log in</a>
+                <a class="btn btn-outline-success nav-link my-2 my-sm-0" href="https://app.processpa.com/Account/Register">Register</a>
             </div>
         </nav>
     </div>

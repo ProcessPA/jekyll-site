@@ -1,4 +1,4 @@
-﻿---
+---
 id: 8921
 title: Quick Status, View Online, Email Members and more Process PA updates
 date: 2017-06-19T22:16:43+00:00

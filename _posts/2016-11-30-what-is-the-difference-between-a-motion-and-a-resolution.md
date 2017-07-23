@@ -1,4 +1,4 @@
-﻿---
+---
 id: 6701
 title: What is the Difference Between a Motion and a Resolution?
 date: 2016-11-30T09:07:36+00:00

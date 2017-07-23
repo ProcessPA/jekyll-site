@@ -1,4 +1,4 @@
-﻿---
+---
 id: 7451
 title: Summary Tables, Configurable Roles, Tutorials and more Process PA updates
 date: 2017-02-02T20:04:23+00:00

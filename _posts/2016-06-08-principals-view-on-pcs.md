@@ -1,4 +1,4 @@
-﻿---
+---
 id: 3761
 title: 'Principals View On P&amp;Cs'
 date: 2016-06-08T00:08:31+00:00

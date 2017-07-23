@@ -1,4 +1,4 @@
-﻿---
+---
 id: 2311
 title: Privacy Policy
 date: 2016-05-03T22:20:23+00:00

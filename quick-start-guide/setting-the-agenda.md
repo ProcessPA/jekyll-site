@@ -1,4 +1,4 @@
-﻿---
+---
 id: 4741
 title: Setting the Agenda
 date: 2016-10-31T11:02:23+00:00

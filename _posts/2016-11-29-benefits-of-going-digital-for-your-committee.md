@@ -1,4 +1,4 @@
-﻿---
+---
 id: 6681
 title: Benefits of going digital for your committee
 date: 2016-11-29T10:33:10+00:00

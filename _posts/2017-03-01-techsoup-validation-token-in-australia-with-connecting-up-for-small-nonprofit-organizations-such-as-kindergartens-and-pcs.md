@@ -1,4 +1,4 @@
-﻿---
+---
 id: 8171
 title: 'TechSoup Validation Token in Australia with Connecting Up for small Nonprofit Organizations such as Kindergartens and P&amp;Cs'
 date: 2017-03-01T14:41:00+00:00

@@ -1,4 +1,4 @@
-﻿---
+---
 id: 7241
 title: Difference Between Managing Paid Workers and Non-Paid Workers (Volunteers)
 date: 2017-01-07T10:48:00+00:00

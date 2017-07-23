@@ -1,4 +1,4 @@
-﻿---
+---
 id: 6881
 title: What makes good meeting minutes?
 date: 2016-12-16T09:13:00+00:00

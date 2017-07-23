@@ -1,4 +1,4 @@
-﻿---
+---
 id: 100
 title: Spring is here â€“ Adopt a Farmer
 date: 2015-08-27T21:10:26+00:00

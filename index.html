@@ -4,7 +4,7 @@ title: Board Papers for everyone
 navigation_title: Home
 navigation_weight: 1
 
-feature-list:
+benefits:
   - title: "Instant Minutes"
     description: "Meeting guidance with agenda templates, generated minutes, follow up and automatic notifications. Less Paper. Reduce administration time."
     icon: "/wp-content/uploads/2016/03/Automation.png"
@@ -39,14 +39,14 @@ testimonies:
 
     <div class="row mt-4">
 
-        {% for feature in page.feature-list %}
+        {% for benefit in page.benefits %}
         <div class="col-sm-4">
             <div class="media">
-                <img class="d-flex mr-3" width="64" src="{{ feature.icon }}">
+                <img class="d-flex mr-3" width="64" src="{{ benefit.icon }}">
                 <div class="media-body">
-                    <h4 class="mt-0">{{ feature.title }}</h4>
+                    <h4 class="mt-0">{{ benefit.title }}</h4>
                     <p class="lead">
-                        {{ feature.description }}
+                        {{ benefit.description }}
                     </p>
                 </div>
             </div>

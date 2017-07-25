@@ -1,12 +1,6 @@
 ---
-id: 2311
 title: Privacy Policy
-date: 2016-05-03T22:20:23+00:00
-author: Marketing
-layout: page
-guid: http://ppa-public-web.azurewebsites.net/?page_id=2311
-sharing_disabled:
-  - "1"
+layout: markdown-page
 ---
 In this Privacy Policy, &#8216;us&#8217; &#8216;we&#8217; or &#8216;our&#8217; means Process PA Pty Ltd (ABN 45 608 099 832). We are committed to respecting your privacy. Our Privacy Policy sets outs out how we collect, use, store and disclose your personal information.
 

@@ -1,12 +1,8 @@
 ---
-id: 4161
 title: Concierge Service
-date: 2016-06-23T14:07:38+00:00
-author: Matthew
-layout: page
-guid: http://processpa.com/?page_id=4161
+layout: markdown-page
 ---
-We are� here to� help you get started with a� our free concierge service.
+We are here to help you get started with a our free concierge service.
 
 ### How it works
 
@@ -23,7 +19,7 @@ In your email include your:
   * Name, Email and Phone number
   * Organization name and Web Site
   * Agenda from your last meeting
-  * Minutes or Notes from your last meeting. Even� just a photo if the notes are still on paper
+  * Minutes or Notes from your last meeting. Even just a photo if the notes are still on paper.
   * Committee Members Names and Email
 
 All your information will be held in the strictest of confidence according to our [Privacy Policy](http://processpa.com/privacy-policy/).

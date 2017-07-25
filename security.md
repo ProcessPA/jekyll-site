@@ -1,10 +1,6 @@
 ---
-id: 4601
 title: Security
-date: 2016-10-05T07:13:26+00:00
-author: Matthew
-layout: page
-guid: http://processpa.com/?page_id=4601
+layout: markdown-page
 ---
 ### Process PA is committed to implementing proven best practices for creating secure applications
 

@@ -1,10 +1,6 @@
 ---
-id: 4741
 title: Setting the Agenda
-date: 2016-10-31T11:02:23+00:00
-author: Matthew
-layout: page
-guid: http://processpa.com/?page_id=4741
+layout: markdown-page
 ---
 After logging in, you will be able to see details of your next meeting and its agenda. If you want to adjust the agenda for a meeting you just have to do the following steps: 
 

@@ -1,10 +1,6 @@
 ---
-id: 5971
 title: Settings
-date: 2016-10-31T12:39:20+00:00
-author: Matthew
-layout: page
-guid: http://processpa.com/?page_id=5971
+layout: markdown-page
 ---
 Set the From email address for your distributions, Page header/Letter head for your agenda and minutes, automatic distributions and agenda templates from within the Settings. 
 

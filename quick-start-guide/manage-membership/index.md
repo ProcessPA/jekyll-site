@@ -1,10 +1,6 @@
 ---
-id: 5611
 title: Manage Membership
-date: 2016-10-31T12:16:35+00:00
-author: Matthew
-layout: page
-guid: http://processpa.com/?page_id=5611
+layout: markdown-page
 ---
 The Members is used for registering the Committee or Board members. These are the members used for Emails, Attendance and Access to <a href="http://processpa.com/" target="_blank">Process PA</a>. 
 

@@ -1,10 +1,6 @@
 ---
-id: 6491
 title: Rescheduling Meetings
-date: 2016-11-28T11:46:30+00:00
-author: Matthew
-layout: page
-guid: http://processpa.com/?page_id=6491
+layout: markdown-page
 ---
 Change of schedule is inevitable in meetings. If you want to edit the time of a meeting you just have to do the following steps: 
 

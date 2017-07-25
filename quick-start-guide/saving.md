@@ -1,10 +1,6 @@
 ---
-id: 7311
 title: Saving
-date: 2017-01-18T10:44:11+00:00
-author: Matthew
-layout: page
-guid: http://processpa.com/?page_id=7311
+layout: markdown-page
 ---
 Process PA automatically and continuously saves to our servers to protect against loss of data.
 

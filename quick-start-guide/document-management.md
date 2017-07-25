@@ -1,10 +1,6 @@
 ---
-id: 5831
 title: Document Management
-date: 2016-10-31T12:29:04+00:00
-author: Matthew
-layout: page
-guid: http://processpa.com/?page_id=5831
+layout: markdown-page
 ---
 Secure document storage for all your committee or board related information is included.
 

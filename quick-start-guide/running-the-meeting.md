@@ -1,10 +1,6 @@
 ---
-id: 5461
 title: Running the Meeting
-date: 2016-10-31T11:59:21+00:00
-author: Matthew
-layout: page
-guid: http://processpa.com/?page_id=5461
+layout: markdown-page
 ---
 During the meeting, you can capture the minutes live by following these next steps. Alternatively the notes can be input at a later date if access to a computer and Internet within the meeting is unavailable or taking notes by hand is preferred. 
 

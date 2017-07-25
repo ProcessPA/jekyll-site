@@ -1,10 +1,6 @@
 ---
-id: 5521
 title: 'Scheduled Meetings &amp; Action Items'
-date: 2016-10-31T12:08:55+00:00
-author: Matthew
-layout: page
-guid: http://processpa.com/?page_id=5521
+layout: markdown-page
 ---
 The meeting schedule and pending action items are available on the Schedule screen. Here you can schedule new meetings or create action item unrelated to a specific meeting.
 

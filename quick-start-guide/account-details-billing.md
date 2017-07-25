@@ -1,10 +1,6 @@
 ---
-id: 7531
 title: 'Account Details &amp; Billing'
-date: 2017-02-03T07:21:13+00:00
-author: Matthew
-layout: page
-guid: http://processpa.com/?page_id=7531
+layout: markdown-page
 ---
 Under Settings, click the button Account Details to see your association name, time zone, language, billing information.
 

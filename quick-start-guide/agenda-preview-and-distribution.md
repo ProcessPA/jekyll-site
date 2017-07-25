@@ -1,10 +1,6 @@
 ---
-id: 4981
 title: Agenda Preview and Distribution
-date: 2016-10-31T11:24:08+00:00
-author: Matthew
-layout: page
-guid: http://processpa.com/?page_id=4981
+layout: markdown-page
 ---
 Once your agenda is complete, you can preview or share it by following these next steps: 
 

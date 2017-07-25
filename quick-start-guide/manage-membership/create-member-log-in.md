@@ -1,10 +1,6 @@
 ---
-id: 6651
 title: Create Member Log in
-date: 2016-11-28T11:49:58+00:00
-author: Matthew
-layout: page
-guid: http://processpa.com/?page_id=6651
+layout: markdown-page
 ---
 Members of your organization can register an account and gain access to meeting schedules, files and other information. If you want to create a new log in account for a member, just do the following steps: 
 

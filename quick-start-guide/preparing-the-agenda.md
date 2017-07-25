@@ -1,10 +1,6 @@
 ---
-id: 4901
 title: Preparing the Agenda
-date: 2016-10-31T11:18:19+00:00
-author: Matthew
-layout: page
-guid: http://processpa.com/?page_id=4901
+layout: markdown-page
 ---
 Below shows how to add notes, motions for consideration and attachments to your agenda: 
 

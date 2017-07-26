@@ -1,10 +1,10 @@
 ---
-title: 'TechSoup Validation Token in Australia with Connecting Up for small Nonprofit Organizations such as Kindergartens and P&amp;Cs'
+title: "TechSoup Validation Token in Australia with Connecting Up for small Nonprofit Organizations such as Kindergartens and P&amp;Cs"
 date: 2017-03-01T14:41:00+00:00
 author: Matthew
 layout: post
 permalink: /ExecutiveMatters/techsoup-validation-token-in-australia-with-connecting-up-for-small-nonprofit-organizations-such-as-kindergartens-and-pcs/
-categories: "Office 365"
+categories: ["Office 365"]
 ---
 The TechSoup Validation token is required to utilize Nonprofit pricing on service like Microsoft Office 365. <a href="https://www.connectingup.org/" target="_blank">Connecting Up</a> is the organization in Australia responsible for verifying eligibility and issuing token. Connecting Up provides other technology discounts and donations that are worth investigating for your organization.
 
@@ -13,17 +13,18 @@ The TechSoup Validation token is required to utilize Nonprofit pricing on servic
   1. Go to [https://www.connectingup.org/](https://www.connectingup.org/ "https://www.connectingup.org/")
   2. Click <a href="https://www.connectingup.org/user/register" target="_blank">Sign Up</a> at the top right
   
-    [<img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="image[64]" src="http://processpa.com/wp-content/uploads/2017/03/image64_thumb.png" alt="image[64]" width="1028" height="712" border="0" />](http://processpa.com/wp-content/uploads/2017/03/image64.png)
+      <img class="img-fluid" src="/content/posts/office365-17.png" />
+
   3. Enter your details and click Create New Account
   4. Complete the <a href="https://www.connectingup.org/donations/org/register" target="_blank">Organization Registration and Qualification form</a>
   
-    [<img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="image_thumb[31]" src="http://processpa.com/wp-content/uploads/2017/03/image_thumb31_thumb.png" alt="image_thumb[31]" width="725" height="900" border="0" />](http://processpa.com/wp-content/uploads/2017/03/image_thumb31.png)
+      <img class="img-fluid" src="/content/posts/office365-18.png" />
   
     If you are a Kindergarten or any Nonprofit registered with the Australian Charities and Not-For-Profits Commission (ACNC) it will just take a **couple of days** for your qualification to be completed. If you are a P&C or other small organization however, you need to provide more information which will be requested as below:
   
     _Your organisation is close to completing the registration and qualification process. We simply require evidence of your organisation&#8217;s charitable or not for profit status._
   
-    _Currently we do not have any evidence of your organisation&#8217;s charitable or not-for-profit status because it is not reflected on the Australian Business Register_ [_http://abr.business.gov.au/SearchByAbn.aspx?SearchText=55781012322_](http://abr.business.gov.au/SearchByAbn.aspx?SearchText=55781012322)</p> 
+    _Currently we do not have any evidence of your organisation&#8217;s charitable or not-for-profit status because it is not reflected on the Australian Business Register_ [_http://abr.business.gov.au/SearchByAbn.aspx?SearchText=55781012322_](http://abr.business.gov.au/SearchByAbn.aspx?SearchText=55781012322)
     _It is a core requirement for the program that organisations are income tax exempt, you must fill out and return to us a self-assessing review worksheet for income tax exempt not-for-profits, which can be downloaded here:_ [_http://www.ato.gov.au/Forms/Income-tax-status-review-worksheet-for-self-assessing-non-profit-organisations/_](http://www.ato.gov.au/Forms/Income-tax-status-review-worksheet-for-self-assessing-non-profit-organisations/)
     
     _NB. The tax review sheet must be signed_
@@ -41,11 +42,12 @@ The TechSoup Validation token is required to utilize Nonprofit pricing on servic
       1. Once your organization is qualified login to Connecting Up, [https://www.connectingup.org/user/login](https://www.connectingup.org/user/login "https://www.connectingup.org/user/login").
       2. Go to My Account, select TechSoup Validation Tokens
   
-        [<img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="image[80]" src="http://processpa.com/wp-content/uploads/2017/03/image80_thumb.png" alt="image[80]" width="919" height="772" border="0" />](http://processpa.com/wp-content/uploads/2017/03/image80.png)
+          <img class="img-fluid" src="/content/posts/office365-19.png" />
+
       3. Click Add New Token, fill out the form and you will have a token generated for you
   
-        [<img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="image[85]" src="http://processpa.com/wp-content/uploads/2017/03/image85_thumb.png" alt="image[85]" width="858" height="772" border="0" />](http://processpa.com/wp-content/uploads/2017/03/image85.png)
+          <img class="img-fluid" src="/content/posts/office3650-20.png" />
     
     &nbsp;
     
-    ### [Next Step: Registering Office 365 with Nonprofit pricing for small Nonprofit Organizations](http://processpa.com/ExecutiveMatters/registering-office-365-with-nonprofit-pricing-for-small-nonprofit-organizations-such-as-kindergartens-and-pcs-in-australia/)
+    ### [Next Step: Registering Office 365 with Nonprofit pricing for small Nonprofit Organizations](/ExecutiveMatters/registering-office-365-with-nonprofit-pricing-for-small-nonprofit-organizations-such-as-kindergartens-and-pcs-in-australia/)

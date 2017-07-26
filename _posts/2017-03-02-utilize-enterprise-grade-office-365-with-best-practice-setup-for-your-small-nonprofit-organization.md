@@ -4,7 +4,7 @@ date: 2017-03-02T15:49:33+00:00
 author: Matthew
 layout: post
 permalink: /ExecutiveMatters/utilize-enterprise-grade-office-365-with-best-practice-setup-for-your-small-nonprofit-organization/
-categories: "Office 365"
+categories: ["Office 365"]
 ---
 Now that you have Office 365 <a href="/ExecutiveMatters/how-to-set-up-free-office-365-for-small-nonprofit-organizations-such-as-kindergartens-and-pcs-in-australia/" target="_blank">at Free or greatly reduced cost</a>, it is time to setup it up in a way to get the most benefit out of it. All don’t need to be done at the same time. Change is hard. Take one at a time and as you and your staff and volunteers become comfortable try taking on the next step.
 
@@ -18,7 +18,7 @@ Adding individual users is an easy task in the Office 365 admin center. The step
 
 When complete it should look something like this:
 
-[<img title="image" style="border-top: 0px; border-right: 0px; background-image: none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; border-left: 0px; display: inline; padding-right: 0px" border="0" alt="image" src="http://processpa.com/wp-content/uploads/2017/03/image_thumb.png" width="1024" height="554" />](http://processpa.com/wp-content/uploads/2017/03/image-4.png)
+<img class="img-fluid" src="/content/posts/office365-21.png" />
 
 Note the status column indicates the subscription they are assigned. Here we have most on the completely free Office 365 Enterprise E1 Nonprofits pricing subscription giving access to all Office Online (Word, Excel etc. online in the browser) which are assigned to our Executive Committee. Our staff members however, have the Office 365 Business Premium subscription at $2.80/user/month, which gives them all the online tools, and the local familiar install Office application like Word, Excel and PowerPoint on their computers (PC or Mac) and their devices (phones & tablets).
 

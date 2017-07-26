@@ -4,7 +4,7 @@ date: 2017-02-02T20:04:23+00:00
 author: Matthew
 layout: post
 permalink: /ExecutiveMatters/summary-tables-configurable-roles-tutorials-and-more-process-pa-updates/
-categories: "Product Updates"
+categories: ["Product Updates"]
 ---
 ### Continuing Mission
 

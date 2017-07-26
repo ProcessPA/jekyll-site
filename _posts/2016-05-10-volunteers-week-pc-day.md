@@ -1,11 +1,11 @@
 ---
-id: 2441
 title: 'Volunteers week and P&amp;C Day'
 date: 2016-05-10T09:52:28+00:00
 author: Matthew
 layout: post
-guid: http://processpa.com/?p=2441
 permalink: /ExecutiveMatters/volunteers-week-pc-day/
+excerpt: "Australia celebrates national volunteer week from Monday 9-15 May 2016. The theme is Give Happy, Live Happy."
+categories: P&C
 ---
 <img src="https://gallery.mailchimp.com/f98dbef075d2473fcc3a6dd56/images/0e6f2c95-6ac3-4759-bd5c-dda2f3ebf26e.png" alt="" width="563" align="center" />
 

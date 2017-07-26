@@ -1,11 +1,10 @@
 ---
-id: 6382
 title: How Do Good Meetings Increase Volunteer Participation?
 date: 2016-11-28T09:53:29+00:00
 author: Matthew
 layout: post
-guid: http://processpa.com/?p=6382
 permalink: /ExecutiveMatters/how-do-good-meetings-increase-volunteer-participation/
+categories: Meetings Volunteers
 ---
 Meetings are channels of communication. It is one of the oldest yet most effective way to engage people into civil, creative and intellectual discussions. If a meeting is done correctly, it can make members feel relevant thus increasing their participation. A successful organization is always backed up by an effective and efficient meetings. 
 
@@ -31,7 +30,7 @@ Meeting are prone to clutters and irrelevant discussions. To ensure that everyth
 
 Allot time for discussions so that everyone gets to share what they have in mind. Courteously call out anyone who is exceeding their time allotment to talk.
 
-[<img title="How Good Meetings Increase Volunteer Communication 2" style="border-top: 0px; border-right: 0px; background-image: none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; border-left: 0px; display: inline; padding-right: 0px" border="0" alt="How Good Meetings Increase Volunteer Communication 2" src="http://processpa.com/wp-content/uploads/2016/11/How-Good-Meetings-Increase-Volunteer-Communication-2_thumb.png" width="772" height="772" />](http://processpa.com/wp-content/uploads/2016/11/How-Good-Meetings-Increase-Volunteer-Communication-2.png)
+<img title="How Good Meetings Increase Volunteer Communication 2" class="img-fluid" alt="How Good Meetings Increase Volunteer Communication 2" src="http://processpa.com/wp-content/uploads/2016/11/How-Good-Meetings-Increase-Volunteer-Communication-2_thumb.png" />
 
 #### Increase Participation
 

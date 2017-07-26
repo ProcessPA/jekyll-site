@@ -4,6 +4,16 @@ layout: standard
 
 <!--Setup Page Title, categories, author multi column-->
 <div class="container">
+    <h1 class="display-4">{{ page.title }}</h1>
+    
+    <p>
+        <small class="text-muted">{{ page.date | date: "%B %d, %Y" }}</small>
+        <small> by {{ page.author }} </small>
+        {% for category in page.categories %}
+        <small class="badge badge-info">{{ category }}</small>
+        {% endfor %}
+    </p>
+
     {{ content }}
 </div>
 <!--Setup page lead capture and where to next-->

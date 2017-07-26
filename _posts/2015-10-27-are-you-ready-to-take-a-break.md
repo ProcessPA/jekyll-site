@@ -1,11 +1,10 @@
 ---
-id: 211
 title: Are you ready to take a break?
 date: 2015-10-27T20:24:00+00:00
 author: Matthew
 layout: post
-guid: https://pandconline.wordpress.com/?p=131
 permalink: /ExecutiveMatters/are-you-ready-to-take-a-break/
+categories: P&C
 ---
 November is almost upon us and many P&Cs are having their last meeting for the year next month. Have you considered if anyone in your executive is finishing up this year? There are a number of reasons people won’t be continuing. Without getting into the why, let’s be prepared for what needs to be done. 
 
@@ -13,7 +12,7 @@ Firstly, identify your vacant roles. Ensuring you fill the Executive, Officers o
 
 Secondly, find candidates. If you don’t have members in the current committee wanting to take on an officer role you need to be engaging parents in the school to get them to come along in November’s meeting. Being clear about what the role entails will go a long way to reducing the anxiety someone may have about taking on the responsibility. Use resources from P&Cs Qld like the [P&C Executive and their Responsibilities](http://www.pandcsqld.com.au/documents/2013/11/pc-executive-and-their-responsibilities.pdf) guide. 
 
-Thirdly, prepare for handover. Make sure your house is in order. Go through the checklists for each role. Use the P&Cs Qld resources again for [P&C Executive&nbsp; Handover Checklist](http://www.pandcsqld.com.au/documents/2014/10/pc-executive-handover-checklist.pdf). Another guide says to allow for a transition period of up to a month [cheap generic cialis](http://biturlz.com/CzB8Dwm). In a job this would be acceptable as you would have daily repetitive tasks, but for an association that meets once a month, that makes it hard to get up to speed. Starting now, for handover at the AGM in March will help ensure your hard work is built on and not lost. 
+Thirdly, prepare for handover. Make sure your house is in order. Go through the checklists for each role. Use the P&Cs Qld resources again for [P&C Executive&nbsp; Handover Checklist](http://www.pandcsqld.com.au/documents/2014/10/pc-executive-handover-checklist.pdf). Another guide says to allow for a transition period of up to a month. In a job this would be acceptable as you would have daily repetitive tasks, but for an association that meets once a month, that makes it hard to get up to speed. Starting now, for handover at the AGM in March will help ensure your hard work is built on and not lost. 
 
 For me I found when I took up the role as Secretary these things were not done. It would have made the process much easier and maintained better continuity for the association. As a result, I have now built a cloud based solution that will take care the handover, guide new office bearers through processes, and have one place for all the documents. Check it out at [processpa.com](http://processpa.com/). 
 

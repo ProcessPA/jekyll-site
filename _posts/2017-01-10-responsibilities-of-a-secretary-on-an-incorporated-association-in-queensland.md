@@ -1,11 +1,10 @@
 ---
-id: 7161
 title: Responsibilities of a Secretary on an Incorporated Association in Queensland
 date: 2017-01-10T11:37:00+00:00
 author: Matthew
 layout: post
-guid: http://processpa.com/?p=7161
 permalink: /ExecutiveMatters/responsibilities-of-a-secretary-on-an-incorporated-association-in-queensland/
+categories: Governance
 ---
 An association secretary is not to be confused with the office secretarial work. An office secretary is someone who is employed to assist with correspondence, keep records, make appointments and carry out confidential or similar tasks. The word itself was derived from the Latin word “_secretaries”_ which means “confidential officer”. When talking about a association secretary we are referring to the duties like a company secretary which in essence is making sure records are correct for the company.
 

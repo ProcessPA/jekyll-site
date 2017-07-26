@@ -1,15 +1,14 @@
 ---
-id: 8581
 title: Assign to Many Actions, Custom Numbering, Time Limits and More Process PA Updates
 date: 2017-05-02T10:54:47+00:00
 author: Matthew
 layout: post
-guid: http://processpa.com/?p=8581
 permalink: /ExecutiveMatters/assign-to-many-actions-custom-numbering-time-limits-and-more-process-pa-updates/
+categories: "Product Updates"
 ---
-# Assign To Many Action Items
-  
+This update brings a handful of top requests which bring a better configurability and control for administrators.
 
+# Assign To Many Action Items
 
 A highly request feature you can now assign an action to multiple members. Each on will get an email about the assigned action. The input works with type-ahead to prefill, or you can just click and select from the list. 
 
@@ -26,8 +25,6 @@ The assignees are displayed inline during the meeting and in the Schedule with t
 
 # Custom Numbering for Action Items and Motions
   
-
-
 You now have the flexibility for numbering action items and motions to allow easy identification across meetings and the organization. It is composed of up to three parts _Prefix-Date-Count_: 
 
   1. **Prefix** is any text 

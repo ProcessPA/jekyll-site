@@ -1,11 +1,10 @@
 ---
-id: 7281
 title: 7 Ways To Keep Your Volunteers Happy
 date: 2017-01-06T13:35:00+00:00
 author: Matthew
 layout: post
-guid: http://processpa.com/?p=7281
 permalink: /ExecutiveMatters/7-ways-to-keep-your-volunteers-happy/
+categories: Volunteering Tips
 ---
 Volunteerism has changed and evolved over the course of time. Some non-profit organizations were able to keep up with these changes while others have not. Now is the perfect time to check on your current volunteer program and assess whether they’re at par with industry practices or not. 
 
@@ -15,7 +14,7 @@ Volunteerism has changed and evolved over the course of time. Some non-profit or
 
 Gone are the days when calling your volunteers in a meeting and giving them general instructions is enough. Volunteers nowadays expect so much more. They are more demanding and may want more than just generic programs. What they’re after is a pleasantly unique experience that is both fun and fulfilling. 
 
-[<img title="happy balloons" style="border-top: 0px; border-right: 0px; background-image: none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; border-left: 0px; display: inline; padding-right: 0px" border="0" alt="happy balloons" src="http://processpa.com/wp-content/uploads/2017/01/happy-balloons_thumb.jpg" width="1024" height="683" />](http://processpa.com/wp-content/uploads/2017/01/happy-balloons.jpg) 
+<img title="happy balloons" class="img-fluid" alt="happy balloons" src="/content/posts/happy-balloons_thumb.jpg" />
 
 ## Ways To Keep Your Volunteers Happy
 

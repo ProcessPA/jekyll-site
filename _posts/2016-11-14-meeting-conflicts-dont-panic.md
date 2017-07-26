@@ -1,11 +1,10 @@
 ---
-id: 6281
-title: 'Meeting Conflicts? Don&rsquo;t Panic!'
+title: "Meeting Conflicts? Don't Panic!"
 date: 2016-11-14T14:57:03+00:00
 author: Matthew
 layout: post
-guid: http://processpa.com/?p=6281
 permalink: /ExecutiveMatters/meeting-conflicts-dont-panic/
+categories: Meetings
 ---
 Do you experience conflicts during meetings? Don’t panic and don’t worry. This is a normal situation. It is actually healthy when there are conflicts in a meeting, this just means that ideas are being generated. 
 
@@ -31,7 +30,7 @@ Conflicts are not all the same, but there are the basic characteristics to deter
   * Involves shouting and using personally hurtful words
   * Cannot be resolved
 
-[<img title="Benefits of Good Meeting Etiquette" style="border-top: 0px; border-right: 0px; background-image: none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; border-left: 0px; display: inline; padding-right: 0px" border="0" alt="Benefits of Good Meeting Etiquette" src="http://processpa.com/wp-content/uploads/2016/11/Benefits-of-Good-Meeting-Etiquette_thumb.png" width="534" height="768" />](http://processpa.com/wp-content/uploads/2016/11/Benefits-of-Good-Meeting-Etiquette.png)
+<img title="Benefits of Good Meeting Etiquette" class="img-fluid" alt="Benefits of Good Meeting Etiquette" src="/content/posts/Benefits-of-Good-Meeting-Etiquette_thumb.png" />
 
 ## Managing Conflicts
 

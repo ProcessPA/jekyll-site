@@ -1,11 +1,10 @@
 ---
-id: 7451
 title: Summary Tables, Configurable Roles, Tutorials and more Process PA updates
 date: 2017-02-02T20:04:23+00:00
 author: Matthew
 layout: post
-guid: http://processpa.com/?p=7451
 permalink: /ExecutiveMatters/summary-tables-configurable-roles-tutorials-and-more-process-pa-updates/
+categories: "Product Updates"
 ---
 ### Continuing Mission
 
@@ -17,19 +16,19 @@ Here are a few of the features we’ve put in place towards that mission.
 
 You voted for it and it’s now available. Summary tables of Actions and Motions appear at the end of your agenda and minutes. The goal is a quick view to know what needs to be done and what decisions have been made, so we can see progress and results from our meetings. It’s a first step and there is more to come, so please tell me what you like, what you don’t and what we can do to make it more useful for you.
 
-<img style="padding-top: 0px; padding-left: 0px; padding-right: 0px; border: 0px;" title="clip_image001" src="http://processpa.com/wp-content/uploads/2017/02/clip_image001.png" alt="clip_image001" width="784" height="327" border="0" />
+<img class="img-fluid" src="/content/posts/clip_image001.png" />
 
 ### Configurable Roles
 
 Another highly requested item you can now add, remove or rename your roles. So you can add Past President, Life Member, Chief Wrangler or whatever you required. This is simple and quick to configure from the Settings page.
 
-<img style="padding-top: 0px; padding-left: 0px; padding-right: 0px; border: 0px;" title="clip_image002" src="http://processpa.com/wp-content/uploads/2017/02/clip_image002.png" alt="clip_image002" width="403" height="390" border="0" />
+<img class="img-fluid" src="/content/posts/clip_image002.png" />
 
 ### Getting Started Tutorials
 
-In line with our goal to maintain continuity this now makes it easy for new members coming on to take up roles and have a quick overview in Process PA and to be up and running quickly. At any time hit the ? in the top right to run through the quick help or link over to the details help pages [here](http://processpa.com/quick-start-guide/).
+In line with our goal to maintain continuity this now makes it easy for new members coming on to take up roles and have a quick overview in Process PA and to be up and running quickly. At any time hit the ? in the top right to run through the quick help or link over to the details help pages [here](/quick-start-guide/).
 
-<img style="padding-top: 0px; padding-left: 0px; padding-right: 0px; border: 0px;" title="clip_image003" src="http://processpa.com/wp-content/uploads/2017/02/clip_image003.png" alt="clip_image003" width="866" height="722" border="0" />
+<img class="img-fluid" src="/content/posts/clip_image003.png" />
 
 Handovers are inevitable, but with Process PA we are hoping that people stay in the role longer, because of the greatly reduced administration burden, and handovers are simple as the Process PA helps take care of it.
 
@@ -37,13 +36,13 @@ Handovers are inevitable, but with Process PA we are hoping that people stay in 
 
 You can now set the default Name and Location of your meeting types. Go into Settings and select the Agenda Template.
 
-<img style="padding-top: 0px; padding-left: 0px; padding-right: 0px; border: 0px;" title="clip_image004" src="http://processpa.com/wp-content/uploads/2017/02/clip_image004.png" alt="clip_image004" width="308" height="305" border="0" />
+<img class="img-fluid" src="/content/posts/clip_image004.png" />
 
 ### Email Only Permission
 
 Previous members could have two level of access into Process PA, Admin or Normal. Now you can add users who will only receive emails and have no access to login to your Organization to view the history.
 
-<img style="padding-top: 0px; padding-left: 0px; padding-right: 0px; border: 0px;" title="clip_image005" src="http://processpa.com/wp-content/uploads/2017/02/clip_image005.png" alt="clip_image005" width="415" height="459" border="0" />
+<img class="img-fluid" src="/content/posts/clip_image005.png" />
 
 ### Feedback
 

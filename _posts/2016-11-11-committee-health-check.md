@@ -1,11 +1,10 @@
 ---
-id: 6131
 title: Committee Health Check
 date: 2016-11-11T06:18:38+00:00
 author: Matthew
 layout: post
-guid: http://processpa.com/?p=6131
 permalink: /ExecutiveMatters/committee-health-check/
+categories: Governance
 ---
 Most of us regularly visit the doctor to check on the status of our health. As they say, prevention is better than cure. If an illness is present already, then putting a stop to it as early as possible through health check-ups is better than treating it late. 
 
@@ -48,4 +47,4 @@ Once you establish a health check system for your organization, you will be able
   * Improve on your weaknesses
   * Solve issues or work around with problems successfully
 
-[<img title="Measuring Good Governance" style="border-top: 0px; border-right: 0px; background-image: none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; border-left: 0px; display: inline; padding-right: 0px" border="0" alt="Measuring Good Governance" src="http://processpa.com/wp-content/uploads/2016/11/Measuring-Good-Governance_thumb.jpg" width="773" height="788" />](http://processpa.com/wp-content/uploads/2016/11/Measuring-Good-Governance.jpg)
+<img title="Measuring Good Governance" class="img-fluid" alt="Measuring Good Governance" src="/content/posts/Measuring-Good-Governance_thumb.jpg" />

@@ -1,11 +1,10 @@
 ---
-id: 118
 title: 5 Ways to Run a Better Meeting
 date: 2015-10-14T15:35:30+00:00
 author: Matthew
 layout: post
-guid: https://pandconline.wordpress.com/?p=118
 permalink: /ExecutiveMatters/5-ways-to-run-a-better-meeting/
+categories: General Meetings
 ---
 With Term 4 now in full swing we only have a few more meetings to finish out the year. Now is a good time to have a refresher to keep going strong and have effective meetings. So here they are, 5 ways to run a better meeting.
 
@@ -19,7 +18,7 @@ You have an agenda. Stick to it. Have an idea of the time each agenda item shoul
 
 ## 3. Make Sure Everyone Gets Their Say
 
-Everyone wants to be heard. The chair of the meeting is to ensure they balance personalities. Often it just involves checking in with the introverts. Make sure you hear feedback. Do your meetings go too long or even too short? Do people feel they are able to make a contribution? If you have someone who interrupts lots give them a stopwatch to keep everyone on track <img class="wlEmoticon wlEmoticon-smile" style="border-style: none;" src="http://ppa-public-web.azurewebsites.net/wp-content/uploads/2015/10/wlemoticon-smile.png" alt="Smile" />.
+Everyone wants to be heard. The chair of the meeting is to ensure they balance personalities. Often it just involves checking in with the introverts. Make sure you hear feedback. Do your meetings go too long or even too short? Do people feel they are able to make a contribution? If you have someone who interrupts lots give them a stopwatch to keep everyone on track.
 
 ## 4. Take Action and Follow up
 

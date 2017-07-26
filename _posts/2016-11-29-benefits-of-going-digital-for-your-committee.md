@@ -1,13 +1,13 @@
 ---
-id: 6681
 title: Benefits of going digital for your committee
 date: 2016-11-29T10:33:10+00:00
 author: Matthew
 layout: post
-guid: http://processpa.com/?p=6681
 permalink: /ExecutiveMatters/benefits-of-going-digital-for-your-committee/
+excerpt: "The world is constantly changing and organizations need to step their game up a notch to keep up. Along with it is the evolution of digital technology which made keeping up much tougher. Digital transformation has been an essential part of our everyday lives most especially to that of organizations."
+categories: Tips
 ---
-### <img title="coffee-mug-and-computers-on-office-desk" style="border-top: 0px; border-right: 0px; background-image: none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; border-left: 0px; display: inline; padding-right: 0px" border="0" alt="coffee-mug-and-computers-on-office-desk" src="http://processpa.com/wp-content/uploads/2016/12/coffee-mug-and-computers-on-office-desk.jpg" width="1600" height="1079" />
+<img title="coffee-mug-and-computers-on-office-desk" class="img-fluid" alt="coffee-mug-and-computers-on-office-desk" src="/content/images/coffee-mug-and-computers-on-office-desk.jpg" />
 
 ### Landscape Change
 

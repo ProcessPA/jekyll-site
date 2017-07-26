@@ -1,15 +1,15 @@
 ---
-id: 6791
 title: Volunteering rates on decline, but what can you do?
 date: 2016-12-13T08:32:00+00:00
 author: Matthew
 layout: post
-guid: http://processpa.com/?p=6791
 permalink: /ExecutiveMatters/volunteering-rates-on-decline-but-what-can-you-do/
+excerpt: "It is a given fact that donors pump life into non-profit organizations. Their money fuels the activities needed to carry out the mission and vision of the organization."
+categories: Volunteering
 ---
 **The Value of Volunteering** 
 
-It is a given fact that donors pump life into non-profit organizations. Their money fuels the activities needed to carry out the mission and vision of the organization. It is also essential in spreading the awareness about the cause [important source](http://biturlz.com/Ib5kGdi). Campaigning for anything has been easier now than it has ever been due to the emergence of the World Wide Web. One interesting post in social media platforms like Facebook can help causes spread like wildfire. Ironically though, as fast as campaign awareness are spread there is a haunting truth of the continuous decline of volunteers. The value of volunteers’ time and effort are equal, if not more than, the money that donors give. The contributions of volunteers are truly priceless, however, it is sad to note that they have been difficult to come by for the past years. 
+It is a given fact that donors pump life into non-profit organizations. Their money fuels the activities needed to carry out the mission and vision of the organization. It is also essential in spreading the awareness about the cause. Campaigning for anything has been easier now than it has ever been due to the emergence of the World Wide Web. One interesting post in social media platforms like Facebook can help causes spread like wildfire. Ironically though, as fast as campaign awareness are spread there is a haunting truth of the continuous decline of volunteers. The value of volunteers’ time and effort are equal, if not more than, the money that donors give. The contributions of volunteers are truly priceless, however, it is sad to note that they have been difficult to come by for the past years. 
 
 **The Status of Volunteering Today** 
 
@@ -17,7 +17,7 @@ The year 2014 marked the beginning of the decline in the number of volunteers as
 
 Perhaps the big question now is why? What is or are the reasons behind this decline? Leaders and journalists have pinned several reasons: the level of economic stress, the lack of government funding, and even in increase of single-parent households. None of these reasons, however, can be classified as the main singular culprit for the rate decline. 
 
-&nbsp; <img title="volunteer-422598_960_720" style="border-top: 0px;border-right: 0px;border-bottom: 0px;padding-top: 0px;padding-left: 0px;border-left: 0px;padding-right: 0px" border="0" alt="volunteer-422598_960_720" src="http://processpa.com/wp-content/uploads/2016/12/volunteer-422598_960_720.jpg" width="1024" height="683" />
+<img title="volunteer-422598_960_720" class="img-fluid" src="/content/posts/volunteer-422598_960_720.jpg" />
 
 **What can you do?** 
 

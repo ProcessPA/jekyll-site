@@ -1,11 +1,10 @@
 ---
-id: 7121
 title: Do All Motions Need To Be Moved And Seconded?
 date: 2017-01-05T11:32:00+00:00
 author: Matthew
 layout: post
-guid: http://processpa.com/?p=7121
 permalink: /ExecutiveMatters/do-all-motions-need-to-be-moved-and-seconded/
+categories: Process Governance
 ---
 The question of “do all motions need to be moved and seconded?” is quite common. The answer is not absolute for all. The reality is that it is customary to move and second motions. But then again it will all depend on the governing rules and regulations of your organization. 
 
@@ -13,7 +12,7 @@ If your organization clearly states in its rules and regulations that a seconder
 
 There can also be situations where it has been customary to have a seconder although it is not required by the organization’s rules and regulations. If this is the case then the common action is to continue with the customary practice. Although, technically speaking, it is the discretion of the chair if the common practice is continued or not. 
 
- <img title="Colorful hands up - happiness or help concept" style="border-top: 0px; border-right: 0px; background-image: none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; border-left: 0px; display: inline; padding-right: 0px" border="0" alt="Colorful hands up - happiness or help concept" src="http://processpa.com/wp-content/uploads/2017/01/colorful-hands-up.jpg" width="1024" height="697" />
+ <img title="Colorful hands up - happiness or help concept" class="img-fluid" alt="Colorful hands up - happiness or help concept" src="/content/posts/colorful-hands-up.jpg" />
 
 ## Robert’s Rule
 

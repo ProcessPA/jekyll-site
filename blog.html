@@ -6,21 +6,20 @@ navigation_weight: 40
 ---
 
 
-<div class="text-container">
-    <h1 class="display-1">Blog</h1>
-    <ul class="blog-posts">
-        {% include list-posts.html posts=paginator.posts %}
-    </ul>
-    {% if paginator.total_pages > 1 %}
-    <!-- Pagination links -->
-    <div class="pagination">
-        {% if paginator.previous_page %}
-        <a href="{% include relative-src.html src=paginator.previous_page_path %}" class="previous btn">&larr; Newer posts</a>
-        {% endif %}
-        <span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
-        {% if paginator.next_page %}
-        <a href="{% include relative-src.html src=paginator.next_page_path %}" class="next btn">Older posts &rarr;</a>
-        {% endif %}
+<div class="container">
+    <div class="row">
+    {% for post in site.posts %}
+        <div class="col-6 mb-2">
+            <h4>{{ post.title }}</h4>
+            <p>
+                <small class="text-muted">{{ post.date | date: "%B %d, %Y" }}</small>
+                {% for category in post.categories %}
+                <small class="badge badge-info">{{ category }}</small>
+                {% endfor %}
+            </p>
+            <p>{{ post.excerpt }}</p>
+            <a href="{{ post.url }}">Read more</a>
+        </div>
+    {% endfor %}
     </div>
-    {% endif %}
 </div>

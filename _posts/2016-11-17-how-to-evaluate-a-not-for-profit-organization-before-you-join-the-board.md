@@ -1,11 +1,10 @@
 ---
-id: 6321
 title: How to evaluate a not-for-profit organization before you join the board
 date: 2016-11-17T19:03:18+00:00
 author: Matthew
 layout: post
-guid: http://processpa.com/?p=6321
 permalink: /ExecutiveMatters/how-to-evaluate-a-not-for-profit-organization-before-you-join-the-board/
+categories: Governance
 ---
 Regular organizational health check is considered as one of the most effective ways in improving a group’s performance and organizational management. It improves the following key areas: 
 
@@ -19,7 +18,7 @@ Regular organizational health check is considered as one of the most effective w
   * Alignment of Priorities
   * Updating Legal Requirements
 
-[<img title="Signs of a Healthy Organization" style="border-top: 0px; border-right: 0px; background-image: none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; border-left: 0px; display: inline; padding-right: 0px" border="0" alt="Signs of a Healthy Organization" src="http://processpa.com/wp-content/uploads/2016/11/Signs-of-a-Healthy-Organization_thumb.png" width="816" height="904" />](http://processpa.com/wp-content/uploads/2016/11/Signs-of-a-Healthy-Organization.png)
+<img title="Signs of a Healthy Organization" class="img-fluid" alt="Signs of a Healthy Organization" src="/content/posts/Signs-of-a-Healthy-Organization_thumb.png" />
 
 ### How to conduct a charity health check?
 

@@ -1,15 +1,14 @@
 ---
-id: 7191
 title: Paper is not as reliable as you think!
 date: 2017-01-09T08:19:00+00:00
 author: Matthew
 layout: post
-guid: http://processpa.com/?p=7191
 permalink: /ExecutiveMatters/paper-is-not-as-reliable-as-you-think/
+categories: Process
 ---
 We cannot deny that the digital era is here to conquer and stay. There is a major proliferation of smart gadgets like phones, tablets and cameras that makes everything easier for you with just one click. This is especially true for those who have a ton of documents to file and wants to do it efficiently. 
 
- <img title="digital paper" style="border-top: 0px; border-right: 0px; background-image: none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; border-left: 0px; display: inline; padding-right: 0px" border="0" alt="digital paper" src="http://processpa.com/wp-content/uploads/2017/01/digital-paper.jpg" width="1024" height="683" />
+ <img title="digital paper" class="img-fluid" alt="digital paper" src="/content/posts/digital-paper.jpg" width="1024" height="683" />
 
 ## Digital over Paper
 

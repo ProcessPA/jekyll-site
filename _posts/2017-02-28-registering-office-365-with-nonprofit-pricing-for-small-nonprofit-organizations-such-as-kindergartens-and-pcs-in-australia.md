@@ -1,11 +1,10 @@
 ---
-id: 8261
 title: 'Registering Office 365 with Nonprofit pricing for small Nonprofit Organizations such as Kindergartens and P&amp;Cs in Australia'
 date: 2017-02-28T14:41:00+00:00
 author: Matthew
 layout: post
-guid: http://processpa.com/?p=8261
 permalink: /ExecutiveMatters/registering-office-365-with-nonprofit-pricing-for-small-nonprofit-organizations-such-as-kindergartens-and-pcs-in-australia/
+categories: "Office 365"
 ---
 There are a few steps and parts of the process have to wait on others to be complete. It is best to have a quick review over the steps before getting started to see if you need to get some other things sorted first (like a domain name).
 
@@ -43,15 +42,15 @@ There are a few steps and parts of the process have to wait on others to be comp
         [<img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;" title="image[118]" src="http://processpa.com/wp-content/uploads/2017/03/image118_thumb.png" alt="image[118]" width="983" height="1150" border="0" />](http://processpa.com/wp-content/uploads/2017/03/image118.png)
       * ## Setting up Office 365
         
-        Continue through the setup as guided and you will be taken through the wizard to verify your Nonprofits eligibility again with Microsoft. If you choose to skip the setup for later it can cause delays in the eligibility process.
+      Continue through the setup as guided and you will be taken through the wizard to verify your Nonprofits eligibility again with Microsoft. If you choose to skip the setup for later it can cause delays in the eligibility process.
         
-          1. Firstly the anti-discrimination status
-  
-            [<img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;" title="clip_image001_thumb[1]" src="http://processpa.com/wp-content/uploads/2017/03/clip_image001_thumb1_thumb.png" alt="clip_image001_thumb[1]" width="1028" height="285" border="0" />](http://processpa.com/wp-content/uploads/2017/03/clip_image001_thumb1.png)
-          2. Domain name. **Note:** If you do not have a domain name you may not need to add one. It will be required however that you raise a support request with Microsoft to validate your Nonprofit pricing eligibility. If you do not have a domain name, you can get one very easily at <a href="https://www.godaddy.com/" target="_blank">GoDaddy</a>, <a href="https://www.namecheap.com/" target="_blank">Namecheap</a>, <a href="https://www.crazydomains.com.au/" target="_blank">Crazy Domains</a> or many other providers.
-  
-            [<img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;" title="clip_image001[5][4]" src="http://processpa.com/wp-content/uploads/2017/03/clip_image00154_thumb.png" alt="clip_image001[5][4]" width="1028" height="324" border="0" />](http://processpa.com/wp-content/uploads/2017/03/clip_image00154.png)
-          3. Confirm ownership of your domain name. The instruction provided my Microsoft make this task easy for the major providers. It may be intimidating at first, but you’ll find it straight forward just following the steps.
+      1. Firstly the anti-discrimination status
+
+        [<img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;" title="clip_image001_thumb[1]" src="http://processpa.com/wp-content/uploads/2017/03/clip_image001_thumb1_thumb.png" alt="clip_image001_thumb[1]" width="1028" height="285" border="0" />](http://processpa.com/wp-content/uploads/2017/03/clip_image001_thumb1.png)
+      2. Domain name. **Note:** If you do not have a domain name you may not need to add one. It will be required however that you raise a support request with Microsoft to validate your Nonprofit pricing eligibility. If you do not have a domain name, you can get one very easily at <a href="https://www.godaddy.com/" target="_blank">GoDaddy</a>, <a href="https://www.namecheap.com/" target="_blank">Namecheap</a>, <a href="https://www.crazydomains.com.au/" target="_blank">Crazy Domains</a> or many other providers.
+
+        [<img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;" title="clip_image001[5][4]" src="http://processpa.com/wp-content/uploads/2017/03/clip_image00154_thumb.png" alt="clip_image001[5][4]" width="1028" height="324" border="0" />](http://processpa.com/wp-content/uploads/2017/03/clip_image00154.png)
+      3. Confirm ownership of your domain name. The instruction provided my Microsoft make this task easy for the major providers. It may be intimidating at first, but you’ll find it straight forward just following the steps.
   
             [<img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;" title="image[123]" src="http://processpa.com/wp-content/uploads/2017/03/image123_thumb.png" alt="image[123]" width="1028" height="282" border="0" />](http://processpa.com/wp-content/uploads/2017/03/image123.png)**Note:** This will take a few days before eligibility is confirmed and you have the option of purchasing (free included) Nonprofit pricing subscriptions that are not trials. If it has taken a couple of weeks, raise a support request before your trial runs out so you can maintain continuity of service.</ol> 
     

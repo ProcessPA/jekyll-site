@@ -30,7 +30,7 @@ Meeting are prone to clutters and irrelevant discussions. To ensure that everyth
 
 Allot time for discussions so that everyone gets to share what they have in mind. Courteously call out anyone who is exceeding their time allotment to talk.
 
-<img title="How Good Meetings Increase Volunteer Communication 2" class="img-fluid" alt="How Good Meetings Increase Volunteer Communication 2" src="/content/posts/How-Good-Meetings-Increase-Volunteer-Communication-2_thumb.png" />
+<img class="img-fluid" src="/content/posts/How-Good-Meetings-Increase-Volunteer-Communication-2_thumb.png" />
 
 #### Increase Participation
 

@@ -1,3 +1,4 @@
 name: Process PA
 description: Committee meetings made simple
-plugins: []
+sass:
+    style: compressed

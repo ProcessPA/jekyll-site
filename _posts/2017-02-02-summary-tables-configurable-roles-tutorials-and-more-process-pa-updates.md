@@ -4,6 +4,7 @@ date: 2017-02-02T20:04:23+00:00
 author: Matthew
 layout: post
 permalink: /ExecutiveMatters/summary-tables-configurable-roles-tutorials-and-more-process-pa-updates/
+excerpt: "We’re focused on reducing effort with cloud automation, reducing paperwork with digital efficiencies, reducing continuity risk with one place and one process for your important records and reducing compliance risk by providing transparency, accessibility and good governance. Here are a few of the features we’ve put in place towards that mission."
 categories: ["Product Updates"]
 ---
 ### Continuing Mission

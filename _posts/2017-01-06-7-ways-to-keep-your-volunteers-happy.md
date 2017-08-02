@@ -1,11 +1,14 @@
 ---
 title: 7 Ways To Keep Your Volunteers Happy
-date: 2017-01-06T13:35:00+00:00
+date: 2017-01-06 13:35:00 Z
+permalink: "/ExecutiveMatters/7-ways-to-keep-your-volunteers-happy/"
+categories:
+- Volunteering
+- Tips
 author: Matthew
 layout: post
-permalink: /ExecutiveMatters/7-ways-to-keep-your-volunteers-happy/
-categories: Volunteering Tips
 ---
+
 Volunteerism has changed and evolved over the course of time. Some non-profit organizations were able to keep up with these changes while others have not. Now is the perfect time to check on your current volunteer program and assess whether they’re at par with industry practices or not. 
 
 ## Modern Volunteers

@@ -2,6 +2,7 @@
 title: Security
 layout: markdown-page
 ---
+
 ### Process PA is committed to implementing proven best practices for creating secure applications
 
 Process PA is hosted on Microsoft’s world-class cloud-hosting platform Azure. Its cloud-based technology is used throughout our development process to ensure security through data access, in transmission and in storage while employing data loss protection methods.

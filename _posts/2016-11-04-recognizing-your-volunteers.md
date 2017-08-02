@@ -1,11 +1,13 @@
 ---
 title: Recognizing Your Volunteers
-date: 2016-11-04T12:52:00+00:00
+date: 2016-11-04 12:52:00 Z
+permalink: "/ExecutiveMatters/recognizing-your-volunteers/"
+categories:
+- Volunteering
 author: Matthew
 layout: post
-permalink: /ExecutiveMatters/recognizing-your-volunteers/
-categories: Volunteering
 ---
+
 Volunteers are not paid to do work for organizations and getting them to stay and appreciate their contribution does not require monetary resources as well. It is essential to develop a continuous process to thank and recognize the efforts of your volunteers to help them stay fulfilled and committed to the organization’s cause. 
 
 ### Why do people volunteer?

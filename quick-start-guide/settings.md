@@ -2,6 +2,7 @@
 title: Settings
 layout: markdown-page
 ---
+
 Set the From email address for your distributions, Page header/Letter head for your agenda and minutes, automatic distributions and agenda templates from within the Settings. 
 
   1. To edit the settings of your system, click on the gear icon on the top right portion of the page.  

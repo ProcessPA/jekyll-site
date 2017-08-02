@@ -1,11 +1,13 @@
 ---
-title: "Meeting Conflicts? Don't Panic!"
-date: 2016-11-14T14:57:03+00:00
+title: Meeting Conflicts? Don't Panic!
+date: 2016-11-14 14:57:03 Z
+permalink: "/ExecutiveMatters/meeting-conflicts-dont-panic/"
+categories:
+- Meetings
 author: Matthew
 layout: post
-permalink: /ExecutiveMatters/meeting-conflicts-dont-panic/
-categories: Meetings
 ---
+
 Do you experience conflicts during meetings? Don’t panic and don’t worry. This is a normal situation. It is actually healthy when there are conflicts in a meeting, this just means that ideas are being generated. 
 
 ## Healthy Conflicts vs Unhealthy Conflicts

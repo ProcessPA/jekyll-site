@@ -2,6 +2,7 @@
 title: Saving
 layout: markdown-page
 ---
+
 Process PA automatically and continuously saves to our servers to protect against loss of data.
 
 As you are entering your notes keep an eye on the save icon in the top right corner.

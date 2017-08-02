@@ -1,12 +1,20 @@
 ---
-title: "New to a committee? Found it a mess? Here's the first 4 things you need to do!"
-date: 2017-02-09T13:12:10+00:00
+title: New to a committee? Found it a mess? Here's the first 4 things you need to
+  do!
+date: 2017-02-09 13:12:10 Z
+permalink: "/ExecutiveMatters/new-to-a-committee-found-it-a-mess-heres-the-first-4-things-you-need-to-do/"
+categories:
+- Governance
+- Tips
 author: Matthew
 layout: post
-permalink: /ExecutiveMatters/new-to-a-committee-found-it-a-mess-heres-the-first-4-things-you-need-to-do/
-excerpt: "There is probably nothing more mortifying than entering a dysfunctional committee in charge of an organization. It is a reflection of the organization. A quick look at how the committee is would give you a good idea of how the whole organization runs. If you are new to a committee that has devolved into a mess, then this is an advantage."
-categories: Governance Tips
+excerpt: There is probably nothing more mortifying than entering a dysfunctional committee
+  in charge of an organization. It is a reflection of the organization. A quick look
+  at how the committee is would give you a good idea of how the whole organization
+  runs. If you are new to a committee that has devolved into a mess, then this is
+  an advantage.
 ---
+
 ### Committee reflects the organization
 
 There is probably nothing more mortifying than entering a dysfunctional committee in charge of an organization. It is a reflection of the organization. A quick look at how the committee is would give you a good idea of how the whole organization runs. If you are new to a committee that has devolved into a mess, then this is an advantage. Having someone new, most often, provides fresh ideas and programs into the table compared to letting someone who is already dragged into the mess fix the problem. 

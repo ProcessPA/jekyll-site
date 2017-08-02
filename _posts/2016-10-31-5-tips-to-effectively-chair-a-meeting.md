@@ -1,12 +1,18 @@
 ---
 title: 5 Tips to Effectively Chair a Meeting
-date: 2016-10-31T15:10:48+00:00
+date: 2016-10-31 15:10:48 Z
+permalink: "/ExecutiveMatters/5-tips-to-effectively-chair-a-meeting/"
+categories:
+- Meeting
+- Tips
 author: Matthew
 layout: post
-permalink: /ExecutiveMatters/5-tips-to-effectively-chair-a-meeting/
-excerpt: "A leader is essential in any group, project or organization. This is to ensure that everyone stays on track in achieving the groups target or goals. The same is true with meetings, there is a leader as well to guide the flow of the agenda. In a meeting, this person is referred to as the “chairperson” or simply the “chair”."
-categories: Meeting Tips
+excerpt: A leader is essential in any group, project or organization. This is to ensure
+  that everyone stays on track in achieving the groups target or goals. The same is
+  true with meetings, there is a leader as well to guide the flow of the agenda. In
+  a meeting, this person is referred to as the “chairperson” or simply the “chair”.
 ---
+
 ### What is a chairperson?
 
 **** 

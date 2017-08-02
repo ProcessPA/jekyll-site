@@ -2,6 +2,7 @@
 title: Running the Meeting
 layout: markdown-page
 ---
+
 During the meeting, you can capture the minutes live by following these next steps. Alternatively the notes can be input at a later date if access to a computer and Internet within the meeting is unavailable or taking notes by hand is preferred. 
 
 TIP: Make the Minutes everyone’s responsibility by displaying <a href="{{ site.url }}" target="_blank">Process PA</a> on a screen for all meeting participants to see. It will help keep everyone together on the current Agenda item and collectively be responsible for the minutes and meeting outcomes. 

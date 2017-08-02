@@ -1,12 +1,17 @@
 ---
-title: 'When to Motion a report - 3 simple guidelines to follow!'
-date: 2016-12-01T10:44:34+00:00
+title: When to Motion a report - 3 simple guidelines to follow!
+date: 2016-12-01 10:44:34 Z
+permalink: "/ExecutiveMatters/when-to-motion-a-report/"
+categories:
+- Meeting
+- Governance
 author: Matthew
 layout: post
-permalink: /ExecutiveMatters/when-to-motion-a-report/
-excerpt: "Committee reports are handled differently depending on their content. Motions that relate to reports are often used indiscriminately like motions to adopt or to accept. However, that is often unnecessary."
-categories: Meeting Governance
+excerpt: Committee reports are handled differently depending on their content. Motions
+  that relate to reports are often used indiscriminately like motions to adopt or
+  to accept. However, that is often unnecessary.
 ---
+
 <img class="img-fluid" src="/content/posts/Report-Document-Paper-AB4F938C851.jpg" />
 
 Committee reports are handled differently depending on their content. Motions that relate to reports are often used indiscriminately like motions to adopt or to accept. However, that is often unnecessary.

@@ -1,11 +1,13 @@
 ---
 title: Are you ready to take a break?
-date: 2015-10-27T20:24:00+00:00
+date: 2015-10-27 20:24:00 Z
+permalink: "/ExecutiveMatters/are-you-ready-to-take-a-break/"
+categories:
+- P&C
 author: Matthew
 layout: post
-permalink: /ExecutiveMatters/are-you-ready-to-take-a-break/
-categories: P&C
 ---
+
 November is almost upon us and many P&Cs are having their last meeting for the year next month. Have you considered if anyone in your executive is finishing up this year? There are a number of reasons people won’t be continuing. Without getting into the why, let’s be prepared for what needs to be done. 
 
 Firstly, identify your vacant roles. Ensuring you fill the Executive, Officers of the Association, is the first priority, President, Vice-President, Secretary, Treasurer. In the QLD P&C Constitution there are a few conditions around who is eligible to take position in clause 12.1. Briefly, a President or Secretary cannot also hold the office of the Treasurer; the Principal may not hold a position as an Officer; the ratio of school staff must not be more than 1/3 of the executive; and no employees of the association. P&Cs must have 2 executive positions filled to be viable. Without 2 executive officers the Principal will place the P&C into care-taker mode until there are at least 2 officers elected. Consider also key roles for area’s like fundraising committee or swimming club. 

@@ -1,11 +1,14 @@
 ---
 title: What Millennials want from a Not-for-profit
-date: 2016-12-14T20:49:00+00:00
+date: 2016-12-14 20:49:00 Z
+permalink: "/ExecutiveMatters/what-millennials-want-from-a-not-for-profit/"
+categories:
+- Tips
+- Volunteering
 author: Matthew
 layout: post
-permalink: /ExecutiveMatters/what-millennials-want-from-a-not-for-profit/
-categories: Tips Volunteering
 ---
+
 Every wise not-for-profit leader knows that Millennials are a force to reckon with in the non-profit industry. They have emerged as donors, volunteers, employees and leaders. A research paper published in 2013 reported that 72% of Millennials are eager to join non-profit organizations while 50% are willing to donate to charities on a monthly basis. This data shows the impact that millennials can contribute to non-profit organizations if they are tapped properly. 
 
 <img class="img-fluid" src="/content/posts/feet-hipster-longboard-skateboard.jpg" />

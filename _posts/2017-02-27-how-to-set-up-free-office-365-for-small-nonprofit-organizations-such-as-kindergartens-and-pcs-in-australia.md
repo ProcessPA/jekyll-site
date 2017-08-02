@@ -1,11 +1,14 @@
 ---
-title: 'How to Set Up FREE Office 365 for small Nonprofit Organizations such as Kindergartens and P&amp;Cs in Australia'
-date: 2017-02-27T14:40:00+00:00
+title: How to Set Up FREE Office 365 for small Nonprofit Organizations such as Kindergartens
+  and P&amp;Cs in Australia
+date: 2017-02-27 14:40:00 Z
+permalink: "/ExecutiveMatters/how-to-set-up-free-office-365-for-small-nonprofit-organizations-such-as-kindergartens-and-pcs-in-australia/"
+categories:
+- Office 365
 author: Matthew
 layout: post
-permalink: /ExecutiveMatters/how-to-set-up-free-office-365-for-small-nonprofit-organizations-such-as-kindergartens-and-pcs-in-australia/
-categories: ["Office 365"]
 ---
+
 Microsoft <a href="https://products.office.com/en-au/nonprofit/office-365-nonprofit" target="_blank">Office 365</a> is a subscription service giving you access to the Office application and productivity tools and services from Microsoft at a much lower price than buying outright, while always being up to date and containing supporting cloud services. The great news for Nonprofit Organizations is that Microsoft have a technology donation program which allows you to subscribe to Office 365 for free or at a greatly reduced price.
 
 Unfortunately there is quite a few steps to getting this setup. I’ve split it into steps to make it easier for anyone to get started but it is recommended to have a quick review overall to know where you have days wait in between during process and what things you will need.

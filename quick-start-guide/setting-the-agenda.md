@@ -2,6 +2,7 @@
 title: Setting the Agenda
 layout: markdown-page
 ---
+
 After logging in, you will be able to see details of your next meeting and its agenda. If you want to adjust the agenda for a meeting you just have to do the following steps: 
 
 1. Click “ADD A GENERAL ITEM” located in the left portion of the page. 

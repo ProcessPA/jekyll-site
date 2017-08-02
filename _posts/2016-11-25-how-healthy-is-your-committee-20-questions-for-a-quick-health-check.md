@@ -1,11 +1,13 @@
 ---
 title: How Healthy is Your Committee? 20 Questions for A Quick Health Check
-date: 2016-11-25T09:19:03+00:00
+date: 2016-11-25 09:19:03 Z
+permalink: "/ExecutiveMatters/how-healthy-is-your-committee-20-questions-for-a-quick-health-check/"
+categories:
+- Governance
 author: Matthew
 layout: post
-permalink: /ExecutiveMatters/how-healthy-is-your-committee-20-questions-for-a-quick-health-check/
-categories: Governance
 ---
+
 How healthy do you think your committee is? Are the members of the committee well versed in terms of their role and responsibilities? 
 
 Here’s a quick checklist to assess and review your committee’s health status: 

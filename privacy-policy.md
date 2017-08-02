@@ -2,6 +2,7 @@
 title: Privacy Policy
 layout: markdown-page
 ---
+
 In this Privacy Policy, &#8216;us&#8217; &#8216;we&#8217; or &#8216;our&#8217; means Process PA Pty Ltd (ABN 45 608 099 832). We are committed to respecting your privacy. Our Privacy Policy sets outs out how we collect, use, store and disclose your personal information.
 
 By providing personal information to us, you consent to our collection, use and disclosure of your personal information in accordance with this Privacy Policy and any other arrangements that apply between us. We may change our Privacy Policy from time to time by publishing changes to it on our website. We encourage you to check our website periodically to ensure that you are aware of our current Privacy Policy.

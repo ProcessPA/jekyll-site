@@ -1,11 +1,14 @@
 ---
-title: Utilize Enterprise-grade Office 365 with best practice setup for your small Nonprofit organization
-date: 2017-03-02T15:49:33+00:00
+title: Utilize Enterprise-grade Office 365 with best practice setup for your small
+  Nonprofit organization
+date: 2017-03-02 15:49:33 Z
+permalink: "/ExecutiveMatters/utilize-enterprise-grade-office-365-with-best-practice-setup-for-your-small-nonprofit-organization/"
+categories:
+- Office 365
 author: Matthew
 layout: post
-permalink: /ExecutiveMatters/utilize-enterprise-grade-office-365-with-best-practice-setup-for-your-small-nonprofit-organization/
-categories: ["Office 365"]
 ---
+
 Now that you have Office 365 <a href="/ExecutiveMatters/how-to-set-up-free-office-365-for-small-nonprofit-organizations-such-as-kindergartens-and-pcs-in-australia/" target="_blank">at Free or greatly reduced cost</a>, it is time to setup it up in a way to get the most benefit out of it. All don’t need to be done at the same time. Change is hard. Take one at a time and as you and your staff and volunteers become comfortable try taking on the next step.
 
 Firstly, we need to setup users and mailboxes in a way that is managed, appropriately shared and manages continuity.

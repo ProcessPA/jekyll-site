@@ -1,12 +1,19 @@
 ---
 title: What is the Difference Between a Motion and a Resolution?
-date: 2016-11-30T09:07:36+00:00
+date: 2016-11-30 09:07:36 Z
+permalink: "/ExecutiveMatters/what-is-the-difference-between-a-motion-and-a-resolution/"
+categories:
+- Governance
+- Meetings
 author: Matthew
 layout: post
-permalink: /ExecutiveMatters/what-is-the-difference-between-a-motion-and-a-resolution/
-excerpt: "The words “motion” and “resolution” are often used and heard of in the meetings of the board of directors of an organization. These are annual meetings that serve as platforms in proposing actions and mounting decisions. Both terms are often used simultaneously and are sometimes used interchangeably which brings about unnecessary confusions and misunderstandings."
-categories: Governance Meetings
+excerpt: The words “motion” and “resolution” are often used and heard of in the meetings
+  of the board of directors of an organization. These are annual meetings that serve
+  as platforms in proposing actions and mounting decisions. Both terms are often used
+  simultaneously and are sometimes used interchangeably which brings about unnecessary
+  confusions and misunderstandings.
 ---
+
 <img title="Resolution" class="img-fluid" alt="Resolution" src="/content/posts/resolution_3157409347_87c586b4d3_o.jpg" />
 
 The words “motion” and “resolution” are often used and heard of in the meetings of the board of directors of an organization. These are annual meetings that serve as platforms in proposing actions and mounting decisions. Both terms are often used simultaneously and are sometimes used interchangeably which brings about unnecessary confusions and misunderstandings. The real deal is that these two words are completely different from each other and should not be used in place of the other. 

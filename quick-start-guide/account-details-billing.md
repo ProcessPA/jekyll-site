@@ -1,7 +1,8 @@
 ---
-title: 'Account Details &amp; Billing'
+title: Account Details &amp; Billing
 layout: markdown-page
 ---
+
 Under Settings, click the button Account Details to see your association name, time zone, language, billing information.
 
 # Change Plan

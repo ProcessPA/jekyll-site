@@ -1,11 +1,13 @@
 ---
 title: How to evaluate a not-for-profit organization before you join the board
-date: 2016-11-17T19:03:18+00:00
+date: 2016-11-17 19:03:18 Z
+permalink: "/ExecutiveMatters/how-to-evaluate-a-not-for-profit-organization-before-you-join-the-board/"
+categories:
+- Governance
 author: Matthew
 layout: post
-permalink: /ExecutiveMatters/how-to-evaluate-a-not-for-profit-organization-before-you-join-the-board/
-categories: Governance
 ---
+
 Regular organizational health check is considered as one of the most effective ways in improving a group’s performance and organizational management. It improves the following key areas: 
 
   * Leadership

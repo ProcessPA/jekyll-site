@@ -1,11 +1,13 @@
 ---
-title: '2016 Queensland P&amp;C Constitution changes'
-date: 2016-03-07T11:57:19+00:00
+title: 2016 Queensland P&amp;C Constitution changes
+date: 2016-03-07 11:57:19 Z
+permalink: "/ExecutiveMatters/2016-queensland-pc-constitution-changes/"
+categories:
+- P&C
 author: Matthew
 layout: post
-permalink: /ExecutiveMatters/2016-queensland-pc-constitution-changes/
-categories: P&C
 ---
+
 Our March AGMs this year we have yet another constitution to adopt. You can find it on the <a href="http://education.qld.gov.au/corporate/pandc/" target="_blank">Education Queensland web site</a> or directly download it <a href="http://education.qld.gov.au/corporate/pandc/docs/model-constitution.doc" target="_blank">here</a>.
 
 On the <a href="http://www.pandcsqld.com.au/pc-resources/essential-documents/pc-model-constitution/" target="_blank">P&Cs Qld Web Site</a> they state the main differences are:

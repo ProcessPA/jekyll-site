@@ -1,11 +1,14 @@
 ---
 title: 5 Tips on How to Attract Volunteers
-date: 2016-11-07T12:43:02+00:00
+date: 2016-11-07 12:43:02 Z
+permalink: "/ExecutiveMatters/5-tips-on-how-to-attract-volunteers/"
+categories:
+- Volunteering
+- Tips
 author: Matthew
 layout: post
-permalink: /ExecutiveMatters/5-tips-on-how-to-attract-volunteers/
-categories: Volunteering Tips
 ---
+
 Volunteers really do make the world of non-profit organizations go round. They are the driving force behind the success of many causes today. However, volunteers do not miraculously grow on trees. Some don’t even know they have what it takes until they are properly tapped. Inviting the correct volunteers doesn’t also happen overnight. It takes a tremendous amount of time, effort, persistence, careful planning and resources. 
 
 It is hard to recruit volunteers nowadays but it is not impossible to do so. Getting the right volunteers with skills and dedication is very doable. Here are tips on how you can do just that: 

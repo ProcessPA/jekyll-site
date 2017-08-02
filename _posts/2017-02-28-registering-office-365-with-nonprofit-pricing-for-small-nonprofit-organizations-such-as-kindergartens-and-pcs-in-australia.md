@@ -1,11 +1,14 @@
 ---
-title: 'Registering Office 365 with Nonprofit pricing for small Nonprofit Organizations such as Kindergartens and P&amp;Cs in Australia'
-date: 2017-02-28T14:41:00+00:00
+title: Registering Office 365 with Nonprofit pricing for small Nonprofit Organizations
+  such as Kindergartens and P&amp;Cs in Australia
+date: 2017-02-28 14:41:00 Z
+permalink: "/ExecutiveMatters/registering-office-365-with-nonprofit-pricing-for-small-nonprofit-organizations-such-as-kindergartens-and-pcs-in-australia/"
+categories:
+- Office 365
 author: Matthew
 layout: post
-permalink: /ExecutiveMatters/registering-office-365-with-nonprofit-pricing-for-small-nonprofit-organizations-such-as-kindergartens-and-pcs-in-australia/
-categories: ["Office 365"]
 ---
+
 There are a few steps and parts of the process have to wait on others to be complete. It is best to have a quick review over the steps before getting started to see if you need to get some other things sorted first (like a domain name).
 
   1. Go to Nonprofit plans and pricing page, [https://products.office.com/en-au/nonprofit/office-365-nonprofit-plans-and-pricing](https://products.office.com/en-au/nonprofit/office-365-nonprofit-plans-and-pricing "https://products.office.com/en-au/nonprofit/office-365-nonprofit-plans-and-pricing").

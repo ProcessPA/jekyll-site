@@ -2,6 +2,7 @@
 title: Document Management
 layout: markdown-page
 ---
+
 Secure document storage for all your committee or board related information is included.
 
   1. To view all uploaded documents in the system, click on the “DOCUMENTS” tab located at the top portion of the page.  

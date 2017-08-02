@@ -1,11 +1,13 @@
 ---
 title: Paper is not as reliable as you think!
-date: 2017-01-09T08:19:00+00:00
+date: 2017-01-09 08:19:00 Z
+permalink: "/ExecutiveMatters/paper-is-not-as-reliable-as-you-think/"
+categories:
+- Process
 author: Matthew
 layout: post
-permalink: /ExecutiveMatters/paper-is-not-as-reliable-as-you-think/
-categories: Process
 ---
+
 We cannot deny that the digital era is here to conquer and stay. There is a major proliferation of smart gadgets like phones, tablets and cameras that makes everything easier for you with just one click. This is especially true for those who have a ton of documents to file and wants to do it efficiently. 
 
  <img title="digital paper" class="img-fluid" alt="digital paper" src="/content/posts/digital-paper.jpg" width="1024" height="683" />

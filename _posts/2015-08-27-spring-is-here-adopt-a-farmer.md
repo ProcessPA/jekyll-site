@@ -1,11 +1,14 @@
 ---
 title: Spring is here - Adopt a Farmer
-date: 2015-08-27T21:10:26+00:00
+date: 2015-08-27 21:10:26 Z
+permalink: "/ExecutiveMatters/spring-is-here-adopt-a-farmer/"
+categories:
+- General
+- P&C
 author: Matthew
 layout: post
-permalink: /ExecutiveMatters/spring-is-here-adopt-a-farmer/
-categories: General P&C
 ---
+
 Earlier this year at the P&Cs Qld Metropolitan East training day we had an absolutely delightful and inspiring talk by Ann Boon from Seven Hills State School in Brisbane. Her story of bringing a garden into the school was featured on Gardening Australia in a segment you can watch here: <a href="http://www.abc.net.au/gardening/stories/s3592918.htm" target="_blank">The Barefoot Farmer</a>.
 
 Ann detailed the journey she had. Some of the points I noted were:

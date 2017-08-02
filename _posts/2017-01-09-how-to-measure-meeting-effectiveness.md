@@ -1,11 +1,13 @@
 ---
 title: How to Measure Meeting Effectiveness
-date: 2017-01-09T10:49:00+00:00
+date: 2017-01-09 10:49:00 Z
+permalink: "/ExecutiveMatters/how-to-measure-meeting-effectiveness/"
+categories:
+- Meetings
 author: Matthew
 layout: post
-permalink: /ExecutiveMatters/how-to-measure-meeting-effectiveness/
-categories: Meetings
 ---
+
 Meetings are essential to any organization especially to associations and not-for-profit management committee and boards. This is the breeding ground for innovation and decision making. They consume a significant amount of time as well which is why improving how it is done is equally important. Measuring the effectiveness of a meeting is a powerful way to make sound decisions and wise use of time. It is also a useful tool in improving the meeting experience for the benefit of the organization and for its members. 
 
 ## Metrics

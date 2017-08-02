@@ -17,7 +17,7 @@ navigation_weight: 40
                 <small class="badge badge-info">{{ category }}</small>
                 {% endfor %}
             </p>
-            <p>{{ post.excerpt }}</p>
+            <p>{{ post.excerpt | strip_html | truncatewords: 100 }}</p>
             <a href="{{ post.url }}">Read more</a>
         </div>
     {% endfor %}

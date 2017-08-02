@@ -1,13 +1,11 @@
 ---
 title: Committee Health Check
-date: 2016-11-11 06:18:38 Z
-permalink: "/ExecutiveMatters/committee-health-check/"
-categories:
-- Governance
+date: 2016-11-11T06:18:38+00:00
 author: Matthew
 layout: post
+permalink: /ExecutiveMatters/committee-health-check/
+categories: Governance
 ---
-
 Most of us regularly visit the doctor to check on the status of our health. As they say, prevention is better than cure. If an illness is present already, then putting a stop to it as early as possible through health check-ups is better than treating it late. 
 
 The same is true with organizations, specifically with non-profit groups. Reviewing the health of the organization regularly can help spot problems or issues before they even arise. 

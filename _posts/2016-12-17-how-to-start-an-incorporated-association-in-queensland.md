@@ -1,17 +1,12 @@
 ---
 title: How to Start an Incorporated Association in Queensland
-date: 2016-12-17 11:34:00 Z
-permalink: "/ExecutiveMatters/how-to-start-an-incorporated-association-in-queensland/"
-categories:
-- Governance
-- Process
+date: 2016-12-17T11:34:00+00:00
 author: Matthew
 layout: post
-excerpt: An incorporated association is basically a group of people that is regarded
-  as a person. It is because it has the same responsibilities and benefits like a
-  person does. It is a legal entity that does not change even if its members do.
+permalink: /ExecutiveMatters/how-to-start-an-incorporated-association-in-queensland/
+excerpt: An incorporated association is basically a group of people that is regarded as a person. It is because it has the same responsibilities and benefits like a person does. It is a legal entity that does not change even if its members do.
+categories: Governance Process
 ---
-
 ### What is an Incorporated Association?
 
 **** 

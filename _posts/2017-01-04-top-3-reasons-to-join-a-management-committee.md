@@ -1,17 +1,12 @@
 ---
 title: Top 3 Reasons to Join a Management Committee
-date: 2017-01-04 20:13:13 Z
-permalink: "/ExecutiveMatters/top-3-reasons-to-join-a-management-committee/"
-categories:
-- Tips
+date: 2017-01-04T20:13:13+00:00
 author: Matthew
 layout: post
-excerpt: Every incorporated association has a select group of people who are tasked
-  to manage the organization and ensure that everything is in its proper order. This
-  functions in much the same way as a Board does on a company. Often larger organizations
-  will opt to use the term Board but still has the same responsibilities.
+permalink: /ExecutiveMatters/top-3-reasons-to-join-a-management-committee/
+excerpt: "Every incorporated association has a select group of people who are tasked to manage the organization and ensure that everything is in its proper order. This functions in much the same way as a Board does on a company. Often larger organizations will opt to use the term Board but still has the same responsibilities."
+categories: Tips 
 ---
-
 <img class="img-fluid" src="/content/posts/feet-passion.png" />
 
 ## What is a Management Committee?

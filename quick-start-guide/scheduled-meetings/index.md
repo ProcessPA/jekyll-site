@@ -1,8 +1,7 @@
 ---
-title: Scheduled Meetings &amp; Action Items
+title: 'Scheduled Meetings &amp; Action Items'
 layout: markdown-page
 ---
-
 The meeting schedule and pending action items are available on the Schedule screen. Here you can schedule new meetings or create action item unrelated to a specific meeting.
 
   1. To view the schedule and details of upcoming meetings and outstanding action items click on the “SCHEDULE” tab on the top portion of the screen.

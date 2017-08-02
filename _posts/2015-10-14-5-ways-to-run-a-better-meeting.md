@@ -1,14 +1,11 @@
 ---
 title: 5 Ways to Run a Better Meeting
-date: 2015-10-14 15:35:30 Z
-permalink: "/ExecutiveMatters/5-ways-to-run-a-better-meeting/"
-categories:
-- General
-- Meetings
+date: 2015-10-14T15:35:30+00:00
 author: Matthew
 layout: post
+permalink: /ExecutiveMatters/5-ways-to-run-a-better-meeting/
+categories: General Meetings
 ---
-
 With Term 4 now in full swing we only have a few more meetings to finish out the year. Now is a good time to have a refresher to keep going strong and have effective meetings. So here they are, 5 ways to run a better meeting.
 
 ## 1. Have a Clear Agenda

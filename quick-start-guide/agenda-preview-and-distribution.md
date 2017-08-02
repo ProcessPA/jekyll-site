@@ -2,7 +2,6 @@
 title: Agenda Preview and Distribution
 layout: markdown-page
 ---
-
 Once your agenda is complete, you can preview or share it by following these next steps: 
 
   1. To preview your agenda, simply click on the “PREVIEW AGENDA” action button on the left portion of the page.  

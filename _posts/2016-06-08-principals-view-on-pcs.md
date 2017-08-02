@@ -1,15 +1,12 @@
 ---
-title: Principals View On P&amp;Cs
-date: 2016-06-08 00:08:31 Z
-permalink: "/ExecutiveMatters/principals-view-on-pcs/"
-categories:
-- P&C
+title: 'Principals View On P&amp;Cs'
+date: 2016-06-08T00:08:31+00:00
 author: Matthew
 layout: post
-excerpt: See the results. Do you see the situation improving? Do School Councils make
-  the roles more confusing?
+permalink: /ExecutiveMatters/principals-view-on-pcs/
+excerpt: "See the results. Do you see the situation improving? Do School Councils make the roles more confusing?"
+categories: P&C
 ---
-
 <img class="img-fluid" title="Qld Principals Survey P&C Day 2016" src="/content/posts/Qld-Principals-Survey-PC-Day-2016_thumb-1.png" alt="Qld Principals Survey Results P&C Day 2016" />
 
 &nbsp;

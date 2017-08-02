@@ -2,7 +2,6 @@
 title: Rescheduling Meetings
 layout: markdown-page
 ---
-
 Change of schedule is inevitable in meetings. If you want to edit the time of a meeting you just have to do the following steps: 
 
 1. The date of your next meeting will appear when you log in and if you want to change it, just click on the pen icon at the upper left portion the page beside the word “Scheduled”. 

@@ -2,7 +2,6 @@
 title: Manage Membership
 layout: markdown-page
 ---
-
 The Members is used for registering the Committee or Board members. These are the members used for Emails, Attendance and Access to <a href="http://processpa.com/" target="_blank">Process PA</a>. 
 
   1. To set the current members, click on the “MEMBERS” tab located at the top portion of the page.  

@@ -1,15 +1,12 @@
 ---
 title: Volunteering rates on decline, but what can you do?
-date: 2016-12-13 08:32:00 Z
-permalink: "/ExecutiveMatters/volunteering-rates-on-decline-but-what-can-you-do/"
-categories:
-- Volunteering
+date: 2016-12-13T08:32:00+00:00
 author: Matthew
 layout: post
-excerpt: It is a given fact that donors pump life into non-profit organizations. Their
-  money fuels the activities needed to carry out the mission and vision of the organization.
+permalink: /ExecutiveMatters/volunteering-rates-on-decline-but-what-can-you-do/
+excerpt: "It is a given fact that donors pump life into non-profit organizations. Their money fuels the activities needed to carry out the mission and vision of the organization."
+categories: Volunteering
 ---
-
 **The Value of Volunteering** 
 
 It is a given fact that donors pump life into non-profit organizations. Their money fuels the activities needed to carry out the mission and vision of the organization. It is also essential in spreading the awareness about the cause. Campaigning for anything has been easier now than it has ever been due to the emergence of the World Wide Web. One interesting post in social media platforms like Facebook can help causes spread like wildfire. Ironically though, as fast as campaign awareness are spread there is a haunting truth of the continuous decline of volunteers. The value of volunteers’ time and effort are equal, if not more than, the money that donors give. The contributions of volunteers are truly priceless, however, it is sad to note that they have been difficult to come by for the past years. 

@@ -1,18 +1,12 @@
 ---
 title: Summary Tables, Configurable Roles, Tutorials and more Process PA updates
-date: 2017-02-02 20:04:23 Z
-permalink: "/ExecutiveMatters/summary-tables-configurable-roles-tutorials-and-more-process-pa-updates/"
-categories:
-- Product Updates
+date: 2017-02-02T20:04:23+00:00
 author: Matthew
 layout: post
-excerpt: We’re focused on reducing effort with cloud automation, reducing paperwork
-  with digital efficiencies, reducing continuity risk with one place and one process
-  for your important records and reducing compliance risk by providing transparency,
-  accessibility and good governance. Here are a few of the features we’ve put in place
-  towards that mission.
+permalink: /ExecutiveMatters/summary-tables-configurable-roles-tutorials-and-more-process-pa-updates/
+excerpt: "We’re focused on reducing effort with cloud automation, reducing paperwork with digital efficiencies, reducing continuity risk with one place and one process for your important records and reducing compliance risk by providing transparency, accessibility and good governance. Here are a few of the features we’ve put in place towards that mission."
+categories: ["Product Updates"]
 ---
-
 ### Continuing Mission
 
 It’s February already and school is back into full swing. Over the school break we’ve been busy improving Process PA to continue to take the tedious work and continuity risk out of managing your committees and boards. We’re focused on reducing effort with cloud automation, reducing paperwork with digital efficiencies, reducing continuity risk with one place and one process for your important records and reducing compliance risk by providing transparency, accessibility and good governance.

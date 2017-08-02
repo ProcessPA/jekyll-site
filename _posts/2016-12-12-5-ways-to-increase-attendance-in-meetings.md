@@ -1,14 +1,11 @@
 ---
 title: 4 Ways to Increase Attendance in Meetings
-date: 2016-12-12 10:02:00 Z
-permalink: "/ExecutiveMatters/5-ways-to-increase-attendance-in-meetings/"
-categories:
-- Tips
-- Meetings
+date: 2016-12-12T10:02:00+00:00
 author: Matthew
 layout: post
+permalink: /ExecutiveMatters/5-ways-to-increase-attendance-in-meetings/
+categories: Tips Meetings
 ---
-
 The rate of attendance of members and volunteers in a meeting is crucial to not-for-profit organization. Attendance is essentially optional as it can’t be mandated. Meeting attendance increases the coherence and communication among all members. However, for some organizations, achieving this is a real challenge. 
 
 <img title="empty-meeting-room" class="img-fluid" alt="empty-meeting-room" src="/content/posts/empty-meeting-room.jpg" />

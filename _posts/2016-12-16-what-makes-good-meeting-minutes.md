@@ -1,14 +1,11 @@
 ---
 title: What makes good meeting minutes?
-date: 2016-12-16 09:13:00 Z
-permalink: "/ExecutiveMatters/what-makes-good-meeting-minutes/"
-categories:
-- Meeting
-- Governance
+date: 2016-12-16T09:13:00+00:00
 author: Matthew
 layout: post
+permalink: /ExecutiveMatters/what-makes-good-meeting-minutes/
+categories: Meeting Governance
 ---
-
 Taking good meeting minutes contributes greatly in making a meeting effective. It is an important source of information about what transpired during the meeting, especially for those who were not able to attend. Aside from the fact that for many associations, they are legally required to keep minutes of the management committee or board, there are three basic reasons why keeping meeting minutes is important: 
 
   * Memories are unreliable and therefore, written records that includes action items and decisions made are useful references.

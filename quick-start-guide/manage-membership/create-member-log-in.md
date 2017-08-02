@@ -2,7 +2,6 @@
 title: Create Member Log in
 layout: markdown-page
 ---
-
 Members of your organization can register an account and gain access to meeting schedules, files and other information. If you want to create a new log in account for a member, just do the following steps: 
 
 1. At the “Members” page, which you can access by clicking the “Members” tab located at the top portion of the screen”, you will see the list of meeting members and their designations. In this guide, we will create an account for “Jacob Smith” as highlighted in red box below. To start off, exit from your current account by clicking on the “Log off” button. 

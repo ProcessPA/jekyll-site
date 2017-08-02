@@ -1,14 +1,11 @@
 ---
-title: How To Market Your Committees&rsquo; Achievements
-date: 2016-12-15 11:06:00 Z
-permalink: "/ExecutiveMatters/how-to-market-your-committees-achievements/"
-categories:
-- Marketing
-- Tips
+title: 'How To Market Your Committees&rsquo; Achievements'
+date: 2016-12-15T11:06:00+00:00
 author: Matthew
 layout: post
+permalink: /ExecutiveMatters/how-to-market-your-committees-achievements/
+categories: Marketing Tips
 ---
-
 Promoting the accomplishments of your committee is important in building the image of the group to continue having support of your donors and volunteers. However, this is always an overlooked aspect because most of the time, the resources of the group is allotted to other areas like operations or fundraising. This is also because the term _marketing_ is often not viewed as a purpose of the committee, is confused with advertising, and assumed to take a lot of time, effort and money. Well marketing the achievements of your committee does take a lot of hard work but it can be done in easily and cost effectively as long as you understand the fundamentals of doing so. 
 
 <img class="img-fluid" src="/content/posts/marketing-998561_960_720.jpg" />

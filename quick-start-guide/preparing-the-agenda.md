@@ -2,7 +2,6 @@
 title: Preparing the Agenda
 layout: markdown-page
 ---
-
 Below shows how to add notes, motions for consideration and attachments to your agenda: 
 
   1. Just click on the item in the agenda that you want to expound on.  

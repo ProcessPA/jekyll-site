@@ -1,14 +1,11 @@
 ---
 title: How Do Good Meetings Increase Volunteer Participation?
-date: 2016-11-28 09:53:29 Z
-permalink: "/ExecutiveMatters/how-do-good-meetings-increase-volunteer-participation/"
-categories:
-- Meetings
-- Volunteers
+date: 2016-11-28T09:53:29+00:00
 author: Matthew
 layout: post
+permalink: /ExecutiveMatters/how-do-good-meetings-increase-volunteer-participation/
+categories: Meetings Volunteers
 ---
-
 Meetings are channels of communication. It is one of the oldest yet most effective way to engage people into civil, creative and intellectual discussions. If a meeting is done correctly, it can make members feel relevant thus increasing their participation. A successful organization is always backed up by an effective and efficient meetings. 
 
 ### What is a Good Meeting?

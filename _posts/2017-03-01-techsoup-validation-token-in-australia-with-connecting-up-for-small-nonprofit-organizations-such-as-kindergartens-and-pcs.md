@@ -1,14 +1,11 @@
 ---
-title: TechSoup Validation Token in Australia with Connecting Up for small Nonprofit
-  Organizations such as Kindergartens and P&amp;Cs
-date: 2017-03-01 14:41:00 Z
-permalink: "/ExecutiveMatters/techsoup-validation-token-in-australia-with-connecting-up-for-small-nonprofit-organizations-such-as-kindergartens-and-pcs/"
-categories:
-- Office 365
+title: "TechSoup Validation Token in Australia with Connecting Up for small Nonprofit Organizations such as Kindergartens and P&amp;Cs"
+date: 2017-03-01T14:41:00+00:00
 author: Matthew
 layout: post
+permalink: /ExecutiveMatters/techsoup-validation-token-in-australia-with-connecting-up-for-small-nonprofit-organizations-such-as-kindergartens-and-pcs/
+categories: ["Office 365"]
 ---
-
 The TechSoup Validation token is required to utilize Nonprofit pricing on service like Microsoft Office 365. <a href="https://www.connectingup.org/" target="_blank">Connecting Up</a> is the organization in Australia responsible for verifying eligibility and issuing token. Connecting Up provides other technology discounts and donations that are worth investigating for your organization.
 
 ## Sign up with Connecting Up

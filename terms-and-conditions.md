@@ -2,7 +2,6 @@
 title: Terms and Conditions
 layout: markdown-page
 ---
-
 Thank you for visiting our website. This website is owned by Process PA Pty Ltd (ABN 45 608 099 832). By accessing and/or using this website and related services, you agree to these Terms and Conditions, which include our Privacy Policy (available at http://processpa.com/privacy-policy/) (**_Terms_**). You should review our Privacy Policy and these Terms carefully and immediately cease using our website if you do not agree to these Terms.
 
 In these Terms, 'us', 'we' and 'our' means Process PA Pty Ltd and our related bodies corporate.

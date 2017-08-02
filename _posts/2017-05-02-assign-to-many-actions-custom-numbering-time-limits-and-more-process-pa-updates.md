@@ -1,13 +1,11 @@
 ---
 title: Assign to Many Actions, Custom Numbering, Time Limits and More Process PA Updates
-date: 2017-05-02 10:54:47 Z
-permalink: "/ExecutiveMatters/assign-to-many-actions-custom-numbering-time-limits-and-more-process-pa-updates/"
-categories:
-- Product Updates
+date: 2017-05-02T10:54:47+00:00
 author: Matthew
 layout: post
+permalink: /ExecutiveMatters/assign-to-many-actions-custom-numbering-time-limits-and-more-process-pa-updates/
+categories: ["Product Updates"]
 ---
-
 This update brings a handful of top requests which bring a better configurability and control for administrators.
 
 # Assign To Many Action Items

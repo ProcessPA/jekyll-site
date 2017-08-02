@@ -1,19 +1,12 @@
 ---
 title: Difference Between Managing Paid Workers and Non-Paid Workers (Volunteers)
-date: 2017-01-07 10:48:00 Z
-permalink: "/ExecutiveMatters/difference-between-managing-paid-workers-and-non-paid-workers-volunteers/"
-categories:
-- Management
-- Volunteering
+date: 2017-01-07T10:48:00+00:00
 author: Matthew
 layout: post
-excerpt: Not for profit organizations are comprised of a wide variety of people in
-  order to carry out its mission and vision. Naturally, some work to get paid while
-  others do it as volunteer work or for charitable purposes. It is important to understand
-  the difference between those two categories before planning your management program
-  or strategy.
+permalink: /ExecutiveMatters/difference-between-managing-paid-workers-and-non-paid-workers-volunteers/
+excerpt: "Not for profit organizations are comprised of a wide variety of people in order to carry out its mission and vision. Naturally, some work to get paid while others do it as volunteer work or for charitable purposes. It is important to understand the difference between those two categories before planning your management program or strategy."
+categories: Management Volunteering
 ---
-
 ## Volunteers vs. Paid Workers
 
 **** 

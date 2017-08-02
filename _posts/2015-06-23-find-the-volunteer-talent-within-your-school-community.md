@@ -1,13 +1,11 @@
 ---
 title: Find the volunteer talent within your school community
-date: 2015-06-23 11:12:46 Z
-permalink: "/ExecutiveMatters/find-the-volunteer-talent-within-your-school-community/"
-categories:
-- P&C
+date: 2015-06-23T11:12:46+00:00
 author: Matthew
 layout: post
+permalink: /ExecutiveMatters/find-the-volunteer-talent-within-your-school-community/
+categories: P&C
 ---
-
 From the discussion on the [survey results](/ExecutiveMatters/feedback-and-feelings/) many people where asking for Volunteer form template that helps gauge how the broad school community can help. A big thank you to Janet from Highland Reserve State School who raised the idea and has shared the form they have used.
 
 You can download it here: [2015 &#8211; Active Parent Helper Form &#8211; Highland Reserve SS P&C](/content/posts/2015-active-parent-helper-form-highland-reserve-ss-pc.pdf)

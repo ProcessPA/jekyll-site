@@ -1,13 +1,11 @@
 ---
 title: Quick Status, View Online, Email Members and more Process PA updates
-date: 2017-06-19 22:16:43 Z
-permalink: "/ExecutiveMatters/quick-status-view-online-email-members-and-more-process-pa-updates/"
-categories:
-- Product Updates
+date: 2017-06-19T22:16:43+00:00
 author: Matthew
 layout: post
+permalink: /ExecutiveMatters/quick-status-view-online-email-members-and-more-process-pa-updates/
+categories: ["Product Updates"]
 ---
-
 Over the last few weeks the updates below have been made as we continue to improve the platform to bring you a better governance experience. Being an online service you don&#8217;t have to do anything to update as they are available to all subscribers available now on your next login.
 
 ## Organization Quick Status Tiles

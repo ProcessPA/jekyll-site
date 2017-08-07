@@ -1,4 +1,5 @@
 name: Process PA
 description: Committee meetings made simple
+timezone: Australia/Brisbane
 sass:
     style: compressed

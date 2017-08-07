@@ -3,7 +3,7 @@ title: What I heard from an Association President...do you experience the same?
 date: 2017-08-07 10:16:00
 author: Mick
 layout: post
-permalink: /ExecutiveMatters/What-I-heard-from-an-Association President/
+permalink: /ExecutiveMatters/What-I-heard-from-an-Association-President/
 categories:
   - Governance
   - Management

@@ -1,0 +1,78 @@
+---
+layout: standard
+title: Body Corporate Governance Management
+form-number: 
+
+benefits:
+  - title: "Instant Minutes"
+    description: "Meeting guidance with agenda templates, generated minutes, follow up and automatic notifications. Less Paper. Reduce administration time."
+    icon: "/images/Automation.png"
+  - title: "Good Records"
+    description: "Take the guesswork out of managing compliance requirements with members, motions and actions registers always up-to-date plus secure document storage."
+    icon: "/images/Compliance.png"
+  - title: "Simple Handovers"
+    description: "Continuity for new office bearers. Everything kept in the one place. Access from any device. Always available."
+    icon: "/images/Continuity.png"
+---
+<div class="jumbotron jumbotron-fluid pb-0" style="background-color: #00A1F1; color: white;">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <h1 class="display-1 editable">Cooperative Board Corporate Management</h1>
+                <h1 class="display-4 editable">Open platform to make decisions together</h1>
+                <div class="text-center">
+                    <a class="btn btn-success btn-lg text-uppercase mx-5 my-5 editable" href="https://app.processpa.com/Account/Register">Start 30-day Trial</a>
+                    <div class="lead editable">Try now with no risk, no obligation, and no credit card required</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row justify-content-sm-center">
+        <div class="col-8">
+            <img class="img-fluid" src="/images/westpac_businesses-of-tomorrow-2017_stamphorizontal_rgb.png" />
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid">
+
+    <div class="row mt-4">
+
+        {% for benefit in page.benefits %}
+        <div class="col-sm-4 px-5 py-5">
+            <div class="media">
+                <img class="d-flex mr-3" width="64" src="{{ benefit.icon }}">
+                <div class="media-body">
+                    <h4 class="mt-0">{{ benefit.title }}</h4>
+                    <p>{{ benefit.description }}</p>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+
+    </div>
+    <!-- row -->
+
+</div>
+
+<div class="container-fluid">
+    <div class="row mx-0 px-0">
+        <div class="col-md-6">
+            {% include wista-video.html id="wjbyl43sob" %}
+        </div>
+        <div class="col-md-6">
+            <div class="px-3 py-3">
+                <h1 class="display-4 editable">Setup 5 minutes. Save hours.</h1>
+                <p class="editable">Process PA is cloud-based software that automates association procedures and paperwork, saving committee members
+                    from administration time. New office bearers are guided through their role and compliance requirements through
+                    simple yet effective handovers, ensuring committee processes are maintained.
+                    <br><br> Agenda Templates, automatic notifications, online Members, Motions and Action registers. Everything
+                    taken care of.</p>
+                <a class="btn btn-success" href="/quick-start-guide/">Learn More</a>
+            </div>
+        </div>
+    </div>
+</div>

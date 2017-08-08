@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<header role="banner">
+    <div class="container-fluid">
+        <nav class="navbar fixed-top navbar-toggleable-md navbar-light bg-faded text-uppercase">
+            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <a class="navbar-brand" href="/">
+                <img src="/images/logo-sml.png">
+            </a>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mx-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="{% link index.html %}">Home</a>
+                    </li>
+                </ul>
+                <a class="btn nav-link mr-sm-2" href="https://app.processpa.com/">Log in</a>
+                <a class="btn btn-outline-success nav-link my-2 my-sm-0" href="https://app.processpa.com/Account/Register">Register</a>
+            </div>
+        </nav>
+    </div>
+</header>
+<div class="container">
+    <h1 class="display-4">{{ page.title }}</h1>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-8 post-content">
+            {{ content }}
+        </div>
+        <div class="col-sm-4">
+            {% include {{ page.form }}.html %}
+        </div>
+    </div>
+</div>
+{% include footer.html %}
+{% if page.form-number != null %}
+    {% include popup-lead-capture.html form-number=page.form-number %}
+{% endif %}

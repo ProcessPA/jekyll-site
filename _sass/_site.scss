@@ -1,3 +1,8 @@
+/* Offset Top for fixed Navbar*/
+.standard-content {
+    top: 75px;
+}
+
 /* Responsive Sized Display titles */
 @include media-breakpoint-up(xs) {
     .display-1 {

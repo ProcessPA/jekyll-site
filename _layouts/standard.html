@@ -4,7 +4,7 @@ layout: default
 
 <header role="banner">
     <div class="container-fluid">
-        <nav class="navbar navbar-toggleable-md navbar-light text-uppercase">
+        <nav class="navbar fixed-top navbar-toggleable-md navbar-light bg-faded text-uppercase">
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -33,27 +33,7 @@ layout: default
 
 {{ content }}
 
-<div class="sub-footer">
-    <div class="container-fluid">
-
-        <div class="row  align-items-center small bg-inverse" style="min-height: 4rem;">
-            <div class="col nav">
-                <a class="nav-link text-info" href="{% link terms-and-conditions.md %}">Terms &amp; Conditions</a>
-                <a class="nav-link text-info" href="{% link privacy-policy.md %}">Privacy Policy</a>
-                <a class="nav-link text-info" href="{% link security.md %}">Security</a>
-                <a class="nav-link text-info" href="{% link partners.html %}">Partners</a>
-            </div>
-
-            <ul class="col nav justify-content-end">
-                <li><a class="nav-link text-info" target="_blank" href="http://facebook.com/ProcessPA"><i class="fa fa-facebook"></i></a></li>
-                <li><a class="nav-link text-info" target="_blank" href="http://twitter.com/ProcessPA"><i class="fa fa-twitter"></i></a></li>
-                <li><a class="nav-link text-info" target="_blank" href="https://www.linkedin.com/company/process-pa"><i class="fa fa-linkedin"></i></a></li>
-                <li><a class="nav-link text-info" target="_blank" href="https://www.instagram.com/process.pa/"><i class="fa fa-instagram"></i></a></li>
-            </ul>
-
-        </div><!-- .row -->
-    </div><!-- .container -->
-</div><!-- .sub-footer -->
+{% include footer.html %}
 {% if page.form-number != null %}
     {% include popup-lead-capture.html form-number=page.form-number %}
 {% endif %}

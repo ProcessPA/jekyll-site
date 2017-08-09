@@ -1,18 +1,24 @@
 ---
 layout: standard
 title: Board Papers for everyone
-form-number: 
-
+form-number:
 benefits:
-  - title: "Instant Minutes"
-    description: "Meeting guidance with agenda templates, generated minutes, follow up and automatic notifications. Less Paper. Reduce administration time."
-    icon: "/images/Automation.png"
-  - title: "Good Records"
-    description: "Take the guesswork out of managing compliance requirements with members, motions and actions registers always up-to-date plus secure document storage."
-    icon: "/images/Compliance.png"
-  - title: "Simple Handovers"
-    description: "Continuity for new office bearers. Everything kept in the one place. Access from any device. Always available."
-    icon: "/images/Continuity.png"
+  - title: Security
+    description: >-
+      Meeting guidance with agenda templates, generated minutes, follow up and
+      automatic notifications. Less Paper. Reduce administration time.
+    icon: /images/Automation.png
+  - title: Transparancy
+    description: >-
+      Take the guesswork out of managing compliance requirements with members,
+      motions and actions registers always up-to-date plus secure document
+      storage.
+    icon: /images/Compliance.png
+  - title: Confidence
+    description: >-
+      Continuity for new office bearers. Everything kept in the one place.
+      Access from any device. Always available.
+    icon: /images/Continuity.png
 ---
 <div class="jumbotron jumbotron-fluid pb-0" style="background-color: #00A1F1; color: white;">
     <div class="container">
@@ -44,7 +50,7 @@ benefits:
         {% for benefit in page.benefits %}
         <div class="col-sm-4 px-5 py-5">
             <div class="media">
-                <img class="d-flex mr-3" width="64" src="{{ benefit.icon }}">
+                <img class="d-flex mr-3" width="64" src="{{ benefit.icon }}" />
                 <div class="media-body">
                     <h4 class="mt-0">{{ benefit.title }}</h4>
                     <p>{{ benefit.description }}</p>
@@ -69,7 +75,7 @@ benefits:
                 <p class="editable">Process PA is cloud-based software that automates association procedures and paperwork, saving committee members
                     from administration time. New office bearers are guided through their role and compliance requirements through
                     simple yet effective handovers, ensuring committee processes are maintained.
-                    <br><br> Agenda Templates, automatic notifications, online Members, Motions and Action registers. Everything
+                    <br /><br /> Agenda Templates, automatic notifications, online Members, Motions and Action registers. Everything
                     taken care of.</p>
                 <a class="btn btn-success" href="/quick-start-guide/">Learn More</a>
             </div>

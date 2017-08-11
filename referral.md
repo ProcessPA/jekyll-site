@@ -2,7 +2,7 @@
 title: Referral Program
 layout: markdown-page
 ---
-We were about to spend more money on advertising Process PA when we stopped to ask; how can we **reward our customers** and grow our business at the same time?
+We want to be able to provide an even better product and service than we have now. Instead of spending money on advertising we thought how can we **reward our customers** and grow our business to build the service at the same time?
 
 Simple.......refer someone you know would benefit from Process PA and 3 great things happen.
 

@@ -1,53 +1,68 @@
 ---
-id: 3171
 title: Partner Network
-date: 2016-05-23T09:20:49+00:00
 author: Matthew
-layout: page
-guid: http://processpa.com/affiliate-area/
+layout: standard
+form-number: 
+inline-form-number: 238805
+
+benefits:
+  - title: "Many Pieces"
+    description: "Governance is a large topic and can only be completed by bringing many skills together. A thriving ecosystem benefits all involved."
+    icon: "/content/pages/teamwork.png"
+  - title: "Broad Expertise"
+    description: "We think there is best practice can help organizations however recognizing the diversity means applying the correct framework."
+    icon: "/content/pages/skills.png"
+  - title: "More Options"
+    description: "We provide another tool for your belt that can help you deliver better services and engagement for your clients."
+    icon: "/content/pages/tools.png"
 ---
-<div class="jumbotron" style="background-color: black; color: white;">
-  <p>
-    <img class="img-fluid" src="/content/pages/puzzle-match-fit-missing-hole-blank-play-task.jpg" />
-  </p>
-  
-  <h1>
-    Complete the Picture
-  </h1>
+
+<div class="jumbotron jumbotron-fluid py-5 px-5" style="background: url('/content/pages/puzzle.jpg') no-repeat center; background-size: cover; color: white;">
+    <div class="container" style="background-color: black; opacity: 0.8;">
+        <div class="row">
+            <div class="col">
+                <h1 class="display-1 editable">Join Our Partner Network</h1>
+                <h1 class="display-4 editable">Working together to complete the governance picture</h1>
+            </div>
+        </div>
+    </div>
 </div>
 
-Governance is a broad topic and important topic for any successful organization. There are many parts to making it work and we recognize that software we provide is only one piece of the puzzle. We want to bring together the large ecosystem to work together to put all the pieces in place to ensure organizations are well supported.
+{% include benefit-tiles.html benefits=page.benefits %}
 
-The services needed to support good governance for all organizations are extensive. Are you an accountant, auditor, governance and business adviser, IT consultant or lawyer? Do you provide services to associations, NFPs or SMEs? Are you a part of a governing, affiliate or advocacy body? For our part Process PA makes Governance Easy & Enjoyable for Management Committees and Boards through Board Portal software for Associations, Not for Profit (NFP) Organizations and Small/Medium Enterprises (SMEs). We deliver Cloud Software that automates organization procedures and paperwork, aiding in compliance and risk management while saving committee members from administration time. We see us as a small piece that can also help connect the other pieces in the ecosystem.
-
-### Be a part of shaping a vibrant ecosystem
-
-What does it look like to have governance services and products available from the one supplier? Usually, strong in some parts and weak in others, no one can cover the breadth required. With the vast array of different associations, NFP organizations, and SMEs, we believe in a best of breed approach, where organizations are empowered by the best of each part they need. Join the discussion as we build a network where the goal is the best outcomes for organizations and sustainable business for all those supporting parts.
-
-
-
-<div class="ck_form_container ck_inline" data-ck-version="6">
-  <div class="ck_form ck_vertical_subscription_form">
-    <div class="ck_form_content">
-      <h3 class="ck_form_title">
-        Start by taking a Survey
-      </h3>
-      
-      <div class="ck_description">
-        <span class="ck_image"><br /> <img src="https://s3.amazonaws.com/convertkit/subscription_forms/images/005/050/632/standard/Benefits_of_Technology_for_Non_Profits.jpg?1500252974" alt="Benefits_of_technology_for_non_profits" /><br /> </span>Do you have more feedback for us? Please email at matthew@processpa.com.
-      </div>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-6 bg-primary text-white">
+            <div class="px-3 py-3">
+                <h1 class="display-4 editable">The Big Picture</h1>
+                <p class="editable">
+                    Governance is a broad topic and important topic for any successful organization.
+                    There are many parts to making it work and we recognize that software we provide is only one piece of the puzzle.
+                    We want to bring together the large ecosystem to work together to put all the pieces in place to ensure organizations are well supported.
+                </p>
+                <p class="editable">
+                    The services needed to support good governance for all organizations are extensive.
+                    Are you an accountant, auditor, governance and business adviser, IT consultant or lawyer?
+                    Do you provide services to associations, NFPs or SMEs? Are you a part of a governing, affiliate or advocacy body?
+                </p>
+                <p class="editable">
+                    For our part Process PA makes Governance Easy & Enjoyable for Management Committees and Boards through Board Portal software for Associations, Not for Profit (NFP) Organizations and Small/Medium Enterprises (SMEs).
+                    We deliver Cloud Software that automates organization procedures and paperwork, aiding in compliance and risk management while saving committee members from administration time.
+                    We see us as a small piece that can also help connect the other pieces in the ecosystem.
+                </p>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <h1 class="display-4 editable">Be a part of shaping a vibrant ecosystem</h1>
+            <p class="editable">
+                What does it look like to have governance services and products available from the one supplier?
+                Usually, strong in some parts and weak in others, no one can cover the breadth required.
+                With the vast array of different associations, NFP organizations, and SMEs, we believe in a best of breed approach, where organizations are empowered by the best of each part they need.
+            </p>
+            <p class="editable">
+                Join the discussion as we build a network where the goal is the best outcomes for organizations and sustainable business for all those supporting parts.
+            </p>
+            {% include convertkit-lead-capture.html form-number=page.inline-form-number %}
+        </div>
     </div>
-    
-    <div class="ck_form_fields">
-      <div id="ck_success_msg" style="display: none;">
-        <p>
-          Success! Check your email for your survey link coming soon.
-        </p>
-      </div>
-      
-      <p>
-        <!-- Form starts here -->
-      </p>
-    </div>
-  </div>
 </div>

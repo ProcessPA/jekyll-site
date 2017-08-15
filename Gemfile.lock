@@ -204,6 +204,7 @@ PLATFORMS
 DEPENDENCIES
   bootstrap (~> 4.0.0.alpha6)
   github-pages
+  jekyll-redirect-from
 
 BUNDLED WITH
    1.15.3

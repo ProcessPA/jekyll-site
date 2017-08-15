@@ -1,5 +1,6 @@
 name: Process PA
 description: Committee meetings made simple
 timezone: Australia/Brisbane
+url: https://processpa.com
 sass:
     style: compressed

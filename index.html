@@ -37,7 +37,7 @@ organization-types:
   - title: "Not-for-Profit"
     description: "Attract the best board members by having up-to-date systems that promote good practice, make reporting easy for your CEO, administration easy for your PA and board engaged and informed."
     link: "/nfp.html"
-  - title: "Boards"
+  - title: "Business"
     description: "Many public and listed companies have had the benefit of a board portal for secure communication of board papers to directors for years. With transparent affordable pricing and modern easy-to-use software available anywhere see how your board can be always informed."
     link: "/boards.html"
   - title: "Body Corporate"
@@ -48,11 +48,11 @@ organization-types:
     <div class="container">
         <div class="row">
             <div class="col">
-                <h1 class="display-1 editable">Get Your Minutes Out On Time</h1>
-                <h1 class="display-4 editable">The Modern Easy-to-use Committee & Board Portal</h1>
+                <h1 class="display-1 text-center editable">Get Your Minutes Out On Time</h1>
+                <h1 class="display-4 text-center editable">The Modern Easy-to-use Committee & Board Portal</h1>
+                <div class="lead text-center editable">Try now for Associations, Clubs, Not-for-Profits and Businesses</div>
                 <div class="text-center">
                     <a class="btn btn-success btn-lg text-uppercase mx-5 my-5 editable" href="https://app.processpa.com/Account/Register">Start 30-day Trial</a>
-                    <div class="lead editable">Try now with no risk, no obligation, and no credit card required</div>
                 </div>
             </div>
         </div>
@@ -62,8 +62,26 @@ organization-types:
     </div>
 </div>
 
+<div class="container-fluid">
+    <div class="row">
+        {% for org in page.organization-types %}
+        <div class="col text-center card card-inverse card-{% cycle "primary", "success" , "info" , "warning" %}">
+            <div class="">
+                <div class="card-block">
+                    <blockquote class="card-blockquote">
+                        <h3>{{ org.title }}</h3>
+                        <p>{{ org.description }}</p>
+                        <footer><a class="btn btn-secondary editable" href="{{ org.link }}">Find out more</a></footer>
+                    </blockquote>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
 <div class="container">
-    <div class="row justify-content-sm-center">
+    <div class="row mt-4 justify-content-sm-center">
         <div class="col-8">
             <img class="img-fluid" src="/images/westpac_businesses-of-tomorrow-2017_stamphorizontal_rgb.png" />
         </div>
@@ -134,31 +152,15 @@ organization-types:
         <div class="col-md-6">
             <div class="px-3 py-3">
                 <h1 class="display-4 editable">Setup 5 minutes. Save hours.</h1>
-                <p class="editable">Process PA is cloud-based software that automates association procedures and paperwork, saving committee members
+                <p class="editable">
+                    Process PA is cloud-based software that automates association procedures and paperwork, saving committee members
                     from administration time. New office bearers are guided through their role and compliance requirements through
                     simple yet effective handovers, ensuring committee processes are maintained.
                     <br><br> Agenda Templates, automatic notifications, online Members, Motions and Action registers. Everything
-                    taken care of.</p>
+                    taken care of.
+                </p>
                 <a class="btn btn-success" href="/quick-start-guide/">Learn More</a>
             </div>
         </div>
-    </div>
-</div>
-
-<div class="container-fluid">
-    <div class="row">
-        {% for org in page.organization-types %}
-        <div class="col text-center card card-inverse card-{% cycle "primary", "success", "info", "warning" %}">
-            <div class="">
-                <div class="card-block">
-                    <blockquote class="card-blockquote">
-                        <h3>{{ org.title }}</h3>
-                        <p>{{ org.description }}</p>
-                        <footer><a class="btn btn-secondary editable" href="{{ org.link }}">Find out more</a></footer>
-                    </blockquote>
-                </div>
-            </div>
-        </div>
-        {% endfor %}
     </div>
 </div>

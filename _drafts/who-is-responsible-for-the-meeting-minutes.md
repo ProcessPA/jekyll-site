@@ -1,6 +1,6 @@
 ---
 title: Who is responsible for the meeting minutes?
-date: 2018-04-19 14:00:00 +1000
+date: 2018-04-19 14:15:00 +1000
 author: Josie
 layout: post
 permalink: >-
@@ -19,8 +19,8 @@ While boards generally appoint a secretary who records minutes during the meetin
 
 The main benefit of the board being collectively responsible for the minutes is that there is immediate consensus, instead of the back and forth over messages and email. This also makes secretary role less intimidating to newcomers, and will likely encourage more members to put their hands up for the role.
 
-**How can Process PA help?&nbsp;**
+**How can Process PA help? **
 
 Process PA is cloud-based software that automates association procedures and paperwork, saving committee members from administration time. New office bearers are guided through their role and compliance requirements through simple yet effective handovers, ensuring committee processes are maintained.
 
-Agenda Templates, automatic notifications, online Members, Motions and Action registers. Everything taken care of. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;
+Agenda Templates, automatic notifications, online Members, Motions and Action registers. Everything taken care of.

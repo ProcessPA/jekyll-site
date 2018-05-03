@@ -1,20 +1,20 @@
 ---
 title: Team building exercises for dynamic teams
-date: 2018-04-26 14:40:00 +1000
+date: 2018-05-03 14:00:00 +1000
 author: Josie
 layout: post
 permalink: /ExecutiveMatters/team-building-exercises-for-dynamic-teams/
 categories:
-  - Process
   - Management
   - General
+  - Tips
 ---
 
 We think the concept of having a ‘dynamic team’ is both interesting and important when running an organisation in the digital age. Last week we published a blog exploring the difference between dynamic and traditional teams. As such, we thought it important to further explore the elements that make up a dynamic team. The first element is that of team building.
 
 Every organisation requires a team with a variety of skill sets which support their business model. But what team building exercises will actually transform individuals into a dynamic team that produce client centric results?
 
-******![](blob:https://app.cloudcannon.com/aeede76b-1d19-41bc-bfe7-7b4f5f3a0cb0)******
+![](/uploads/advice-advise-advisor-7097-1.jpg)
 
 We have outlined some tips to consider when organising your next team building activity for your dynamic team:
 
@@ -32,4 +32,4 @@ Making eye contact with one another isn’t always easy. It is particularly diff
 
 **4. Make it fun!**
 
-Don’t forget to make everything as light and fun as possible. You would want to make your team building sessions a great and positive experience for the group, right? Know what team members like to do for fun, collate all the information, and implement it during the activity. Go as far as renting a karaoke machine or a Zumba instructor, just to break the ice and help everyone de-stress.
+Don’t forget to make everything as light and fun as possible. You want to make your team building sessions a great and positive experience for the group, right? Know what team members like to do for fun, collate all the information, and implement it during the activity. Go as far as renting a karaoke machine or a Zumba instructor, just to break the ice and help everyone de-stress.

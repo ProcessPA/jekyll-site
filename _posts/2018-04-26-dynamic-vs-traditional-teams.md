@@ -10,11 +10,11 @@ categories:
   - General
 ---
 
-![](/uploads/advice-advise-advisor-7096.jpg)
-
 **Your team structure matters.**
 
 Businesses are moving faster than ever with the rise of the digital industry and emerging technologies. Traditional ways of undertaking work and organising a team aren’t necessarily cutting it anymore. People are impatient. Clients and customers are more demanding.&nbsp; Liquid workforces are increasing, and dynamic team structures are imperative to their success.
+
+*![](/uploads/advice-advise-advisor-7096.jpg)*
 
 *How has organisation structure changed over time?*
 

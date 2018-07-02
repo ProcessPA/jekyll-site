@@ -55,3 +55,8 @@
 {
     @include img-fluid;
 }
+
+.md-page * img
+{
+    @include img-fluid;
+}

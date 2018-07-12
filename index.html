@@ -115,24 +115,6 @@ organization-types:
     </div>
 </div>
 
-<div class="container-fluid">
-    <div class="row">
-        {% for org in page.organization-types %}
-        <div class="col text-center card card-inverse card-{% cycle "primary", "success" , "info" , "warning" %}">
-            <div>
-                <div class="card-block">
-                    <blockquote class="card-blockquote">
-                        <h3>{{ org.title }}</h3>
-                        <p>{{ org.description }}</p>
-                        <footer><a class="btn btn-secondary editable" href="{{ org.link }}">Find out more</a></footer>
-                    </blockquote>
-                </div>
-            </div>
-        </div>
-        {% endfor %}
-    </div>
-</div>
-
 <div class="container">
     <div class="row mt-4 justify-content-sm-center">
         <div class="col-8">
@@ -195,6 +177,24 @@ organization-types:
         </div>
     </div>
 
+</div>
+
+<div class="container-fluid">
+    <div class="row">
+        {% for org in page.organization-types %}
+        <div class="col text-center card card-inverse card-{% cycle "primary", "success" , "info" , "warning" %}">
+            <div>
+                <div class="card-block">
+                    <blockquote class="card-blockquote">
+                        <h3>{{ org.title }}</h3>
+                        <p>{{ org.description }}</p>
+                        <footer><a class="btn btn-secondary editable" href="{{ org.link }}">Find out more</a></footer>
+                    </blockquote>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
 </div>
 
 <div class="container-fluid">

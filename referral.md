@@ -2,27 +2,25 @@
 title: Referral Program
 layout: markdown-page
 ---
-We want to be able to provide an even better product and service than we have now. Instead of spending money on advertising we thought how can we **reward our customers** and grow our business to build the service at the same time?
 
-Simple.......refer someone you know would benefit from Process PA and 3 great things happen.
+Feedback we get from our customers is great, and we have many customers sharing with others the success they have had using Process PA.
 
-1. ​You personally **receive $50 cash**
-2. Your organisation **receives 1 month free** access to Process PA
-3. Your referred organization **receives 1 month free** access to Process PA
+To reward our customers and their friends we will provide:
+
+1. Your organisation receives **10% off annual renewal** access to Process PA
+2. Your referred organisation receives **10% off annual subscription** to Process PA
+
+Referral's will stack. **Refer 10 organisations** over the year, and your **renewal will be free**.
 
 # How it works​
-* ​Add your details and whom you wish to refer.
-* We will send them a welcome email and take it from there.
 
-<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Acwy0OOfh0W-WqWimKIn6YuW2Rq80r9DsoNkcBhUItNUMUhMQTE2U0VGVUJSS0RVTktHVTcxQUdGNy4u" target="_blank" class="btn btn-lg btn-primary">Enter Referral</a>
+Use the discount code found in your account (Coming soon) and give it to any organisation you think would benefit from Process PA.
 
-Once they sign up to a paid account, we will immediately **pay you $50** via Paypal and extend your next scheduled payment by 1 month.
+When that organization applies the code, the discount will be applied for their subscription. After their purchase 10% discount will be applied on your subscription for your next renewal. If you pay monthly, you'll get the next month free.
 
 # FAQ
 
-* **Do I get $50 for each person I refer?** Yes, you will receive as many $50 as you refer and that sign up to a paid subscription of Process PA.
-* **Can more than one person on our committee refer someone?** Absolutely, as many people and referrals as you like, each successful sign up will credit your organisation plus see $50 cash paid to anyone who has referred someone to Process PA who signs up.
-* **What if we refer more than 1 person who sign up?** You get more months free. Refer 12 and you get a full year free, more if you can refer more than 12, there is no limit!
-* **Does the person I refer need to sign up for a year or just pay by the month?** As long as they sign up for 1 month, you receive $50 for each referral who signs up.
-* **What if I do not want to receive $50 cash?** ​We understand some people may not wish to receive money for simply referring so either we will donate this to your charity of choice, (including your organisation if charitable) or we will simply credit your subscription account for a further $50. 
-* **Any other questions?** Please [contact me](mailto:mick@processpa.com?subject=Referral Program) if you have any other questions.
+* **Can more than one person on our committee refer someone?** Absolutely, as many people and referrals as you like, each successful sign up will credit your organisation.
+* **What if we refer more than 1 organisations who sign up?** You get more more discount! Refer 10 and you get a full year free. If you do more than 10, we'll discount the next years.
+* **Does the person I refer need to sign up for a year or just pay by the month?** As long as they sign up for 1 month, you receive the 10% discount. They however only have the 10% off the annual plan.
+* **Any other questions?** Please [contact support](mailto:support@processpa.com?subject=Referral Program) if you have any other questions.

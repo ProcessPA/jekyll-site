@@ -1,8 +1,27 @@
 ---
 title: Associations
 layout: page
+features:
+  - title: "Decision Making"
+    description: "Good governance helps the board make sound decisions by following guidelines that puts the associations."
+    icon: "/images/list-white.png"
+  - title: "Communication"
+    description: "Improves communication with the association by prioritizing transparency."
+    icon: "/images/documents-symbol.png"
+  - title: "Accountability"
+    description: "Our software helps to promote accountability by clearly identifying the roles of board members, so they understand their responsibilities."
+    icon: "/images/cloud-data.png"
+  - title: "Checks & Balances"
+    description: "Helps to monitor the activities of the association by helping to organise regular meetings and evaluations to ensure that everything is in line with associations’ goals and targets."
+    icon: "/images/attendance-white.png"
+  - title: "Reduces Risk"
+    description: "Our software helps to delegate accountability to those involved in the association to help minimise ricks in the decision-making process."
+    icon: "/images/restaurant-membership-card-tool.png"
+     - title: "Automatic Notifications"
+    description: "Notice periods for meetings, agenda distribution with attachments, action item follow up all done for you."
+    icon: "/images/notification-bell.png"
+  
 ---
-
 <div class="container text-center">
     {% include wista-video.html id="73n4tdgd7k" %}
 </div>
@@ -15,9 +34,7 @@ layout: page
 <div class="container-fluid">
     <div class="row mx-0 px-0">
             <div class="px-3 py-3">
-                <h1 class="display-4 editable">
-                    The problem for Associations
-                </h1>
+                <h1 class="display-4 editable">The problem for Association</h1>
                 <p class="editable">
                     We understand that there are many types of associations out there, from school P&C to sporting clubs
 We’ve created a portal that helps associations effectively manage their board governance.
@@ -25,7 +42,7 @@ We’ve created a portal that helps associations effectively manage their board 
             </div>
         </div>
     </div>
-
+</div>
 
 <div class="container-fluid">
     <div class="row mx-0 px-0">
@@ -37,13 +54,37 @@ We’ve created a portal that helps associations effectively manage their board 
             <div class="px-3 py-3">
                 <h1 class="display-4 editable">The solution in the cloud</h1>
                 <p class="editable">
-                    Using Process PA, Associations can implement good governance strategies to strengthen their board.<br /><br />Process PA is an easy to use online portal that associations use to maintain good governance.<br /><br />Using our secure system, the association can manage:<br /><br />- &nbsp;The roles and responsibilities of each board member<br />-&nbsp; How effectively the board operates<br />-&nbsp; How effectively the board interacts with management<br />-&nbsp; The board&rsquo;s accountability to its constituents<br />-&nbsp; Directors&rsquo; accountability to one another
+                    sing Process PA, Associations can implement good governance strategies to strengthen their board.
+Process PA is an easy to use online portal that associations use to maintain good governance. Using our secure system, the association can manage: 
+</br>
+The roles and responsibilities of each board member</br>
+How effectively the board operates</br>
+How effectively the board interacts with management</br>
+The board’s accountability to its constituents</br>
+Directors’ accountability to one another</br>
                 </p>
             </div>
         </div>
     </div>
 </div>
 
+<div class="container-fluid" style="background-color: #00a1f1; color: white;">
+    <div class="container">
+        <div class="lead pt-4">
+            <h1 style="color: white;">
+                Features
+            </h1>
+           
+        </div>
+        <div class="row">
+            {% for feature in page.features %}
+            <div class="col-sm-6">
+                {% include media-object.html title=feature.title description=feature.description icon=feature.icon %}
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
 
 <div class="container-fluid">
     <div class="row">

@@ -33,6 +33,7 @@ Through digital tools, monitoring of how information is shared to correct people
     icon: "/images/attendance-white.png"
 
 ---
+
 <div class="jumbotron jumbotron-fluid pb-0" style="background: url('/content/pages/labyrinth-1738039_1280.jpg') no-repeat center; background-size: cover; color: white;">
     <div class="container">
         <div class="row">
@@ -62,9 +63,7 @@ Through digital tools, monitoring of how information is shared to correct people
             <div class="px-3 py-3">
                 <h1 class="display-4 editable">The Problem for Not-for-profits</h1>
                 <p class="editable">
-                    Different not-for-profit organisations serve different community needs, therefore their management boards and type of responsibilities they undertake can vary enormously.
-We understand this and has created a portal that helps not-for-profit effectively manage their board governance.  
-Process PA is an easy to use online portal that not-for-profit use to maintain good governance. 
+                    Different not-for-profit organisations serve different community needs, therefore their management boards and type of responsibilities they undertake can vary enormously.<br /><br />We understand this and has created a portal that helps not-for-profit effectively manage their board governance.<br /><br />Process PA is an easy to use online portal that not-for-profit use to maintain good governance.
                 </p>
             </div>
         </div>
@@ -100,7 +99,7 @@ Process PA is an easy to use online portal that not-for-profit use to maintain g
         {% for benefit in page.benefits %}
         <div class="col-sm-4 px-5 py-5">
             <div class="media">
-                <img class="d-flex mr-3" width="64" src="{{ benefit.icon }}">
+                <img class="d-flex mr-3" width="64" src="{{ benefit.icon }}" />
                 <div class="media-body">
                     <h4 class="mt-0">{{ benefit.title }}</h4>
                     <p>{{ benefit.description }}</p>
@@ -125,7 +124,7 @@ Process PA is an easy to use online portal that not-for-profit use to maintain g
                 <p class="editable">Process PA is cloud-based software that automates association procedures and paperwork, saving committee members
                     from administration time. New office bearers are guided through their role and compliance requirements through
                     simple yet effective handovers, ensuring committee processes are maintained.
-                    <br><br> Agenda Templates, automatic notifications, online Members, Motions and Action registers. Everything
+                    <br /><br /> Agenda Templates, automatic notifications, online Members, Motions and Action registers. Everything
                     taken care of.</p>
                 <a class="btn btn-success" href="{% link help.html %}">Learn More</a>
             </div>

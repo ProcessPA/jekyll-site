@@ -11,9 +11,6 @@ categories:
   - Meetings
 ---
 
-Move your board online: Creating good online governance processes
-{: .present-before-paste}
-
 “Why should I move my board documents online?”
 {: .present-before-paste}
 
@@ -64,8 +61,7 @@ This means that new office bearers can easily identify their roles and those of 
 With so many benefits to moving your board documents and governance processes online. You can either move all your documents online to a document management system like google drive, or to a full managed board portal like process PA.
 {: .present-before-paste}
 
----
-{: .present-before-paste}
+---{: .present-before-paste}
 
 At Process PA, we help your implement and record your motions and resolutions through our easy-to use online board portal.
 {: .present-before-paste}

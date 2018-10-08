@@ -14,7 +14,7 @@ Product updates are deployed frequently and available for all users next time yo
 
 As people have become more comfortable at the ease of organizing attachments to agenda in Process PA the resulting email attachment size has sometimes grown quite large. This has resulted in email bounce backs where inboxes reject large attachments. Now you have the ability in settings to control what attachments are sent. Be it the pdf Agenda or Minutes or Attachments.
 
-![](/content/posts/Email-attachments-settings.png)
+![Email attachment settings](/content/posts/Email-attachments-settings.png "Email attachment settings")
 
 ## Download all attachments
 
@@ -28,11 +28,11 @@ You'll also notice above in the email attachments settings that we have an early
 
 Although we keep everything online and provide a signal point-of-truth the ability to pull down data for other tasks is a workflow we want to support more. We have now added the ability to export your Member register and Motions register. These are exported as a Comma Separated Values (cvs) file which is easily viewable in Excel.
 
-![](/content/posts/export-members.png)
+![Export members screen](/content/posts/export-members.png "Export members")
 
-![](/content/posts/exported-members-csv.png)
+![Exported members in Excel](/content/posts/exported-members-csv.png "Exported members in Excel")
 
-![](/content/posts/export-motions.png)
+![Export Motions screen](/content/posts/export-motions.png "Export Motions")
 
 In the future we want to include further exports (Actions, Minutes) to make it easier to pass information to your auditor.
 
@@ -50,7 +50,7 @@ The Email Sender in settings has been updated to Reply-To email. This means that
 
 We want to make taking notes for your minutes the best experience possible. The editor has been updated to make things a bit smoother and give you more control.
 
-![](/content/posts/editor-updates.png)
+![Updated Editor screen](/content/posts/editor-updates.png "Updated Editor")
 
 Firstly in red above, table editor controls. When you click into a cell of a table now, you are able to add, remove and delete rows and columns or the whole table.
 

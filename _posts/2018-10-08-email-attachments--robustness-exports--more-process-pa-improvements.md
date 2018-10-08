@@ -3,7 +3,7 @@ title: 'Email Attachments & Robustness, Exports & More Process PA Improvements'
 date: 2018-10-08 00:00:00 +1000
 author: Process PA Team
 layout: post
-permalink: /ExecutiveMatters/creating-good-online-governance
+permalink: /ExecutiveMatters/email-attachments--robustness-exports--more-process-pa-improvements
 categories:
   - Product Updates
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'Email Attachments, Exports, & Email Robustness'
+title: 'Email Attachments, Exports, Email Robustness & more Process PA improvements'
 date: 2018-05-09 10:30:00 +1000
 author: Process PA Team
 layout: post
@@ -62,10 +62,4 @@ Fourthly in blue, html editor. Being a web application all the text that is writ
 
 # What's next
 
-We've got lots of plans and lots of feedback and are busy are work delivering them for you.&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+We've got lots of plans and lots of feedback and are busy are work delivering them for you.

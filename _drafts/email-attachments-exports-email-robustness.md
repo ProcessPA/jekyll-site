@@ -1,5 +1,5 @@
 ---
-title: 'Email Attachments, Exports, Email Robustness & more Process PA improvements'
+title: 'Email Attachments & Robustness, Exports & More Process PA Improvements'
 date: 2018-05-09 10:30:00 +1000
 author: Process PA Team
 layout: post

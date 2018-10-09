@@ -53,4 +53,4 @@ The examples used are based on [Calxa Premier](https://www.calxa.com/#a_aid=Proc
 
 ---
 
-Article originally posted here:&nbsp;
+Article originally posted [here](https://www.calxa.com/5-must-have-reports-to-good-governance/).

@@ -1,7 +1,7 @@
 ---
 title: 5 Must-Have Reports to Good Governance
 date: 2018-10-08 00:00:00 +1000
-author: Process PA Team
+author: Calxa
 layout: post
 permalink: >-
   /ExecutiveMatters/email-attachments--robustness-exports--more-process-pa-improvements
@@ -49,4 +49,8 @@ Managers are frequently held to account by comparing their actual results to eit
 
 Board members generally don’t want to be swamped by numerous reports and so I’ve tried here to use reports that serve more than one purpose. The Cashflow Forecast, for example, is useful for both strategy and compliance; the Budget Summary for accountability, compliance and performance.
 
-The examples used are based on [Calxa Premier](https://www.calxa.com/#a_aid=ProcessPA) because that’s the most commonly used reporting and budgeting tool in the NFP sector in Australia. However, all of them can be reproduced in a spreadsheet by someone with the right skills and time on hand. If you want to have a look at Calxa Premier, it is available as [a donation through ](__notset__)[Connecting Up](https://www.calxa.com/donations/#a_aid=ProcessPA)[.](__notset__)
+The examples used are based on [Calxa Premier](https://www.calxa.com/#a_aid=ProcessPA) because that’s the most commonly used reporting and budgeting tool in the NFP sector in Australia. However, all of them can be reproduced in a spreadsheet by someone with the right skills and time on hand. If you want to have a look at Calxa Premier, it is available as [a donation through ](__notset__)[Connecting Up](https://www.calxa.com/donations/#a_aid=ProcessPA).
+
+---
+
+Article originally posted here:&nbsp;

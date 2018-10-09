@@ -1,5 +1,5 @@
 ---
-title: Reports for Good Governance
+title: 5 Must-Have Reports to Good Governance
 date: 2018-10-08 00:00:00 +1000
 author: Process PA Team
 layout: post

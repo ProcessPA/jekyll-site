@@ -1,10 +1,9 @@
 ---
 title: 5 Must-Have Reports to Good Governance
-date: 2018-10-08 00:00:00 +1000
+date: 2018-10-10 16:00:00 +1000
 author: Calxa
 layout: post
-permalink: >-
-  /ExecutiveMatters/email-attachments--robustness-exports--more-process-pa-improvements
+permalink: /ExecutiveMatters/5-must-have-reports-to-good-governance
 categories:
   - Governance
   - General

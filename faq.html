@@ -1,0 +1,24 @@
+---
+title: FAQ
+layout: page
+faq:
+  - question: What is Process PA?
+    answer: Process PA is your personal assistant guiding you through your governance requirements for your management committee or board.
+  - question: How do I get started?
+    answer: You can begin a free 30-day trial by registering at [https://app.processpa.com/Account/Register](https://app.processpa.com/Account/Register). For more details on getting setup go to [/help.html](Help).
+---
+
+<div class="container">
+    <section class="faq">
+        <ul>
+            {% for item in page.faq %}
+                <li><a href="#{{ item.question | slugify }}">{{ item.question }}</a></li>
+            {% endfor %}
+        </ul>
+
+        {% for item in page.faq %}
+            <h2 id="{{ item.question | slugify}}">{{ item.question }}<a class="header-link" href="#{{ item.question | slugify }}">#</a></h2>
+            {{ item.answer | markdownify }}
+        {% endfor %}
+    </section>
+</div>

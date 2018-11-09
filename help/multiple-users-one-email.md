@@ -3,7 +3,7 @@ title: Two members, One email
 layout: markdown-page
 ---
 
-Occassionally we come across the need to have two members added and both share an email address. This common occurs when a husbanda & wife just share one email account.
+Occassionally we come across the need to have two members added and both share an email address. This common occurs when a husband & wife just share one email account.
 
 Since Process PA uses the email address as the unique identifier this causes a small issues.
 

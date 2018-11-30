@@ -62,4 +62,4 @@ Fourthly in blue, html editor. Being a web application all the text that is writ
 
 # What's next
 
-We've got lots of plans and lots of feedback and are busy are work delivering them for you.
+We've got lots of plans and lots of feedback and are busy working to deliver them for you.

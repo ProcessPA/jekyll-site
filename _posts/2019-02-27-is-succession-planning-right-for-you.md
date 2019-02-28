@@ -17,7 +17,7 @@ So here’s a tough question: you’re now sitting on the board, but how long do
 A 2006 survey from the Canadian Federation of Independent Business found that within five years of starting up, more than one-third of independent business owners plan to move on, and the other two-thirds want to be gone within ten years.
 {: .present-before-paste}
 
-The problem is, many of these owners sit on the board, and will need someone to replace them. Of course there many, many other types of businesses, companies, startups, and organisations that have boards. How you plan for succession is crucial in all of them to keep them running smoothly.
+The problem is, many of these owners sit on the board, and will need someone to replace them. Of course there are many, many other types of businesses, companies, startups, and organisations that have boards. How you plan for succession is crucial in all of them to keep them running smoothly.
 {: .present-before-paste}
 
 Now obviously you don’t want to leave years of sweat and tears on your organisation’s board to end up in the hands of some shlub. All your assets, and any processes for growth and maintenance, need to be properly handed over so everything stays afloat.

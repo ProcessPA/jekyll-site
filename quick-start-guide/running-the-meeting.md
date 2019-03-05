@@ -6,7 +6,7 @@ During the meeting, you can capture the minutes live by following these next ste
 
 TIP: Make the Minutes everyone’s responsibility by displaying <a href="{{ site.url }}" target="_blank">Process PA</a> on a screen for all meeting participants to see. It will help keep everyone together on the current Agenda item and collectively be responsible for the minutes and meeting outcomes. 
 
-Click on the video to view a meeting from start to finish. For step by step instructions, refer to the images below.
+Click on the video to view a meeting from start to finish. For step by step instructions, refer to the images below the video.
 <div class="container my-5">
     <div class="embed-responsive embed-responsive-16by9">
         <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Co-3VQzzJxo" allowfullscreen></iframe>

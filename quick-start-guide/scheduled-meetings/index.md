@@ -4,7 +4,7 @@ layout: markdown-page
 ---
 The meeting schedule and pending action items are available on the Schedule screen. Here you can schedule new meetings or create action item unrelated to a specific meeting.
 
-This video will show you how to access the meetings schedule and Action item register. For step by step instructions, please refer to the instructions below.
+This video will show you how to access the Meeting Schedule and Action item register. For step by step instructions, please refer to the instructions below.
 
 <div class="container my-5">
     <div class="embed-responsive embed-responsive-16by9">

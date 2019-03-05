@@ -5,7 +5,7 @@ layout: markdown-page
 
 The Members is used for registering the Committee or Board members. These are the members used for Emails, Attendance and Access to [Process PA](https://processpa.com/){: target="_blank"}.
 
-To create a new member log in see here: [Create Member Log in](/manage-membership/create-member-log-in.html)
+To create a new member log in see here: [Create Member Log in](/quick-start-guide/manage-membership/create-member-log-in.html)
 
 This video gives a brief overview of how to add new membersn their information and permission levels. For a step by step guide, please refer to the instructions below.
 

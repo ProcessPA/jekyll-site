@@ -4,7 +4,7 @@ layout: markdown-page
 ---
 Set the From email address for your distributions, Page header/Letter head for your agenda and minutes, automatic distributions and agenda templates from within the Settings. 
 
-This video will show you how to adjust your Organisation's settings. For step by step instructions please refer to the instructions below.
+This video will show you how to adjust your Organisation's settings. For step by step instructions, refer to the instructions below the video.
 
 <div class="container my-5">
     <div class="embed-responsive embed-responsive-16by9">

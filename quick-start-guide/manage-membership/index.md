@@ -7,14 +7,6 @@ The Members is used for registering the Committee or Board members. These are th
 
 To create a new member log in see here: [Create Member Log in](/quick-start-guide/manage-membership/create-member-log-in.html)
 
-This video gives a brief overview of how to add new members and their information and permission levels. For a step by step guide, please refer to the instructions below.
-
-<div class="container my-5">
-    <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9tj7vAqDIQ0" allowfullscreen></iframe>
-    </div>
-</div>
-
 1. To set the current members, click on the “MEMBERS” tab located at the top portion of the page.<br><br>![](/content/pages/help/Membership - Link.png)<br>&nbsp;
 2. From this list you can see, who has created a login, what their current role is, security access, and edit & delete.<br><br>![](/content/pages/help/Membership - annotated.png)<br>&nbsp;
 3. At the top you have functions to Email, Export or Add.

@@ -6,6 +6,13 @@ During the meeting, you can capture the minutes live by following these next ste
 
 TIP: Make the Minutes everyone’s responsibility by displaying <a href="{{ site.url }}" target="_blank">Process PA</a> on a screen for all meeting participants to see. It will help keep everyone together on the current Agenda item and collectively be responsible for the minutes and meeting outcomes. 
 
+Click on the video to view a meeting from start to finish. For step by step instructions, refer to the images below.
+<div class="container my-5">
+    <div class="embed-responsive embed-responsive-16by9">
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Co-3VQzzJxo" allowfullscreen></iframe>
+    </div>
+</div>
+
   1. When it’s time for the meeting to start, simply click on the “START MEETING” action button on the left portion of the page.  
     <img class="img-fluid" src="/content/pages/help/clip_image002-3.jpg" />
   2. A timer for the whole meeting will start as well as a timer per item in the agenda list. You will be prompted, if necessary, to fill in key information needed in the current agenda item.  

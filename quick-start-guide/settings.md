@@ -4,6 +4,14 @@ layout: markdown-page
 ---
 Set the From email address for your distributions, Page header/Letter head for your agenda and minutes, automatic distributions and agenda templates from within the Settings. 
 
+This video will show you how to adjust your Organisations settings. For step by step instructions please refer to the instructions below.
+
+<div class="container my-5">
+    <div class="embed-responsive embed-responsive-16by9">
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/cOcLYja_N-A" allowfullscreen></iframe>" allowfullscreen></iframe>
+    </div>
+</div>
+
   1. To edit the settings of your system, click on the gear icon on the top right portion of the page.  
     <img class="img-fluid" src="/content/pages/help/clip_image002-7.jpg" />
   2. In this section you may specify the source of the emails coming into the system by clicking on the drop down section under the “Email FROM Address” title. NOTE: These emails will come from a email service masking the address as the From member. Some email clients may flag these messages with security warnings <a href="http://processpa.com/" target="_blank">Process PA</a> does not use your email server (saving configuration). These emails are safe.  

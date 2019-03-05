@@ -4,7 +4,7 @@ layout: markdown-page
 ---
 After logging in, you will be able to see details of your next meeting and its agenda. If you want to adjust the agenda for a meeting you just have to do the following steps: 
 
-This video will show you how to adjust the agenda - Adding items, naming items and dragging to change the order of the items. For step by step instructions, please refer to below.
+This video will show you how to adjust the agenda - Adding items, naming items and dragging to change the order of the items. For step by step instructions, refer to below the video.
 
 <div class="container my-5">
     <div class="embed-responsive embed-responsive-16by9">

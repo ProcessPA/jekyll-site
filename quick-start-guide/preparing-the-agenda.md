@@ -4,7 +4,7 @@ layout: markdown-page
 ---
 Below shows how to add notes, motions for consideration and attachments to your agenda: 
 
-This video will show you how to prepare your agenda for your meeting. Create Motions in advance of the meeting, add notes and attach reports. For step by step instructions, please refer to below.
+This video will show you how to prepare your agenda for your meeting. Create Motions in advance of the meeting, add notes and attach reports. For step by step instructions, refer to below.
 
 <div class="container my-5">
     <div class="embed-responsive embed-responsive-16by9">

@@ -4,7 +4,7 @@ layout: markdown-page
 ---
 Secure document storage for all your committee or board related information is included.
 
-This video gives a quick overview, for step-by-step instruction please see below.
+This video gives a quick overview of storage for minutes, motions and file attachments. For step-by-step instructions, refer to below the video.
 
 <div class="container my-5">
     <div class="embed-responsive embed-responsive-16by9">

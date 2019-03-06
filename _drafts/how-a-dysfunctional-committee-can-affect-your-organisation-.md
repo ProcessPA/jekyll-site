@@ -1,6 +1,6 @@
 ---
 title: How a dysfunctional committee can affect your organisation.
-date: 2019-03-06 11:00:00 +1000
+date: 2019-03-06 10:30:00 +1000
 author: Process PA Team
 layout: post
 permalink: /ExecutiveMatters/how-a-dysfunctional-committee-can-affect-your-organisation

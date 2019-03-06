@@ -57,7 +57,7 @@ A handover meeting is your chance to tell the incoming member everything they ne
 
 ### **Ensure that you’re covered.**
 
-Your government, bank, and legal committee will likely require a pretty large number of forms filled out when the handover is completed. Make sure you liaise with these institutions thoroughly before the handover begins, so that everyone is one the same page and everything gets completed.
+Your government and/or bank will likely require a pretty large number of forms filled out when the handover is completed. Make sure you liaise with these institutions thoroughly before the handover begins, so that everyone is one the same page and everything gets completed.
 {: .present-before-paste}
 
 ### **Move On**

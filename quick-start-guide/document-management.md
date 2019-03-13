@@ -24,7 +24,7 @@ This video gives a quick overview of storage for minutes, motions and file attac
     <img class="img-fluid" src="/content/pages/help/clip_image010-2.jpg" />
   5. The attachments section is the default storage folder of all files associated with recorded meetings. The link of the meetings that the files are related to is available to quickly jump to the meeting minutes.  
     <img class="img-fluid" src="/content/pages/help/clip_image012-2.jpg" />
-  6. You may add a new folder to the section by clicking the “ADD FOLDER” action button at the top left portion of the page. You may change the name of the folder once the new folder appears at the left portion of the page.[  
+  6. You may add a new folder to the section by clicking the “ADD FOLDER” action button at the top left portion of the page. You may change the name of the folder once the new folder appears at the left portion of the page.  
     <img class="img-fluid" src="/content/pages/help/clip_image014-1.jpg" />
   7. You may add files to your new folder by clicking the “ADD FILES” button at the top portion of the page or drag and drop them into the browser window.   
     <img class="img-fluid" src="/content/pages/help/clip_image016-1.jpg" />

@@ -15,10 +15,10 @@ The up arrow indicates sending changes to the server.
 
 A tick indicates all is saved.
 
-If at anytime the save fails to reach the server. The message below will show warning you. Refresh and try again. If the problem persists please contact support.
+If at anytime the save fails to reach the server, the message below will pop up, warning you. Refresh and try again. If the problem persists please contact support.
 
 ![](/content/pages/help/save3.png){: .img-fluid}
 
-If you do cancel, the save icon will update indicates there is changes that will not be saved.
+If you do cancel, the save icon will update, indicating there are changes that will not be saved.
 
 ![](/content/pages/help/save4.png){: .img-fluid}

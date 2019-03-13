@@ -26,7 +26,7 @@ Looking for a discount? Ask your affiliate organization if they are partners wit
 
 # Purchasing
 
-We use Stripe to process credit card payments. Stripe is [PCI compliant
+We use Stripe to process credit card payments. Stripe is [PCI compliant](https://www.pcisecuritystandards.org/) and handles billions for over 100,000 businesses. See [https://stripe.com]().
 
 To make a purchase, click the Purchase Now button and enter your credit card. You payment will be processed, a receipt emailed and account will become Active.
 

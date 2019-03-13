@@ -6,7 +6,7 @@ Under Settings, click the button Account Details to see your association name, t
 
 # Change Plan
 
-Your current selected plan is then seen next. This can be change from Annually or Monthly by selecting a plan at the bottom.
+Your current selected plan is then seen next. This can be changed from Annually or Monthly by selecting a plan at the bottom.
 
 <img class="img-fluid" src="/content/pages/help/account/image.png" />
 
@@ -16,7 +16,7 @@ Your current selected plan is then seen next. This can be change from Annually o
 
 # Apply Coupon
 
-If you have a coupon code enter into the box and press Apply. The coupon will apply and the Next Payment amount will be updated.
+If you have a coupon code, enter it into the box and press Apply. The coupon will apply and the Next Payment amount will be updated.
 
 <img class="img-fluid" src="/content/pages/help/account/image-2.png" width="764" height="85" />
 
@@ -28,7 +28,7 @@ Looking for a discount? Ask your affiliate organization if they are partners wit
 
 We use Stripe to process credit card payments. Stripe is [PCI compliant
 
-To make a purchase, click the Purchase Now button and enter your credit card. You payment will be process and a receipt emailed and account will become Active.
+To make a purchase, click the Purchase Now button and enter your credit card. You payment will be processed, a receipt emailed and account will become Active.
 
 <img class="img-fluid" src="/content/pages/help/account/image-4.png" width="975" height="82" />
 

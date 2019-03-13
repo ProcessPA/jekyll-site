@@ -17,7 +17,7 @@ Your current selected plan is then seen next. This can be changed from Annually 
 
 If you have a coupon code, enter it into the box and press Apply. The coupon will apply and the Next Payment amount will be updated.
 
-<img class="img-fluid" src="/content/pages/help/account/image-2.png" width="764" height="85" />
+<img class="img-fluid" src="/content/pages/help/account/coupon.png" width="764" height="85" />
 
 <img class="img-fluid" src="/content/pages/help/account/image-3.png" />
 

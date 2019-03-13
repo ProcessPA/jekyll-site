@@ -4,7 +4,7 @@ layout: markdown-page
 ---
 Under Settings, click the button Account Details to see your association name, time zone, language, billing information.
 
-<img class="img-fluid" src="/content/pages/help/account/account-settings.png" />
+<img class="img-fluid" src="/content/pages/help/account/account-settings1.png" />
 
 # Change Plan
 

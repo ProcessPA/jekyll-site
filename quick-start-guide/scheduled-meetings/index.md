@@ -24,4 +24,4 @@ This video will show you how to access the Meeting Schedule and Action item regi
 
 **Related Topics**
 
-[Rescheduling Meetings](/quick-start-guide/scheduled-meetings-action-items/rescheduling-meetings/)
+[Rescheduling Meetings](/quick-start-guide/scheduled-meetings/rescheduling-meetings.html)

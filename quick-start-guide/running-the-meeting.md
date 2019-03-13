@@ -34,7 +34,7 @@ Click on the video to view a meeting from start to finish. For step by step inst
     <img class="img-fluid" src="/content/pages/help/clip_image020_thumb.jpg" />
   9. Type in notes as required in each agenda item these will form your minutes on completion of the meeting. Click on “NEXT” once you are finished to move to the next agenda item.  
     <img class="img-fluid" src="/content/pages/help/clip_image022_thumb.jpg" />
- 10. Attachments for each agenda item are shown and able to be downloaded to be displayed in the meeting. The prevents the need to have the same computer for setting the agenda and running the meeting.  
+ 10. Attachments for each agenda item are shown and able to be downloaded to be displayed in the meeting. This prevents the need to have the same computer for setting the agenda and running the meeting.  
     <img class="img-fluid" src="/content/pages/help/clip_image024_thumb.jpg" />
  11. Create or view motions related to the agenda item. If a motion has been created before the meeting, simply click the motion row to bring up the details.  
     <img class="img-fluid" src="/content/pages/help/clip_image026_thumb.jpg" />

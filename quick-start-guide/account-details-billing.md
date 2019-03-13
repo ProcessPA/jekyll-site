@@ -9,7 +9,7 @@ Under Settings, click the button Account Details to see your association name, t
 Your current selected plan is then seen next. This can be changed from Annually or Monthly by selecting a plan at the bottom.
 
 
-<img class="img-fluid" src="/content/pages/help/account/account-details-screen-shot-payment.png" />
+<img class="img-fluid" src="/content/pages/help/account/ink-select-plan.png" />
 
 &nbsp;
 

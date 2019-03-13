@@ -20,7 +20,7 @@ This video will show you how to adjust your Organisation's settings. For step by
     <img class="img-fluid" src="/content/pages/help/clip_image006_thumb-6.jpg" />
   4. Edit the agenda templates used in meetings based on the requirement of your next meeting. The list is at the lower left portion of the page.  
     <img class="img-fluid" src="/content/pages/help/clip_image008_thumb-4.jpg" />
-    The “Edit Template” page will appear once you click on a template that you intend to edit. You may rearrange the agenda items in the template by dragging and dropping, renaming or adding them as you require like in a meeting agenda.[  
+    The “Edit Template” page will appear once you click on a template that you intend to edit. You may rearrange the agenda items in the template by dragging and dropping, renaming or adding them as you require like in a meeting agenda.  
     <img class="img-fluid" src="/content/pages/help/clip_image010_thumb-3.jpg" />
   5. You can automate emails to distribute meeting notices and agenda at set times to match your constitution's requirements.  
     <img class="img-fluid" src="/content/pages/help/clip_image012_thumb-3.jpg" />

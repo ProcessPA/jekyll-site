@@ -8,7 +8,7 @@ Creating new meetings.
 
 <div class="container my-5">
     <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="https://youtu.be/AdY3DTlrrYU" allowfullscreen></iframe>
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/AdY3DTlrrYU" allowfullscreen></iframe>
     </div>
 </div>
 

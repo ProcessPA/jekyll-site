@@ -10,8 +10,6 @@ categories:
   - Tips
 ---
 
-&nbsp;
-
 Streamline your governance documentation to keep your meetings running smoothly.
 
 Think of how many documents you need to bring to a meeting. Think of how many get *created* in your meetings. There’s your minutes, your agenda, budgets, reports, copies of bylaws, action items, etc etc etc. Do you really need all these things? How many of them will even be read?

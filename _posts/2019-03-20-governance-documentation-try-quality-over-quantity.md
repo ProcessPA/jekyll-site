@@ -3,26 +3,18 @@ title: 'Governance Documentation: Try Quality Over Quantity'
 date: 2019-03-20 11:00:00 +1000
 author: Process PA Team
 layout: post
-permalink: /ExecutiveMatters/governance-documents-try-quality-over-quantity
+permalink: /ExecutiveMatters/the-big-3-board-documents-you-need-for-you-meeting
 categories:
   - Governance
   - Management
   - Tips
 ---
 
-Streamline your governance documentation to keep your meetings running smoothly.
+When it comes to meetings, you need to understand what occurred, what needs to be done from the meeting, and in general how well the meeting went. This is where documents come in to play.
 
-Think of how many documents you need to bring to a meeting. Think of how many get *created* in your meetings. There’s your minutes, your agenda, budgets, reports, copies of bylaws, action items, etc etc etc. Do you really need all these things? How many of them will even be read?
+What blows the mind thought, is think of how many documents you need to bring to a meeting. Think of how many get *created* in your meetings. There’s your minutes, your agenda, budgets, reports, copies of bylaws, action items, etc. Do you really need all these things? How many of them will even be read?
 
 The answer is probably yes, you do need them. But! Think about how many of these you create. How much time do you and your committee spend writing, editing, and printing them? Not to mention all that paper. So let's have a look at three of the major types of governance, and we’ll explore how you improve their quality, while lessening their quantity.
-
-### Minutes
-
-Minutes are how you take notes of your meetings - you know that. There are dozens of ways to do this, and by hand is easily the worst. It’s slow, and it’ll need extensive revision later.
-
-You can find plenty of great templates and software online, but the key to taking effective minutes no matter the system is brevity. This is quality over quantity at its most elemental. You don’t need to write every detail, and what you do write should be short and snappy.
-
-A quick title for the order of business and any agreed-upon outcomes is perfect. Small notes like “a discussion of the options ensued” are fine, but not always necessary.
 
 ### Agenda
 
@@ -43,3 +35,11 @@ The “what” in a strategic plan is simply your mission expanded and detailed,
 If you are directing a small environmental-awareness charity, some of your “whats” might be things like “make the town a greener, cleaner place to live”, or “increase local awareness of recycling practices”, and your why for both would be “we care about our local wildlife”. Write your strategic plan with your “whats” and “whys” in mind, and you’ll be just fine.
 
 At the end of the day, keep it short and sweet. Whenever you're writing something, just think: “does the reader need to know this? Why?”. A little mindfulness will save you *so much* time and effort that should be spent furthering your cause. It’s pretty important, after all.
+
+### Minutes
+
+Minutes are how you take notes of your meetings - you know that. What is also important to remember, is that Minutes are proof that your strategic plan and agenda were followed. I helps you to understand what happened and the relevance that each agenda item had to the organisation.
+
+When writing minutes, there are dozens of ways to do this, and by hand is easily the worst. It’s slow, and it’ll need extensive revision later. You can find plenty of great templates and software online, but the key to taking effective minutes no matter the system is brevity. This is quality over quantity at its most elemental. You don’t need to write every detail, and what you do write should be short and snappy.
+
+A quick title for the order of business and any agreed-upon outcomes is perfect. Small notes like “a discussion of the options ensued” are fine, but not always necessary.

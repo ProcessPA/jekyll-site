@@ -1,6 +1,6 @@
 ---
 title: 'Governance Documentation: Try Quality Over Quantity'
-date: 2019-03-20 11:00:00 +1000
+date: 2019-03-21 10:00:00 +1000
 author: Process PA Team
 layout: post
 permalink: /ExecutiveMatters/the-big-3-board-documents-you-need-for-you-meeting

@@ -1,6 +1,6 @@
 ---
 title: 3 Ways to Declutter Your Reports
-date: 2018-11-30 00:00:00 +1000
+date: 2019-03-27 11:00:00 +1000
 author: Process PA Team
 layout: post
 permalink: /ExecutiveMatters/3-ways-to-declutter-your-reports

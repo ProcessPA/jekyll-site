@@ -26,7 +26,7 @@ You'll also notice above in the email attachments settings that we have an early
 
 # Exports
 
-Although we keep everything online and provide a signal point-of-truth the ability to pull down data for other tasks is a workflow we want to support more. We have now added the ability to export your Member register and Motions register. These are exported as a Comma Separated Values (cvs) file which is easily viewable in Excel.
+Although we keep everything online and provide a signal point-of-truth the ability to pull down data for other tasks is a workflow we want to support more. We have now added the ability to export your Member register and Motions register. These are exported as a Comma Separated Values (csv) file which is easily viewable in Excel.
 
 ![Export members screen](/content/posts/export-members.png "Export members")
 

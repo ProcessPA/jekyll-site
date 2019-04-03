@@ -48,9 +48,9 @@ Click on the video to view a meeting from start to finish. For step by step inst
     <img class="img-fluid" src="/content/pages/help/clip_image034_thumb.jpg" />
  15. If you choose to create a new meeting, a dialog will appear. Just fill in the meeting title, date, venue and time and click the “SAVE” button.   
     <img class="img-fluid" src="/content/pages/help/clip_image036_thumb.jpg" />
- 16. To formally close the meeting click on the “FINISH MEETING” button located at the left portion of the page.  
-    <img class="img-fluid" src="/content/pages/help/clip_image038_thumb.jpg" />
- 17. After clicking the “FINISH MEETING” button a dialog will appear. You have to option to either preview the minutes of the meeting or send these out to others immediately. Clicking Cancel will allow you to go back and edit anything required after the meeting, such as the close meeting time if you haven’t been taking the minutes live.  
+ 16. To formally close the meeting click on the “CLOSE MEETING” button located at the left portion of the page.  
+    <img class="img-fluid" src="/content/pages/help/clip_close-meeting_thumb.jpg" />
+ 17. After clicking the “CLOSE MEETING” button a dialog will appear. You have to option to either finalise the the draft minutes or cancel, to continue editing.This adds a break for you to review your minutes, edit notes, add actions or motions and set the next meeting date. Once you are happy your draft is correct, you then press the Finalise Minutes button.  
     <img class="img-fluid" src="/content/pages/help/clip_image040_thumb.jpg" />
  18. If you choose to preview the meeting, you can either save the file in PDF format by clicking the “DOWNLOAD” button or send the file out after by clicking the “SEND MINUTES” button located at the left portion of the page.[  
     <img class="img-fluid" src="/content/pages/help/clip_image042_thumb.jpg" />

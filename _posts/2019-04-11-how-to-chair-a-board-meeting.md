@@ -1,6 +1,6 @@
 ---
 title: How To Chair a Board Meeting
-date: 2019-04-10 10:50:00 +1000
+date: 2019-04-11 10:50:00 +1000
 author: Process PA Team
 layout: post
 permalink: /ExecutiveMatters/how-to-chair-a-board-meeting
@@ -18,7 +18,7 @@ The role of a committee chair is unique in that a large chunk of your work is re
 
 Effectively keeping a meeting on topic and on schedule isn’t easy. It’s the Chair’s responsibility to facilitate sensible discussion and allow all members of the board to speak equally. Acting as referee in tense moments and keeping debate civil is a necessary skill. The Chair will not typically enter the discussion themselves, simply adjudicate it.
 
-When it comes time for the board to make a decision, the Chair will only ever put forward a vote if it would affect the outcome, or if the vote is by ballot. &nbsp;Keeping the Chairperson largely impartial is key to maintaining their authority in a meeting.
+When it comes time for the board to make a decision, the Chair will only ever put forward a vote if it would affect the outcome, or if the vote is by ballot.  Keeping the Chairperson largely impartial is key to maintaining their authority in a meeting.
 
 ## **Chairing a Board Meeting**
 

@@ -10,7 +10,7 @@ categories:
   - Management
 ---
 
-In any organisation, there’s someone whose job is to grab everything that falls through the cracks. To keep everyone else on track. For a sports team, it’s the Coach. In a restaurant, it’s the Head Chef. On a board of directors, it’s not the Chairman. Not even the Treasurer. While those are important roles, they couldn’t do their jobs without the most key piece to the committee puzzle: the Secretary.
+In any organisation, there’s someone whose job is to grab everything that falls through the cracks. To keep everyone else on track. For a sports team, it’s the Coach. In a restaurant, it’s the Head Chef. On a board of directors, it’s not the Chair. Not even the Treasurer. While those are important roles, they couldn’t do their jobs without the most key piece to the committee puzzle: the Secretary.
 
 So what is the Secretary’s job, then? The Secretary is responsible for four major processes:
 

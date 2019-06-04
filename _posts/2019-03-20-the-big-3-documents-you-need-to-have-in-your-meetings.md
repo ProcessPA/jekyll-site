@@ -5,7 +5,8 @@ author: Process PA Team
 layout: post
 permalink: ExecutiveMatters/the-big-3-board-documents-you-need-for-you-meeting
 categories:
-  - Product Updates
+  - Governance
+  - Tips
 ---
 
 When it comes to meetings, you need to understand what occurred, what needs to be done from the meeting, and in general how well the meeting went. This is where documents come in to play.

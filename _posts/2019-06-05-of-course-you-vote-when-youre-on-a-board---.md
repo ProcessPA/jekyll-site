@@ -1,6 +1,6 @@
 ---
 title: Of course you vote when you're on a board...
-date: 2019-05-29 10:50:00 +1000
+date: 2019-06-05 10:50:00 +1000
 author: Process PA Team
 layout: post
 permalink: /ExecutiveMatters/of-course-you-vote-when-youre-on-a-board

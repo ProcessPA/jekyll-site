@@ -23,8 +23,10 @@ PDF options
 
 and a range of options pertaining to Automatic email distributions.
 
-  1. To edit the settings of your system, click on the gear icon on the top right portion of the page.  
+  1. To edit the settings of your system, click on the gear icon on the top right portion of the page.
+    <img class="img-fluid" src="/content/pages/help/settings/settings-icon.png" />
   2. In this section you may specify the source of the emails coming into the system by clicking on the "Select Member" section under the “Email Reply-to Address” title. NOTE: These emails will come from an email service masking the address as the From member. Some email clients may flag these messages with security warnings <a href="http://processpa.com/" target="_blank">Process PA</a> does not use your email server (saving configuration). These emails are safe.  
+  <img class="img-fluid" src="/content/pages/help/settings/email-source.png" />
   3. You may edit the design of the letter header used in the generation of the agenda and minutes documents.  
     <img class="img-fluid" src="/content/pages/help/clip_image006_thumb-6.jpg" />
   4. Edit the agenda templates used in meetings based on the requirement of your next meeting. The list is at the lower left portion of the page.  

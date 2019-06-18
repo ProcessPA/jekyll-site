@@ -3,15 +3,24 @@ title: Settings
 layout: markdown-page
 ---
 Here you will be able to edit and create the display and function of your account. You will be able to adjust settings such as:
+
 Page header
 Logo
+
 The agenda templates
+
 Specifying the source email address for correspondance
+
 Roles
+
 Agenda attachments like PDF's
+
 Attendance sort order
+
 Action and Numbering
+
 PDF options
+
 and a range of options pertaining to Automatic email distributions.
 
   1. To edit the settings of your system, click on the gear icon on the top right portion of the page.  

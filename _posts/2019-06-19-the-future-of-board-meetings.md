@@ -1,6 +1,6 @@
 ---
 title: The Future of Board Meetings
-date: 2019-06-12 10:50:00 +1000
+date: 2019-06-19 10:50:00 +1000
 author: Process PA Team
 layout: post
 permalink: /ExecutiveMatters/the-future-of-board-meetings

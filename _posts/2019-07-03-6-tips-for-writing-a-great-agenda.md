@@ -3,10 +3,10 @@ title: 6 Tips for Writing a Great Agenda
 date: 2019-07-03 12:00:00 +1000
 author: Process PA Team
 layout: post
-permalink: >-
-  /ExecutiveMatters/last-modified-email-attachments--more-process-pa-improvements
+permalink: /ExecutiveMatters/6-tips-for-writing-a-great-agenda
 categories:
-  - Product Updates
+  - Governance
+  - Tips
 ---
 
 Heading up a meeting of any kind without a pre-prepared agenda is like hearing an announcement to *please keep your hands inside the vehicle* and then just sticking as many limbs out the window as you can. You’re asking for something to go wrong - and it probably will. Organising an effective agenda doesn’t take long, and it can be a huge help in making your meetings run effectively and efficiently. Here’s a few quick tips to use next time you write a meeting agenda.

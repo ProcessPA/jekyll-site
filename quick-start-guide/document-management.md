@@ -18,7 +18,7 @@ This video gives a quick overview of storage for Minutes, Motions and File Attac
     <img class="img-fluid" src="/content/pages/help/clip_image004-6.jpg" />
   3. You may easily search a specific document by typing in the file’s title in the search bar feature. It is located horizontally at the top portion of the page.  
     <img class="img-fluid" src="/content/pages/help/clip_image006-5.jpg" />
-  4. For motions, you may view the detail of each further by clicking the “VIEW” action button located at the last column.  
+  4. For Motions, you may view the detail of each further by clicking the “VIEW” action button located at the last column.  
     <img class="img-fluid" src="/content/pages/help/clip_image008-3.jpg" />
     Once you click the “VIEW” action button, a dialog will appear that shows the details of the motion you selected.   
     <img class="img-fluid" src="/content/pages/help/clip_image010-2.jpg" />

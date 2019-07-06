@@ -14,7 +14,7 @@ This video gives a quick overview of storage for Minutes, Motions and File Attac
 
   1. To view all uploaded documents in the system, click on the “DOCUMENTS” tab located at the top portion of the page.  
     <img class="img-fluid" src="/content/pages/help/clip_image002-6.jpg" />
-  2. The documents are segmented initialy into three folders, minutes, motions and attachments. The Minutes and Motions folders are special and the Attachments is the default location for agenda item attachments. You may view the documents in each folder by clicking the section located at the left portion of the page.  
+  2. The documents are segmented initialy into three folders, Minutes, Motions and Attachments. The Minutes and Motions folders are special and the Attachments is the default location for agenda item attachments. You may view the documents in each folder by clicking the section located at the left portion of the page.  
     <img class="img-fluid" src="/content/pages/help/clip_image004-6.jpg" />
   3. You may easily search a specific document by typing in the file’s title in the search bar feature. It is located horizontally at the top portion of the page.  
     <img class="img-fluid" src="/content/pages/help/clip_image006-5.jpg" />

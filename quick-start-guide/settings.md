@@ -33,7 +33,7 @@ It's always a good idea to ensure your important emails and notifications are no
     <img class="img-fluid" src="/content/pages/help/clip_image006_thumb-6.jpg" />
   4. You may edit the Agenda Templates used in meetings, based on the requirements of your next meeting. The list is at the lower left portion of the page.  
     <img class="img-fluid" src="/content/pages/help/clip_image008_thumb-4.jpg" />
-    The The “Edit Template” page will appear once you click on a template that you intend to edit. You may rearrange the agenda items in the template by dragging and dropping, renaming or adding them as you require, just like in a meeting agenda.  
+    The The “Edit Template” page will appear once you click on a template that you intend to edit. You may rearrange the agenda items in the template by dragging and dropping, renaming or adding them as you require.  
     <img class="img-fluid" src="/content/pages/help/clip_image010_thumb-3.jpg" />
   5. You can automate emails to distribute Meeting Notices and Agendas, at set times to match your constitution's requirements.  
     <img class="img-fluid" src="/content/pages/help/clip_image012_thumb-3.jpg" />

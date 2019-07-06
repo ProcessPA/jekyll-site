@@ -12,7 +12,7 @@ This video will show you how easy it is to create new meetings. For step by step
     </div>
 </div>
 
-  1. To view the schedule and details of upcoming meetings and outstanding action items click on the “SCHEDULE” tab on the top portion of the screen.
+  1. To view the schedule, details of upcoming meetings and outstanding action items click on the “SCHEDULE” tab on the top portion of the screen.
   
       <img class="img-fluid" src="/content/pages/help/clip_image002-4.jpg" />
 

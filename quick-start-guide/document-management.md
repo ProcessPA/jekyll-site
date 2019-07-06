@@ -2,7 +2,7 @@
 title: Document Management
 layout: markdown-page
 ---
-Secure document storage for all your committee or board related information is included.
+Secure Document Storage for all your committee or board related information.
 
 This video gives a quick overview of storage for Minutes, Motions, Reports and File Attachments. For step-by-step instructions, refer to below the video.
 

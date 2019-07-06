@@ -5,7 +5,7 @@ layout: markdown-page
 
 The Members Register is used for storing data of Committee or Board members. This includes Contact Information, type of Security Access for the member, history of Roles and Current Role plus a section for Notes and Tags.
 
-To create a new member log in see here: [Create Member Log in](/quick-start-guide/manage-membership/create-member-log-in.html)
+To create a new member log in, see here: [Create Member Log in](/quick-start-guide/manage-membership/create-member-log-in.html)
 
 This video will guide you through the members register. For step by step instructions, refer to below the video.
 

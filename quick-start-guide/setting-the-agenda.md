@@ -12,16 +12,16 @@ This video will show you how to adjust the agenda - adding items, naming items a
     </div>
 </div>
 
-Click “ADD A GENERAL ITEM” located in the left portion of the page. 
+1. Click “ADD A GENERAL ITEM” located in the left portion of the page. 
 
 <img class="img-fluid" src="/content/pages/help/clip_image002.jpg" />
 
-The new item will then appear in the right portion of the page and will have the “General Item” name. 
+2. The new item will then appear in the right portion of the page and will have the “General Item” name. 
 
 <img class="img-fluid" src="/content/pages/help/clip_image004.jpg" />
 
-Click the item you just added and name it accordingly by clicking on it. 
+3. Click the item you just added and name it accordingly by clicking on it. 
 
-You may then drag the whole item through the agenda list in the order that you prefer. 
+4. You may then drag the whole item through the agenda list in the order that you prefer. 
 
 <img class="img-fluid" src="/content/pages/help/clip_image006.jpg" />

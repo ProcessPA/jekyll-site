@@ -4,7 +4,7 @@ layout: markdown-page
 ---
 Secure Document Storage for all your committee or board related information.
 
-This video gives a quick overview of storage for Minutes, Motions, Reports and File Attachments. For step-by-step instructions, refer to below the video.
+This video gives a quick overview of storage for Minutes, Motions and File Attachments. For step-by-step instructions, refer to below the video.
 
 <div class="container my-5">
     <div class="embed-responsive embed-responsive-16by9">
@@ -14,7 +14,7 @@ This video gives a quick overview of storage for Minutes, Motions, Reports and F
 
   1. To view all uploaded documents in the system, click on the “DOCUMENTS” tab located at the top portion of the page.  
     <img class="img-fluid" src="/content/pages/help/clip_image002-6.jpg" />
-  2. The documents are segmented into initial into three folders, minutes, motions and attachments. The Minutes and Motions folders are special and the attachments is the default location for agenda item attachments. You may view the documents in each folder by clicking the section located at the left portion of the page.  
+  2. The documents are segmented initialy into three folders, minutes, motions and attachments. The Minutes and Motions folders are special and the Attachments is the default location for agenda item attachments. You may view the documents in each folder by clicking the section located at the left portion of the page.  
     <img class="img-fluid" src="/content/pages/help/clip_image004-6.jpg" />
   3. You may easily search a specific document by typing in the file’s title in the search bar feature. It is located horizontally at the top portion of the page.  
     <img class="img-fluid" src="/content/pages/help/clip_image006-5.jpg" />

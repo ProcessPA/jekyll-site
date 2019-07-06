@@ -22,7 +22,7 @@ Action and Numbering
 
 PDF options
 
-and a range of options pertaining to Automatic email distributions.
+and a range of options pertaining to Automatic Email Distributions.
 
   1. To edit the settings of your system, click on the gear icon on the top right portion of the page.
     <img class="img-fluid" src="/content/pages/help/settings/settings-icon.png" />

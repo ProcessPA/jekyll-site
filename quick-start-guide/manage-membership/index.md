@@ -3,7 +3,7 @@ title: Manage Membership
 layout: markdown-page
 ---
 
-The Members is used for registering the Committee or Board members. These are the members used for Emails, Attendance and Access to [Process PA](https://processpa.com/){: target="_blank"}.
+The Members Register is used for storing data of Committee or Board members. Thi includes contact information, Security Access aloud for the member, history of acting roles and current role plus a sectuib for notes and Tags. [Process PA](https://processpa.com/){: target="_blank"}.
 
 To create a new member log in see here: [Create Member Log in](/quick-start-guide/manage-membership/create-member-log-in.html)
 

@@ -16,7 +16,7 @@ Click “ADD A GENERAL ITEM” located in the left portion of the page.
 
 <img class="img-fluid" src="/content/pages/help/clip_image002.jpg" />
 
-The new item will then appear in the right portion of the page and will have the “General Item” name. 
+The new item will then appear in the right portion of the page and will have the “GENERAL ITEM” name. 
 
 <img class="img-fluid" src="/content/pages/help/clip_image004.jpg" />
 

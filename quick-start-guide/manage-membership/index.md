@@ -3,7 +3,7 @@ title: Manage Membership
 layout: markdown-page
 ---
 
-The Members Register is used for storing data of Committee or Board members. This includes contact information, type of security access for the member, history of roles and current role plus a section for notes and Tags.
+The Members Register is used for storing data of Committee or Board members. This includes Contact Information, type of Security Access for the member, history of Roles and Current Role plus a section for Notes and Tags.
 
 To create a new member log in see here: [Create Member Log in](/quick-start-guide/manage-membership/create-member-log-in.html)
 
@@ -18,7 +18,7 @@ This video will guide you through the members register. For step by step instruc
 
 
 1. To set the current members, click on the “MEMBERS” tab located at the top portion of the page.<br><br>![](/content/pages/help/Membership - Link.png)<br>&nbsp;
-2. From this list you can see, who has created a login, what their current role is, security access, and edit & delete.<br><br>![](/content/pages/help/Membership - annotated.png)<br>&nbsp;
+2. From this list you can see, who has created a Login, what their current Role is, Security Access and Edit or Delete.<br><br>![](/content/pages/help/Membership - annotated.png)<br>&nbsp;
 3. At the top you have functions to Email, Export or Add.
    1. **Email** launches your default email client with members emails added to BCC.
    2. **Export** will download a CSV (Comma Separated Values) to manage your members in Excel.
@@ -29,7 +29,7 @@ This video will guide you through the members register. For step by step instruc
       You now have full details for your members with Phone, Date of Birth and Address. A generic Notes field is available for anything else related to the member. This could be reason for leaving, volunteering availability, or skills relevant to be board for example. Members can also update their own personal details.
 
    2. Security<br><br>You can manage the access level of each member. There are 4 levels of security.
-      1. Admin<br>Can run meetings, change membership, and change settings for the committee.
+      1. Admin<br>Can run meetings, change membership and change settings for the committee.
       2. Normal<br>Can view meeting agendas and minutes, but can't make any changes.
       3. Email<br>Cannot log in. Only receive agendas, minutes and attachments in emails.
       4. None<br>Removes access. Use when person is no longer a member. These members then appear under the archive group in the members view.<br><br>![](/content/pages/help/Membership - Security.png)<br>&nbsp;
@@ -39,7 +39,7 @@ This video will guide you through the members register. For step by step instruc
 
    4. Role Terms
 
-      Maintain full history of your management committee or board by specifying the Role and the period which the member held it. The current role will be displayed on the Members list. When a member not no longer has a role, typically you will no longer remove them, but instead set their Security to None.
+      Maintain full history of your management committee or board by specifying the Role and the period which the member held it. The current role will be displayed on the Members list. When a member no longer has a role, typically you will no longer remove them, but instead set their Security to None.
 
    5. Attachments
 

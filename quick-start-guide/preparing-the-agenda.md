@@ -16,7 +16,7 @@ This video will show you how to prepare your agenda for your meeting. Create Mot
     <img class="img-fluid" src="/content/pages/help/clip_image002-1.jpg" />
   2. From here you can add details specific to the Agenda item.  
     <img class="img-fluid" src="/content/pages/help/clip_image004-1.jpg" />
-  3. Click the Motion button to create a motion for consideration related to that Agenda item. You can add Title, Notes and Attachments.  
+  3. Click the "MOTION" button to create a motion for consideration related to that Agenda item. You can add Title, Notes and Attachments.  
     <img class="img-fluid" src="/content/pages/help/clip_image006-1.jpg" />
   4. Within the Text area you can add Notes for your Agenda item. These will be the start for your minute taking.  
     <img class="img-fluid" src="/content/pages/help/clip_image008.jpg" />

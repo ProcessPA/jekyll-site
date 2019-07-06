@@ -4,7 +4,7 @@ layout: markdown-page
 ---
 Once your agenda is complete, you can preview or share it by following these next steps: 
 
-This video will show you how to preview, download and the email distribution of the Agenda. For step by step instructions, refer to below the video.
+This video will show you how to preview and download the agenda. And will also demonstrate how to email the Agenda to members. For step by step instructions, refer to below the video.
 
 <div class="container my-5">
     <div class="embed-responsive embed-responsive-16by9">

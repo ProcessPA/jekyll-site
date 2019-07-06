@@ -31,7 +31,7 @@ and a range of options pertaining to Automatic Email Distributions.
 It's always a good idea to ensure your important emails and notifications are not being sent to your junk folder. For more information on how to resolve this, refer here https://processpa.com/help/trust-email-sender
   3. You may edit the design of the Letter Head that is used in the generation of the Agenda and Minutes documents.  
     <img class="img-fluid" src="/content/pages/help/clip_image006_thumb-6.jpg" />
-  4. Edit the Agenda Templates used in meetings based on the requirement of your next meeting. The list is at the lower left portion of the page.  
+  4. You may edit the Agenda Templates used in meetings, based on the requirement of your next meeting. The list is at the lower left portion of the page.  
     <img class="img-fluid" src="/content/pages/help/clip_image008_thumb-4.jpg" />
     The The “Edit Template” page will appear once you click on a template that you intend to edit. You may rearrange the agenda items in the template by dragging and dropping, renaming or adding them as you require like in a meeting agenda.  
     <img class="img-fluid" src="/content/pages/help/clip_image010_thumb-3.jpg" />

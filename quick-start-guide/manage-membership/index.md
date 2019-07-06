@@ -3,7 +3,7 @@ title: Manage Membership
 layout: markdown-page
 ---
 
-The Members Register is used for storing data of Committee or Board members. This includes contact information, type of security access for the member, history of roles and current role plus a sectuion for notes and Tags.
+The Members Register is used for storing data of Committee or Board members. This includes contact information, type of security access for the member, history of roles and current role plus a section for notes and Tags.
 
 To create a new member log in see here: [Create Member Log in](/quick-start-guide/manage-membership/create-member-log-in.html)
 

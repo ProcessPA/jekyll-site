@@ -5,6 +5,7 @@ layout: markdown-page
 Here you will be able to edit and create the display and function of your account. You will be able to adjust settings such as:
 
 Page header
+
 Logo
 
 The agenda templates

@@ -22,5 +22,5 @@ This video will show you how to prepare your agenda for your meeting. Create Mot
     <img class="img-fluid" src="/content/pages/help/clip_image008.jpg" />
   5. Click the paper clip attachment button to add files related to the Agenda item.  
     <img class="img-fluid" src="/content/pages/help/clip_image010.jpg" />
-    This will pop up a window where you can either select your pre-uploaded file, or upload a new file to then select.
+    6.This will pop up a window where you can either select your pre-uploaded file, or upload a new file to then select.
     <img class="img-fluid" src="/content/pages/help/clip_image012.jpg" />

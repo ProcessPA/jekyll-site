@@ -8,9 +8,9 @@ Page header
 
 Logo
 
-The agenda templates
+The Agenda Templates
 
-Specifying the source email address for correspondance
+Specifying the Source Email address for correspondance
 
 Roles
 

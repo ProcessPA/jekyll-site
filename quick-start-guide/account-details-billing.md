@@ -2,7 +2,7 @@
 title: 'Account Details &amp; Billing'
 layout: markdown-page
 ---
-Under Settings, click the button Account Details to see your association name, time zone, language and billing information.
+Under Settings, click the button "Account Details" to see your Association Name, Time Zone, Language and Billing Information.
 
 <img class="img-fluid" src="/content/pages/help/account/account-settings1.png" />
 

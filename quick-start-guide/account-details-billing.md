@@ -15,7 +15,7 @@ Your current selected plan is then seen next. This can be changed from Annually 
 
 &nbsp;
 
-# Apply Coupon
+# How to Apply Coupons
 
 If you have a coupon code, enter it into the box and press Apply. The coupon will apply and the Next Payment amount will be updated.
 

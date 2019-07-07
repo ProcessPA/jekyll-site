@@ -6,7 +6,7 @@ Under Settings, click the button "Account Details" to see your Association Name,
 
 <img class="img-fluid" src="/images/Accounts-billing-screenshot.png" />
 
-# Change Plan
+# How to Change Your Plan
 
 Your current selected plan is then seen next. This can be changed from Annually or Monthly by selecting a plan at the bottom.
 

@@ -1,6 +1,6 @@
 ---
 title: A Quick Guide to Writing Good Minutes
-date: 2019-07-10 10:55:00 +1000
+date: 2019-07-10 10:50:00 +1000
 author: Process PA Team
 layout: post
 permalink: /ExecutiveMatters/a-quick-guide-to-writing-good-minutes

@@ -1,7 +1,7 @@
 ---
 title: What You Can Do About Burnout
 date: 2019-08-07 10:50:00 +1000
-author: Kayleigh from Micro Startup
+author: Process PA Team
 layout: post
 permalink: /ExecutiveMatters/what-can-you-do-about-burnout
 categories:

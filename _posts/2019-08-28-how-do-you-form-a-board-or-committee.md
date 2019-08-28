@@ -1,6 +1,6 @@
 ---
 title: How Do You Form a Board or Committee?
-date: 2019-08-14 10:50:00 +1000
+date: 2019-08-28 10:50:00 +1000
 author: Process PA Team
 layout: post
 permalink: /ExecutiveMatters/how-do-you-form-a-board-or-committee

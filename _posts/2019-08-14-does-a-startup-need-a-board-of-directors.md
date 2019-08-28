@@ -3,7 +3,7 @@ title: Does a Startup Need a Board of Directors?
 date: 2019-08-14 10:50:00 +1000
 author: Process PA Team
 layout: post
-permalink: /ExecutiveMatters/the_many_different_types_of_Boards_of_Directors
+permalink: /ExecutiveMatters/does-a-startup-need-a-board-of-directors
 categories:
   - Governance
   - Tips

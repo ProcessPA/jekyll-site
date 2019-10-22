@@ -7,7 +7,6 @@ permalink: /ExecutiveMatters/what-happens-if-a-whole-board-resigns
 categories:
   - Governance
   - Management
-  - General
 ---
 
 Sitting on a board is an intensive, often stressful experience - of course, the rewards will outweigh the negatives for most, but there will always be some people who aren’t able to commit the resources to being a board member. And that’s ok.

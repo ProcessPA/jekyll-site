@@ -3,7 +3,7 @@ title: How Many Members Should Your Board Have?
 date: 2019-11-13 10:40:00 +1000
 author: Process PA Team
 layout: post
-permalink: /ExecutiveMatters/what-is-a-boards-most-important-function
+permalink: /ExecutiveMatters/how-many-members-should-your-board-have
 categories:
   - Governance
   - Management

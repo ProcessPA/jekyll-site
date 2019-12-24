@@ -1,5 +1,5 @@
 ---
-title: How to Close for the Holidays
+title: How to Ccose for the Holidays
 date: 2019-12-24 10:40:00 +1000
 author: Process PA Team
 layout: post

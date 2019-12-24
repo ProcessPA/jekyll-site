@@ -1,38 +1,42 @@
 ---
-title: The Governance of Shuttering Your Organisation
-date: 2019-12-11 10:40:00 +1000
+title: How to Close for the Holidays
+date: 2019-12-24 10:40:00 +1000
 author: Process PA Team
 layout: post
-permalink: /ExecutiveMatters/the-governance-of-shuttering-your-organisation
+permalink: /ExecutiveMatters/how-to-close-for-the-holidays
 categories:
   - Governance
   - Management
 ---
 
-Whether for-profit or not, no organisation will last forever. There will come a time when your board will need to face the reality of closing the doors once and for all.
+Here in Australia, it’s starting to get sweaty. The air conditioner’s not really cutting it anymore, frozen water bottles are your new best friend, and you’re feeling tempted to wear shorts to work.
 
-For some, this is a reason to celebrate: the nonprofit’s mission has been accomplished, and there’s no need for your services anymore. For most, this will be a very stressful time, with high emotions and tough decisions at every turn.
+What does this mean? It’s the holidays, and nobody wants to be doing anything. So it might be best for everyone if you close up shop for the year. Let’s have a look at a few things to get done before you enjoy that well-earned time off.
 
-Here, we’ll break down the steps your board will need to take when closing down their nonprofit.
+## **Let everyone know you’ll be closed.**
 
-**1\. Making the Decision**
+Clients, employees, volunteers, investors, stakeholders, all these groups need to know that you and the rest of the board will be heading out for the holidays. Send them all a quick email, text, or phone call to give them the heads up and wish them happy holidays.
 
-The organisation’s board are the ones called upon to carry the burden of this emotional and exhausting process. They were chosen for their roles because of their skills in leadership, governance, and critical analysis, and all those skills will be tested to their limits during this period.
+## **Set up your answering services.**
 
-The first step to closing down a nonprofit is actually a lot of steps. It’s everything that has led to the board even considering the idea. Downsizing, leadership changes, mergers, mission refocusing, emergency fundraising, all of the crisis management that’s needed in order to keep an organisation from the brink. Once ceasing operations is the only viable course of action left, there are a number of things that need to happen:
+You’ve seen this before. It’s fairly standard practice across just about every industry, but it can also slip your mind pretty easily. Change your phone’s answering machine message to detail your available hours over the holidays. Set up an auto-replier with your email service detailing the same. Sit in the pool and crack a beer.
 
-1. Look through your bylaws. The organisation’s founders should have covered procedures to follow in case of closure in these documents.&nbsp;
-2. Finalise the decision privately amongst the board and any upper management, then devise a comprehensive plan based on your bylaws before informing any other volunteers or employees. This way, the community you serve can be informed of your decision in a way that’s sensitive to their needs, and aren’t confronted with a sudden rumour that someone that helps them won’t be around any longer. It also means that if any sudden angel investment comes along, you won’t have made fools of yourselves.
-3. Follow your plan, but don’t be surprised if things move a little differently. Closing a nonprofit is an admittedly rare process, and not many board members will have experience doing it. Stay flexible, and do what’s best for your community until the end.
+## **Schedule any social media.**
 
-## **2\. Finalising Governance**
+Your company might have an Instagram, a blog, maybe a Twitter. This is how you interact and communicate with the public, and if you’ve been keeping your social media active throughout the year, suddenly dropping it over the holidays might leave some stakeholders confused.
 
-Depending on where you are in the world, the actual legal and governance process may differ slightly, but everywhere will require you to go through similar actions to complete the dissolution of your organisation. Your state and federal governments will require particular documents and communication with certain departments in order to know how and why you are ceasing operations.
+Build up a queue of posts to tide you over for the few weeks you’re gone, and stay confident that you’ll be in your community’s conscious even while you’re away.
 
-For example, declaring bankruptcy is a much more complex process than deregistering a smaller group might be. Any assets may need to be passed on to other organisations, debts will need to be paid, any ongoing legal proceedings need to be wrapped up, etc. Sometimes lawyers or liquidators will need to be brought in to manage these. Do your due diligence when planning your closure, and these proceedings should be smooth.
+## **Review your goals.**
 
-## **3\. Celebrate**
+Have one last sit-down with the rest of the board and look over your plans. Give yourselves a refresher on your vision, mission, and goals, and remind yourselves why you’re here. Build up some morale, and guide your team into the new year on a positive note.
 
-The formation of a nonprofit only happens when like-minded people come together for a common cause. You’ve probably made quite a few friends during your run here. Everyone you do this work with worked hard for the greater good of the community, and they deserve to be recognised for it.
+## **Handle any final business.**
 
-Throw a party, or take them to dinner, or just bust out a little wine and cheese in the meeting room, but be sure to say thank you.&nbsp; Even if you’re closing the door on this chapter, it doesn’t mean your commitment to your cause is gone. Keep working, no matter where, and you and your workmates will make a great dent in the problems faced by your community.
+It’s going to be pretty hard to relax with family and friends if you can’t stop thinking about work. The easiest way to do that is to get the work done. If you’re at your desk, sweating up a storm, thinking about leaving that one last project for after you get back, don’t do it. It’ll haunt you endlessly until it’s done, I promise.
+
+## **Switch off\!**
+
+No that all that’s sorted, there’s only one last thing to do: kick back, relax, enjoy your holidays. It’s been a big year, right? Take a break, spend some time with your loved ones, and charge your batteries for another big year to come.
+
+Happy holidays from everyone here at Process PA\! We’ll see you next year.

@@ -1,6 +1,6 @@
 ---
 title: Advisory vs. Governing Boards - What’s the Difference?
-date: 2020-01-29 10:30:00 +1000
+date: 2020-02-12 10:30:00 +1000
 author: Process PA Team
 layout: post
 permalink: /ExecutiveMatters/advisory-vs-governing-boards

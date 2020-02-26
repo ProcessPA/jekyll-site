@@ -1,6 +1,6 @@
 ---
 title: The Due Diligence of Selecting Board Members
-date: 2020-02-26 10:30:00 +1000
+date: 2020-02-26 10:00:00 +1000
 author: Process PA Team
 layout: post
 permalink: /ExecutiveMatters/the-due-diligence-of-selecting-board-members

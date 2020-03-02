@@ -18,8 +18,8 @@ In your email include your:
 
   * Name, Email and Phone number
   * Organization name and Web Site
-  * Agenda from your last meeting
-  * Minutes or Notes from your last meeting. Even just a photo if the notes are still on paper.
+  * Agenda from your last meeting or upcoming meeting if available.
+  * Minutes or Notes from your last meeting.
   * Committee Members Names and Email
 
 All your information will be held in the strictest of confidence according to our [Privacy Policy](http://processpa.com/privacy-policy/).

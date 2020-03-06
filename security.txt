@@ -1,0 +1,5 @@
+---
+layout: null
+permalink: /.well-known/security.txt
+---
+Contact: mailto:support@processpa.com

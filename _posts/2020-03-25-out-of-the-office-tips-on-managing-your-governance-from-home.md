@@ -1,5 +1,5 @@
 ---
-title: Tips on Managing Your Governance From Home
+title: 'Out of the Office: Tips on Managing Your Governance From Home'
 date: 2020-03-25 10:45:00 +1000
 author: Process PA Team
 layout: post
@@ -8,8 +8,6 @@ categories:
   - Governance
   - Management
 ---
-
-**Out of Office**
 
 Working from home has never been more in vogue. Though the practice has been around for decades, the current global health crisis has forced most organisations to take a look at what their workers can achieve from the comfort of their homes. It’s a jarring transition to make, and one that can be demotivating if it isn’t handled carefully.
 

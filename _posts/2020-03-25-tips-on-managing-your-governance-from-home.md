@@ -3,7 +3,7 @@ title: Tips on Managing Your Governance From Home
 date: 2020-03-25 10:45:00 +1000
 author: Process PA Team
 layout: post
-permalink: /ExecutiveMatters/good-governance-vs-bad-governance
+permalink: /ExecutiveMatters/tips-on-managing-your-governance-from-home
 categories:
   - Governance
   - Management

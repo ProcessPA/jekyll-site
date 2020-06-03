@@ -1,7 +1,7 @@
 ---
 title: Common Meeting Mistakes to Avoid
 date: 2020-06-03 10:45:00 +1000
-author: Guest Post - Allie Cooper
+author: Guest Post - Lisa Johnson
 layout: post
 permalink: /ExecutiveMatters/common-meeting-mistakes-to-avoid
 categories:
@@ -9,9 +9,9 @@ categories:
   - Meetings
 ---
 
-![Casual Meeting](/content/posts/2020-06-03-common-meeting-mistakes-to-avoid-title-image.jpg "Casual Meeting - Credit Pixabay")
-
 Having regular board meetings is crucial to the success of most companies. It helps to keep projects on pace, simplifies the introduction of new initiatives, and generally keeps people on the same page. As many benefits as there are to regular meetings though, they can also bring about some bad habits. Here, we’ll identify some common meeting mistakes to avoid so that you can ensure these valuable segments of board members' time are as productive and helpful as they ought to be.
+
+![Casual Meeting](/content/posts/2020-06-03-common-meeting-mistakes-to-avoid-title-image.jpg "Casual Meeting - Credit Pixabay")
 
 ## Giving (or Allowing) Long Speeches
 

@@ -1,6 +1,6 @@
 ---
-title: Circular Motions, Sub Committee Access and Signed Status
-date: 2020-08-21 08:00:00 +1000
+title: 'Circular Motions, Sub Committee Access and Signed Status'
+date: 2020-08-20 22:00:00
 author: Process PA Team
 layout: post
 permalink: /ExecutiveMatters/circular-motions-signed-status
@@ -11,6 +11,7 @@ categories:
 We're constantly working to bring product updates to you to help make your administration easier, keep your directors up to date and connected, and improve transparency. At Process PA we've always had the message, Move your board online, however in light of the current forced remote work around the world, we have adjusted our road map to deliver functionality to help your board connect remotely even better.
 
 # Circular Motions
+
 Flying Minutes, Voting outside a meeting, Circular Resolutions, Decisions or Polls. It goes by many names but all to achieve a similar result, decision approval quickly when a meeting is too far away to wait for. There are differences in processes, rules and policies with nuance between all of the types due to 248A of the Corporations Act, which is a replaceable rule. To avoid confusion we've named it Circular Motion to be consistent with our use of motions and to not overload existing terms where the rules are different for your organisation. It is a simple task now within Process PA for gaining consent. Please check with your own constitution to ensure it will satisfy your requirements or if further steps need to be taken.
 
 Creating a new Circular Motion begins on the Motions page and the New button.
@@ -39,17 +40,20 @@ Once all votes have been collected. You can Close the voting. If this is done be
 
 Depending on your rules, whether it is 100% required or a simple majority or something else, you can then set the resulting Status of the motion.
 
-# Sub Committee Access (Coming Soon)
+# Sub Committee Access
+
 To increase transparency and make access and committee member management easier, we're including the setting "Allow access to parent committee members". This will give the ability for parent committees to have view access to child committees. This is for the scenarios where any Board member should have visibility over sub-committees even if they aren't a member. This is, of course, optional as there are many cases where sub-committees may be private to all but those explicitly added.
 
-![Sub Committee allow access](/content/posts/2020-08-21-sub-committee-allow-access.png "Sub Committee allow access")
+![](/uploads/sub-committee-access.png){: width="797" height="347"}
 
-# Signed Status (Coming Soon)
-Since we introduced online signing this year, after minutes are finalised you can apply your signature to the minutes directly in Process PA. This applies the signature and locks the minutes from any further editing to maintain your confidence in the records. If you have multiple people required to sign, each person can go in and apply their signature. 
+# Signed Status
+
+Since we introduced online signing this year, after minutes are finalised you can apply your signature to the minutes directly in Process PA. This applies the signature and locks the minutes from any further editing to maintain your confidence in the records. If you have multiple people required to sign, each person can go in and apply their signature.
 
 To highlight Signed status of minutes we have adjusted Finalised to show an Amber status and Signed in Green.
 
-![Signed Status](/content/posts/2020-08-21-signed-status.png "Signed Status")
+![](/uploads/signed-status.png){: width="766" height="349"}
 
 # What's Next
+
 Much more is to come, and we would love to hear your feedback. Your input drives the priority of features on our road map.

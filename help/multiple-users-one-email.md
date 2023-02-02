@@ -3,20 +3,26 @@ title: Two members, One email
 layout: markdown-page
 ---
 
-Occassionally we come across the need to have two members added and both share an email address. This common occurs when a husband & wife just share one email account.
+Occassionally we come across the need to have two members added and both share an email address. This common occurs when a couple just share one email account, or we are using a shared inbox like secretary@veryrealemail.com.
 
-Since Process PA uses the email address as the unique identifier this causes a small issues.
+Since Process PA uses the email address as the unique identifier this can cause a small issues.
 
 Fortunately there is a work-around that will often suffice.
 
-Outlook.com (Hotmail, live.com) and Gmail support a little known feature of + (plus) email aliasing.
+Outlook.com (Hotmail, live.com), Office 365 (Exchange), and Gmail support a little known feature of plus aliasing.
 
-What this allows is emails to be addressed to multiple addresses, but come into the same inbox, without any configuration.
+Plus addressing is a feature of email addresses that allows you to add a "+" symbol and any combination of text after your email address' username, before the "@" symbol. For example, if your email address is "example@gmail.com", you could use "example+test@gmail.com" or "example+work@gmail.com" as separate email addresses.
 
-Simplying if your email is smiths@outlook.com, you could use smiths+john@outlook.com or smiths+jane@outlook.com and they would come to the same email.
+This feature can be useful for creating multiple email addresses that all go to the same inbox, but can be used for different purposes or as different users with Process PA.
 
-See more details [here](https://gmail.googleblog.com/2008/03/2-hidden-ways-to-get-more-from-your.html){: target="_blank"} and [here](https://www.ghacks.net/2013/09/17/can-now-use-email-aliases-outlook-com/){: target="_blank"}.
+Here's an example of how you can use plus addressing to create unique email addresses for multiple users:
 
-This is typically used to aid filtering emails.
+Let's say you have a team of five people who need to create accounts for Process PA. You want to use a shared inbox, so that all you don't need to setup explicit inboxes for each team member. Here's an example of how you could set up email addresses for each team member:
 
-In Process PA however, simply add one user with the main email address, and the other with + alaising. They will both receive an email addressed to them if their email provider supports plus aliasing and can both log in and register attendance independently.
+ - Team member 1: team+member1@example.com
+ - Team member 2: team+member2@example.com
+ - Team member 3: team+member3@example.com
+ - Team member 4: team+member4@example.com
+ - Team member 5: team+member5@example.com
+
+All of the above email addresses will be delivered to the same inbox as "team@example.com" , but you can use the plus addressing to add multiple unique member accounts in Process PA with only one email inbox. That allows each member to have independent logins and their name in the minutes.

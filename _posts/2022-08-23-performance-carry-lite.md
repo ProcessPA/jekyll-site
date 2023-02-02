@@ -78,3 +78,15 @@ Overall, Lite mode is an excellent tool for directors who need to stay on top of
 You can access it from the link&nbsp;[https://app.processpa.com/lite](https://app.processpa.com/lite).
 
 ![](/uploads/2022-08-23-lite-mode.png){: width="1275" height="592"}
+
+# API Integration
+
+Process PA's API integration allows you to seamlessly connect the platform with your existing systems and automate various functions. With the API, you can easily integrate Process PA into your workflow, eliminating the need for manual data entry and reducing the chances of errors.
+
+The API provides access to all of the data stored in Process PA, allowing you to retrieve information, create new records, and update existing ones. This makes it easy to integrate Process PA into your existing systems and workflows, ensuring that all of your data is up-to-date and accurate.
+
+In addition to data integration, the API also provides access to a wide range of functions, including meeting management, document management, and action management. This means that you can automate tasks such as scheduling meetings, sending out agendas, and updating action statuses, freeing up valuable time and resources.
+
+Whether you are looking to improve your workflow, increase efficiency, or reduce the risk of errors, Process PA's API integration is the solution you need. With its powerful features, developer-friendly design, and comprehensive documentation, the API is the perfect tool for businesses of all sizes looking to streamline their processes and work more efficiently.
+
+Contact us if you would like to integrate with Process PA.

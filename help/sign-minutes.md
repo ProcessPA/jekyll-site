@@ -2,7 +2,6 @@
 title: Sign your minutes
 layout: markdown-page
 ---
-Once minutes have been confirmed, they can be signed by Administrator users.
 
 You can sign your finalized minutes directly within Process PA. This feature streamlines the minute signing process and ensures that all records are secure and tamper-proof. By applying your signature, the minutes become locked and can no longer be edited, giving you the confidence that your records are accurate and complete.
 
@@ -11,12 +10,11 @@ If your organization requires multiple signatures, each person (must be an Admin
 ## Steps
 
 1. Open Finalized Minutes Preview
-2. Click the Sign button
+2. Click the Sign button and OK to the prompt
    1. If you have not uploaded your signature, you will be redirect to upload it
-   2. Upload your signature
+   2. Click Upload and select your signature from 
    3. Click Back
-   4. Click Sign
-   5. Click OK to Sign
+   4. Click Sign and OK to the prompt
 3. Preview is updated with Signature and minutes are locked for no more editing
 
-![](/uploads/signature.webm)
+<div class="container my-5"><div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="/uploads/signature.webm" allowfullscreen=""></iframe></div></div>

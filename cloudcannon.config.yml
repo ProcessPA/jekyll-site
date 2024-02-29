@@ -6,6 +6,10 @@ paths:
   layouts: _layouts
   includes: _includes
 collections_config: {}
+_enabled_editors:
+  - visual
+  - content
+  - data
 _inputs:
   categories:
     type: multiselect

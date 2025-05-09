@@ -10,64 +10,69 @@ layout: markdown-page
 	</div>
 </div>
 
-# Creating New Members in Your Committee
-
 ## Overview
-This guide provides simple, step-by-step instructions on how to create different types of members in your committee, including Admin members, Normal members, and members with specific roles such as President, Vice President, Treasurer, and Secretary. You will also learn how to add members with various security levels, ensuring that they have the appropriate access.
+
+This guide outlines the steps to create various types of committee members within your organization’s system. You can add members with different security roles, including Admin, Normal, Email-Only, No-Access, and specific roles such as President, Vice President, Treasurer, and Secretary. Each member type has its specific functionalities, allowing you to manage access and roles effectively.
 
 ## Step-by-Step Guide
 
-### 1. Create A New Admin Member
-- Open the members page for your active committee: `membersPage.open(testStateService.activeCommitteeId)`.
-- Add a new member with the role of Admin: `membersPage.createMember(SecurityRole.Admin, 4)`.
-- The member's role will be verified to ensure they have Admin privileges.
-- Close the members page: `membersPage.close()`.
+### Creating A New Admin Member
 
-### 2. Create A New Normal Member
-- Open the members page for your active committee: `membersPage.open(testStateService.activeCommitteeId)`.
-- Add a new member with the role of Normal: `membersPage.createMember(SecurityRole.Normal, 4)`.
-- Verify that the member has been assigned the Normal role.
-- Close the members page: `membersPage.close()`.
+1. Open the members page for your active committee by using the command `membersPage.open(testStateService.activeCommitteeId)`.
+2. Create a new member with the Admin security role by using the command `membersPage.createMember(SecurityRole.Admin, 4)`.
+3. Confirm the member's security role matches Admin by expecting `added.securityRole` to be equal to `EnumUtility.getKey(SecurityRole, SecurityRole.Admin)`.
+4. Close the members page with `membersPage.close()`.
 
-### 3. Create A New Email-Only Member
-- Open the members page for your active committee: `membersPage.open(testStateService.activeCommitteeId)`.
-- Create an Email-Only member: `membersPage.createMember(SecurityRole.Email, 4)`.
-- Ensure that the member has the Email role.
-- Close the members page: `membersPage.close()`.
+### Creating A New Normal Member
 
-### 4. Create A New No-Access Member
-- Open the members page for your active committee: `membersPage.open(testStateService.activeCommitteeId)`.
-- Add a No-Access member: `membersPage.createMember(SecurityRole.None, 4)`.
-- Verify the No-Access role is assigned to the member.
-- Close the members page: `membersPage.close()`.
+1. Open the members page for your active committee.
+2. Create a new member with the Normal security role.
+3. Confirm the member's security role matches Normal.
+4. Close the members page.
 
-### 5. Create A New Normal Member As President
-- Open the members page for your active committee: `membersPage.open(testStateService.activeCommitteeId)`.
-- Create a Normal member with the role of President: `membersPage.createMember(SecurityRole.Normal, MemberRole.President)`.
-- Verify the member is correctly assigned the President role.
-- Close the members page: `membersPage.close()`.
+### Creating A New Email-Only Member
 
-### 6. Create A New Normal Member As Vice President
-- Open the members page for your active committee: `membersPage.open(testStateService.activeCommitteeId)`.
-- Add a Normal member with a Vice President role: `membersPage.createMember(SecurityRole.Normal, MemberRole.VicePresident)`.
-- Ensure that the member has the Vice President title.
-- Close the members page: `membersPage.close()`.
+1. Open the members page for your active committee.
+2. Create a new member with the Email-Only security role.
+3. Confirm the member's security role matches Email-Only.
+4. Close the members page.
 
-### 7. Create A New Normal Member As Treasurer
-- Open the members page for your active committee: `membersPage.open(testStateService.activeCommitteeId)`.
-- Create a Normal member with the role of Treasurer: `membersPage.createMember(SecurityRole.Normal, MemberRole.Treasurer)`.
-- Verify that the member is assigned the Treasurer role.
-- Close the members page: `membersPage.close()`.
+### Creating A New No-Access Member
 
-### 8. Create A New Normal Member As Secretary
-- Open the members page for your active committee: `membersPage.open(testStateService.activeCommitteeId)`.
-- Add a Normal member with the Secretary role: `membersPage.createMember(SecurityRole.Normal, MemberRole.Secretary)`.
-- Check that the member has the correct title of Secretary.
-- Close the members page: `membersPage.close()`.
+1. Open the members page for your active committee.
+2. Create a new member with No-Access security role.
+3. Confirm the member's security role matches No-Access.
+4. Close the members page.
 
-Following these steps will help you effectively manage your committee's membership and ensure that each member has the correct responsibilities.
+### Creating A New Normal Member As President
+
+1. Open the members page for your active committee.
+2. Create a new Normal member with the President role.
+3. Confirm the member's role is set to President.
+4. Close the members page.
+
+### Creating A New Normal Member As Vice President
+
+1. Open the members page for your active committee.
+2. Create a new Normal member with the Vice President role.
+3. Confirm the member's role is set to Vice President.
+4. Close the members page.
+
+### Creating A New Normal Member As Treasurer
+
+1. Open the members page for your active committee.
+2. Create a new Normal member with the Treasurer role.
+3. Confirm the member's role is set to Treasurer.
+4. Close the members page.
+
+### Creating A New Normal Member As Secretary
+
+1. Open the members page for your active committee.
+2. Create a new Normal member with the Secretary role.
+3. Confirm the member's role is set to Secretary.
+4. Close the members page.
 
 #### Page Details
-Updated on April 11th, 2025
+Updated on May 07th, 2025
 
 **Note**: Documentation Generated by AI, mistakes may be present.

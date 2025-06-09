@@ -1,5 +1,5 @@
 ---
-title: Create initial organization and committee
+title: Create an organization and committee
 layout: markdown-page
 ---
 ## Overview

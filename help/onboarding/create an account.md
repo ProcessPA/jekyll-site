@@ -1,5 +1,5 @@
 ---
-title: Password register and persist authentication (SENDS EMAIL)
+title: Create an Account
 layout: markdown-page
 ---
 ## Overview
@@ -8,35 +8,22 @@ This guide outlines the process of registering for an account and ensuring authe
 
 ## Step-by-Step Guide
 
-### Step 1: Clear Existing Cookies
-1. Open your web browser.
-2. Clear any previously stored cookies to avoid conflicts during the registration process.
-
-### Step 2: Open the Registration Page
-1. Navigate to the `password register` page of your application.
-
-### Step 3: Fill Out Personal Information
+### Step 1: Open the Registration Page
+1. Go to the [Registration Page](https://app.processpa.com/authenticate/password-login)
+2. In the bottom left corner of the log in menu should be a 'Register as new user' link
+### Step 2: Fill Out Personal Information
 1. Enter your first name in the designated field.
 2. Enter your last name in the designated field.
 3. Input your email address in the email field.
 
-### Step 4: Create a Password
+### Step 3: Create a Password
 1. Type your desired password into the password field.
 2. Re-enter the same password in the confirm password field for verification.
 
 ![Image](../media\onboarding\password_register_and_persist_authentication_(sends_email)\Password_register_and_persist_authentication_(SENDS_EMAIL)_1.png)
 
-### Step 5: Submit the Registration Form
+### Step 4: Submit the Registration Form
 1. Click on the submit button to send your registration details.
-
-### Step 6: Wait for the Home Page to Load
-1. Remain on the page until the home page is fully loaded after submission.
-
-### Step 7: Save Your Session
-1. Save your session information to retain your login details for future access.
-
-### Step 8: Close the Home Page
-1. Exit the home page when you are ready. 
 
 By following these steps, you will successfully register your account and begin using your new credentials.
 ## Video 
@@ -45,8 +32,6 @@ By following these steps, you will successfully register your account and begin 
 		<iframe class="embed-responsive-item" src="..\media\onboarding\password_register_and_persist_authentication_(sends_email)\Password_register_and_persist_authentication_(SENDS_EMAIL).webm" allowfullscreen></iframe>
 	</div>
 </div>
-
-
 
 #### Page Details
 Updated on June 09th, 2025

@@ -8,30 +8,21 @@ Pausing a meeting can be an essential feature when you need to temporarily halt 
 
 ## Step-by-Step Guide
 
-### Open The Meeting Page
-1. Navigate to the meeting application.
-2. Locate the `activeMeetingId` for the meeting you wish to pause.
-3. Open the specific meeting using the `activeMeetingId`.
-
 ### Ensure The Meeting Has Started
 1. Wait until you see confirmation that the meeting has started.
 2. Check the meeting state to ensure it is currently in progress.
 
 ### Pause The Meeting
-1. Look for the option to pause the meeting on your screen.
+1. Go to the toolbar and find the pause button
 2. Click on the pause button to temporarily stop the meeting.
 
 ### Verify The Meeting State
-1. Check the state of the meeting to confirm it is now paused.
-2. Ensure that the display indicates the meeting is in a paused state.
+1. Ensure that the timer is stopped and the 'Pause' button is now an 'Resume' button
 
-### Close The Meeting Page
-1. Once you have confirmed the meeting is paused, proceed to close the meeting page.
-2. Make sure that all necessary information is saved before closing. 
-
- 
- 
- 
+### Resume The Meeting
+1. Click the 'Resume' button to then resume the meeting
+   
+![Image](../media\meetings\resume_a_meeting\Resume_a_meeting_1.png) 
 
 ## Video 
 <div class="container my-5">
@@ -39,8 +30,6 @@ Pausing a meeting can be an essential feature when you need to temporarily halt 
 		<iframe class="embed-responsive-item" src="..\media\meetings\pause_a_meeting\Pause_a_meeting.webm" allowfullscreen></iframe>
 	</div>
 </div>
-
-
 
 #### Page Details
 Updated on June 09th, 2025

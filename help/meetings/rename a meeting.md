@@ -1,5 +1,5 @@
 ---
-title: Edit the title of the selected meeting
+title: Rename a meeting
 layout: markdown-page
 ---
 ### Overview
@@ -19,20 +19,12 @@ This guide will help you change the title of a selected meeting in your meetings
 1. After updating the title, ensure that the meeting's title reflects the new name you entered.
 2. Check that the title now displays as `Renamed Meeting`.
 
-#### Close The Meetings Page
-1. Once you have confirmed the title change, close the meetings management page. 
-
- 
-
-
 ## Video 
 <div class="container my-5">
 	<div class="embed-responsive embed-responsive-16by9">
 		<iframe class="embed-responsive-item" src="..\media\meetings\edit_the_title_of_the_selected_meeting\Edit_the_title_of_the_selected_meeting.webm" allowfullscreen></iframe>
 	</div>
 </div>
-
-
 
 #### Page Details
 Updated on June 09th, 2025

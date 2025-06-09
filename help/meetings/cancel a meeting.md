@@ -2,40 +2,69 @@
 title: Cancel a meeting
 layout: markdown-page
 ---
+# Canceling Committee Meetings
+
 ## Overview
 
-This guide provides simple steps to cancel a meeting using different approaches. Whether you want to cancel a meeting without a replacement, replace it with another meeting of the same type, or create a copy of the meeting, you will find clear instructions here.
+This guide explains how to cancel scheduled meetings when they can no longer take place as planned. Canceling a meeting properly ensures participants are notified and your committee's schedule remains accurate.
 
-## Step-by-Step Guide
+## When to Cancel a Meeting
 
-### Cancel A Meeting
+You should cancel a meeting when:
+- Key participants cannot attend and the meeting cannot proceed
+- Urgent circumstances prevent the meeting from occurring
+- Required information or materials are not ready
+- External factors make the meeting impossible (weather, technical issues, etc.)
+- The meeting's purpose is no longer relevant or necessary
 
-1. Open the `meetingPage` by entering the active meeting ID.
-2. Close the `meetingPage` after confirming the cancellation.
+## Difference Between Canceling and Deleting
 
-### Cancel A Meeting (No Replacement)
+**Canceling a Meeting** - Marks the meeting as cancelled while keeping a record that it was scheduled. Participants receive cancellation notifications.
 
-1. Open the `meetingsPage` by entering the active committee ID.
-2. Select the meeting you want to cancel (in this case, meeting number '1').
-3. Choose to cancel the meeting without replacing it.
-4. Validate the remaining meetings to ensure your changes are reflected (check meetings at positions 0 and 2).
-5. Close the `meetingsPage` after cancellation.
+**Deleting a Meeting** - Completely removes the meeting from the system as if it never existed.
 
-### Cancel A Meeting (Replace With Same Type)
+Most situations call for cancellation rather than deletion, as it maintains a proper record and communicates changes to participants.
 
-1. Open the `meetingsPage` using the active committee ID.
-2. Select the meeting you want to cancel (meeting number '1').
-3. Choose to cancel the meeting and replace it with another meeting of the same type.
-4. Validate the remaining meetings to confirm the changes (check meetings at positions 0 and 6).
-5. Close the `meetingsPage` after making the changes.
+## How to Cancel a Meeting
 
-### Cancel A Meeting (Replace With Copy)
+### Accessing Your Meetings
+Navigate to your committee's meetings page using your committee ID or by selecting your committee from the meeting page. This will display all scheduled meetings for your committee.
 
-1. Open the `meetingsPage` by entering the active committee ID.
-2. Select the meeting you want to cancel (meeting number '1').
-3. Choose to cancel the meeting and replace it with a copy of the same meeting.
-4. Validate the meetings to ensure the copied meeting appears correctly (check meetings at positions 0 and 7).
-5. Close the `meetingsPage` after cancellation and confirmation.
+### Locating the Meeting to Cancel
+Browse through your meeting list to find the specific meeting you need to cancel. Look for:
+- The meeting title or description
+- Meeting date and time
+- Meeting type (General, Special, Annual)
+
+Click on or select the meeting you want to cancel to access its options.
+
+### Initiating the Cancellation
+1. Look for the "Cancel" option associated with your selected meeting either in the toolbar or context menu.
+
+2. Click on the cancel option.
+
+### Confirming the Cancellation
+1. The system will typically ask you to confirm that you want to cancel the meeting. This prevents accidental cancellations and gives you a chance to review your decision.
+
+2. Confirm that you want to proceed with the cancellation by clicking the "Cancel Meeting" button.
+
+### Verifying the Cancellation
+After confirming, check that:
+- The meeting now shows as "Cancelled" in your meetings list
+- Other scheduled meetings remain unaffected
+- The meeting status has been properly updated
+
+## What Happens When You Cancel
+
+**Immediate Changes:**
+- Meeting status changes to "Cancelled"
+- Automated reminders stop being sent
+- Meeting room reservations are released
+
+**Record Keeping:**
+- The meeting remains in your system as a cancelled event
+- Meeting history and any prepared materials are preserved
+- Reports will show the meeting was scheduled but cancelled
 
 #### Page Details
 Updated on June 09th, 2025

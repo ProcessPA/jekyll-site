@@ -1,5 +1,5 @@
 ---
-title: Explicitly finalize a meeting, then complete the operation
+title: finalize a meeting
 layout: markdown-page
 ---
 ## Overview
@@ -8,25 +8,15 @@ This guide outlines the process for explicitly finalizing a meeting and completi
 
 ## Step-by-Step Guide
 
-### Step 1: Open The Meeting
-1. Navigate to the meeting management page.
-2. Search for and select the active meeting you want to finalize by its unique ID.
-
-### Step 2: Wait For The Meeting State To Be Closed
+### Step 1: Ensure the Meeting is Closed
 1. Check the status of the meeting to confirm that it has closed.
-2. Ensure all participants have left the meeting.
 
-### Step 3: Finalize The Meeting
-1. Click on the option to finalize the meeting.
+### Step 2: Finalize The Meeting
+1. Click on the option to finalize the meeting from the toolbar.
 2. Wait for confirmation that the meeting has been finalized.
 
-### Step 4: Verify The Meeting State
-1. Check the current state of the meeting.
-2. Ensure that the meeting state now indicates it is finalized.
+**Note**: A meeting must have the person who opened it filled in before it can be finalized.
 
-### Step 5: Close The Meeting Page
-1. Once the meeting status is confirmed as finalized, exit the meeting management page.
-2. Make sure all changes are saved before closing.
 ## Video 
 <div class="container my-5">
 	<div class="embed-responsive embed-responsive-16by9">

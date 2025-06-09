@@ -4,68 +4,33 @@ layout: markdown-page
 ---
 ## Overview
 
-This guide provides step-by-step instructions for starting a meeting using the meeting management system. You will learn how to initiate a meeting multiple times in a sequence. The process involves checking the current state of the meeting, starting it, and confirming that it has started successfully. 
+This guide walks you through launching meetings using your meeting management system. You'll learn how to check meeting readiness, start meetings properly, and verify they're running successfully.
 
-## Step-by-Step Guide
+## Understanding Meeting States
 
-### Starting An Initial Meeting
+Before starting any meeting, it's helpful to understand the different states your meeting can be in:
 
-1. **Open The Meeting Page**
-   - Navigate to the meeting page for your specific meeting by entering the meeting ID.
-   
-2. **Check Meeting State**
-   - Wait until the meeting is in the "Unstarted" state before proceeding.
-   
-3. **Start The Meeting**
-   - Click on the option to start the meeting.
-   
-4. **Confirm Meeting Started**
-   - Ensure the meeting state changes to "Started," indicating that the meeting is now live.
-   
-5. **Close The Meeting Page**
-   - Exit the meeting page once you have confirmed the meeting status.
+- **Scheduled** - Meeting is scheduled but hasn't begun yet
+- **Started** - Meeting is currently active and participants can join
+- **Paused** - Meeting is currently paused (the timer stops)
+- **Finalised** - Meeting has concluded and is no longer accessible
 
-### Starting A Meeting For The 2nd Time
+## How to Start a Meeting
 
-1. **Reopen The Meeting Page**
-   - Again, enter the meeting ID to access the meeting page.
-   
-2. **Verify Meeting State**
-   - Wait for the meeting to be in the "Unstarted" state again.
-   
-3. **Launch The Meeting**
-   - Click the button to start the meeting for the second time.
-   
-4. **Check Meeting Status**
-   - Confirm the meeting status shows "Started."
-   
-5. **Close The Meeting Page**
-   - Exit the page after verifying the meeting has started.
+### Accessing Your Meeting
+Find your meeting by selecting it from your scheduled meetings list. This will take you to the meeting management page where you can see all the meeting details and controls.
 
-### Starting A Meeting For The 3rd Time
+### Checking Meeting Readiness
+Before you can start a meeting, make sure it shows as "Scheduled" in the meeting status area.
 
-1. **Open The Meeting Page Once More**
-   - Enter the meeting ID to access it on the meeting page.
-   
-2. **Monitor Meeting State**
-   - Wait until the meeting indicates it is "Unstarted."
-   
-3. **Start The Meeting Again**
-   - Initiate the meeting for the third time by clicking the start option.
-   
-4. **Verify The Meeting Is Started**
-   - Make sure the state confirms the meeting is "Started."
-   
-5. **Close The Meeting Page**
-   - Exit the meeting page after confirming the meeting status.
+### Launching the Meeting
+Once you've confirmed the meeting is ready to start, look for the "Start" button in the toolbar and click it. Then the meeting will be ready to commence.
 ## Video 
 <div class="container my-5">
 	<div class="embed-responsive embed-responsive-16by9">
 		<iframe class="embed-responsive-item" src="..\media\meetings\start_a_meeting\Start_a_meeting.webm" allowfullscreen></iframe>
 	</div>
 </div>
-
-
 
 #### Page Details
 Updated on June 09th, 2025

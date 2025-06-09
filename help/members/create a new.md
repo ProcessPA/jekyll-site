@@ -2,7 +2,59 @@
 title: Create a new admin member
 layout: markdown-page
 ---
+## Overview
 
+This document provides instructions on how to create different types of members for your committee. The types of members you can create include Admin, Normal, Email-Only, No-Access, and Normal members with specific roles such as President, Vice President, Treasurer, and Secretary. Follow the step-by-step guide to successfully add these members.
+
+## Step-by-Step Guide
+
+### Create A New Admin Member
+1. Open the members page for your active committee.
+2. Create an admin member.
+3. Verify that the member's role is set to "Admin."
+4. Close the members page.
+
+### Create A New Normal Member
+1. Open the members page for your active committee.
+2. Create a normal member.
+3. Confirm that the member's role is "Normal."
+4. Close the members page.
+
+### Create A New Email-Only Member
+1. Open the members page for your active committee.
+2. Create an email-only member.
+3. Ensure that the member's role is "Email."
+4. Close the members page.
+
+### Create A New No-Access Member
+1. Open the members page for your active committee.
+2. Create a no-access member.
+3. Check that the member's role is "None."
+4. Close the members page.
+
+### Create A New Normal Member As President
+1. Open the members page for your active committee.
+2. Create a normal member and assign the President role.
+3. Verify that the member's role is "President."
+4. Close the members page.
+
+### Create A New Normal Member As Vice President
+1. Open the members page for your active committee.
+2. Create a normal member and assign the Vice President role.
+3. Confirm that the member's role is "Vice President."
+4. Close the members page.
+
+### Create A New Normal Member As Treasurer
+1. Open the members page for your active committee.
+2. Create a normal member and assign the Treasurer role.
+3. Ensure that the member's role is "Treasurer."
+4. Close the members page.
+
+### Create A New Normal Member As Secretary
+1. Open the members page for your active committee.
+2. Create a normal member and assign the Secretary role.
+3. Check that the member's role is "Secretary."
+4. Close the members page.
 ## Video 
 <div class="container my-5">
 	<div class="embed-responsive embed-responsive-16by9">
@@ -10,69 +62,9 @@ layout: markdown-page
 	</div>
 </div>
 
-## Overview
 
-This guide outlines the steps to create various types of committee members within your organization’s system. You can add members with different security roles, including Admin, Normal, Email-Only, No-Access, and specific roles such as President, Vice President, Treasurer, and Secretary. Each member type has its specific functionalities, allowing you to manage access and roles effectively.
-
-## Step-by-Step Guide
-
-### Creating A New Admin Member
-
-1. Open the members page for your active committee by using the command `membersPage.open(testStateService.activeCommitteeId)`.
-2. Create a new member with the Admin security role by using the command `membersPage.createMember(SecurityRole.Admin, 4)`.
-3. Confirm the member's security role matches Admin by expecting `added.securityRole` to be equal to `EnumUtility.getKey(SecurityRole, SecurityRole.Admin)`.
-4. Close the members page with `membersPage.close()`.
-
-### Creating A New Normal Member
-
-1. Open the members page for your active committee.
-2. Create a new member with the Normal security role.
-3. Confirm the member's security role matches Normal.
-4. Close the members page.
-
-### Creating A New Email-Only Member
-
-1. Open the members page for your active committee.
-2. Create a new member with the Email-Only security role.
-3. Confirm the member's security role matches Email-Only.
-4. Close the members page.
-
-### Creating A New No-Access Member
-
-1. Open the members page for your active committee.
-2. Create a new member with No-Access security role.
-3. Confirm the member's security role matches No-Access.
-4. Close the members page.
-
-### Creating A New Normal Member As President
-
-1. Open the members page for your active committee.
-2. Create a new Normal member with the President role.
-3. Confirm the member's role is set to President.
-4. Close the members page.
-
-### Creating A New Normal Member As Vice President
-
-1. Open the members page for your active committee.
-2. Create a new Normal member with the Vice President role.
-3. Confirm the member's role is set to Vice President.
-4. Close the members page.
-
-### Creating A New Normal Member As Treasurer
-
-1. Open the members page for your active committee.
-2. Create a new Normal member with the Treasurer role.
-3. Confirm the member's role is set to Treasurer.
-4. Close the members page.
-
-### Creating A New Normal Member As Secretary
-
-1. Open the members page for your active committee.
-2. Create a new Normal member with the Secretary role.
-3. Confirm the member's role is set to Secretary.
-4. Close the members page.
 
 #### Page Details
-Updated on May 07th, 2025
+Updated on June 09th, 2025
 
 **Note**: Documentation Generated by AI, mistakes may be present.

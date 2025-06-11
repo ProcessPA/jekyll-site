@@ -10,46 +10,20 @@ This guide will walk you through the steps to reopen a meeting that has been clo
 
 ### Step 1: Open The Meeting
 
-1. Navigate to the meeting management page.
-2. Enter the ID of the meeting you want to reopen.
-3. Click on the `Open Meeting` option.
+1. Navigate to the meetings page.
+2. Open the meeting that should be reopened
 
-### Step 2: Wait For The Meeting To Be Closed
+**Note**: A red pill should be on the meeting that says closed, this is essential as a meeting must be closed to be reopened, otherwise the meeting should just be opened (Refer to [Open A Meeting](open%20a%20meeting))
 
-1. Observe the status of the meeting.
-2. Ensure that the meeting state displays as `Closed`. 
+### Step 2: Reopen The Meeting
 
-### Step 3: Reopen The Meeting
+1. Click on `Reopen` to start the meeting again.
 
-1. Look for the option to `Reopen Meeting`.
-2. Click on `Reopen Meeting` to start the meeting again.
+## Resuming The Meeting after Reopening
+If the meeting is being continiued ensure that the `Resume` button is pressed to resume the meeting timer to continue the meeting if needed 
 
-### Step 4: Verify Meeting State
-
-1. Check the status of the meeting after reopening.
-2. Confirm that the meeting state is now `Paused`.
-
-### Step 5: Close The Meeting (Optional)
-
-1. If needed, you can close the meeting again by selecting the `Close Meeting` option.
-2. This is useful if you need to pause or end the meeting session. 
-
-### Step 6: Repeat Steps If Necessary
-
-1. If you need to reopen the meeting again for a second time, repeat Steps 1 to 5.
-2. Follow the same process to ensure the meeting state is properly reflected. 
 
 ![Image](../media\meetings\re_open_a_meeting\Re_open_a_meeting_1.png)
-
-
-## Video 
-<div class="container my-5">
-	<div class="embed-responsive embed-responsive-16by9">
-		<iframe class="embed-responsive-item" src="..\media\meetings\re_open_a_meeting\Re_open_a_meeting.webm" allowfullscreen></iframe>
-	</div>
-</div>
-
-
 
 #### Page Details
 Updated on June 09th, 2025

@@ -27,12 +27,6 @@ This guide outlines the steps to assign attendance and apology responses for mee
 1. Ensure that the four remaining members do not have any attendance or apology responses assigned to them.
 2. Verify that their statuses remain unchanged, indicating no response.
 
-### 5. Close The Meeting Page
-1. After all assignments have been made, locate the option to close the meeting.
-2. Confirm that you want to save all changes and exit the meeting detail view. 
-
-
-
 #### Page Details
 Updated on June 09th, 2025
 

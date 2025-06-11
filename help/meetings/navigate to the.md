@@ -1,50 +1,29 @@
 ---
-title: Navigate to the request attendance page
+title: Navigating to Other Pages from a Meeting
 layout: markdown-page
 ---
-Overview
---------
+## Overview
 This guide provides simple instructions on how to navigate various pages related to your meetings. Whether you need to request attendance, send agenda reports, view email history, or send meeting minutes, these steps will help you do it easily.
 
-Step-by-Step Guide
--------------------
+## Step-by-Step Guide
 
 ### Navigate To The Request Attendance Page
 1. Open the meeting page for your active meeting.
 2. Find and click on the option to request attendance.
-3. Wait for the Request Attendance page to load completely.
-4. Close the Request Attendance page when finished.
 
 ![Image](../media\meetings\navigate_to_the\Navigate_to_the_request_attendance_page_1.png)
 
 ### Navigate To The Send Agenda Page
 1. Open the meeting page for your active meeting.
 2. Look for the option to send the agenda report and click on it.
-3. Wait for the Send Agenda page to load completely.
-4. Close the Send Agenda page when done.
 
 ### Navigate To The Email History Page
 1. Open the meeting page for your active meeting.
 2. Click on the Email History option to view past emails.
-3. Wait for the Email History page to load completely.
-4. Close the Email History page when you have finished.
-
-
 
 ### Navigate To The Send Minutes Page
 1. Open the meeting page for your active meeting.
 2. Find the option to send the meeting minutes report and click it.
-3. Wait for the Send Minutes page to load completely.
-4. Close the Send Minutes page once you are done.
-
-
-## Video 
-<div class="container my-5">
-	<div class="embed-responsive embed-responsive-16by9">
-		<iframe class="embed-responsive-item" src="..\media\meetings\navigate_to_the\Navigate_to_the_request_attendance_page.webm" allowfullscreen></iframe>
-	</div>
-</div>
-
 
 
 #### Page Details

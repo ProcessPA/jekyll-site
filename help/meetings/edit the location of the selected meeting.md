@@ -10,23 +10,11 @@ This guide will help you update the location of a selected meeting in your appli
 
 ### Open The Meetings Page
 1. Access the meetings page associated with your active committee.
-   - Navigate to the meetings section by using your committee ID.
 
 ### Set A New Meeting Location
 1. Select the specific meeting you want to change.
-   - Use the meeting identifier to locate it (`0` in this case).
 2. Update the meeting's location.
-   - Enter the new location you desire, for example, `Revised Location`.
-
-### Confirm The Location Update
-1. Check that the new location has been successfully updated.
-   - Ensure that the meeting's location now reflects the revised setting.
-
-### Close The Meetings Page
-1. Once you have confirmed the update, exit the meetings page.
-   - Make sure to save any changes if prompted before closing. 
-
- 
+   - Enter the new location you desire
 
 Following these steps will ensure that you successfully edit the location of your selected meeting.
 ## Video 

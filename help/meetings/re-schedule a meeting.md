@@ -10,36 +10,27 @@ Re-scheduling a meeting can help accommodate changes in availability or prioriti
 
 ### Open the Meeting Details
 
-1. Locate the meeting you wish to re-schedule. This could be found in your calendar under the folder named `Upcoming Meetings`.
+1. Locate the meeting you wish to re-schedule. This could be found in the meetings tab.
 2. Click on the meeting that you want to change. This will open its details page.
 
-### Close the Meeting Details
+### Edit the Meeting Details
 
-1. After reviewing the meeting details, you may need to exit this page to make your changes.
-2. Find the option to close the meeting details, usually represented by an "X" or a "Close" button. Click on it.
+1. On the right side of the screen the meeting details will be displayed, under that section there will be a start time field
+2. Modify the start time to when the meeting should be rescheduled to
 
-### Update the Meeting Time
+### Notifying Members about the Meeting Rescheduling
 
-1. Return to the `Upcoming Meetings` folder and find the re-scheduled meeting entry.
-2. Open the meeting again by clicking on it.
-3. Look for the option to edit or re-schedule the meeting. This could be a button labeled `Edit Meeting`.
-4. Change the date and time to your desired new schedule.
-5. Ensure that all attendees are informed of this change in the invitation.
+1. On the selected meeting click the `Notice` button.
+2. From here choose the recipients of the email.
+3. Add a message to the email.
+4. Click the `Send` button from the toolbar.
 
-### Save Changes
-
-1. After editing the meeting details, find the `Save` button, usually located at the bottom of the page.
-2. Click on `Save` to confirm the changes made to the meeting schedule.
-
-### Notify Attendees
-
-1. To ensure everyone is aware of the new meeting time, look for an option that allows you to notify attendees.
-2. This option may say `Send Update` or `Notify Attendees`. Click it to send out the new schedule to all participants.
-
-### Check for Confirmation
-
-1. After sending the update, you might want to check for confirmations from the attendees.
-2. Make sure they respond so you can keep track of who will be attending the re-scheduled meeting.
+## Video 
+<div class="container my-5">
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe class="embed-responsive-item" src="..\media\meetings\edit_the_scheduled\Edit_the_scheduled_date_of_the_selected_meeting.webm" allowfullscreen></iframe>
+	</div>
+</div>
 
 #### Page Details
 Updated on June 09th, 2025

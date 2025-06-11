@@ -7,25 +7,10 @@ This guide helps you understand how to preview a specific meeting in the meeting
 
 ## Step-by-Step Guide
 
-### Open The Meetings Page
-1. Launch the meetings application on your device.
-2. Navigate to the meetings page using the active committee ID for your organization.
-
 ### Preview The Selected Meeting
-1. Locate the list of meetings available.
-2. Select the meeting you want to preview by its identifier. For example, use a sample meeting like `Meeting_2023_Agenda`.
-3. Click on the meeting to view more detailed information about it.
-
-### Wait For The Meetings Preview Page
-1. Allow the system some time to load the preview details for the selected meeting.
-2. Ensure that you wait until the preview page displays the meeting's ID and all relevant information.
-
-### Close The Meeting Preview
-1. Once you’ve finished reviewing the meeting details, look for the close or exit option on the preview page.
-2. Click on the close option to return to the meetings list. 
-
-
-
+1. Go to the meetings page
+2. Select the meeting you want to preview
+3. Select the preview button from the toolbar
 
 ## Video 
 <div class="container my-5">
@@ -33,8 +18,6 @@ This guide helps you understand how to preview a specific meeting in the meeting
 		<iframe class="embed-responsive-item" src="..\media\meetings\preview_the_selected_meeting\Preview_the_selected_meeting.webm" allowfullscreen></iframe>
 	</div>
 </div>
-
-
 
 #### Page Details
 Updated on June 09th, 2025

@@ -9,46 +9,20 @@ This guide explains how to configure the opener of a meeting within a business e
 ## Step-by-Step Guide
 
 ### Configuring the Opener of a Meeting
-
-1. **Open the Meeting Page**
-   - Access the meeting page using the active meeting ID.
-
-2. **Wait for the Meeting to Start**
-   - Allow sufficient time for the meeting to reach the "Started" state.
-
-3. **Set the Meeting Opener**
-   - Configure the meeting opener by entering `0` as the opener setting.
-
-4. **Confirm Meeting State**
-   - Check to ensure the meeting state remains "Started."
-
-5. **Close the Meeting Page**
-   - Exit the meeting page after the configuration.
+To set a meeting opener open the first item in the meeting labelled `Meeting Open` and then in the first drop down box next to `Meeting open by` a user can be selected to be assigned as the meeting opener.
 
 ### Configuring the Opener of a Meeting with an Explicit Open Time
+To open a meeting at a specific time, the second field in the meeting open can be modfied to set the time more specifically as needed.
 
-1. **Open the Meeting Page**
-   - Access the meeting page using the active meeting ID.
+### Adding notes to the Meeting Open
+Notes can be added to the meeting opener by clicking onto the add notes section that is located underneath the dropdowns in the `Meeting Open` section.
 
-2. **Wait for the Meeting to Start**
-   - Allow enough time until the meeting reaches the "Started" state.
-
-3. **Set the Meeting Opener with Time**
-   - Configure the meeting opener by entering `1` as the opener setting and specify the time as `12:30`.
-
-4. **Confirm Meeting State**
-   - Verify that the meeting state is still "Started."
-
-5. **Close the Meeting Page**
-   - Exit the meeting page after the configuration.
 ## Video 
 <div class="container my-5">
 	<div class="embed-responsive embed-responsive-16by9">
 		<iframe class="embed-responsive-item" src="..\media\meetings\configure_the_opener_of_a_meeting\Configure_the_opener_of_a_meeting.webm" allowfullscreen></iframe>
 	</div>
 </div>
-
-
 
 #### Page Details
 Updated on June 09th, 2025

@@ -1,0 +1,42 @@
+{% assign colors = "danger,warning,success" | split: "," %}
+{% if include.row_type == "primary" %}
+  {% assign assigned_color = "primary" %}
+{% else %}
+  {% assign color_index = include.column | default: 0 | modulo: 3 %}
+  {% assign assigned_color = colors[color_index] %}
+{% endif %}
+
+<div class="col-md-6 col-lg-4 mb-3">
+    <a href="{{ include.link }}" class="text-decoration-none">
+        <div class="card h-100 shadow-sm bg-{{ include.color | default: assigned_color }} text-white position-relative overflow-hidden help-card-transition">
+            <div class="card-body">
+                <div class="d-flex align-items-center mb-2">
+                    <div class="flex-grow-1">
+                        <h{{ include.heading_level | default: 6 }} class="card-title text-white mb-0">
+                            {{ include.title }}
+                        </h{{ include.heading_level | default: 6 }}>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+
+<style>
+.help-card-transition {
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.help-card-transition:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+}
+
+a:hover {
+    text-decoration: none !important;
+}
+
+a:hover .card-title {
+    text-decoration: none !important;
+}
+</style>

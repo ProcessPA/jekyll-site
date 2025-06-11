@@ -8,8 +8,71 @@ redirect_from:
 ---
 <div class="container">
     <div class="entry-content">
-        
-        <!-- FAQ Section -->
+    
+        <!-- Onboarding Section -->
+        <div class="mb-5">
+            <h3 class="mb-4 text-primary">Onboarding</h3>            <div class="row">
+                {% include help-card.html title="Create an Account" link="help/onboarding/create%20an%20account" heading_level="5" %}
+                {% include help-card.html title="Create An Organization And Committee" link="help/onboarding/create%20an%20organization%20and%20committee" heading_level="5" %}
+                {% include help-card.html title="Browser Compatibility" link="help/browser-compatibility" heading_level="5" %}
+                {% include help-card.html title="Multiple Users, One Email" link="help/multiple-users-one-email" heading_level="5" %}
+                {% include help-card.html title="Sign Minutes" link="help/sign-minutes" heading_level="5" %}
+                {% include help-card.html title="Trust Email Sender" link="help/trust-email-sender" heading_level="5" %}
+            </div>
+        </div>
+
+        <!-- Members Section -->
+        <div class="mb-5">
+            <h3 class="mb-4 text-primary">Members</h3>            <div class="row">
+                {% include help-card.html title="Create A New Member" link="help/members/create%20a%20new%20member" heading_level="5" %}
+            </div>
+        </div>
+
+        <!-- Meetings Section -->
+        <div class="mb-5">
+            <h3 class="mb-4 text-primary">Meetings</h3>            <div class="row">
+                {% include help-card.html title="Create A Meeting" link="help/meetings/create%20a%20meeting" %}
+                {% include help-card.html title="Open A Meeting" link="help/meetings/open%20a%20meeting" %}
+                {% include help-card.html title="Start A Meeting" link="help/meetings/start%20a%20meeting" %}
+                {% include help-card.html title="Pause and Resume A Meeting" link="help/meetings/pause%20and%20resume%20a%20meeting" %}
+                {% include help-card.html title="Close A Meeting" link="help/meetings/close%20a%20meeting" %}
+                {% include help-card.html title="Finalize A Meeting" link="help/meetings/finalize%20a%20meeting" %}
+                {% include help-card.html title="Rename a Meeting" link="help/meetings/rename%20a%20meeting" %}
+                {% include help-card.html title="Reset A Meeting" link="help/meetings/reset%20a%20meeting" %}
+                {% include help-card.html title="Cancel A Meeting" link="help/meetings/cancel%20a%20meeting" %}
+                {% include help-card.html title="Delete A Meeting" link="help/meetings/delete%20a%20meeting" %}
+                {% include help-card.html title="Re-Open A Meeting" link="help/meetings/re-open%20a%20meeting" %}
+                {% include help-card.html title="Configure The Opener Of A Meeting" link="help/meetings/configure%20the%20opener%20of%20a%20meeting" %}
+                {% include help-card.html title="Configure The Next Meeting" link="help/meetings/configure%20the%20next%20meeting" %}
+                {% include help-card.html title="Navigating To Other Pages From A Meeting" link="help/meetings/navigate%20to%20the" %}
+                {% include help-card.html title="Re-Schedule A Meeting" link="help/meetings/re-schedule%20a%20meeting" %}
+                {% include help-card.html title="Edit The Location Of The Selected Meeting" link="help/meetings/edit%20the%20location%20of%20the%20selected%20meeting" %}
+                {% include help-card.html title="Preview The Selected Meeting" link="help/meetings/preview%20the%20selected%20meeting" %}
+                {% include help-card.html title="Assign Attendance And Apology Responses" link="help/meetings/assign%20attendance%20and%20apology%20responses" %}
+                {% include help-card.html title="Send The Minutes" link="help/meetings/send%20the%20minutes" %}
+                {% include help-card.html title="Send The Agenda" link="help/meetings/send%20the%20agenda" %}
+                {% include help-card.html title="Request Attendance From Committee Members" link="help/meetings/request%20attendance%20from%20committee%20members" %}
+                {% include help-card.html title="Navigate From Attendance Request Back To The Meeting Page" link="help/meetings/navigate%20from%20attendance%20request%20back%20to%20the%20origin%20meeting%20page" %}
+            </div>
+        </div>
+
+        <!-- Documents Section -->
+        <div class="mb-5">
+            <h3 class="mb-4 text-primary">Documents</h3>            <div class="row">
+                {% include help-card.html title="Upload A File" link="help/documents/upload%20a%20file" %}
+                {% include help-card.html title="Upload Multiple Files" link="help/documents/upload%20multiple%20files" %}
+                {% include help-card.html title="Download A File" link="help/documents/download%20a%20file" %}
+                {% include help-card.html title="Download Multiple Files" link="help/documents/download%20multiple%20files" %}
+                {% include help-card.html title="Delete A File" link="help/documents/delete%20a%20file" %}
+                {% include help-card.html title="Delete Multiple Files" link="help/documents/delete%20multiple%20files" %}
+                {% include help-card.html title="Move A File" link="help/documents/move%20a%20file" %}
+                {% include help-card.html title="Move Multiple Files" link="help/documents/move%20multiple%20files" %}
+                {% include help-card.html title="Rename A File" link="help/documents/rename%20a%20file" %}
+                {% include help-card.html title="Set A Default Folder" link="help/documents/set%20a%20default%20folder" %}
+            </div>
+        </div>
+
+		<!-- FAQ Section -->
         <div class="mb-5">
             <div class="alert alert-info alert-dismissible fade show shadow-lg" role="alert" id="faq-callout">
                 <div class="row align-items-center">
@@ -26,73 +89,6 @@ redirect_from:
                         </a>
                     </div>
                 </div>
-            </div>
-        </div>
-
-        <!-- Onboarding Section -->
-        <div class="mb-5">
-            <h3 class="mb-4 text-primary">Onboarding</h3>
-            <div class="row">
-                {% include help-card.html title="Create an Account" link="help/onboarding/create%20an%20account" row_type="primary" heading_level="5" %}
-                {% include help-card.html title="Create An Organization And Committee" link="help/onboarding/create%20an%20organization%20and%20committee" row_type="primary" heading_level="5" %}
-                {% include help-card.html title="Browser Compatibility" link="help/browser-compatibility" row_type="primary" heading_level="5" %}
-                {% include help-card.html title="Multiple Users, One Email" link="help/multiple-users-one-email" column="0" heading_level="5" %}
-                {% include help-card.html title="Sign Minutes" link="help/sign-minutes" column="1" heading_level="5" %}
-                {% include help-card.html title="Trust Email Sender" link="help/trust-email-sender" column="2" heading_level="5" %}
-            </div>
-        </div>
-
-        <!-- Members Section -->
-        <div class="mb-5">
-            <h3 class="mb-4 text-primary">Members</h3>
-            <div class="row">
-                {% include help-card.html title="Create A New Member" link="help/members/create%20a%20new%20member" row_type="primary" heading_level="5" %}
-            </div>
-        </div>
-
-        <!-- Meetings Section -->
-        <div class="mb-5">
-            <h3 class="mb-4 text-primary">Meetings</h3>
-            <div class="row">
-                {% include help-card.html title="Create A Meeting" link="help/meetings/create%20a%20meeting" row_type="primary" %}
-                {% include help-card.html title="Open A Meeting" link="help/meetings/open%20a%20meeting" row_type="primary" %}
-                {% include help-card.html title="Start A Meeting" link="help/meetings/start%20a%20meeting" row_type="primary" %}
-                {% include help-card.html title="Pause and Resume A Meeting" link="help/meetings/pause%20and%20resume%20a%20meeting" column="0" %}
-                {% include help-card.html title="Close A Meeting" link="help/meetings/close%20a%20meeting" column="1" %}
-                {% include help-card.html title="Finalize A Meeting" link="help/meetings/finalize%20a%20meeting" column="2" %}
-                {% include help-card.html title="Rename a Meeting" link="help/meetings/rename%20a%20meeting" row_type="primary" %}
-                {% include help-card.html title="Reset A Meeting" link="help/meetings/reset%20a%20meeting" row_type="primary" %}
-                {% include help-card.html title="Cancel A Meeting" link="help/meetings/cancel%20a%20meeting" row_type="primary" %}
-                {% include help-card.html title="Delete A Meeting" link="help/meetings/delete%20a%20meeting" column="0" %}
-                {% include help-card.html title="Re-Open A Meeting" link="help/meetings/re-open%20a%20meeting" column="1" %}
-                {% include help-card.html title="Configure The Opener Of A Meeting" link="help/meetings/configure%20the%20opener%20of%20a%20meeting" column="2" %}
-                {% include help-card.html title="Configure The Next Meeting" link="help/meetings/configure%20the%20next%20meeting" row_type="primary" %}
-                {% include help-card.html title="Navigating To Other Pages From A Meeting" link="help/meetings/navigate%20to%20the" row_type="primary" %}
-                {% include help-card.html title="Re-Schedule A Meeting" link="help/meetings/re-schedule%20a%20meeting" row_type="primary" %}
-                {% include help-card.html title="Edit The Location Of The Selected Meeting" link="help/meetings/edit%20the%20location%20of%20the%20selected%20meeting" column="0" %}
-                {% include help-card.html title="Preview The Selected Meeting" link="help/meetings/preview%20the%20selected%20meeting" column="1" %}
-                {% include help-card.html title="Assign Attendance And Apology Responses" link="help/meetings/assign%20attendance%20and%20apology%20responses" column="2" %}
-                {% include help-card.html title="Send The Minutes" link="help/meetings/send%20the%20minutes" row_type="primary" %}
-                {% include help-card.html title="Send The Agenda" link="help/meetings/send%20the%20agenda" row_type="primary" %}
-                {% include help-card.html title="Request Attendance From Committee Members" link="help/meetings/request%20attendance%20from%20committee%20members" row_type="primary" %}
-                {% include help-card.html title="Navigate From Attendance Request Back To The Meeting Page" link="help/meetings/navigate%20from%20attendance%20request%20back%20to%20the%20origin%20meeting%20page" column="0" %}
-            </div>
-        </div>
-
-        <!-- Documents Section -->
-        <div class="mb-5">
-            <h3 class="mb-4 text-primary">Documents</h3>
-            <div class="row">
-                {% include help-card.html title="Upload A File" link="help/documents/upload%20a%20file" row_type="primary" %}
-                {% include help-card.html title="Upload Multiple Files" link="help/documents/upload%20multiple%20files" row_type="primary" %}
-                {% include help-card.html title="Download A File" link="help/documents/download%20a%20file" row_type="primary" %}
-                {% include help-card.html title="Download Multiple Files" link="help/documents/download%20multiple%20files" column="0" %}
-                {% include help-card.html title="Delete A File" link="help/documents/delete%20a%20file" column="1" %}
-                {% include help-card.html title="Delete Multiple Files" link="help/documents/delete%20multiple%20files" column="2" %}
-                {% include help-card.html title="Move A File" link="help/documents/move%20a%20file" row_type="primary" %}
-                {% include help-card.html title="Move Multiple Files" link="help/documents/move%20multiple%20files" row_type="primary" %}
-                {% include help-card.html title="Rename A File" link="help/documents/rename%20a%20file" row_type="primary" %}
-                {% include help-card.html title="Set A Default Folder" link="help/documents/set%20a%20default%20folder" column="0" %}
             </div>
         </div>
 

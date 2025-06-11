@@ -8,12 +8,11 @@ This guide explains how to add different types of members to your committee. You
 
 ## Member Types and Access Levels
 
-**Admin Members** - Full access to manage all committee functions and settings
-**Normal Members** - Standard access to participate in committee activities  
-**Email-Only Members** - Receive notifications but cannot access committee materials
-**No-Access Members** - Listed as members but have no system access
-
-**Leadership Roles** - Normal members can also be assigned positions like President, Vice President, Treasurer, or Secretary
+- **Admin Members** - Full access to manage all committee functions and settings
+- **Normal Members** - Standard access to participate in committee activities  
+- **Email-Only Members** - Receive notifications but cannot access committee materials
+- **No-Access Members** - Listed as members but have no system access
+- **Leadership Roles** - Normal members can also be assigned positions like President, Vice President, Treasurer, or Secretary
 
 ## How to Add Members
 

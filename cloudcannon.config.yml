@@ -5,7 +5,6 @@ paths:
   data: _data
   layouts: _layouts
   includes: _includes
-collections_config: {}
 _enabled_editors:
   - visual
   - content
@@ -23,10 +22,11 @@ _inputs:
       allow_create: true
       empty_type: array
     cascade: true
-_select_data: {}
-_structures: {}
-_editables: {}
 data_config: {}
 editor:
   default_path:
+source_editor:
+  tab_size: 2
+  theme: monokai
+  show_gutter: true
 timezone: Etc/UTC

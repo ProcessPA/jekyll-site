@@ -1,0 +1,48 @@
+
+<div class="col-md-6 col-lg-4 mb-3">
+    <a href="{{ include.link }}" class="text-decoration-none">
+        <div class="card h-100 shadow-sm bg-primary text-white position-relative overflow-hidden help-card-transition">
+            <div class="card-body">
+                <div class="d-flex align-items-center mb-2">
+                    <div class="flex-grow-1">
+                        <h{{ include.heading_level | default: 6 }} class="card-title text-white mb-0">
+                            {{ include.title }}
+                        </h{{ include.heading_level | default: 6 }}>
+                    </div>
+                </div>
+            </div>
+            <div class="card-accent"></div>
+        </div>
+    </a>
+</div>
+
+<style>
+.help-card-transition {
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.help-card-transition:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+}
+
+.card-accent {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: linear-gradient(to right, 
+        #dc3545 0%, #dc3545 33.33%, 
+        #ffc107 33.33%, #ffc107 66.66%, 
+        #28a745 66.66%, #28a745 100%);
+}
+
+a:hover {
+    text-decoration: none !important;
+}
+
+a:hover .card-title {
+    text-decoration: none !important;
+}
+</style>

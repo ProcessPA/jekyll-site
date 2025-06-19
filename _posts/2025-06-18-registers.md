@@ -22,6 +22,9 @@ Sub-Committees are now a valid assignee option in the **Assigned To** field on a
   - Copied into the sub-committee with a link to the original for later follow-up  
   - Included in the **Carry Forward** list for the sub-committee
 
+##### 🔄 Reorder Motions and Actions in Agenda Items
+You can now reorder Motions and Actions within Agenda Items using drag-and-drop, similar to how Attachments are reordered. This enhancement provides greater flexibility and organization for managing agenda items.
+
 ##### 📝 Complete Action Item Link from Email  
 Action items can now be completed directly via a link from the email notifying the assigned member of the action.
 

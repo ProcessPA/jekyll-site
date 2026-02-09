@@ -39,9 +39,6 @@ Stay informed with notifications for register updates and enjoy clearer register
 - **🐞 Fixed: PDF Display in Lite Mode**  
     Resolved an issue with PDF display when using Lite mode.
 
-- **🐞 Fixed: Meeting Summarization Error**  
-    Addressed an error during meeting summarization, improving system stability.
-
 - **🐞 Fixed: Preview Minutes Error**  
     Resolved an issue when previewing minutes.
 
@@ -50,11 +47,5 @@ Stay informed with notifications for register updates and enjoy clearer register
 
 - **🐞 Fixed: Linked Document Renaming**  
     Renaming linked documents now properly updates agenda and minutes previews.
-
-- **🐞 Fixed: Meeting Status Tracking**  
-    Corrected how meeting completion dates are recorded.
-
-- **🐞 Fixed: Live Metrics**  
-    Restored real-time performance monitoring functionality.
 
 These updates reflect our ongoing commitment to making Process PA the most comprehensive and user-friendly board management solution available. We welcome your feedback and suggestions for future enhancements.

@@ -7,29 +7,29 @@ navigation_weight: 30
 ---
 
 <style>
-/* Billing Toggle */
-.billing-toggle-wrap {
+/* ── Toggle controls ───────────────────────────────────────── */
+.toggle-row {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 1rem;
+    gap: 0.75rem;
 }
 
-.billing-label {
+.toggle-label {
     font-weight: 600;
-    font-size: 1rem;
-    color: #444;
+    font-size: 0.95rem;
+    color: #888;
     transition: color 0.2s;
+    white-space: nowrap;
 }
 
-.billing-label.active {
-    color: #7CBB00;
-}
+.toggle-label.active { color: #7CBB00; }
 
 .toggle-switch {
     position: relative;
-    width: 56px;
-    height: 28px;
+    width: 52px;
+    height: 26px;
+    flex-shrink: 0;
 }
 
 .toggle-switch input {
@@ -42,7 +42,7 @@ navigation_weight: 30
 .toggle-slider {
     position: absolute;
     inset: 0;
-    background: #ccc;
+    background: #d0d0d0;
     border-radius: 34px;
     cursor: pointer;
     transition: background 0.3s;
@@ -51,25 +51,50 @@ navigation_weight: 30
 .toggle-slider::before {
     content: '';
     position: absolute;
-    height: 20px;
-    width: 20px;
+    height: 18px;
+    width: 18px;
     left: 4px;
     bottom: 4px;
     background: white;
     border-radius: 50%;
     transition: transform 0.3s;
-    box-shadow: 0 1px 4px rgba(0,0,0,0.2);
+    box-shadow: 0 1px 4px rgba(0,0,0,0.25);
 }
 
-.toggle-switch input:checked + .toggle-slider {
-    background: #7CBB00;
+.toggle-switch input:checked + .toggle-slider { background: #7CBB00; }
+.toggle-switch input:checked + .toggle-slider::before { transform: translateX(26px); }
+
+.nfp-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.6rem;
+    margin-top: 0.9rem;
+    padding: 0.5rem 1.2rem;
+    background: #f5fae8;
+    border-radius: 30px;
+    border: 1px solid #d4edaa;
+    display: inline-flex;
 }
 
-.toggle-switch input:checked + .toggle-slider::before {
-    transform: translateX(28px);
+.nfp-row-wrap {
+    text-align: center;
+    margin-top: 0.6rem;
 }
 
-/* Pricing Cards */
+.nfp-label {
+    font-size: 0.88rem;
+    font-weight: 500;
+    color: #555;
+}
+
+.nfp-discount-note {
+    font-size: 0.78rem;
+    font-weight: 700;
+    color: #5a8a00;
+}
+
+/* ── Pricing Cards ─────────────────────────────────────────── */
 .pricing-card {
     border: 1px solid #e8e8e8;
     border-radius: 12px;
@@ -96,7 +121,7 @@ navigation_weight: 30
     color: white;
     padding: 2px 18px;
     border-radius: 20px;
-    font-size: 0.78rem;
+    font-size: 0.75rem;
     font-weight: 700;
     letter-spacing: 0.5px;
     white-space: nowrap;
@@ -106,18 +131,16 @@ navigation_weight: 30
     font-size: 1.2rem;
     font-weight: 700;
     color: #333;
-    margin-bottom: 0.25rem;
+    margin-bottom: 0.2rem;
 }
 
 .plan-desc {
     color: #888;
-    font-size: 0.9rem;
-    min-height: 2.5rem;
+    font-size: 0.88rem;
+    min-height: 2.4rem;
 }
 
-.price-block {
-    margin: 1.5rem 0;
-}
+.price-block { margin: 1.25rem 0; }
 
 .price-main {
     display: flex;
@@ -127,50 +150,48 @@ navigation_weight: 30
 }
 
 .price-currency {
-    font-size: 1.4rem;
+    font-size: 1.3rem;
     font-weight: 700;
     color: #333;
-    margin-top: 6px;
+    margin-top: 8px;
 }
 
 .price-amount {
-    font-size: 3.2rem;
+    font-size: 3rem;
     font-weight: 800;
     color: #222;
     line-height: 1;
+    transition: opacity 0.15s;
 }
 
 .price-period {
-    font-size: 1rem;
+    font-size: 0.95rem;
     color: #888;
     align-self: flex-end;
-    margin-bottom: 4px;
+    margin-bottom: 5px;
     margin-left: 2px;
 }
 
-.price-annual-note {
+.price-note {
     color: #888;
     font-size: 0.82rem;
-    margin-top: 0.4rem;
-    min-height: 1.2rem;
+    margin-top: 0.35rem;
+    min-height: 1.15rem;
 }
 
 .save-badge {
     display: inline-block;
     background: #e8f5d0;
     color: #5a8a00;
-    font-size: 0.78rem;
+    font-size: 0.75rem;
     font-weight: 700;
     padding: 2px 10px;
     border-radius: 20px;
-    margin-top: 0.3rem;
+    margin-top: 0.25rem;
+    min-height: 1.4rem;
 }
 
-.price-monthly { display: block; }
-.price-annual  { display: none; }
-
-.annual-active .price-monthly { display: none; }
-.annual-active .price-annual  { display: block; }
+.save-badge.hidden { visibility: hidden; }
 
 .divider {
     border: none;
@@ -181,13 +202,13 @@ navigation_weight: 30
 .feature-list {
     list-style: none;
     padding: 0;
-    margin: 0 0 1.5rem;
+    margin: 0 0 1.25rem;
     text-align: left;
 }
 
 .feature-list li {
-    padding: 0.3rem 0;
-    font-size: 0.92rem;
+    padding: 0.28rem 0;
+    font-size: 0.9rem;
     color: #555;
     display: flex;
     align-items: center;
@@ -204,7 +225,7 @@ navigation_weight: 30
 .footer-note {
     background: #f8f9fa;
     border-radius: 10px;
-    padding: 1.5rem 2rem;
+    padding: 1.25rem 2rem;
 }
 </style>
 
@@ -237,21 +258,33 @@ navigation_weight: 30
         <p class="text-muted editable">1/10th the price of competitors. Easy to use.</p>
     </div>
 
-    <!-- Billing Toggle -->
-    <div class="billing-toggle-wrap mb-5 mt-4" id="billingToggleWrap">
-        <span class="billing-label active" id="labelMonthly">Monthly</span>
+    <!-- Billing toggle -->
+    <div class="toggle-row mb-1 mt-4">
+        <span class="toggle-label active" id="labelMonthly">Monthly</span>
         <label class="toggle-switch mb-0" aria-label="Toggle annual billing">
             <input type="checkbox" id="billingToggle">
             <span class="toggle-slider"></span>
         </label>
-        <span class="billing-label" id="labelAnnual">
+        <span class="toggle-label" id="labelAnnual">
             Annual
-            <span class="badge badge-success ml-1" style="font-size:0.72rem; vertical-align:middle;">2 MONTHS FREE</span>
+            <span class="badge badge-success ml-1" style="font-size:0.68rem; vertical-align:middle;">2 MONTHS FREE</span>
         </span>
     </div>
 
+    <!-- NFP toggle -->
+    <div class="nfp-row-wrap">
+        <div class="nfp-row">
+            <span class="nfp-label">Not-for-profit?</span>
+            <label class="toggle-switch mb-0" aria-label="Toggle not-for-profit discount">
+                <input type="checkbox" id="nfpToggle">
+                <span class="toggle-slider"></span>
+            </label>
+            <span class="nfp-discount-note" id="nfpNote" style="visibility:hidden;">20% discount applied</span>
+        </div>
+    </div>
+
     <!-- Cards -->
-    <div class="row" id="pricingCards">
+    <div class="row mt-5" id="pricingCards">
 
         <!-- Starter -->
         <div class="col-md-4 mb-4 d-flex">
@@ -259,29 +292,19 @@ navigation_weight: 30
                 <div class="plan-name">Starter</div>
                 <div class="plan-desc">1 Board/Committee</div>
                 <hr class="divider">
-
-                <div class="price-block text-center">
-                    <!-- Monthly -->
-                    <div class="price-monthly">
-                        <div class="price-main">
-                            <span class="price-currency">$</span>
-                            <span class="price-amount">115</span>
-                            <span class="price-period">/mo</span>
-                        </div>
-                        <div class="price-annual-note">&nbsp;</div>
+                <div class="price-block text-center"
+                    data-monthly="115"       data-monthly-nfp="92"
+                    data-annual="96"         data-annual-nfp="77"
+                    data-annual-total="1,150" data-annual-total-nfp="920"
+                    data-annual-save="230"   data-annual-save-nfp="184">
+                    <div class="price-main">
+                        <span class="price-currency">$</span>
+                        <span class="js-amount">115</span>
+                        <span class="price-period">/mo</span>
                     </div>
-                    <!-- Annual -->
-                    <div class="price-annual">
-                        <div class="price-main">
-                            <span class="price-currency">$</span>
-                            <span class="price-amount">96</span>
-                            <span class="price-period">/mo</span>
-                        </div>
-                        <div class="price-annual-note">$1,150 billed annually</div>
-                        <div><span class="save-badge">Save $230/yr</span></div>
-                    </div>
+                    <div class="price-note js-note">&nbsp;</div>
+                    <div><span class="save-badge hidden js-save"></span></div>
                 </div>
-
                 <ul class="feature-list">
                     <li>1 Board or Committee</li>
                     <li>Unlimited members</li>
@@ -299,29 +322,19 @@ navigation_weight: 30
                 <div class="plan-name">Standard</div>
                 <div class="plan-desc">1 Board/Committee + 2 Sub-Committees</div>
                 <hr class="divider">
-
-                <div class="price-block text-center">
-                    <!-- Monthly -->
-                    <div class="price-monthly">
-                        <div class="price-main">
-                            <span class="price-currency">$</span>
-                            <span class="price-amount">165</span>
-                            <span class="price-period">/mo</span>
-                        </div>
-                        <div class="price-annual-note">&nbsp;</div>
+                <div class="price-block text-center"
+                    data-monthly="165"       data-monthly-nfp="132"
+                    data-annual="138"        data-annual-nfp="110"
+                    data-annual-total="1,650" data-annual-total-nfp="1,320"
+                    data-annual-save="330"   data-annual-save-nfp="264">
+                    <div class="price-main">
+                        <span class="price-currency">$</span>
+                        <span class="js-amount">165</span>
+                        <span class="price-period">/mo</span>
                     </div>
-                    <!-- Annual -->
-                    <div class="price-annual">
-                        <div class="price-main">
-                            <span class="price-currency">$</span>
-                            <span class="price-amount">138</span>
-                            <span class="price-period">/mo</span>
-                        </div>
-                        <div class="price-annual-note">$1,650 billed annually</div>
-                        <div><span class="save-badge">Save $330/yr</span></div>
-                    </div>
+                    <div class="price-note js-note">&nbsp;</div>
+                    <div><span class="save-badge hidden js-save"></span></div>
                 </div>
-
                 <ul class="feature-list">
                     <li>1 Board or Committee</li>
                     <li>2 Sub-Committees</li>
@@ -338,29 +351,19 @@ navigation_weight: 30
                 <div class="plan-name">Enterprise</div>
                 <div class="plan-desc">1 Board/Committee + 5 Sub-Committees</div>
                 <hr class="divider">
-
-                <div class="price-block text-center">
-                    <!-- Monthly -->
-                    <div class="price-monthly">
-                        <div class="price-main">
-                            <span class="price-currency">$</span>
-                            <span class="price-amount">240</span>
-                            <span class="price-period">/mo</span>
-                        </div>
-                        <div class="price-annual-note">&nbsp;</div>
+                <div class="price-block text-center"
+                    data-monthly="240"       data-monthly-nfp="192"
+                    data-annual="200"        data-annual-nfp="160"
+                    data-annual-total="2,400" data-annual-total-nfp="1,920"
+                    data-annual-save="480"   data-annual-save-nfp="384">
+                    <div class="price-main">
+                        <span class="price-currency">$</span>
+                        <span class="js-amount">240</span>
+                        <span class="price-period">/mo</span>
                     </div>
-                    <!-- Annual -->
-                    <div class="price-annual">
-                        <div class="price-main">
-                            <span class="price-currency">$</span>
-                            <span class="price-amount">200</span>
-                            <span class="price-period">/mo</span>
-                        </div>
-                        <div class="price-annual-note">$2,400 billed annually</div>
-                        <div><span class="save-badge">Save $480/yr</span></div>
-                    </div>
+                    <div class="price-note js-note">&nbsp;</div>
+                    <div><span class="save-badge hidden js-save"></span></div>
                 </div>
-
                 <ul class="feature-list">
                     <li>1 Board or Committee</li>
                     <li>5 Sub-Committees</li>
@@ -374,12 +377,12 @@ navigation_weight: 30
     </div><!-- /row -->
 
     <!-- Footer notes -->
-    <div class="footer-note text-center mt-3">
-        <p class="mb-1">Additional Sub-Committees <strong>$65/month</strong> &nbsp;|&nbsp; <strong>20% off</strong> for Not-for-profits</p>
+    <div class="footer-note text-center mt-2">
+        <p class="mb-1">Additional Sub-Committees <strong>$65/month</strong></p>
         <p class="mb-1">
             <span class="badge badge-secondary">All prices in Australian Dollars (inc GST)</span>
         </p>
-        <p class="mb-0 mt-2 text-muted" style="font-size:0.9rem;">
+        <p class="mb-0 mt-2 text-muted" style="font-size:0.88rem;">
             Corporate licensing available &mdash; supply Process PA to all your clients.
             <a href="mailto:matthew@processpa.com?subject=Corporate Licensing Pricing Enquiry">Contact us</a>
         </p>
@@ -400,21 +403,59 @@ navigation_weight: 30
 
 <script>
 (function () {
-    var toggle = document.getElementById('billingToggle');
-    var cards  = document.getElementById('pricingCards');
-    var lblM   = document.getElementById('labelMonthly');
-    var lblA   = document.getElementById('labelAnnual');
+    var billingToggle = document.getElementById('billingToggle');
+    var nfpToggle     = document.getElementById('nfpToggle');
+    var lblMonthly    = document.getElementById('labelMonthly');
+    var lblAnnual     = document.getElementById('labelAnnual');
+    var nfpNote       = document.getElementById('nfpNote');
+    var priceBlocks   = document.querySelectorAll('.price-block');
 
-    toggle.addEventListener('change', function () {
-        if (this.checked) {
-            cards.classList.add('annual-active');
-            lblA.classList.add('active');
-            lblM.classList.remove('active');
-        } else {
-            cards.classList.remove('annual-active');
-            lblM.classList.add('active');
-            lblA.classList.remove('active');
-        }
-    });
+    function updatePrices() {
+        var isAnnual = billingToggle.checked;
+        var isNfp    = nfpToggle.checked;
+
+        priceBlocks.forEach(function (block) {
+            var d = block.dataset;
+            var amount, note, save;
+
+            if (isAnnual && isNfp) {
+                amount = d.annualNfp;
+                note   = '$' + d.annualTotalNfp + ' billed annually';
+                save   = 'Save $' + d.annualSaveNfp + '/yr';
+            } else if (isAnnual) {
+                amount = d.annual;
+                note   = '$' + d.annualTotal + ' billed annually';
+                save   = 'Save $' + d.annualSave + '/yr';
+            } else if (isNfp) {
+                amount = d.monthlyNfp;
+                note   = null;
+                save   = null;
+            } else {
+                amount = d.monthly;
+                note   = null;
+                save   = null;
+            }
+
+            block.querySelector('.js-amount').textContent = amount;
+
+            var noteEl = block.querySelector('.js-note');
+            noteEl.innerHTML = note ? note : '&nbsp;';
+
+            var saveEl = block.querySelector('.js-save');
+            if (save) {
+                saveEl.textContent = save;
+                saveEl.classList.remove('hidden');
+            } else {
+                saveEl.classList.add('hidden');
+            }
+        });
+
+        lblMonthly.classList.toggle('active', !isAnnual);
+        lblAnnual.classList.toggle('active', isAnnual);
+        nfpNote.style.visibility = isNfp ? 'visible' : 'hidden';
+    }
+
+    billingToggle.addEventListener('change', updatePrices);
+    nfpToggle.addEventListener('change', updatePrices);
 })();
 </script>

@@ -5,127 +5,416 @@ layout: page
 navigation_title: Pricing
 navigation_weight: 30
 ---
-<div class="container">
-    <div class="row">
-        <div class="col-md-6 align-middle">
-    	    <blockquote class="blockquote">
-    		    <h4 class="text-success">Free Trial</h4>
-    		    <p>
-    			    No credit card required. See how much easier it is compiling your agenda and taking minutes for your next meeting.
-    	   	    </p>
-    		    <a class="btn btn-success" href="https://app.processpa.com/authenticate/password-register">Try It Now</a>
-    	    </blockquote>
-	    </div>
-	    <div class="col-md-6">
-	        <div class="embed-responsive embed-responsive-16by9">
+
+<style>
+/* Billing Toggle */
+.billing-toggle-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.billing-label {
+    font-weight: 600;
+    font-size: 1rem;
+    color: #444;
+    transition: color 0.2s;
+}
+
+.billing-label.active {
+    color: #7CBB00;
+}
+
+.toggle-switch {
+    position: relative;
+    width: 56px;
+    height: 28px;
+}
+
+.toggle-switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+    position: absolute;
+}
+
+.toggle-slider {
+    position: absolute;
+    inset: 0;
+    background: #ccc;
+    border-radius: 34px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.toggle-slider::before {
+    content: '';
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    left: 4px;
+    bottom: 4px;
+    background: white;
+    border-radius: 50%;
+    transition: transform 0.3s;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.2);
+}
+
+.toggle-switch input:checked + .toggle-slider {
+    background: #7CBB00;
+}
+
+.toggle-switch input:checked + .toggle-slider::before {
+    transform: translateX(28px);
+}
+
+/* Pricing Cards */
+.pricing-card {
+    border: 1px solid #e8e8e8;
+    border-radius: 12px;
+    transition: transform 0.2s, box-shadow 0.2s;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+}
+
+.pricing-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+}
+
+.pricing-card.featured {
+    border: 2px solid #7CBB00;
+    position: relative;
+}
+
+.featured-badge {
+    position: absolute;
+    top: -14px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #7CBB00;
+    color: white;
+    padding: 2px 18px;
+    border-radius: 20px;
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    white-space: nowrap;
+}
+
+.plan-name {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #333;
+    margin-bottom: 0.25rem;
+}
+
+.plan-desc {
+    color: #888;
+    font-size: 0.9rem;
+    min-height: 2.5rem;
+}
+
+.price-block {
+    margin: 1.5rem 0;
+}
+
+.price-main {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    line-height: 1;
+}
+
+.price-currency {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: #333;
+    margin-top: 6px;
+}
+
+.price-amount {
+    font-size: 3.2rem;
+    font-weight: 800;
+    color: #222;
+    line-height: 1;
+}
+
+.price-period {
+    font-size: 1rem;
+    color: #888;
+    align-self: flex-end;
+    margin-bottom: 4px;
+    margin-left: 2px;
+}
+
+.price-annual-note {
+    color: #888;
+    font-size: 0.82rem;
+    margin-top: 0.4rem;
+    min-height: 1.2rem;
+}
+
+.save-badge {
+    display: inline-block;
+    background: #e8f5d0;
+    color: #5a8a00;
+    font-size: 0.78rem;
+    font-weight: 700;
+    padding: 2px 10px;
+    border-radius: 20px;
+    margin-top: 0.3rem;
+}
+
+.price-monthly { display: block; }
+.price-annual  { display: none; }
+
+.annual-active .price-monthly { display: none; }
+.annual-active .price-annual  { display: block; }
+
+.divider {
+    border: none;
+    border-top: 1px solid #f0f0f0;
+    margin: 1rem 0;
+}
+
+.feature-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 1.5rem;
+    text-align: left;
+}
+
+.feature-list li {
+    padding: 0.3rem 0;
+    font-size: 0.92rem;
+    color: #555;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.feature-list li::before {
+    content: '✓';
+    color: #7CBB00;
+    font-weight: 700;
+    flex-shrink: 0;
+}
+
+.footer-note {
+    background: #f8f9fa;
+    border-radius: 10px;
+    padding: 1.5rem 2rem;
+}
+</style>
+
+<!-- Free Trial Hero -->
+<div class="container mb-4">
+    <div class="row align-items-center">
+        <div class="col-md-6">
+            <blockquote class="blockquote">
+                <h4 class="text-success">Free Trial</h4>
+                <p>
+                    No credit card required. See how much easier it is compiling your agenda and taking minutes for your next meeting.
+                </p>
+                <a class="btn btn-success" href="https://app.processpa.com/authenticate/password-register">Try It Now</a>
+            </blockquote>
+        </div>
+        <div class="col-md-6">
+            <div class="embed-responsive embed-responsive-16by9">
                 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/E4jecQiamRY" allowfullscreen></iframe>
             </div>
         </div>
     </div>
 </div>
-<div class="container">
-    <h3 class="editable">Simple Pricing</h3>
-	<p class="editable">As many members, meetings and documents as you need. Pay per boards and committees required.</p>
-	<p class="editable">1/10th the price of competitors. Easy to use.</p>
-</div>
-<div class="container">
-	<div class="row py-2">
-		<div class="col">
-			<div class="card text-center p-3">
-				<div class="card-block">
-					<h4 class="card-title">
-						Starter
-					</h4>
-					<p>
-						1 Board/Committee<br/>
-						&nbsp;
-					</p>
-					<div class="price">
-						<h3>
-							<span class="symbol">$115</span>
-						</h3>
-						<h5>
-							per month
-						</h5>
-						</div>						
-						<p>
-						<a class="btn btn-success" href="https://app.processpa.com/authenticate/password-register">Start 30-Day Trial</a>
-					</p>
-				</div>
-			</div>
-		</div>
 
-		<div class="col">
-			<div class="card text-center p-3">
-				<div class="card-block">
-					<h4 class="card-title">
-						Standard
-					</h4>
-					<p>
-						1 Board/Committee<br/>
-						2 Sub-Committees
-					</p>
-					<div class="price">
-						<h3>
-							<span class="symbol">$165</span>
-						</h3>
-						<h5>
-							per month
-						</h5>
-					</div>
-					<p>
-						<a class="btn btn-success" href="https://app.processpa.com/authenticate/password-register">Start 30-Day Trial</a>
-					</p>
-				</div>
-			</div>
-		</div>
+<!-- Pricing Section -->
+<div class="container my-5">
 
-		<div class="col">
-			<div class="card text-center p-3">
-				<div class="card-block">
-					<h4 class="card-title">
-						Enterprise
-					</h4>
-					<p>
-						1 Board/Committee<br/>
-						5 Sub-Committees
-					</p>
-					<div class="price">
-						<h3>
-							<span class="symbol">$240</span>
-						</h3>
-						<h5>
-							per month
-						</h5>
-					</div>
-					<p>
-						<a class="btn btn-success" href="https://app.processpa.com/authenticate/password-register">Start 30-Day Trial</a>
-					</p>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<div class="container">
-	<div class="text-center">
-		<p class="editable">Additional Sub-Committees <b>$65 per month</b></p>
-		<h4>Subscribe Annually and get 2 Months FREE</h4>
-		<h3>20% off for Not-for-profits</h3>
-        <p class="badge badge-secondary editable">
-            All prices in Australian Dollars (inc GST)
+    <div class="text-center mb-2">
+        <h3 class="editable">Simple Pricing</h3>
+        <p class="text-muted editable">As many members, meetings and documents as you need. Pay per boards and committees required.</p>
+        <p class="text-muted editable">1/10th the price of competitors. Easy to use.</p>
+    </div>
+
+    <!-- Billing Toggle -->
+    <div class="billing-toggle-wrap mb-5 mt-4" id="billingToggleWrap">
+        <span class="billing-label active" id="labelMonthly">Monthly</span>
+        <label class="toggle-switch mb-0" aria-label="Toggle annual billing">
+            <input type="checkbox" id="billingToggle">
+            <span class="toggle-slider"></span>
+        </label>
+        <span class="billing-label" id="labelAnnual">
+            Annual
+            <span class="badge badge-success ml-1" style="font-size:0.72rem; vertical-align:middle;">2 MONTHS FREE</span>
+        </span>
+    </div>
+
+    <!-- Cards -->
+    <div class="row" id="pricingCards">
+
+        <!-- Starter -->
+        <div class="col-md-4 mb-4 d-flex">
+            <div class="card pricing-card w-100 p-4">
+                <div class="plan-name">Starter</div>
+                <div class="plan-desc">1 Board/Committee</div>
+                <hr class="divider">
+
+                <div class="price-block text-center">
+                    <!-- Monthly -->
+                    <div class="price-monthly">
+                        <div class="price-main">
+                            <span class="price-currency">$</span>
+                            <span class="price-amount">115</span>
+                            <span class="price-period">/mo</span>
+                        </div>
+                        <div class="price-annual-note">&nbsp;</div>
+                    </div>
+                    <!-- Annual -->
+                    <div class="price-annual">
+                        <div class="price-main">
+                            <span class="price-currency">$</span>
+                            <span class="price-amount">96</span>
+                            <span class="price-period">/mo</span>
+                        </div>
+                        <div class="price-annual-note">$1,150 billed annually</div>
+                        <div><span class="save-badge">Save $230/yr</span></div>
+                    </div>
+                </div>
+
+                <ul class="feature-list">
+                    <li>1 Board or Committee</li>
+                    <li>Unlimited members</li>
+                    <li>Unlimited meetings</li>
+                    <li>Unlimited documents</li>
+                </ul>
+                <a class="btn btn-outline-success btn-block mt-auto" href="https://app.processpa.com/authenticate/password-register">Start 30-Day Trial</a>
+            </div>
+        </div>
+
+        <!-- Standard -->
+        <div class="col-md-4 mb-4 d-flex">
+            <div class="card pricing-card featured w-100 p-4">
+                <span class="featured-badge">MOST POPULAR</span>
+                <div class="plan-name">Standard</div>
+                <div class="plan-desc">1 Board/Committee + 2 Sub-Committees</div>
+                <hr class="divider">
+
+                <div class="price-block text-center">
+                    <!-- Monthly -->
+                    <div class="price-monthly">
+                        <div class="price-main">
+                            <span class="price-currency">$</span>
+                            <span class="price-amount">165</span>
+                            <span class="price-period">/mo</span>
+                        </div>
+                        <div class="price-annual-note">&nbsp;</div>
+                    </div>
+                    <!-- Annual -->
+                    <div class="price-annual">
+                        <div class="price-main">
+                            <span class="price-currency">$</span>
+                            <span class="price-amount">138</span>
+                            <span class="price-period">/mo</span>
+                        </div>
+                        <div class="price-annual-note">$1,650 billed annually</div>
+                        <div><span class="save-badge">Save $330/yr</span></div>
+                    </div>
+                </div>
+
+                <ul class="feature-list">
+                    <li>1 Board or Committee</li>
+                    <li>2 Sub-Committees</li>
+                    <li>Unlimited members</li>
+                    <li>Unlimited meetings &amp; documents</li>
+                </ul>
+                <a class="btn btn-success btn-block mt-auto" href="https://app.processpa.com/authenticate/password-register">Start 30-Day Trial</a>
+            </div>
+        </div>
+
+        <!-- Enterprise -->
+        <div class="col-md-4 mb-4 d-flex">
+            <div class="card pricing-card w-100 p-4">
+                <div class="plan-name">Enterprise</div>
+                <div class="plan-desc">1 Board/Committee + 5 Sub-Committees</div>
+                <hr class="divider">
+
+                <div class="price-block text-center">
+                    <!-- Monthly -->
+                    <div class="price-monthly">
+                        <div class="price-main">
+                            <span class="price-currency">$</span>
+                            <span class="price-amount">240</span>
+                            <span class="price-period">/mo</span>
+                        </div>
+                        <div class="price-annual-note">&nbsp;</div>
+                    </div>
+                    <!-- Annual -->
+                    <div class="price-annual">
+                        <div class="price-main">
+                            <span class="price-currency">$</span>
+                            <span class="price-amount">200</span>
+                            <span class="price-period">/mo</span>
+                        </div>
+                        <div class="price-annual-note">$2,400 billed annually</div>
+                        <div><span class="save-badge">Save $480/yr</span></div>
+                    </div>
+                </div>
+
+                <ul class="feature-list">
+                    <li>1 Board or Committee</li>
+                    <li>5 Sub-Committees</li>
+                    <li>Unlimited members</li>
+                    <li>Unlimited meetings &amp; documents</li>
+                </ul>
+                <a class="btn btn-outline-success btn-block mt-auto" href="https://app.processpa.com/authenticate/password-register">Start 30-Day Trial</a>
+            </div>
+        </div>
+
+    </div><!-- /row -->
+
+    <!-- Footer notes -->
+    <div class="footer-note text-center mt-3">
+        <p class="mb-1">Additional Sub-Committees <strong>$65/month</strong> &nbsp;|&nbsp; <strong>20% off</strong> for Not-for-profits</p>
+        <p class="mb-1">
+            <span class="badge badge-secondary">All prices in Australian Dollars (inc GST)</span>
         </p>
-        <p class="editable">
-			Corporate licensing available to Process PA to all your clients <a href="mailto:matthew@processpa.com?subject=Corporate Licensing Pricing Enquiry">Contact Us</a>
-		</p>
-	</div>
+        <p class="mb-0 mt-2 text-muted" style="font-size:0.9rem;">
+            Corporate licensing available &mdash; supply Process PA to all your clients.
+            <a href="mailto:matthew@processpa.com?subject=Corporate Licensing Pricing Enquiry">Contact us</a>
+        </p>
+    </div>
+
 </div>
 
+<!-- Concierge CTA -->
 <div class="container py-4">
-	<div class="card border-info p-3">
-		<div class="card-block">
-			<h3 class="card-title">Need help getting started?</h3>
-			<p class="card-text">Book a free concierge service. We will enter your members, minutes from your last meeting, set agenda templates and your letterhead. Your next meeting will be scheduled and ready to go for a productive meeting and instant minutes.</p>
-			<a class="btn btn-info" href="/concierge">Book Now</a>
-		</div>
-	</div>
+    <div class="card border-info p-3">
+        <div class="card-block">
+            <h3 class="card-title">Need help getting started?</h3>
+            <p class="card-text">Book a free concierge service. We will enter your members, minutes from your last meeting, set agenda templates and your letterhead. Your next meeting will be scheduled and ready to go for a productive meeting and instant minutes.</p>
+            <a class="btn btn-info" href="/concierge">Book Now</a>
+        </div>
+    </div>
 </div>
+
+<script>
+(function () {
+    var toggle = document.getElementById('billingToggle');
+    var cards  = document.getElementById('pricingCards');
+    var lblM   = document.getElementById('labelMonthly');
+    var lblA   = document.getElementById('labelAnnual');
+
+    toggle.addEventListener('change', function () {
+        if (this.checked) {
+            cards.classList.add('annual-active');
+            lblA.classList.add('active');
+            lblM.classList.remove('active');
+        } else {
+            cards.classList.remove('annual-active');
+            lblM.classList.add('active');
+            lblA.classList.remove('active');
+        }
+    });
+})();
+</script>

@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "First board meeting? Process PA handles the structure so you can focus on the discussion."
 title: What To Do in Your First Board Meeting
 date: 2020-01-08 10:40:00 +1000
 author: Process PA Team

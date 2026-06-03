@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "How does your committee measure up? Process PA keeps every meeting, action and decision on the record."
 title: Committee Health Check
 date: 2016-11-11T06:18:38+00:00
 author: Matthew

@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Building a new committee? Process PA has the structure to make it run smoothly from day one."
 title: The 3 Major Steps to Building an Effective Committee
 date: 2019-04-24 10:50:00 +1000
 author: Process PA Team

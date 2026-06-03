@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Make board meetings worth attending. Process PA turns them into clear, accountable decisions."
 title: Board Meetings Are a Waste of Time
 date: 2019-03-13 11:00:00 +1000
 author: Process PA Team

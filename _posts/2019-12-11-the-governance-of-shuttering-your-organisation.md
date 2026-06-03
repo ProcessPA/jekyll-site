@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Closing down? Process PA keeps your final governance records complete and compliant."
 title: The Governance of Shuttering Your Organisation
 date: 2019-12-11 10:40:00 +1000
 author: Process PA Team

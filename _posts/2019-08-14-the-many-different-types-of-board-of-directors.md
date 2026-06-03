@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Whatever type of board you're on, Process PA makes governance simpler. Try it free for 30 days."
 title: The Many Different Types of Board of Directors
 date: 2019-08-14 10:50:00 +1000
 author: Process PA Team

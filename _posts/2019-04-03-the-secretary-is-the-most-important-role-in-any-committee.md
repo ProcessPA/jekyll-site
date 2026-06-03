@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Give your secretary the right tools. Process PA handles minutes, agendas and action tracking automatically."
 title: The Secretary is the Most Important Role in Any Committee
 date: 2019-04-03 10:50:00 +1000
 author: Process PA Team

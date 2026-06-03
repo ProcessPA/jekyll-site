@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Ditch paper for good. Process PA keeps your minutes, actions and decisions safe in the cloud."
 title: Paper is not as reliable as you think!
 date: 2017-01-09T08:19:00+00:00
 author: Matthew

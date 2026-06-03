@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Starting fresh on a messy committee? Process PA helps you get on top of it — free for 30 days."
 title: "New to a committee? Found it a mess? Here's the first 4 things you need to do!"
 date: 2017-02-09T13:12:10+00:00
 author: Matthew

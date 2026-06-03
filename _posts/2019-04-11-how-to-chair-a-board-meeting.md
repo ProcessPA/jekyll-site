@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Chairing your next board meeting? Process PA keeps your agenda, motions and minutes in order."
 title: How To Chair a Board Meeting
 date: 2019-04-11 10:50:00 +1000
 author: Process PA Team

@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Every action needs an owner and a deadline. Process PA tracks both — automatically."
 title: Creating Accountability in Your Meetings
 date: 2020-01-22 10:30:00 +1000
 author: Process PA Team

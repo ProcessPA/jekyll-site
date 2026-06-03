@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Fulfil every board function with Process PA — meetings, decisions and accountability in one place."
 title: What Are The Three Primary Functions of a Board of Directors?
 date: 2019-09-11 10:40:00 +1000
 author: Process PA Team

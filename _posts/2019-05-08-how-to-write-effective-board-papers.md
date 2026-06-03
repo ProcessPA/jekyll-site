@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Board papers prepared, distributed and recorded on time, every time. Try Process PA free."
 title: How to Write Effective Board Papers
 date: 2019-05-08 10:50:00 +1000
 author: Process PA Team

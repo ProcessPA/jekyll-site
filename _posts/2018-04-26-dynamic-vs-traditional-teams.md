@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Whether traditional or dynamic, Process PA keeps your team's governance on track."
 title: Dynamic vs Traditional Teams
 date: 2018-04-26 14:40:00 +1000
 author: Josie

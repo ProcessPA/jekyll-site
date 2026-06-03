@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Process PA records every motion and report correctly in your minutes — every time."
 title: 'When to Motion a report - 3 simple guidelines to follow!'
 date: 2016-12-01T10:44:34+00:00
 author: Matthew

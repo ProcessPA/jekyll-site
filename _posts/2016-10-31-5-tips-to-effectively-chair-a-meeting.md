@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Running a meeting soon? Process PA keeps your agenda, minutes and actions in order — try it free."
 title: 5 Tips to Effectively Chair a Meeting
 date: 2016-10-31T15:10:48+00:00
 author: Matthew

@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Build your next agenda in minutes. Process PA structures it for you — try it free."
 title: 6 Tips for Writing a Great Agenda
 date: 2019-07-03 12:00:00 +1000
 author: Process PA Team

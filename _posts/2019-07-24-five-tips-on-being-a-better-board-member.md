@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Be the board member everyone trusts. Process PA keeps you across every action, decision and minute."
 title: Five Tips on Being a Better Board Member
 date: 2019-07-24 10:50:00 +1000
 author: Process PA Team

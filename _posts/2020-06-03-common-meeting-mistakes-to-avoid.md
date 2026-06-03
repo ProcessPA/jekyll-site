@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Avoid these mistakes with Process PA — automated minutes, tracked actions, and simple chairing tools."
 title: Common Meeting Mistakes to Avoid
 date: 2020-06-03 10:45:00 +1000
 author: Guest Post - Lisa Johnson

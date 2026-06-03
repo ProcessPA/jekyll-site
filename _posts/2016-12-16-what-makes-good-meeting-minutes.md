@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Great minutes start with the right tool. Process PA generates them as your meeting runs."
 title: What makes good meeting minutes?
 date: 2016-12-16T09:13:00+00:00
 author: Matthew

@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Whatever your board size, Process PA keeps everyone on the same page and every decision on the record."
 title: How Many Members Should Your Board Have?
 date: 2019-11-13 10:40:00 +1000
 author: Process PA Team

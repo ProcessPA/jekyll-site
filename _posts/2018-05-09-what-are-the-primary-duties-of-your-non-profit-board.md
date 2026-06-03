@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Meet every board duty with confidence. Process PA keeps records, motions and minutes accurate and accessible."
 title: What are the primary duties of your non-profit board?
 date: 2018-05-09 10:30:00 +1000
 author: Josie

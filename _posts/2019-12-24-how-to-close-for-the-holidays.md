@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Before you close for the holidays, make sure every action is tracked. Process PA keeps everything on the record."
 title: How to Close for the Holidays
 date: 2019-12-24 10:40:00 +1000
 author: Process PA Team

@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Board member changes? Process PA keeps your governance records complete through every transition."
 title: What Happens When a Board Member Steps Down
 date: 2019-06-26 10:50:00 +1000
 author: Process PA Team

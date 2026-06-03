@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Build a high-performing team with clear accountability. Process PA tracks every action and decision."
 title: Building A Dynamic Team Environment
 date: 2019-07-17 10:50:00 +1000
 author: Process PA Team

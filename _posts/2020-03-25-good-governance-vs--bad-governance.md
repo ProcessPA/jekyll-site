@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Good governance needs clear records. Process PA keeps your agenda, minutes and decisions audit-ready."
 title: Good Governance vs. Bad Governance
 date: 2020-03-25 10:45:00 +1000
 author: Process PA Team

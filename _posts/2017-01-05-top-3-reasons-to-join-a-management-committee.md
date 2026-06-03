@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Ready to join? Make sure your committee has the right tools. Try Process PA free for 30 days."
 title: Top 3 Reasons to Join a Management Committee
 date: 2017-01-04T20:13:13+00:00
 author: Matthew

@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "The future of board meetings is already here. Try Process PA free for 30 days."
 title: The Future of Board Meetings
 date: 2019-06-19 10:50:00 +1000
 author: Process PA Team

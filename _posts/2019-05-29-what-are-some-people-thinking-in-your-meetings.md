@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Keep everyone engaged and on the same page. Process PA brings transparency to every meeting."
 title: What are some people thinking in your meetings?
 date: 2019-05-29 10:50:00 +1000
 author: Process PA Team

@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Not using Process PA yet? These features are available on your free trial."
 title: 'Close & Finalised, Combine PDF Improvements, Export Actions & More Process PA Improvements'
 date: 2019-03-31 19:00:00 +1000
 author: Process PA Team

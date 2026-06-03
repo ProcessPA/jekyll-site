@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Every vote counts. Process PA records motions, seconds and outcomes automatically — nothing gets lost."
 title: Of course you vote when you're on a board...
 date: 2019-06-05 10:50:00 +1000
 author: Process PA Team

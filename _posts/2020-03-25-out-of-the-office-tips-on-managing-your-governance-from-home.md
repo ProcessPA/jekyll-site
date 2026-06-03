@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Manage governance from anywhere. Process PA keeps your meetings, minutes and actions accessible online."
 title: 'Out of the Office: Tips on Managing Your Governance From Home'
 date: 2020-03-25 10:45:00 +1000
 author: Process PA Team

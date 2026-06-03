@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Whether advisory or governing, Process PA keeps your board meetings structured and accountable."
 title: Advisory vs. Governing Boards - What’s the Difference?
 date: 2020-02-12 10:30:00 +1000
 author: Process PA Team

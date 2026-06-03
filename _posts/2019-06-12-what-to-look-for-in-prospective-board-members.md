@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Bring on new board members with confidence. Process PA gives them instant access to past decisions and actions."
 title: What to Look For in Prospective Board Members
 date: 2019-06-12 10:50:00 +1000
 author: Process PA Team

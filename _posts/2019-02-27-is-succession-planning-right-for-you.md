@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Succession planning is easier with complete records. Process PA documents every decision, minute and action."
 title: Is Succession Planning Right for You?
 date: 2019-02-27 11:00:00 +1000
 author: Process PA Team

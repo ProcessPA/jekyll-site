@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Fix your committee's governance. Process PA brings clear agendas, tracked actions and signed minutes."
 title: How a dysfunctional committee can affect your organisation.
 date: 2019-03-06 10:30:00 +1000
 author: Process PA Team

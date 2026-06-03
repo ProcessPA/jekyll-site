@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Send actions to your team straight from the meeting. Try Process PA free for 30 days."
 title: >-
   Send Outstanding Actions, Set Default Folder, Smart Document Search (Early Access) and More Process PA Improvements
 date: 2025-05-25 22:00:00

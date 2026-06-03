@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Meeting conflicts are easier to handle when everything is documented. Process PA keeps the record straight."
 title: "Meeting Conflicts? Don't Panic!"
 date: 2016-11-14T14:57:03+00:00
 author: Matthew

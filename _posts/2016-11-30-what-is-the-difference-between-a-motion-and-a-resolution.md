@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Get every motion and resolution right with Process PA — try it free for 30 days."
 title: What is the Difference Between a Motion and a Resolution?
 date: 2016-11-30T09:07:36+00:00
 author: Matthew

@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Run your P&C meetings so volunteers feel their time is well spent. Try Process PA free."
 title: Spring is here - Adopt a Farmer
 date: 2015-08-27T21:10:26+00:00
 author: Matthew

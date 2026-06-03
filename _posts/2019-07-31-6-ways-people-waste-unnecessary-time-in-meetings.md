@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Stop wasting meeting time on manual paperwork. Process PA automates your agenda, minutes and action tracking."
 title: 6 Ways People Waste Unnecessary Time In Meetings
 date: 2019-07-31 10:50:00 +1000
 author: Kayleigh from Micro Startup

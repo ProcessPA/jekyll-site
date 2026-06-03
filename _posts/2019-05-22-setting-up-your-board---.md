@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Setting up a new board? Start with Process PA — agendas, minutes and actions from your very first meeting."
 title: Setting up your board...
 date: 2019-05-22 10:50:00 +1000
 author: Process PA Team

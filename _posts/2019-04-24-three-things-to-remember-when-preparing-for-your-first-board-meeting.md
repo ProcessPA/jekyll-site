@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "First board meeting coming up? Process PA keeps your agenda, papers and minutes organised from day one."
 title: Three Things to Remember When Preparing for your First Board Meeting
 date: 2019-04-24 10:50:00 +1000
 author: Process PA Team

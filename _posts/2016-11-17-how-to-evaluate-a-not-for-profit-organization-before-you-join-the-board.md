@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Joining a new board? Process PA gives you full visibility of past meetings, decisions and actions."
 title: How to evaluate a not-for-profit organization before you join the board
 date: 2016-11-17T19:03:18+00:00
 author: Matthew

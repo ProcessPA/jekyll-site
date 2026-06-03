@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Process PA makes minute-taking simple for whoever's in the role — try it free for 30 days."
 title: Who is responsible for the meeting minutes?
 date: 2018-04-19 14:15:00 +1000
 author: Josie

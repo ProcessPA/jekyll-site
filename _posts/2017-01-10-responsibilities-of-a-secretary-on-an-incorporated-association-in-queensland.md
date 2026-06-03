@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Process PA is built for association secretaries — agendas, minutes and action tracking in one tool."
 title: Responsibilities of a Secretary on an Incorporated Association in Queensland
 date: 2017-01-10T11:37:00+00:00
 author: Matthew

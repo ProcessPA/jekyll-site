@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Strong teams run better meetings. Process PA gives your team the structure to thrive."
 title: Team building exercises for dynamic teams
 date: 2018-05-03 14:00:00 +1000
 author: Josie

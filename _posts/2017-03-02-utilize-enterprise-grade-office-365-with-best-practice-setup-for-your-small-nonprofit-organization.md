@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Complete your Office 365 setup with Process PA for committee meetings. Try it free for 30 days."
 title: Utilize Enterprise-grade Office 365 with best practice setup for your small Nonprofit organization
 date: 2017-03-02T15:49:33+00:00
 author: Matthew

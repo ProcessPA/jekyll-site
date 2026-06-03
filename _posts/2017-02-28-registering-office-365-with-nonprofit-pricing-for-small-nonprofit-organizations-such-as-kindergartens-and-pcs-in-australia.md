@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Pair Office 365 with Process PA for a complete committee management setup. Try it free."
 title: 'Registering Office 365 with Nonprofit pricing for small Nonprofit Organizations such as Kindergartens and P&amp;Cs in Australia'
 date: 2017-02-28T14:41:00+00:00
 author: Matthew

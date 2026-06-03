@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Whatever governance model you follow, Process PA keeps your meetings running to it."
 title: The Four Models of Governance
 date: 2020-04-29 10:45:00 +1000
 author: Process PA Team

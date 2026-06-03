@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Cut committee overload. Process PA automates the admin so your team can focus on what matters."
 title: What You Can Do About Burnout
 date: 2019-08-07 10:50:00 +1000
 author: Process PA Team

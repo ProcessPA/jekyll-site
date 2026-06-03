@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Keep your registers current alongside your meetings. Try Process PA free for 30 days."
 title: >-
   Registers, Assign Action Items to Sub-Committee and More Process PA Improvements
 date: 2025-06-18 22:00:00

@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Running an association? Process PA handles the governance so you can focus on the mission — try it free."
 title: What I heard from an Association President...do you experience the same?
 date: 2017-08-07 10:16:00
 author: Mick

@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Process PA keeps every report on your agenda and the decisions they lead to on the record."
 title: 5 Must-Have Reports to Good Governance
 date: 2018-10-10 16:00:00 +1000
 author: Calxa

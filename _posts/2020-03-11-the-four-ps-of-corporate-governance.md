@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Put governance principles into practice. Process PA structures your meetings, minutes and decisions."
 title: The Four Ps of Corporate Governance
 date: 2020-03-11 10:45:00 +1000
 author: Process PA Team

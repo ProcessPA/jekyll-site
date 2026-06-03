@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Track whether your meetings are improving. Process PA records every action, motion and decision automatically."
 title: How to Measure Meeting Effectiveness
 date: 2017-01-09T10:49:00+00:00
 author: Matthew

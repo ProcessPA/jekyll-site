@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Managing volunteers starts with clear actions and accountability. Process PA tracks both automatically."
 title: Difference Between Managing Paid Workers and Non-Paid Workers (Volunteers)
 date: 2017-01-07 10:48:00
 author: Matthew

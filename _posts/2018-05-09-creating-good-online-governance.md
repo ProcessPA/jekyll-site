@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Process PA was built for online governance — agendas, minutes and actions, all in the cloud."
 title: Creating Good Online Governance
 date: 2018-05-09 10:30:00 +1000
 author: Process PA Team

@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Running P&C meetings that actually work? Process PA makes them easier — try it free."
 title: 'Principals View On P&amp;Cs'
 date: 2016-06-08T00:08:31+00:00
 author: Matthew

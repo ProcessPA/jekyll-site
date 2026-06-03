@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Give new board members a complete picture. Process PA keeps your governance history clear and searchable."
 title: The Due Diligence of Selecting Board Members
 date: 2020-02-26 10:00:00 +1000
 author: Process PA Team

@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Not on Process PA yet? These features are waiting for you — start a free 30-day trial."
 title: Summary Tables, Configurable Roles, Tutorials and more Process PA updates
 date: 2017-02-02T20:04:23+00:00
 author: Matthew

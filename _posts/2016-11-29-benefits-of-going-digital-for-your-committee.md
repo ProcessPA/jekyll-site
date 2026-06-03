@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Already convinced digital is better? Process PA is the committee tool built for it — try it free."
 title: Benefits of going digital for your committee
 date: 2016-11-29T10:33:10+00:00
 author: Matthew

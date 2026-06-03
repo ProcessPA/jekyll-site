@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Skip the manual note-taking. Process PA builds your minutes as the meeting runs — try it free."
 title: Top tips for effective meeting minutes
 date: 2018-05-09 10:30:00 +1000
 author: Josie

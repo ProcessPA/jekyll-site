@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Help your board fulfil its most important function. Process PA keeps the decisions, actions and records straight."
 title: What is a Board’s Most Important Function?
 date: 2019-10-23 10:40:00 +1000
 author: Process PA Team

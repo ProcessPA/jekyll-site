@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Give yourself a break from committee admin. Process PA handles the paperwork — try it free."
 title: Are you ready to take a break?
 date: 2015-10-27T20:24:00+00:00
 author: Matthew

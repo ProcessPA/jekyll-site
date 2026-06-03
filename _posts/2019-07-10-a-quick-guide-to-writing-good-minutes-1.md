@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Writing minutes from scratch? Process PA builds them as your meeting runs — try it free."
 title: A Quick Guide to Writing Good Minutes
 date: 2019-07-10 10:50:00 +1000
 author: Process PA Team

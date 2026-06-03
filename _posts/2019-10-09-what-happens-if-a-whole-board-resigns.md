@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Strong governance survives board changes. Process PA keeps the record intact no matter what."
 title: What Happens if a Whole Board Resigns?
 date: 2019-10-09 10:40:00 +1000
 author: Process PA Team

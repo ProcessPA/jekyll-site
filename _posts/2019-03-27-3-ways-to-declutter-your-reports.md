@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Cleaner reports, faster decisions. Process PA structures your reports and keeps them on the agenda."
 title: 3 Ways to Declutter Your Reports
 date: 2019-03-27 11:00:00 +1000
 author: Process PA Team

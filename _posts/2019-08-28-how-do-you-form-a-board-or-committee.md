@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Forming a new board or committee? Process PA helps you run your very first meeting properly."
 title: How Do You Form a Board or Committee?
 date: 2019-08-28 10:50:00 +1000
 author: Process PA Team

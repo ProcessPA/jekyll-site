@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Setting up a startup board? Process PA gives you the governance tools to run it professionally."
 title: Does a Startup Need a Board of Directors?
 date: 2019-08-21 10:50:00 +1000
 author: Process PA Team

@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Not on Process PA yet? These features are waiting for you — start a free 30-day trial."
 title: 'Membership Details, Enterprise Security and More Process PA Improvements'
 date: 2017-12-12 13:16:00 +1000
 author: Matthew

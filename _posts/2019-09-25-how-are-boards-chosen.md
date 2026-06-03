@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "On the board? Get organised from day one with Process PA — free for 30 days."
 title: How are Boards Chosen?
 date: 2019-09-25 10:40:00 +1000
 author: Process PA Team

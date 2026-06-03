@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "See great minutes in action. Process PA generates them automatically — start a free trial."
 title: What Should Good Minutes Look Like?
 date: 2019-11-27 10:40:00 +1000
 author: Process PA Team

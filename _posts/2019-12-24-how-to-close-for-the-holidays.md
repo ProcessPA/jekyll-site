@@ -1,6 +1,8 @@
-﻿---
+---
 cta_hook: "Before you close for the holidays, make sure every action is tracked. Process PA keeps everything on the record."
-title: How to Close for the Holidays
+cta_body: "Outstanding actions, owners and deadlines all in one place — so nothing gets lost over the break. Try Process PA free for 30 days."
+description: "How to wind down your board or committee for the holidays — the governance, communication and continuity steps to take before the end-of-year break so your organisation is ready to resume smoothly."
+title: How to Close Your Committee for the Holidays
 date: 2019-12-24 10:40:00 +1000
 author: Process PA Team
 layout: post
@@ -10,34 +12,75 @@ categories:
   - Management
 ---
 
-Here in Australia, it’s starting to get sweaty. The air conditioner’s not really cutting it anymore, frozen water bottles are your new best friend, and you’re feeling tempted to wear shorts to work.
+The Australian summer holiday period brings most community organisations and committees to a natural pause. Boards stop meeting, volunteers take a break, and the pace of activity slows. But "closing for the holidays" properly takes a bit of governance preparation — both so everyone can genuinely switch off, and so the organisation resumes smoothly in the new year.
 
-What does this mean? It’s the holidays, and nobody wants to be doing anything. So it might be best for everyone if you close up shop for the year. Let’s have a look at a few things to get done before you enjoy that well-earned time off.
+Here's what to take care of before you step away.
 
-## **Let everyone know you’ll be closed.**
+## **Communicate the Break to Everyone**
 
-Clients, employees, volunteers, investors, stakeholders, all these groups need to know that you and the rest of the board will be heading out for the holidays. Send them all a quick email, text, or phone call to give them the heads up and wish them happy holidays.
+Members, volunteers, staff, partner organisations, funders — anyone who interacts with your organisation needs to know you'll be operating at reduced capacity (or not at all) over the break. A short email or notice covering your closure dates and any reduced availability prevents confusion and unanswered enquiries piling up.
 
-## **Set up your answering services.**
+This is also a natural moment to thank the people who contributed through the year. A genuine acknowledgment of volunteers' and members' efforts, sent before the break, is a small gesture with real impact on engagement going into the new year.
 
-You’ve seen this before. It’s fairly standard practice across just about every industry, but it can also slip your mind pretty easily. Change your phone’s answering machine message to detail your available hours over the holidays. Set up an auto-replier with your email service detailing the same. Sit in the pool and crack a beer.
+## **Set Up Holiday Communications**
 
-## **Schedule any social media.**
+Update the practical touchpoints so the organisation doesn't appear to have simply vanished:
 
-Your company might have an Instagram, a blog, maybe a Twitter. This is how you interact and communicate with the public, and if you’ve been keeping your social media active throughout the year, suddenly dropping it over the holidays might leave some stakeholders confused.
+- Email auto-responders detailing your closure dates and when enquiries will be answered
+- Phone or voicemail messages with the same information
+- Any social media scheduled in advance, if you maintain an active presence, so the gap isn't jarring
 
-Build up a queue of posts to tide you over for the few weeks you’re gone, and stay confident that you’ll be in your community’s conscious even while you’re away.
+These small steps mean the organisation continues to present professionally even while everyone's away.
 
-## **Review your goals.**
+## **Close Off Outstanding Actions**
 
-Have one last sit-down with the rest of the board and look over your plans. Give yourselves a refresher on your vision, mission, and goals, and remind yourselves why you’re here. Build up some morale, and guide your team into the new year on a positive note.
+This is the governance step that most directly affects how smoothly you resume. Before the break, review the action register from recent meetings: what's still outstanding, who owns it, and what genuinely needs to be completed before the end of the year versus what can carry into the new year.
 
-## **Handle any final business.**
+Anything time-sensitive — a grant acquittal, a regulatory deadline, a financial obligation — needs to be handled before everyone disperses. Anything that can wait should be clearly noted as carrying forward, with its owner and a revised deadline, so it's not forgotten when activity resumes.
 
-It’s going to be pretty hard to relax with family and friends if you can’t stop thinking about work. The easiest way to do that is to get the work done. If you’re at your desk, sweating up a storm, thinking about leaving that one last project for after you get back, don’t do it. It’ll haunt you endlessly until it’s done, I promise.
+The worst start to a new year is discovering in late January that something important fell through the cracks in December because nobody was clear on who was handling it. A clear, reviewed action register prevents exactly this.
 
-## **Switch off\!**
+{% include article-cta.html
+   headline="Don't let outstanding actions get lost over the holidays."
+   body="Process PA keeps every action — with its owner and deadline — on the record, so when you resume in the new year, nothing has slipped through the cracks. Try it free for 30 days." %}
 
-No that all that’s sorted, there’s only one last thing to do: kick back, relax, enjoy your holidays. It’s been a big year, right? Take a break, spend some time with your loved ones, and charge your batteries for another big year to come.
+## **Review the Year and Look Ahead**
 
-Happy holidays from everyone here at Process PA\! We’ll see you next year.
+Before the final meeting of the year wraps up, take a moment as a board to reflect: What did the organisation achieve this year? What did the governance record show — decisions made, actions completed, goals progressed? Where did things fall short, and what should change next year?
+
+This reflection serves two purposes. It builds morale, reminding the board and volunteers of what their effort accomplished. And it sets up the new year with clarity about priorities, so the first meeting back is productive rather than a slow re-orientation.
+
+A complete governance record makes this review straightforward — the evidence of what was decided and done across the year is already documented, rather than reconstructed from memory at the end of a long year.
+
+## **Finish What's Genuinely Urgent, Then Switch Off**
+
+It's hard to relax over the holidays with an unfinished task nagging at the back of your mind. If there's something genuinely urgent that you'll otherwise spend the break worrying about, get it done before you leave. The relief is worth the extra hour.
+
+But equally — and this matters for volunteer organisations especially — recognise that most things can wait. The risk over the holidays isn't usually that too little gets done; it's that committed volunteers and board members burn themselves out by never genuinely stepping away. Once the urgent items are handled and the actions are documented, give yourself permission to switch off completely.
+
+A well-governed organisation, with its records in order and its actions tracked, is one you can actually leave for a few weeks without anxiety. That's worth setting up properly before you go.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should a committee prepare to close for the holidays?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To close a committee for the holidays: communicate the break to members, volunteers, staff and partners; set up email auto-responders, voicemail messages and any scheduled social media; review the action register and complete anything time-sensitive while clearly carrying forward what can wait; reflect on the year's achievements and set priorities for the new year; and finish genuinely urgent business before switching off completely."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is action tracking important before a holiday break?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Action tracking is important before a holiday break because outstanding commitments — especially time-sensitive ones like grant acquittals, regulatory deadlines or financial obligations — can easily be forgotten when everyone disperses. Reviewing the action register before the break, completing what's urgent, and clearly carrying forward the rest with owners and revised deadlines ensures nothing falls through the cracks and the organisation resumes smoothly in the new year."
+      }
+    }
+  ]
+}
+</script>

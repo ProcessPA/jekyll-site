@@ -1,5 +1,7 @@
-﻿---
-cta_hook: "Whatever governance model you follow, Process PA keeps your meetings running to it."
+---
+cta_hook: "Whatever governance model you choose, Process PA keeps your board running to it."
+cta_body: "Advisory, cooperative, management team or policy board — Process PA adapts to the way your Australian association or not-for-profit is structured."
+description: "The four main models of nonprofit governance explained — Advisory, Cooperative, Management Team and Policy Board — with practical guidance for Australian associations and not-for-profit boards."
 title: The Four Models of Governance
 date: 2020-04-29 10:45:00 +1000
 author: Process PA Team
@@ -10,26 +12,81 @@ categories:
   - Management
 ---
 
-When building an organisation from the ground up, there will come a time when you can’t go at it alone anymore. You’ll need advice, direction, and a few pairs of hands. It’s at this point where most founders will put together a board of directors. Now, not all boards work the same - some are distant, some are hands-on, most are somewhere in-between.
+When building an organisation from the ground up, there will come a time when you can't go at it alone anymore. You'll need direction, accountability, and a few pairs of hands. For most Australian associations and not-for-profits, that means forming a board of directors or management committee.
 
-There’s a surprisingly broad spectrum of governance models that nonprofit boards structure themselves around. Let’s look at four of the most common models and see what might work for you.
+Not all boards work the same way. Some are distant and advisory; some are hands-on and operational; most sit somewhere in between. The governance model you choose has a direct impact on how decisions get made, who holds authority, and what your governance administration actually looks like meeting to meeting.
+
+Here are the four most common models, what each looks like in practice, and what each means for the way your board documents and accounts for its work.
 
 ## 1\. Advisory Model
 
-The advisory board is one of the most traditional styles of nonprofit governance seen today. Members of an advisory board typically have little direct decision making power but very high influence over the CEO, offering them - you guessed it - advice. An advisory board will be made up of industry luminaries who are able to provide highly professional skills and a vast network of connections to the nonprofit. The organisation benefits massively from these skills and connections, leveraging them to boost credibility, fundraising, and advertising.
+The advisory board is one of the most traditional styles of nonprofit governance. Advisory board members typically have limited direct decision-making power but significant influence over the CEO or Executive Director — offering expertise, networks and credibility rather than operational control.
 
-## 2\. Cooperative Mode
+Advisory boards are often made up of industry experts, retired executives or well-connected community figures. The organisation benefits from their knowledge and connections to strengthen credibility, attract funding, and open doors.
 
-Somewhat uncommon in larger nonprofit organisations, a cooperative board is one where all members make consensual decisions as equals. It’s the most democratic governance model, only acting on decisions that have passed proper voting procedures and requiring every member to be committed to the organisation’s mission. There is no real hierarchy in a cooperative board, only the group consensus.
+The governance risk with advisory boards: because they're "just advisory," organisations often treat meetings as informal — no proper agendas, no minutes, no record of the guidance given. That's a significant accountability gap. Even advisory boards should have documented meetings and recorded recommendations. If advice was given that influenced a major decision, that needs to be on the record.
+
+## 2\. Cooperative Model
+
+A cooperative board makes decisions by consensus, with all members treated as equals. It's the most democratic of the four models — nothing is decided without proper voting procedures, and every member must be committed to the mission. There is no hierarchical authority, only group consensus.
+
+This model works well in smaller community organisations and grassroots not-for-profits when members are well aligned. It can become difficult when views diverge and there is no mechanism to break deadlocks.
+
+Counterintuitively, cooperative boards often require the *most* rigorous minute-taking. Because there is no hierarchical authority to override or revisit a decision unilaterally, the record of how consensus was reached becomes critical. If a decision is disputed later, the minutes are the only evidence of the process. Cooperative governance without careful documentation is extremely fragile.
 
 ## 3\. Management Team Model
 
-One of the most popular governance models for small- to medium-sized organisations, the management team board takes a lot of cues from corporate- style management structures. The board will be split into ‘department’-esque committees, each responsible for HR, fundraising, event planning, marketing, any area that needs overseeing.
+The management team model is one of the most common for small- to medium-sized Australian associations. It borrows from corporate management structures: the board is divided into functional sub-committees, each responsible for a specific area — finance, fundraising, events, communications, HR.
 
-There will likely be a few more members sitting on this style of board to facilitate this. This allows board members to focus and develop their skills in a particular area and keep decision-making as efficient as possible.
+Each sub-committee has its own scope, reports to the full board, and typically runs its own meetings. Board members develop deep expertise in their area, and decision-making at committee level can happen quickly without the full board convening every time.
+
+The administrative challenge this creates is real: multiple committees means multiple agendas, multiple sets of minutes, and multiple action streams that all need to feed into the full board's governance record. Without a system for this, sub-committee work goes undocumented, actions fall through the cracks between meetings, and the board loses visibility of what each arm of the organisation is actually doing.
+
+{% include article-cta.html
+   headline="Running a management team board with multiple sub-committees?"
+   body="Process PA gives each sub-committee its own meeting workspace — separate agendas, minutes and action lists — all connected under the one organisation. The board sees the full picture." %}
 
 ## 4\. Policy Board Model
 
-A well-known model developed by author John Carver in his 1990 book “Boards That Make A Difference.” With this governance method, the board grants most of its authority to the CEO, allowing them full control over the organisation and its workings. The board then becomes the ‘second-in-command’ of the organisation, with the CEO at the top. There is rarely any standing committees in place when using this structure, as the board and CEO will work together as a team, applying their whole attention to each task.
+Developed by John Carver in his 1990 book *Boards That Make A Difference*, the policy board model delegates most operational authority to the CEO. The board focuses exclusively on high-level policy, mission-setting and CEO accountability — it does not involve itself in day-to-day management.
 
-While these are four of the most common styles of nonprofit governance, that doesn’t necessarily mean they’re the perfect ones for you and your organisation. There’s as many unique models as there are businesses that need them, and finding the one that works for you is a matter of self-analysis and research. So there’s no better time to start\! Get cracking\!
+There are typically no standing sub-committees in this model. The board and CEO work as a team, each clear on their respective authority. The CEO operates freely within the boundaries the board has set through policy, and the board holds the CEO accountable to those policies.
+
+The documentation implication of this model is often underestimated. Because so much authority rests with the CEO, the board's policy decisions need to be extraordinarily clear and thoroughly recorded. Ambiguity in a policy board's minutes is more costly than in other models — it directly affects what the CEO is and isn't authorised to do. The cleaner the governance record, the cleaner the delegation.
+
+---
+
+Whatever model describes your board, the underlying obligations are the same: hold structured meetings, record decisions clearly, assign and follow through on actions, and maintain an accessible governance record that every director can rely on. The model shapes *how* you govern. Good tools determine how well you actually do it.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the four models of nonprofit governance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The four most common models of nonprofit governance are: the Advisory Model, where members advise the CEO but have limited direct decision-making power; the Cooperative Model, where all members make consensual decisions as equals; the Management Team Model, where the board is divided into functional sub-committees; and the Policy Board Model, where the board delegates most operational authority to the CEO and focuses on high-level policy."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the management team governance model?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In the management team model, the board is divided into functional sub-committees — such as finance, fundraising, events and communications — each responsible for a specific area. It is one of the most popular governance models for small to medium-sized Australian associations. Each sub-committee typically runs its own meetings and reports to the full board."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the policy board governance model?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The policy board model, developed by John Carver, grants most operational authority to the CEO while the board focuses on high-level policy and CEO accountability. There are typically no standing sub-committees. This model requires extremely clear and well-documented policy decisions, as the CEO operates within the boundaries those decisions define."
+      }
+    }
+  ]
+}
+</script>

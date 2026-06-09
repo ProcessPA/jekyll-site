@@ -1,5 +1,7 @@
-﻿---
-cta_hook: "Succession planning is easier with complete records. Process PA documents every decision, minute and action."
+---
+cta_hook: "Succession planning depends on a complete governance record. Process PA makes sure it's always there."
+cta_body: "Every past meeting, decision and action on permanent record — so your next Chair inherits the full picture, not a folder of PDFs and a conversation. Try it free for 30 days."
+description: "Succession planning for boards and committees — how to prepare for leadership transitions, what a proper handover includes, and why the governance record is the most important thing you can leave behind."
 title: Is Succession Planning Right for You?
 date: 2019-02-27 11:00:00 +1000
 author: Process PA Team
@@ -12,44 +14,77 @@ categories:
   - Succession
 ---
 
-So here’s a tough question: you’re now sitting on the board, but how long do you plan to stay at the helm?
+Every Chair, every secretary, every treasurer will eventually move on. Whether that's planned — a term limit, a career change, a new chapter — or sudden, the transition is inevitable. The question is whether the organisation will absorb it smoothly or spend the next six months recovering.
 
-Many board members and chairs do not plan to stay forever, no matter how much they believe in the cause. While we strive to be involved as much as possible, we are pushed by many forces in all directions. From family matters to new job opportunities, one day you’re chairing a board, the next day, you’re gone.
+Succession planning is the work that makes the difference between those two outcomes. Here's what it actually involves.
 
-We can see this in other management sectors as well. A 2006 survey from the Canadian Federation of Independent Business found that within five years of starting up, more than one-third of independent business owners plan to move on, and the other two-thirds want to be gone within ten years.
+## **Why It Matters More Than Most Boards Think**
 
-The problem is, many of these owners sit on the board, and will need someone to replace them. Of course, there are many, many other types of businesses, companies, startups, and organisations that have boards. How you plan for succession is crucial in all of them to keep them running smoothly.
+A 2006 survey from the Canadian Federation of Independent Business found that within five years of starting, more than a third of independent business owners planned to move on — and two-thirds wanted to be gone within ten years. Board leadership in Australian associations and not-for-profits follows similar patterns: people serve their terms, circumstances change, energy runs out.
 
-Now obviously you don’t want to leave years of sweat and tears on your organisation’s board to end up in the hands of some shlub. All your assets, and any processes for growth and maintenance, need to be properly handed over so everything stays afloat.
+The problem isn't departure. Departure is normal. The problem is when institutional knowledge leaves with the person — when the only individual who understood a particular commitment, relationship, or decision history walks out the door and the organisation loses that context entirely.
 
-Here’s where succession planning and meticulous handover procedures can save you and all your board members time and effort, and afford you peace of mind while you move to your next big thing.
+In a board context, the governance record is the repository of institutional knowledge. Every past decision, every resolution, every action assigned and completed — it's all there, if it was documented properly. Succession planning and good record-keeping are inseparable.
 
-### Succession Success
+## **What Succession Planning Actually Is**
 
-Succession planning is, essentially, the process of training new members and volunteers to move upward within the organisation. By always recruiting people who are motivated, skilled, and hopefully talented, you insure yourself against the road bumps that come along when your organisation expands or when a key board member moves on.
+Succession planning is not a crisis response to a departure announcement. It's an ongoing governance practice — developing the people within the organisation who could step up, ensuring that knowledge is shared rather than siloed, and making the transition of any role as smooth as possible when the time comes.
 
-Let’s say that you’re the chairman of the board for a university sports club: you have a treasurer, a secretary, and maybe some events managers or coaches. Training your treasurer in all the important aspects of your position ensures that when you move on, whether the secretary takes over as chairman or not, the handover process is nice and smooth. If the treasurer does the same with the secretary, then so on, it’ll be a piece of cake.
+At a practical level, it means:
 
-Properly planning for succession is easy — so easy, in fact, that many people overthink it and agonise that they’re not prepared enough. In any sized organisation, keeping members in the loop regarding promotion opportunities, an organisational expansion, and leadership training, while encouraging everyone to aim for these opportunities, is a no-brainer.
+**Identifying potential successors early.** Who in the organisation could grow into the Chair's role? The secretary's? Are they receiving the exposure and mentoring that would make the transition viable? A treasurer who has shadowed the Chair at every meeting for twelve months is a very different succession candidate from one who only shows up for their own agenda item.
 
-You probably already have a newsletter doing just that — but if you don’t, then get on it. Ensuring you have thorough, written processes for moving members upward is crucial. Set hard dates for introductions, training, tours, and meetings. Write *everything* down. Use checklists and documentation, use your other board members, and you can even use your volunteers to make sure everything is recorded and everyone is clear about what is happening and when.
+**Distributing knowledge rather than concentrating it.** When the Chair is the only person who understands a particular governance arrangement, or the secretary is the only person with access to a particular register or database, the organisation is one departure away from losing that capability entirely. Knowledge-sharing — through clear documentation, through distributed system access, through consistent governance records that all directors can read — reduces dependency on individuals.
 
-### Hand It Over
+**Training upward, not just hiring in.** The most effective successions happen when the incoming person has had meaningful exposure to the role before they formally take it on. Shadowing, taking on delegated aspects of the role, attending key external meetings — all of these reduce the knowledge gap at the point of handover.
 
-Every committee or board in an organisation has a slightly different procedure for their handover. But there are a number of things everyone should be doing for a thorough and successful handover. The process can take weeks — but organising yourself beforehand cuts that time down exponentially. Some key things to do are:
+{% include article-cta.html
+   headline="The governance record you build today is what your successor will rely on tomorrow."
+   body="Process PA keeps every meeting, decision and action permanently on record — accessible to whoever holds the role, whenever the transition happens. No scramble. No gaps." %}
 
-### Organise your documentation.
+## **The Handover: What It Must Include**
 
-Keep copies of all your minutes, annual reports, staff personnel files, organisational handbooks, bank statements, audited accounts, insurance certificates, inventory lists, *everything,* in a place where you can easily hand it over to whoever is filling your position. Having the necessary documents ready to go will save you time and stress scrounging through emails and filing cabinets when the time does come.
+When the transition moment arrives — whether planned or sudden — a thorough handover is the difference between continuity and chaos. The core components:
 
-### Hold meetings, and plan for them.
+**Governance documents.** The organisation's constitution, any registered rules, the minutes of the last twelve months of meetings (approved and filed), the register of members, the current strategic plan, and any significant resolutions that inform current operations. These should be centrally held and role-accessible — not in the departing person's email or on their personal device.
 
-A handover meeting is your chance to tell the incoming member everything they need to know about the role, and for them to ask questions. They’ll have prepared their questions beforehand, so you’ll need to prepare your answers, *and* your explanations. Having your documentation ready will guide this process.
+**Financial records.** The last set of audited accounts, the current budget, any outstanding financial commitments or significant contracts, bank signatories and access credentials.
 
-### Ensure that you’re covered.
+**Operational context.** The information that isn't in any formal document but is essential for the role — key relationships, ongoing issues being managed, the context behind recent decisions. This is best transferred through a formal handover meeting, documented with notes, rather than an informal conversation over coffee that leaves the incoming person relying on memory.
 
-Your government and/or bank will likely require a pretty large number of forms filled out when the handover is completed. Make sure you liaise with these institutions thoroughly before the handover begins, so that everyone is on the same page and everything gets completed.
+**System access.** Every platform, portal, email account, bank access and database the role uses — transferred properly rather than shared as the outgoing person packs their desk.
 
-### Move On
+The goal of the handover is for the incoming person to have everything they need to be effective at their first meeting — not to still be finding out what they don't know six months later.
 
-Once you’ve ensured your organisation’s legacy, there’s only one thing to do: buckle down on the next project. If you follow all our advice above, you’ll be left with a clear mind, ready to make your next great idea a reality. Now go get it done.
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is succession planning for a board or committee?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Succession planning for a board or committee is the ongoing practice of preparing for leadership transitions before they become urgent. It involves identifying and developing potential successors within the organisation, distributing institutional knowledge rather than concentrating it in individuals, maintaining complete governance records that incoming directors can rely on, and having documented handover procedures that ensure transitions are smooth regardless of the circumstances."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should a board member handover include?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A board member handover should include: governance documents (constitution, approved minutes from the last 12 months, member register, strategic plan, significant resolutions); financial records (audited accounts, current budget, outstanding commitments, bank access); operational context (key relationships, ongoing issues, context behind recent decisions — best transferred through a documented handover meeting); and system access (all platforms, portals, email accounts and databases used in the role)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is governance record-keeping important for succession planning?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Governance record-keeping is the foundation of effective succession planning because the governance record is where institutional knowledge is stored. When minutes are complete, decisions are formally recorded with exact resolution wording, and actions are tracked over time, incoming directors can review the organisation's full history independently. When records are patchy or held by individuals rather than the organisation, departures create information gaps that slow recovery and impair decision-making."
+      }
+    }
+  ]
+}
+</script>

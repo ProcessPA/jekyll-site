@@ -1,5 +1,7 @@
-﻿---
-cta_hook: "Avoid these mistakes with Process PA — automated minutes, tracked actions, and simple chairing tools."
+---
+cta_hook: "Stop making these mistakes — Process PA structures every meeting so you don't have to think about it."
+cta_body: "Timed agendas, real-time minutes, tracked actions and automatic distribution. Try it free for 30 days."
+description: "Five common board meeting mistakes that waste time and undermine governance — and what to do about each one. Practical advice for Australian associations, committees and not-for-profit boards."
 title: Common Meeting Mistakes to Avoid
 date: 2020-06-03 10:45:00 +1000
 author: Guest Post - Lisa Johnson
@@ -10,30 +12,83 @@ categories:
   - Meetings
 ---
 
-Having regular board meetings is crucial to the success of most companies. It helps to keep projects on pace, simplifies the introduction of new initiatives, and generally keeps people on the same page. As many benefits as there are to regular meetings though, they can also bring about some bad habits. Here, we’ll identify some common meeting mistakes to avoid so that you can ensure these valuable segments of board members' time are as productive and helpful as they ought to be.
+Board meetings should be some of the most productive time your organisation spends together. The right people, in the same room (or call), with the authority to make real decisions. But a handful of recurring mistakes turn that potential into wasted hours — and worse, into governance gaps that compound over time.
 
-![Casual Meeting](/content/posts/2020-06-03-common-meeting-mistakes-to-avoid-title-image.jpg "Casual Meeting - Credit Pixabay")
+Here are five of the most common meeting mistakes, what they actually cost you, and how to fix them.
 
-## Giving (or Allowing) Long Speeches
+## 1. No Agenda — or an Agenda Nobody Has Read
 
-Long speeches are some of the most common culprits of inefficient and unproductive meetings. [Kayleigh from Micro Startup wrote about ‘6 Ways People Waste Unnecessary Time in Meetings’](https://processpa.com/ExecutiveMatters/six-ways-people-waste-unnecessary-time-in-meetings) in a previous post we featured that actually addressed the issue of “making rambling speeches.” As she stated, such speeches can be given by the head of a company rallying the troops or a pressured employee looking to show initiative — but in either case they tend to take a long time and wind up going nowhere.
+Walking into a board meeting without a prepared, distributed agenda is the single fastest way to waste everyone's time. Without a clear agenda, meetings become reactive — whoever speaks loudest sets the direction, old issues get re-litigated, and new items get tacked on without proper preparation.
 
-Kayleigh was referring to meetings more generally, but the same idea should certainly apply to board meetings. So if you’re in charge at your company, we'd suggest you should do what you can to avoid the expectation of long speeches when the board gets together. Sometimes remarks simply have to be longer, and most experienced executives and investors will understand this. But you can still take steps to make sure that this isn’t the norm. You might start, in fact, with the suggested solution in the aforementioned article: Ask that everyone who’s going to be presenting have a concise set of talking points heading into the meeting.
+The fix isn't just having an agenda — it's distributing it, with all relevant board papers attached, several days before the meeting. Directors who arrive having read the materials can debate and decide. Directors who see everything for the first time when they sit down can only react.
 
-## Meeting Too Frequently
+A focused agenda with time allocations per item also solves the next problem directly.
 
-More often than not, board meetings don't occur too frequently. In some cases though, company leaders or newly assembled boards do see conducting regular meetings as a good way to touch base and stay on the same page. It's a logical notion, but some successful leaders argue that excessive meetings are essentially overkill. Most notable among those leaders is Facebook co-founder Dustin Moskovitz. [A piece on productivity tips by Verizon Connect Australia’s Taylor Fasulas](https://www.verizonconnect.com/au/resources/article/business-productivity-tips/) cited Muskovitz and the “No Meeting Wednesdays” he’s established at his startup, Asana. The piece revealed that Muskovitz believes having one day each week completely free of scheduled group commitments benefits his employees. And while Muskovitz is referring more to everyday meeting schedules, active boards are likely to benefit from a similar line of thinking. Getting together too frequently simply makes meetings feel less important, and can lead people — whether they be managers, employees, or board members — to be less attentive. Spreading board meetings out, by contrast, makes the events feel less like an obligation and more like a necessary, constructive gathering.
+## 2. Allowing Long, Unfocused Speeches
 
-## Establishing an Ultra-Casual Atmosphere
+Long speeches are among the most common culprits of unproductive meetings — whether from a board chair rallying the group or a member trying to show initiative. They take time, wander from the point, and leave other directors disengaged.
 
-Not every company environment has to be entirely formal or uptight. In fact, some of the most successful modern companies are very much behind the trend toward more casual office attire, more flexible schedules, and so on, even where executives and board members are concerned (after all, plenty of Silicon Valley CEOs are basically famous for casual wear). However, board meetings are only going to be efficient if people are paying close attention, and they’ll generally be less likely to do so if the environment is too casual. Allowing an atmosphere to develop in which board members feel comfortable checking their phones, eating snacks, and so on may seem relatively harmless. But in the context of meetings specifically it’s also a good way to ensure that members' attention will wander. So even if your office tends to be a little more on the casual side in general, we’d recommend maintaining a slightly more formal expectation for board meetings.
+The practical solution is an agenda with named time allocations for every item. When a discussion has a visible time limit, speeches tighten. When the Chair can point to the clock and say "we have three minutes left on this item," rambling stops.
 
-## Scheduling by Time
+This only works if time limits are actually enforced. The Chair's job is to keep discussion purposeful — not to let every member exhaust every point before moving on.
 
-Here, we aren’t talking about the actual start time of a board meeting; of course it has to start at a certain, scheduled point in the day. Rather, we’re talking about the idea that a productive meeting shouldn’t be scheduled to run for a set amount of time. It should instead be set up to address a certain number of topics. This is another idea that comes to us from Facebook, and in this case Sheryl Sandberg. [Inc.’s Peter Economy cited the Facebook COO in an article](https://www.inc.com/peter-economy/richard-branson-sheryl-sandberg-elon-musk-do-this-to-have-remarkably-effective-meetings.html) about effective meetings, noting that she “keeps lists of discussion points and action items.” Then, if a meeting is scheduled to last for an hour but all of those points and items are addressed within 10 minutes, the meeting simply ends. It’s a very effective way of keeping the focus on action and results, and it avoids wasting time — something most board members will greatly appreciate.
+## 3. Meetings That Run by the Clock, Not the Agenda
 
-## Using Modern Buzzwords
+Scheduling a board meeting to run for exactly two hours is the wrong frame. A productive meeting ends when the agenda items are resolved — which might be 45 minutes, or might be two and a half hours depending on what's in front of the board.
 
-This final idea is one that might seem almost counterintuitive to some business leaders. But the fact of the matter is that the use of trendy buzzwords can actually kill a meeting, particularly among experienced board members who see through the nonsense. [Nicole Fallon addressed meeting mistakes for Business News Daily](https://www.businessnewsdaily.com/8633-business-meeting-mistakes.html), and this was perhaps her most unique point. As she put it, few things turn people off faster than hearing "corporate jargon” in the middle of a meeting — a point that holds up among executives and employees alike. Simply put, blurting out words like “synergy” or asserting a need to “think outside the box” can essentially cause others to check out. If you're a young business leader speaking to veteran partners or investors on your board, it may even make them take you less seriously. They’ll feel like they’ve heard what you’re saying before — and that you’re not actually saying much of anything.
+When meetings are clock-driven, two things go wrong: short agendas get padded with non-essential discussion to fill the time, and long agendas get cut off before critical items are resolved. Neither outcome serves the organisation.
 
-**Your board meetings should be some of the most valuable time you spend running your company. However, it’s easy to make them less effective by falling into these habits. Watch out for them and you can ensure efficient, highly productive meetings that will be of tremendous benefit to your company.**
+Structure your meetings around a numbered agenda with time estimates per item, not a fixed end time. If everything is resolved in 50 minutes, end in 50 minutes. Your directors will appreciate it, and the discipline of a good agenda means the important items are always covered first.
+
+{% include article-cta.html
+   headline="Every meeting deserves a proper agenda and complete minutes."
+   body="Process PA builds the agenda from your items, times each section, captures minutes and motions in real time, and assigns actions before anyone leaves. Meetings that run properly, every time." %}
+
+## 4. No Record of What Was Decided — or Who Owns What
+
+This is the governance failure that compounds. A productive meeting where no actions are formally assigned and no resolution wording is recorded is only marginally better than no meeting at all. Within a week, different directors will have different recollections of what was agreed. Within a month, the same item will be back on the agenda.
+
+Good minutes don't require pages of prose. They require: the resolution or key outcome of each agenda item, the mover and seconder of any formal motion, and every action assigned — to whom, by when. That's it.
+
+The organisations that improve fastest are the ones where the Chair closes every meeting by reading back the actions list. When every person in the room hears their name attached to a specific task and deadline, accountability is established in the room, not chased via email a week later.
+
+## 5. A Casual Atmosphere That Undermines Focus
+
+This isn't about dress codes or formality for its own sake. It's about the behavioural norms in the meeting room. Allowing phone checking, side conversations, or a general sense that the meeting is optional in spirit creates an environment where directors aren't fully present — and decisions made by a half-present room are lower quality decisions.
+
+A clear start time, a distributed agenda, and a Chair who opens the meeting formally and moves through items with purpose sets the right tone without requiring anyone to wear a tie.
+
+The most effective board meetings combine genuine collegiality with clear structure. People can be relaxed and professional at the same time. The agenda provides the structure; the Chair enforces it; and everyone leaves knowing exactly what was decided and what they're responsible for next.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the most common board meeting mistakes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most common board meeting mistakes include: not preparing or distributing an agenda in advance; allowing long, unfocused speeches without time limits; scheduling meetings by clock time rather than agenda items; failing to formally record decisions, resolutions and actions; and allowing an overly casual atmosphere that reduces director engagement and focus."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you make board meetings more productive?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most effective way to improve board meeting productivity is to prepare and distribute a focused agenda with time allocations several days before the meeting, ensure all board papers are attached and read in advance, enforce time limits during discussion, formally record all resolutions and assign every action to a named person with a deadline, and close every meeting by reading back the action list."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is it important to record actions in board meetings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Recording actions — with named owners and deadlines — is what turns board decisions into outcomes. Without formal action tracking, directors leave meetings with different recollections of who agreed to do what, tasks fall through the cracks, and the same issues return to the agenda repeatedly. Formally assigning and tracking actions is the mechanism that creates real accountability between meetings."
+      }
+    }
+  ]
+}
+</script>

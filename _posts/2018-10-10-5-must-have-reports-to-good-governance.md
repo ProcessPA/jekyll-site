@@ -1,8 +1,10 @@
-﻿---
-cta_hook: "Process PA keeps every report on your agenda and the decisions they lead to on the record."
+---
+cta_hook: "Reports inform decisions. Process PA keeps every report on the agenda and every decision on the record."
+cta_body: "Attach financial and sub-committee reports directly to agenda items, record the board's formal resolution, and build a complete governance record automatically. Try it free for 30 days."
+description: "The five governance reports every not-for-profit and association board needs — financial performance, cashflow, compliance, strategic progress and sub-committee reporting — and how to present them so directors can actually use them."
 title: 5 Must-Have Reports to Good Governance
 date: 2018-10-10 16:00:00 +1000
-author: Calxa
+author: Process PA Team
 layout: post
 permalink: /ExecutiveMatters/5-must-have-reports-to-good-governance
 categories:
@@ -13,44 +15,83 @@ categories:
   - Tips
 ---
 
-Boards have a strategic role looking after the long-term interests of the organisation. Starting off with well-oiled systems and processes will take out the stress from the task of governing and help execute their responsibilities with effect.
+A board that doesn't have the right reports in front of it can't govern effectively. It's making decisions either on incomplete information or on an instinct that may be well-intentioned but isn't grounded in reality. For Australian not-for-profit associations — where directors are often volunteers without deep financial expertise — this problem is particularly acute.
 
-Setting up your systems online can make a big difference. Having access to minutes and agendas anywhere at any time with software portals like Process PA not only delivers transparency across the governance process but also helps with the follow up and actioning of items. A progressive board will extend this further and demand well rounded financial reports to ensure its effectiveness.
+The goal isn't to flood the board with data. It's to give every director exactly enough information to fulfil their governance function: making strategic decisions, monitoring compliance, holding management accountable, and ensuring the organisation's financial viability.
 
-It is vital that they have the right reports to support that role. In this article we’ll focus on the financial reports that can make a difference to Not-for-Profit board members.
+Here are five reports every well-governed board should have at every meeting.
 
-When we talk about good governance, we’re talking about how well the organisation is run. In particular, in the areas of **strategy**, **accountability**, **compliance** and **performance**. Managing and monitoring these is one of the key tasks of the board. We need to recognise that many board members, especially in the NFP sector, aren’t always familiar with accounting reports and terminology. So we’ll focus on providing them with just enough information. This will enable them to make decisions without too much information that they drown in detail.
+## **1. Financial Performance Report**
 
-## Strategy
+The board needs to know whether income and expenditure are tracking to plan. A simple Profit & Loss statement comparing actuals against budget for the month and year-to-date, summarised at the program or cost-centre level, gives directors the overview they need without drowning them in line-item detail.
 
-To make decisions on the long-term strategic direction of the organisation, the board needs reports that look ahead into the future. The simplest of these is a **Budget Profit & Loss Spreadsheet** report. This shows expected income and expenses (and profit or loss) monthly for the next 12 months. Ideally this report would be summarised so that it fits on one page. Board members don’t need to know exactly how much was spent on postage stamps but they do need to understand the total administration expenses.
+Board members don't need to know what was spent on stationery. They need to know whether each major program is financially on track, and if not, why — and what the board needs to decide as a result. A well-structured financial report should raise questions rather than answer them, and those questions should drive the formal board discussion.
 
-The second important strategic report is the **Cashflow Forecast**. Boards are responsible for ensuring the future financial viability of the organisation. Particularly that it’s not breaking the law by trading while insolvent. The only way to do this is to regularly review forecasts of future cashflow. In the past this has been difficult because the calculations involved are beyond most spreadsheet users. Modern software such as Calxa can greatly simplify this process.
+Keep this report to one page. If it runs longer, it's including detail that belongs in an appendix rather than the main report.
 
-## Accountability
+## **2. Cashflow Forecast**
 
-Boards are responsible for their organisations and the CEO and staff are answerable to the board. It’s important for board members to get reports that show how money has been spent and how that compares to what was planned to spend. Again, it’s best to summarise unless detail is really necessary.
+Boards have a legal responsibility to ensure the organisation does not trade while insolvent. The only way to monitor this effectively is through a regularly updated cashflow forecast — showing projected income and expenditure for the coming three to six months, and identifying any periods where the organisation's cash position may become stressed.
 
-[Calxa Premier](https://www.calxa.com/#a_aid=ProcessPA) has a useful **Cost Centre Budget Summary** report which is great in this respect (though you could reproduce the same information in a spreadsheet). It shows just one line for each program, showing Income, Expense and Profit for the budgets and actuals for month and year to date. It's just enough information to quickly see which programs are on track and which are in trouble. Where more detail may be required, Calxa’s **Budget Summary (Unspent)** report gives just that. It shows actual performance compared to budget for the month, year to date and against the annual budget.
+For many small associations and not-for-profits, this is the most commonly skipped governance report — and the one whose absence creates the most risk. A board that reviews cashflow quarterly is governing. A board that only finds out about a cash crisis when the bank balance is already low is reacting.
 
-To see what has been spent you could construct a traditional **Statement of Cashflows** (unless your accounting software has one – MYOB has a simple one) or Calxa’s **Where Did Our Money Go****?**
+## **3. Grant and Funding Compliance Report**
 
-## Compliance
+Most not-for-profits operate under grant agreements that specify how funds may be used, what reporting is required, and what conditions must be met to continue receiving funding. The board is responsible for ensuring the organisation remains compliant with these agreements.
 
-There are 2 strands to monitoring compliance in a Not-for-Profit. One is compliance with laws and regulations. Then there is also the additional need to ensure compliance with terms of grants and other funding. The trading while insolvent requirements we mentioned earlier, and they are best dealt with by a **Cashflow Forecast**. Grants can be managed by something like Calxa’s **Budget Summary (Unspent)** – or the spreadsheet equivalent – which shows progress against the annual budget or even the **Reforecast Unspent Budget Spreadsheet**. This report recalculates budgets for the remainder of the year to show what’s left to spend, adjusted for what has already been spent.
+A compliance report that shows expenditure against each grant's approved budget — what has been spent, what remains, and whether the organisation is on track to meet any acquittal requirements — gives the board the visibility it needs to discharge this responsibility. It doesn't need to be complex. A simple table showing grant name, total amount, amount spent, and a status indicator (on track / at risk / attention required) covers the essential governance function.
 
-## Performance
+{% include article-cta.html
+   headline="Reports are only as useful as the decisions they lead to."
+   body="Process PA attaches reports to meeting agenda items, records the board's formal resolution in real time, and files everything in the governance record automatically. Reports that drive action, not discussion." %}
 
-Managers are frequently held to account by comparing their actual results to either the approved budget (signed off at the beginning of the year) or the current forecast which has been more recently updated. At a high level the Cost Centre Budget Summary report will give a good overview and for more detail use the Budget Summary or the P & L Spreadsheet reports.
+## **4. Strategic Progress Report**
 
-![](/uploads/reports-for-good-governance.png)
+The board approved a strategic plan. Are the organisation's activities actually progressing against it? A strategic progress report — typically quarterly rather than monthly — gives the board a structured way to review whether the organisation is on track toward its stated goals, and whether any strategic priorities need to be revisited.
 
-## In Conclusion
+This doesn't need to be a long document. A simple status update against each strategic priority — on track, delayed, or requiring board attention — is sufficient. The value is in making the review a standing part of the governance calendar, not in the volume of the report.
 
-Board members generally don’t want to be swamped by numerous reports and so I’ve tried here to use reports that serve more than one purpose. The Cashflow Forecast, for example, is useful for both strategy and compliance; the Budget Summary for accountability, compliance and performance.
+## **5. Sub-Committee and Operational Reports**
 
-The examples used are based on [Calxa Premier](https://www.calxa.com/#a_aid=ProcessPA) because that’s the most commonly used reporting and budgeting tool in the NFP sector in Australia. However, all of them can be reproduced in a spreadsheet by someone with the right skills and time on hand. If you want to have a look at Calxa Premier, it is available as [a donation through ](__notset__)[Connecting Up](https://www.calxa.com/donations/#a_aid=ProcessPA).
+Where the organisation has sub-committees or a professional management team, their activities need to be regularly reported to the full board. This is the accountability mechanism: sub-committees report what they've done, what decisions they've made within their delegated authority, and what they're bringing to the full board for decision.
+
+Sub-committee reports should be brief — two pages maximum — and should clearly flag any items requiring a board resolution. They should be attached to the agenda in advance and circulated with the board pack, not tabled on the day.
+
+The full board's job when reviewing sub-committee reports is not to re-examine every decision the sub-committee made. It's to confirm that the sub-committee operated within its delegated authority, and to make any decisions that exceed that authority.
 
 ---
 
-Article originally posted [here](https://www.calxa.com/5-must-have-reports-to-good-governance/).
+The five reports above don't require sophisticated software to produce. They require discipline: the discipline to produce them regularly, the discipline to attach them to the agenda in advance, and the discipline to use them as the basis for formal board discussion and resolution rather than just filing them. That discipline is what separates governance that actually works from governance that merely complies.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What reports should a not-for-profit board receive at every meeting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A not-for-profit board should receive at every meeting: a financial performance report (actuals vs budget, summarised at program level); a cashflow forecast (projected income and expenditure for the coming months); a grant and funding compliance report (expenditure against each grant's approved budget); a strategic progress report (status of strategic priorities, typically quarterly); and sub-committee or management reports (activities and decisions since the last meeting, with items requiring board resolution clearly flagged)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why do boards need a cashflow forecast?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Boards of Australian not-for-profits have a legal responsibility to ensure the organisation does not trade while insolvent. The only way to monitor this proactively is through a regularly updated cashflow forecast showing projected income and expenditure. A board that only discovers cash flow problems when the bank balance is already stressed is reacting to a governance failure, not preventing one."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long should board reports be?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Board reports should generally be no more than two to three pages for the main body, with supporting detail in clearly referenced appendices. The financial performance report should ideally fit on one page. Sub-committee reports should be two pages maximum. The goal is to give directors exactly enough information to make their governance decisions — not to document every aspect of operations."
+      }
+    }
+  ]
+}
+</script>

@@ -1,45 +1,82 @@
-﻿---
-cta_hook: "Attract modern volunteers with modern tools. Process PA brings your governance into the digital age."
-title: What Millennials want from a Not-for-profit
+---
+cta_hook: "Attract and retain modern volunteers with modern governance tools. Try Process PA free for 30 days."
+cta_body: "Digital agendas, transparent records, accessible governance — the infrastructure that makes your committee worth joining. Try Process PA free."
+description: "What younger volunteers expect from Australian not-for-profits — digital tools, visible results, genuine connection and transparent governance. How to make your association worth their time."
+title: What Younger Volunteers Want From a Not-for-Profit
 date: 2016-12-14T20:49:00+00:00
-author: Matthew
+author: Process PA Team
 layout: post
 permalink: /ExecutiveMatters/what-millennials-want-from-a-not-for-profit/
 categories: Tips Volunteering
 ---
 
-Every wise not-for-profit leader knows that Millennials are a force to reckon with in the non-profit industry. They have emerged as donors, volunteers, employees and leaders.
+Australian not-for-profits that want to attract and retain younger volunteers face a clear challenge: this generation's expectations are different from those of volunteers who joined committees twenty years ago. They're more connected, more results-oriented, and far less patient with disorganised governance. They're also more willing to volunteer their time — if the experience is worth it.
 
-A research paper published in 2013 reported that 72% of Millennials are eager to join non-profit organizations while 50% are willing to donate to charities on a monthly basis. This data shows the impact that millennials can contribute to non-profit organizations if they are tapped properly.
+Here's what actually matters to younger volunteers, and what it means for how your association runs.
 
-The question becomes, however, how does an NFP reach out and grab that market. One of the most important things is to listen what Millennials want. Is it something tangible from the organization, or something that is physical but they can still take it with them when they leave.
+## **1. Digital Tools and Infrastructure**
 
-### What Millennials Want
+This isn't just about having a website or a social media account. Younger volunteers expect that the organisations they give their time to use digital tools internally — for communication, for document management, for governance administration.
 
-The first step in creating your plan and strategies in tapping millennials to join your organization is to uncover what they are looking for or want from a not-for-profit organization. Doing this can lead to a massive increase in engagement from that market.
+When a new committee member discovers that agendas come as printouts, minutes live in a folder on the secretary's personal laptop, and actions are tracked in someone's notebook, the signal is clear: this organisation hasn't moved past 2005. That's a signal about governance quality, not just technology preference.
 
-#### 1\. Go Digital
+Making the switch to digital governance — agendas distributed via a portal, minutes accessible from any device, actions visible to all committee members — costs relatively little and communicates clearly that the committee operates as a modern organisation. It also reduces the administrative overhead that discourages capable people from taking on secretary or treasurer roles.
 
-Almost every millennial has access to the internet through a wide array of platforms that can either be via smartphones, tablets, laptops, and many more. What your organization can do is ensure that you have strong visibility online. Optimizing your website and keeping your content as fresh as possible may seem like small things, but can give a massive boost to that engagement.
+## **2. Visible Results**
 
-The thing is, Millennials are keener in sharing and campaigning for causes that are timely. This is done by Millennials using materials that are visually appealing and easy to share. So remember to put ample time and effort into updating your social media accounts to successfully keep millennials engaged.
+Younger volunteers are highly motivated by impact. They need to be able to connect their specific contribution to a visible outcome — not in a vague "we're making a difference" way, but concretely: what did the committee decide, what got done, and what changed because of it?
 
-Make sure you are using modern technology systems internally as well. If you want them volunteering within your organization, then you need technology that can help them do their jobs efficiently.
+This is a governance argument as much as a communication one. When meeting minutes are complete and accessible, when the action register is reviewed at every meeting, and when the annual report documents what was achieved against the strategic plan, the connection between contribution and outcome is visible. When governance is ad hoc and records are incomplete, that connection disappears — and so, eventually, do the volunteers.
 
-#### 2\. Show Results
+## **3. Genuine Responsibility**
 
-Millennials are results-oriented individuals. They are highly motivated by success stories and emotional visuals. Using materials that show the difference or the impact of their contributions can be invaluable to them. They want to not only feel they’ve done good, but they also want to see it
+Younger volunteers don't join committees to observe. They join to contribute — and they stay when they're given genuine responsibility rather than token involvement.
 
-They can lose interest in your cause if they do not know how their efforts and time can help in achieving the organization’s mission and vision. Also, it doesn’t hurt to have this transparency anyway, every volunteer should feel valued and be able to see the results of their work.
+This means giving them real roles with real scope: not "you can help set up for events" but "you're leading the fundraising sub-committee with a $20,000 target and a team of three." The accountability that comes with genuine responsibility is motivating rather than daunting for volunteers who are there because they care about the outcome.
 
-#### 3\. Experience
+The governance implication: the committee needs a clear delegation structure that defines what each person is accountable for and has the authority to decide. Committees that delegate on paper but second-guess every decision in practice lose capable people quickly.
 
-Millennials value camaraderie and teamwork. They like building relationships with senior people within the organization and receiving recognition for their efforts. This helps them grow their experience base as well as their networking.
+{% include article-cta.html
+   headline="A well-governed committee is the most effective retention tool you have."
+   body="Process PA keeps your governance transparent, your meetings productive and your records complete — the infrastructure that tells volunteers their time is valued. Try it free." %}
 
-Some things you can do is offer training and references to your millennial volunteers to give them the experience to build their careers. Most of the time, they want to know that they can show off their accomplishments to friends, family, and future employers. This is one of the most important key factors in keeping millennials engaged and motivated.
+## **4. Transparency**
 
-...
+Younger volunteers expect to know how the organisation is actually going — not just the curated version shared in annual report highlights. Financial health, governance challenges, strategic priorities, what's working and what isn't: these are the things that help volunteers feel like genuine insiders rather than occasional helpers.
 
-Hey, thanks for reading, we hope this helps you in your quest for running one of the best committees. While you’re here, we would love for you to also check out our easy-to-use online board portal. Our software can help you implement and record your motions, minutes, and resolutions while giving you a safe and secure place to digitally store your documents.
+Organisations that treat financial information as something to be summarised and softened for the committee lose credibility with volunteers who expect honesty. Those that share the real picture — and trust their committee members to handle it — build the kind of trust that makes voluntary governance rewarding rather than frustrating.
 
-Try&nbsp;**Process PA**&nbsp;for&nbsp;[**30 days free today**](https://processpa.com/ExecutiveMatters/?utm_source=Medium&amp;utm_medium=referral&amp;utm_campaign=pub&amp;utm_term=Millennials){: target="_blank"}
+Transparency isn't just an ethical value. It's a practical tool for keeping the people who care most about your mission genuinely engaged in the work.
+
+## **5. Meetings Worth Attending**
+
+Everything above — digital tools, visible results, genuine responsibility, transparency — is undermined by meetings that are poorly organised, go over time without decisions, and leave everyone wondering what they just spent two hours doing.
+
+For younger volunteers, time is genuinely scarce. A two-hour meeting that produces three clear decisions and an action list they'll see followed up is worth attending. A two-hour meeting that produces confusion and no visible progress is a reason to find something better to do with a Tuesday evening.
+
+The quality of the meeting is the most visible signal of how the organisation governs itself. It shapes whether new volunteers become committed long-term contributors or quietly stop showing up after their second month.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you attract younger volunteers to a not-for-profit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Attract younger volunteers to a not-for-profit by: using modern digital tools internally (not just externally) for governance and communication; making the connection between their contribution and visible outcomes clear and immediate; giving them genuine responsibility with real scope, not token involvement; being transparent about the organisation's financial and strategic position; and running meetings that consistently produce clear decisions and followed-through actions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What do younger volunteers want from a committee or board role?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Younger volunteers typically want: modern digital tools and infrastructure, not paper-based administration; visible connection between their effort and the organisation's outcomes; genuine decision-making responsibility within a defined scope; transparency about the organisation's real situation; and meetings that respect their time by producing clear outcomes. Poor governance — disorganised meetings, opaque decision-making, no visible follow-through — is one of the primary reasons younger volunteers disengage from volunteer committee roles."
+      }
+    }
+  ]
+}
+</script>

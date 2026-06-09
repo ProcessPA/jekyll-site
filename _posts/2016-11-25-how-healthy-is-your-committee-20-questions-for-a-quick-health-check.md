@@ -1,60 +1,94 @@
-﻿---
+---
 cta_hook: "Time for a committee health check? Process PA gives you full visibility over meetings, actions and decisions."
-title: How Healthy is Your Committee? 20 Questions for A Quick Health Check
+cta_body: "A complete governance record makes assessing your committee's health straightforward — the evidence is already there. Try Process PA free for 30 days."
+description: "A 20-question committee health check for Australian associations and not-for-profits — assess your board's governance, meeting effectiveness, role clarity and decision-making across the areas that determine committee health."
+title: How Healthy is Your Committee? 20 Questions for a Quick Health Check
 date: 2016-11-25T09:19:03+00:00
-author: Matthew
+author: Process PA Team
 layout: post
 permalink: /ExecutiveMatters/how-healthy-is-your-committee-20-questions-for-a-quick-health-check/
 categories: Governance
 ---
 
-Everyone wants to run a productive committee and is deemed a major hurdle for most. When it comes to your committee, you want to make sure that everybody and everything is running smoothly. Nobody wants an unhealthy committee.
+A committee, like an organisation, benefits from a regular health check. Problems in governance rarely appear suddenly — they develop gradually, often invisibly, until they reach a point where they're difficult and costly to address. A periodic, honest assessment catches them early.
 
-More specifically, questions around the following normally pop into our heads; How healthy do you think your committee is? Are the members of the committee well versed in terms of their role and responsibilities?
+The following 20 questions cover the areas that most reliably indicate committee health. Work through them honestly — and ideally with other committee members, since a single perspective tends to miss things that a group will catch.
 
-If you in this camp of constantly asking these questions, it may be time to give your committee the old health check.
+## **Role and Purpose**
 
-### Time to get checking
+1. Does the committee clearly understand its own role and authority?
+2. Does each member understand their individual role and responsibilities?
+3. Is the organisation's mission and vision clear to every committee member?
+4. Does the committee's actual work align with that mission and vision?
 
-Here’s a quick checklist to assess and review your committee’s health status:
+If members can't clearly articulate the committee's role or their own responsibilities, that ambiguity is the root of many other governance problems. Role clarity is foundational.
 
-* Does the committee still understand its role?
-* Do the members understand their roles as part of the committee?
-* Is the mission and vision of the organization clear?
-* Does the committee operate on the mission and vision of the organization?
-* Is the required information disseminated before meetings?
-* Are meetings well attended?
-* Are meetings held as frequent as needed?
-* Are meetings productive/effective?
-* Is decision-making done with the best interest of the organization in mind?
-* Are committee members’ given equal privileges during a meeting?
-* Are committee meetings properly documented?
-* Are there conflicts in the committee?
-* Are conflicts resolved in the committee?
-* What is the attrition rate of the committee?
-* Is the committee on top of the issues and problems that the organization is facing?
-* Are the values of the organization clear?
-* Does the committee uphold the values of the organization?
-* Is the financial standing of the organization clear?
-* Is the organization’s legal structure clear?
-* Does the committee properly manage the organization’s resources?
+## **Meetings**
 
-### How do you answer these?
+5. Is relevant information (agenda, papers, reports) distributed before meetings, with adequate notice?
+6. Are meetings well attended?
+7. Are meetings held as frequently as the organisation actually needs?
+8. Are meetings productive — do they reach clear decisions?
+9. Are committee members given equal opportunity to contribute during meetings?
+10. Are meetings properly documented with accurate minutes?
 
-If you want to, you can try to answer these yourself. Going it alone, however, can have some major downsides. Having people around you who can help you review and answer these questions with you is the way to go. Not only will it save time in the end, but you’ll also have multiple fresh eyes to look over the committee.
+Meeting health is the most visible indicator of committee health overall. Poorly attended, unproductive, badly documented meetings are both a symptom of dysfunction and a cause of further decline.
 
----
+## **Decision-Making and Conflict**
 
-### Take part in a Survey
+11. Are decisions made with the organisation's best interests genuinely at heart?
+12. Are there unresolved conflicts within the committee?
+13. When conflicts arise, are they resolved constructively?
+14. What is the committee's turnover rate — are members leaving faster than is healthy?
 
-[Click here for a quick questionnaire.](https://mgrowan.typeform.com/to/yVqdCl)
+Some conflict is healthy — it signals genuine debate. Persistent unresolved conflict, or a high attrition rate, signals deeper problems.
 
-[![Signs of a Healthy Committee](/content/posts/Signs-of-a-Healthy-Committee.png "Signs of a Healthy Committee"){: .img-fluid}](https://mgrowan.typeform.com/to/yVqdCl){: target="_blank"}
+{% include article-cta.html
+   headline="Most of these questions are easier to answer when you have a complete governance record."
+   body="Process PA tracks every meeting, decision and action — so when you assess your committee's health, the evidence is already documented. Try it free for 30 days." %}
 
-Hey, thanks for reading, we hope this helps you in your quest for running one of the best committees. While you’re here, we would love for you to also check out our easy-to-use online board portal. Our software can help you implement and record your motions, minutes, and resolutions while giving you a safe and secure place to digitally store your documents.
+## **Governance and Compliance**
 
-Try&nbsp;**Process PA**&nbsp;for&nbsp;[**30 days free today**](https://processpa.com/ExecutiveMatters/?utm_source=Medium&amp;utm_medium=referral&amp;utm_campaign=pub&amp;utm_term=healthcommittee){: target="_blank"}
+15. Is the committee on top of the issues and problems the organisation is facing?
+16. Are the organisation's values clear, and does the committee uphold them?
+17. Is the organisation's financial position clear to the whole committee?
+18. Is the organisation's legal structure and its obligations clear?
+19. Does the committee manage the organisation's resources properly?
+20. Are the organisation's governance records complete, current and accessible?
 
-Don’t forget to also follow our&nbsp;[**publication**](https://medium.com/process-pa){: target="_blank"}&nbsp;to learn more about how jumping online can help your board. We’ll also post helpful tips and tricks to help you with documenting your meeting procedures. You can also follow us on&nbsp;**twitter**[here](https://twitter.com/processpa?utm_source=Referral&amp;utm_medium=medium){: target="_blank"}.
+These questions probe whether the committee is actually governing — exercising oversight, understanding the organisation's position, and meeting its legal obligations — rather than just meeting and hoping.
 
-Like what you’re reading and want to learn more, sign up to our monthly newsletter below.
+## **How to Use These Questions**
+
+Don't answer these alone. A single person's assessment of committee health is inevitably partial — blind to their own contributions to any dysfunction, and missing perspectives that other members hold. Work through the questions as a committee, ideally as a structured agenda item at a dedicated session rather than squeezed into the end of a regular meeting.
+
+The questions that produce uncomfortable answers are the most valuable ones. A committee that confidently answers "yes" to all twenty is either genuinely healthy or not being honest with itself — and the difference matters.
+
+Where the answers reveal problems, prioritise: which issues are causing the most damage, and which are most fixable? Many governance problems share a common root in poor meeting process and incomplete records — which means addressing those foundations often improves multiple areas at once.
+
+A committee that does this assessment honestly, once or twice a year, catches problems while they're still small. A committee that never assesses itself tends to discover its problems only when they've become crises.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you assess the health of a committee or board?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Assess committee health by reviewing key areas honestly and collectively: role and purpose clarity (does everyone understand their responsibilities and the mission); meeting effectiveness (are meetings well-attended, productive, and properly documented); decision-making and conflict (are decisions sound and conflicts resolved constructively); and governance and compliance (does the committee understand the organisation's financial position, legal obligations, and maintain complete records). The assessment should be done as a group, ideally once or twice a year."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the signs of a healthy committee?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A healthy committee has: clear understanding of its role and each member's responsibilities; well-attended, productive meetings that reach clear decisions; agendas and papers distributed in advance; properly documented minutes; constructive conflict resolution; sound decision-making in the organisation's interest; clear understanding of the organisation's financial position and legal obligations; and complete, accessible governance records. A healthy committee also assesses itself regularly rather than waiting for problems to become crises."
+      }
+    }
+  ]
+}
+</script>

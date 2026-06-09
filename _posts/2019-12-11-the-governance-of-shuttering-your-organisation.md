@@ -1,5 +1,7 @@
-﻿---
-cta_hook: "Closing down? Process PA keeps your final governance records complete and compliant."
+---
+cta_hook: "Closing down? Process PA keeps your final governance records complete, accessible and compliant."
+cta_body: "All past meetings, resolutions and financial approvals in one place — ready for regulators, auditors or the final general meeting. Try it free."
+description: "The governance steps required to close a not-for-profit organisation in Australia — from making the board decision and following your constitution, to finalising regulatory obligations and ensuring your records are complete."
 title: The Governance of Shuttering Your Organisation
 date: 2019-12-11 10:40:00 +1000
 author: Process PA Team
@@ -10,30 +12,78 @@ categories:
   - Management
 ---
 
-Whether for-profit or not, no organisation will last forever. There will come a time when your board will need to face the reality of closing the doors once and for all.
+No organisation lasts forever. Whether a not-for-profit has accomplished its mission, run out of funding, lost its membership base, or simply reached the end of its natural life, there will come a time when the board has to govern its way through a closure.
 
-For some, this is a reason to celebrate: the nonprofit’s mission has been accomplished, and there’s no need for your services anymore. For most, this will be a very stressful time, with high emotions and tough decisions at every turn.
+That process is harder than most boards expect — not just emotionally, but procedurally. The governance requirements for winding up an organisation are often more demanding than those for running one. Here's what's involved.
 
-Here, we’ll break down the steps your board will need to take when closing down their nonprofit.
+## **1\. Making the Decision**
 
-**1\. Making the Decision**
+Before any formal closure process begins, the board must make an actual decision — at a properly convened meeting, with the motion formally moved and recorded. "We all agreed at the Christmas drinks" is not a board resolution. The decision to close is one of the most significant a board will ever make, and it needs to be documented accordingly.
 
-The organisation’s board are the ones called upon to carry the burden of this emotional and exhausting process. They were chosen for their roles because of their skills in leadership, governance, and critical analysis, and all those skills will be tested to their limits during this period.
+Most Australian not-for-profit constitutions include provisions for how closure is decided — often requiring a special resolution passed by a two-thirds majority, sometimes requiring a general meeting of members rather than just the board. Check your constitution before any other step, because the procedure it specifies is the one you must follow.
 
-The first step to closing down a nonprofit is actually a lot of steps. It’s everything that has led to the board even considering the idea. Downsizing, leadership changes, mergers, mission refocusing, emergency fundraising, all of the crisis management that’s needed in order to keep an organisation from the brink. Once ceasing operations is the only viable course of action left, there are a number of things that need to happen:
+Once the decision is made formally, the board should develop a plan before making any public announcement. Closure rumours that reach staff, volunteers or beneficiaries before the plan is in place create unnecessary distress. Have the roadmap ready — including a timeline, a communication plan, and the regulatory steps — before anyone outside the boardroom is informed.
 
-1. Look through your bylaws. The organisation’s founders should have covered procedures to follow in case of closure in these documents.&nbsp;
-2. Finalise the decision privately amongst the board and any upper management, then devise a comprehensive plan based on your bylaws before informing any other volunteers or employees. This way, the community you serve can be informed of your decision in a way that’s sensitive to their needs, and aren’t confronted with a sudden rumour that someone that helps them won’t be around any longer. It also means that if any sudden angel investment comes along, you won’t have made fools of yourselves.
-3. Follow your plan, but don’t be surprised if things move a little differently. Closing a nonprofit is an admittedly rare process, and not many board members will have experience doing it. Stay flexible, and do what’s best for your community until the end.
+## **2\. Finalising Governance and Regulatory Obligations**
 
-## **2\. Finalising Governance**
+The legal and regulatory requirements for winding up depend on how the organisation was structured — incorporated association, company limited by guarantee, registered charity, or other. Each carries different obligations. Common requirements across most structures include:
 
-Depending on where you are in the world, the actual legal and governance process may differ slightly, but everywhere will require you to go through similar actions to complete the dissolution of your organisation. Your state and federal governments will require particular documents and communication with certain departments in order to know how and why you are ceasing operations.
+- **Notifying regulators**: Your state's associations regulator (e.g. Office of Fair Trading in Queensland, Consumer Affairs Victoria) and, if registered, the Australian Charities and Not-for-profits Commission (ACNC) must be formally notified of the dissolution.
+- **Distributing assets**: Not-for-profit assets generally cannot be distributed to members. Your constitution should specify where remaining assets must go — typically to another organisation with a similar charitable purpose.
+- **Settling debts and obligations**: All outstanding financial obligations must be settled before dissolution is complete. Outstanding contracts, leases, insurance policies and employment relationships all need to be formally concluded.
+- **Final financial statements**: Audited financial statements covering the final period of operation will typically be required by regulators and by your constitution.
 
-For example, declaring bankruptcy is a much more complex process than deregistering a smaller group might be. Any assets may need to be passed on to other organisations, debts will need to be paid, any ongoing legal proceedings need to be wrapped up, etc. Sometimes lawyers or liquidators will need to be brought in to manage these. Do your due diligence when planning your closure, and these proceedings should be smooth.
+For organisations with significant assets or complex obligations, engaging a solicitor experienced in not-for-profit law is advisable. The cost is justified against the risk of incomplete deregistration leaving directors exposed.
 
-## **3\. Celebrate**
+{% include article-cta.html
+   headline="Your governance record is what closes your organisation cleanly."
+   body="Regulators will ask for your meeting records, financial approvals and resolutions. Process PA keeps every one of them complete, chronological and ready to produce — from the first meeting to the last." %}
 
-The formation of a nonprofit only happens when like-minded people come together for a common cause. You’ve probably made quite a few friends during your run here. Everyone you do this work with worked hard for the greater good of the community, and they deserve to be recognised for it.
+## **3\. The Importance of a Complete Governance Record**
 
-Throw a party, or take them to dinner, or just bust out a little wine and cheese in the meeting room, but be sure to say thank you.&nbsp; Even if you’re closing the door on this chapter, it doesn’t mean your commitment to your cause is gone. Keep working, no matter where, and you and your workmates will make a great dent in the problems faced by your community.
+The ability to wind up an organisation smoothly depends heavily on the governance records that were maintained throughout its life — not just in the final months.
+
+Regulators reviewing a closure will examine meeting minutes to confirm that decisions were made properly, that conflicts of interest were managed, and that assets were handled in accordance with the constitution. If the organisation ever received government grants or philanthropic funding, funders will conduct their own reviews.
+
+An organisation with complete, well-organised governance records — all meeting minutes approved and filed, all financial approvals properly documented, all resolutions clearly worded — can navigate the closure process in a matter of months. One whose records are patchy, inconsistent or missing significant periods of history will face much longer scrutiny, and in some cases may require legal assistance just to reconstruct what decisions were made.
+
+This is the argument for consistent governance record-keeping from day one, not just when closure is in sight. The record you need when you close is the record you've been building since you opened.
+
+## **4\. Acknowledge the People**
+
+Closing a not-for-profit is rarely just a procedural exercise. The people who built it, ran it, and gave their time to it deserve to be recognised.
+
+Once the formal process is underway and the community has been informed sensitively and properly, take the time to acknowledge what was achieved. The mission that drove the organisation — however it ends — was worth pursuing. The volunteers, committee members and staff who contributed deserve that recognition, even if it's just wine and cheese in the meeting room on a Tuesday evening.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you close a not-for-profit organisation in Australia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To close an Australian not-for-profit, the board must first pass a formal resolution to wind up — usually by special majority as specified in the constitution. Regulators must be notified (the relevant state associations regulator and the ACNC if registered). All debts must be settled, remaining assets distributed in accordance with the constitution (typically to a similar charitable purpose), and final financial statements prepared. A solicitor experienced in not-for-profit law is advisable for organisations with significant assets."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What governance records do you need to close a not-for-profit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When winding up a not-for-profit, regulators typically require: complete meeting minutes confirming that key decisions were made properly; financial records showing how assets and funds were managed; evidence that asset distribution followed the constitution; and confirmation that all regulatory notifications were properly made. An organisation with complete, well-maintained governance records can complete this process far more smoothly than one whose records are patchy or incomplete."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can a not-for-profit board distribute assets to members when closing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generally no. Not-for-profit organisations in Australia are typically prohibited by their constitution and by incorporation law from distributing assets to members upon dissolution. Remaining assets must usually be transferred to another organisation with a similar charitable or community purpose, as specified in the constitution. This is a core requirement reviewed by regulators during the deregistration process."
+      }
+    }
+  ]
+}
+</script>

@@ -1,140 +1,129 @@
-﻿---
-cta_hook: "Starting a new association? Use Process PA to run your first meeting properly — free for 30 days."
+---
+cta_hook: "Starting a new Queensland association? Use Process PA to run your governance properly from meeting one."
+cta_body: "Proper agendas, formal minutes, tracked actions and a complete governance record — from your very first meeting. Try it free for 30 days."
+description: "How to start an incorporated association in Queensland — the eligibility requirements, the steps to incorporation under the Associations Incorporation Act 1981, and the ongoing obligations that come with incorporation."
 title: How to Start an Incorporated Association in Queensland
 date: 2016-12-17T11:34:00+00:00
-author: Matthew
-layout: post
+author: Process PA Team
 permalink: /ExecutiveMatters/how-to-start-an-incorporated-association-in-queensland/
-excerpt: An incorporated association is basically a group of people that is regarded as a person. It is because it has the same responsibilities and benefits like a person does. It is a legal entity that does not change even if its members do.
+excerpt: "A step-by-step guide to incorporating an association in Queensland under the Associations Incorporation Act 1981 — eligibility, naming requirements, constitution, management committee and the application process."
 categories: Governance Process
 ---
-### What is an Incorporated Association?
 
-**** 
+An incorporated association in Queensland is a legal entity — distinct from its individual members — that can own property, enter contracts and appear in court. Incorporation protects members from personal liability for the association's debts and obligations, and creates the formal governance structure that most community organisations need to function sustainably.
 
-An incorporated association is basically a group of people that is regarded as a person. It is because it has the same responsibilities and benefits like a person does. It is a legal entity that does not change even if its members do. 
+Here's what you need to know to get started.
 
-It can do the following as governed by the law: 
+## **What Qualifies for Incorporation?**
 
-  * Own a Land
-  * Appear in Court
-  * Enter into Contracts
+To incorporate an association in Queensland under the *Associations Incorporation Act 1981*, you need:
 
-### Responsibilities of an Incorporated Association
+- At least **seven members**
+- To be a **not-for-profit** organisation
+- To have a **physical address in Queensland**
 
-An incorporated association has duties and responsibilities as well, these include the following: 
+The "not-for-profit" requirement means the organisation cannot distribute profits or assets to members. Any surplus funds must be applied to the association's purposes. This is a legal constraint, not just a policy preference — it's built into the incorporation framework and must be reflected in the association's rules.
 
-  * Comply with the _Associations Incorporation Act 1981_ and the Associations Incorporation Regulation 1999
-  * Review its financial affairs every year
-  * Lodge copies of its rules, annual returns and financial statements
+## **The Incorporation Steps**
 
-### Starting and Incorporated Association 
+### 1. Pass a Resolution to Incorporate
 
-**** 
+A preliminary meeting of the founding members must pass a resolution to become an incorporated association — typically requiring a three-quarters majority vote. This resolution, and the meeting at which it was passed, should be formally documented. The minutes of this founding meeting are the start of your governance record.
 
-There are qualifications that must be met before starting to incorporate, these are: 
+### 2. Choose a Name
 
-  * Having at least seven (7) members
-  * Be a not-for-profit organization
-  * Have a physical address in Queensland
+The association's name must comply with Queensland naming requirements:
 
-After meeting the aforementioned requirements, the next steps should be completed: 
+- Contain only English characters (letters A–Z, numbers 0–9, apostrophes, brackets and full stops)
+- Include the word "Incorporated" or the abbreviation "Inc." at the end
+- Not be identical or confusingly similar to another association's name, a business name, a cooperative name, or a company name
 
-#### Resolution
+Search the ASIC register to check whether your preferred name is already in use. There are also restrictions on names that might imply affiliation with government agencies, financial institutions, educational institutions, the Royal family, or major sporting events without that affiliation existing.
 
-**** 
+### 3. Adopt a Set of Rules
 
-  1. Propose a resolution to become an incorporated association****
-  2. Pass the said resolution with ¾ majority vote****
+The rules — also called the association's constitution — govern how the association operates, what rights members have, how the management committee functions, and how meetings are conducted. Every incorporated association must have rules, and they must comply with the *Associations Incorporation Act 1981*.
 
-**** 
+You have two options:
 
-#### Name
+**Model rules**: Queensland provides model rules that automatically comply with the Act. Using model rules simplifies the incorporation process but may not suit every organisation's specific needs.
 
-**** 
+**Custom rules**: You can write your own rules, which must address all required matters and comply with the Act. Custom rules provide more flexibility but require more care in drafting — legal advice is recommended.
 
-The name chosen for the incorporated association must also meet requirements subject for the approval of the Government of Queensland: 
+The rules must specifically address how the management committee is structured, how committee members are elected, how long terms are, and how meetings are called and conducted. Getting these provisions right from the start is important: poorly drafted rules create governance problems that are difficult and expensive to fix later.
 
-  * Contain only English characters (the characters allowed are the letters A to Z, numbers 0 to 9, apostrophes, brackets and full stops) 
-  * Have the word ´Incorporated´ or the abbreviation ´Inc.´ at the end of the name chosen</ul> 
-    The name chosen should not be similar or identical to the following: 
-    
-      * Another association’s name 
-      * A business name 
-      * A cooperative name 
-      * The name of a company
+{% include article-cta.html
+   headline="Once you're incorporated, your governance obligations start immediately."
+   body="Process PA gives new Queensland associations the tools to meet those obligations from day one — proper minutes, formal motions, action tracking and a complete governance record. Try it free." %}
 
-          To check if the name you have in mind, you may check the Australian Securities and Investments Commission’s registers. You may do this online by going to this link: _http://www.asic.gov.au/_**** 
-                
-          There are restrictions to certain names as well. You cannot choose a name that: 
-          
-          * May be confused with government agencies, financial institutions or educational institutions
-          * Infers an affiliation with the Royal family, ex-servicepersons’ organizations or major sporting events (if that affiliation does not exist).
-          
-          To review the complete list of restrictions, you may check the [Associations Incorporation Regulation 1999](http://www.legislation.qld.gov.au/LEGISLTN/CURRENT/A/AssocIncorpR99.pdf).
-          
-#### Set of Rules
-                
-**** 
-                
-<a name="adopt-a-set-of-rules"></a>Incorporated associations must create a set of guiding rules for its operations. It is also referred to as the “association’s constitution”. Once your association is incorporated, these rules immediately take full effect. 
-                
-The rules must outline the following: 
+### 4. Establish the Management Committee
 
-* How the association operates 
-* What rights are available to members 
-* How the management committee works 
-* How meetings will run.
-* Get more details about adopting rules
-* You may use the [model rules](https://www.qld.gov.au/law/laws-regulated-industries-and-accountability/queensland-laws-and-regulations/associations-charities-and-non-for-profits/incorporated-associations/running-an-incorporated-association/rules-for-associations) or you can [write your own rules](https://www.qld.gov.au/law/laws-regulated-industries-and-accountability/queensland-laws-and-regulations/associations-charities-and-non-for-profits/incorporated-associations/running-an-incorporated-association/rules-for-associations).
-* If your association writes its own rules, you must complete Appendix A on the [Application for incorporation of an association](https://publications.qld.gov.au/dataset/28652d53-7a53-4690-afd6-4abc77a2c7d7/resource/9948d83d-841d-4e71-af75-b76ccc9f1cf8/download/aiaform1incorporatedassociationapplication.pdf)
-* If your association uses the model rules, you must complete Appendix B.</ul> 
-**** 
+Your rules must specify how the management committee is composed and elected. At minimum, an incorporated association must have a president, secretary and treasurer — the three mandatory officer roles specified in the *Associations Incorporation Act 1981* (unless the model rules' equivalents are used).
 
-**** 
+These roles carry specific legal responsibilities. The secretary, in particular, has numerous obligations around record-keeping, meeting notices, and regulatory compliance. Ensure the people taking on these roles understand what they involve before the association is formally incorporated.
 
-**** 
+### 5. Apply to the Queensland Government
 
-**** 
+Submit the Application for Incorporation of an Association to the Office of Fair Trading via the Smart Business Queensland portal. The application requires:
 
-#### Set a Management Committee
+- The proposed name of the association
+- The association's address in Queensland
+- A statement that the eligibility requirements are met
+- The rules (constitution), or confirmation that model rules are being adopted
+- Details of the initial management committee members
+- Payment of the application fee (check the current fee on the Queensland Government website)
 
-**** 
+Processing typically takes three to four weeks, though this can extend if additional information is required.
 
-<a name="elect-a-management-committee"></a>The rules you have created must outline the process of election of your association’s management committee. It should include the following: 
+## **Ongoing Obligations After Incorporation**
 
-* How to choose committee members 
-* How long the committee members’ term of office is 
-* Why a committee position may become vacant 
-* How to fill casual vacancies on the committee.
-* The rules should set out how to choose the committee members. The management committee will usually include a president, treasurer and secretary.</ul> 
-**** 
+Incorporation isn't a one-time event — it creates ongoing obligations that the management committee must fulfil:
 
-#### Application to the Queensland Government
+- **Annual general meeting**: must be held each year, with proper notice to members
+- **Annual return**: must be lodged with the Office of Fair Trading
+- **Financial reporting**: accounts must be reviewed or audited depending on the association's income level
+- **Meeting records**: minutes of all committee and general meetings must be kept
+- **Member register**: must be maintained and available for inspection
 
-**** 
+Meeting these obligations consistently requires a governance system that the whole committee can rely on — proper meeting records, formal minute-taking, tracked actions, and a complete governance record from the association's very first meeting.
 
-<a name="apply-to-us"></a>If the aforementioned requirements or steps have been completed, you can already formally apply to the Queensland Government by: 
-
-* completing the online application form   
-You may download it via this link: _<https://forms.business.gov.au/aba/landing.htm?formCode=application-for-inco>_
-* Lodging the Application for Incorporation of an Association.   
-You may download it via this link: _<https://publications.qld.gov.au/dataset/28652d53-7a53-4690-afd6-4abc77a2c7d7/resource/9948d83d-841d-4e71-af75-b76ccc9f1cf8/download/aiaform1incorporatedassociationapplication.pdf>_ 
-
-#### Fees
-
-**** 
-
-Fees to be paid will amount to $148.00 that needs to be settled at the time of lodgments. This is as of this writing, for updated fees you may check out the <a href="https://www.qld.gov.au/" target="_blank">official website of Queensland Government</a>. 
-
-__ 
-
-#### Processing Time
-
-**** 
-
-The regular lead time for this type of application is three (3) to four (4) weeks. Unless there is a need to contact the applications for additional requirements or information. 
-
-### Summary
-
-There are a fair number of steps required to setup an association as shown. Be aware that the ongoing responsibilities and liabilities must also be adhered to.
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Start an Incorporated Association in Queensland",
+  "description": "Step-by-step guide to incorporating an association in Queensland under the Associations Incorporation Act 1981.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Check eligibility",
+      "text": "Confirm you have at least seven members, the organisation is not-for-profit, and you have a physical address in Queensland."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Pass a resolution to incorporate",
+      "text": "Hold a preliminary meeting and pass a resolution to incorporate, typically by three-quarters majority vote. Document this meeting formally — it is the start of your governance record."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Choose a compliant name",
+      "text": "Select a name that complies with Queensland naming requirements, ends in 'Incorporated' or 'Inc.', and is not already in use by another registered entity."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Adopt rules (constitution)",
+      "text": "Either adopt Queensland's model rules or draft custom rules that comply with the Associations Incorporation Act 1981. Custom rules require legal review. The rules must address management committee structure, elections, term lengths, meeting procedures and how to fill casual vacancies."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Establish the management committee",
+      "text": "Appoint or elect a president, secretary and treasurer at minimum. Ensure each person understands their specific legal responsibilities under the Act."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Apply to the Office of Fair Trading",
+      "text": "Submit the Application for Incorporation via Smart Business Queensland with the required documents and application fee. Processing takes approximately three to four weeks."
+    }
+  ]
+}
+</script>

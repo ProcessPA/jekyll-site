@@ -1,31 +1,83 @@
-﻿---
+---
 cta_hook: "Great meetings keep volunteers engaged. Process PA keeps yours running smoothly — try it free."
-title: Volunteering rates on decline, but what can you do?
+cta_body: "Well-organised meetings with clear outcomes — the most practical thing you can do to retain volunteers. Try Process PA free for 30 days."
+description: "Australian volunteering rates have declined — what not-for-profits and community associations can do to attract and retain volunteers in a more competitive environment."
+title: Volunteering Rates Are Declining — But Here's What You Can Do
 date: 2016-12-13T08:32:00+00:00
-author: Matthew
+author: Process PA Team
 layout: post
 permalink: /ExecutiveMatters/volunteering-rates-on-decline-but-what-can-you-do/
-excerpt: "It is a given fact that donors pump life into non-profit organizations. Their money fuels the activities needed to carry out the mission and vision of the organization."
+excerpt: "Australian volunteering rates have been declining since 2010. The organisations that retain volunteers have one thing in common: they run well."
 categories: Volunteering
 ---
-**The Value of Volunteering** 
 
-It is a given fact that donors pump life into non-profit organizations. Their money fuels the activities needed to carry out the mission and vision of the organization. It is also essential in spreading the awareness about the cause. Campaigning for anything has been easier now than it has ever been due to the emergence of the World Wide Web. One interesting post in social media platforms like Facebook can help causes spread like wildfire. Ironically though, as fast as campaign awareness are spread there is a haunting truth of the continuous decline of volunteers. The value of volunteers’ time and effort are equal, if not more than, the money that donors give. The contributions of volunteers are truly priceless, however, it is sad to note that they have been difficult to come by for the past years. 
+Volunteering rates in Australia have been declining since the mid-2000s. The General Social Survey data shows a consistent downward trend — fewer Australians volunteering, and those who do volunteering fewer hours. For community associations, clubs and not-for-profits that depend on voluntary labour, this is a real operational challenge.
 
-**The Status of Volunteering Today** 
+But the statistics obscure something important: while the overall volunteer pool is contracting, well-run organisations are not struggling to retain volunteers. The decline in volunteering rates is not evenly distributed — it falls disproportionately on organisations where the volunteer experience is poor.
 
-The year 2014 marked the beginning of the decline in the number of volunteers as stated in the study results released by the General Social Survey for Australia. It was stated that both men and women are less likely to offer volunteer help in 2014 than they were in 2010. In addition to this, there has also been 3% decline in people volunteering to help other outside their household. These includes helping out neighbors, providing unpaid childcare or simply lending a hand in gardening for old people. 
+## **Why Volunteers Leave**
 
-Perhaps the big question now is why? What is or are the reasons behind this decline? Leaders and journalists have pinned several reasons: the level of economic stress, the lack of government funding, and even in increase of single-parent households. None of these reasons, however, can be classified as the main singular culprit for the rate decline. 
+Research into volunteer retention consistently identifies the same factors. Volunteers leave when:
 
-<img title="volunteer-422598_960_720" class="img-fluid" src="/content/posts/volunteer-422598_960_720.jpg" />
+- Their time feels wasted — meetings are disorganised, go overtime, and produce no visible outcomes
+- Their contribution isn't valued or visible — they can't see a connection between their effort and the organisation's results
+- Their role is unclear — they don't know what they're supposed to be doing or who to ask
+- The organisation has internal conflict that makes being involved uncomfortable
+- Life circumstances change and competing demands increase
 
-**What can you do?** 
+Notice what's on that list: most of it is within the committee's control. The factors that drive volunteers away are not primarily external — they're governance and management failures that better-run organisations avoid.
 
-The next step to undertake is to check what we can do about this worrying information. Is it too late to regain the momentum of volunteering? The answer is no. It is never too late. We can still do something about this and we should. They key is to align existing volunteers’ skills and interests with missions and to talk to potential volunteer profiles resourcefully through the use of free mediums. 
+## **What Well-Run Organisations Do Differently**
 
-If an organization has existing volunteers, then half of the work is done. What needs to be worked on now is keeping the fire of service in the volunteers’ minds and hearts alive. You can do this by regularly talking to the volunteers. This is to make the organization feel the pulse of the team and assigns tasks well. A volunteer will more likely stay if they feel that what they do is valuable to the organization. Next is to keep the volunteers interested. Volunteers are people too, prone to boredom and demotivation. Motivate them by checking their response to given tasks regularly and asking them for suggestions. 
+The organisations that retain volunteers through periods of general decline share common characteristics:
 
-If you need to invite volunteers to your group, do so by making a persona of the volunteer that would work well with your team. This is not to limit the profile of people that you will invite, you will still invite people with other personality types, but streamlining the characteristics of the team that you think will work with your group will save you time. Moreover, these personalities will stay longer and become advocates of your cause. You may use free mediums to send out your cause invitations like Facebook, Twitter, Instagram and other social media accounts. Try to be direct to the point when giving out your message because unnecessary words may turn them away. You may also try to send emails to influencers like bloggers and celebrities because there are those among them that are open to doing free work for a cause. 
+**They run meetings worth attending.** The agenda is distributed in advance. Meetings start on time. Every item produces a decision or a clear next step. The action list is read back at the close. Volunteers leave knowing what was accomplished and what they've committed to.
 
-Mahatma Gandhi once said that you have to “be the change that you want to see in the world”. Even in the 20<sup>th</sup> century, this ideal is still true. Again it is not too late, to give your time, skill and efforts to causes that are greater than all of us. The question now is, how will you contribute?
+**They make contribution visible.** The action register, reviewed at every meeting, shows what has been completed. The annual report documents what was achieved. Volunteers can see the direct connection between what they committed to doing and what the organisation delivered.
+
+**They're organised before volunteers arrive.** New volunteers have a clear role, a defined scope, and someone assigned to help them get started. They're not left to work out for themselves what they're supposed to be doing.
+
+**They're transparent about the organisation's situation.** Volunteers who understand the strategy, the finances and the challenges are genuinely engaged with the mission rather than just performing tasks. Organisations that treat governance information as something to be protected from their volunteers erode the trust that keeps people committed.
+
+{% include article-cta.html
+   headline="The single most effective volunteer retention tool is a well-run meeting."
+   body="Process PA gives your committee structured meetings with clear outcomes — the practical foundation of a volunteer experience worth staying for." %}
+
+## **Practical Steps to Improve Volunteer Retention**
+
+If your organisation is losing volunteers or struggling to attract new ones, start with an honest assessment:
+
+**Meeting quality**: are meetings well prepared and productive? Do they start on time and close with clear outcomes and a read-back of the action list? If not, this is the highest-leverage change you can make.
+
+**Role clarity**: do all committee members know exactly what they're responsible for, what authority they have, and what good performance in their role looks like? Role ambiguity is a primary driver of both over-commitment (burnout) and under-contribution (drift).
+
+**Visibility of impact**: can volunteers see how their specific contributions are leading to outcomes? Completing the governance cycle — decisions made, actions assigned, actions completed, results reported — is what makes this visible.
+
+**Onboarding**: when new volunteers join, is there a defined process for getting them started? Do they receive the information they need to contribute effectively at their first meeting, or are they left to figure things out over several months?
+
+None of these improvements require significant resources. They require consistent process and the willingness to prioritise the volunteer experience as a governance matter, not just a retention problem.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why are volunteering rates declining in Australia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Australian volunteering rates have declined since the mid-2000s due to a combination of factors including increased time pressure from work and family commitments, changing expectations about volunteer experiences, and in some cases, poor volunteer management by organisations. However, the decline is not evenly distributed — well-run organisations with clear roles, productive meetings and visible impact consistently retain volunteers better than those with poor governance and unclear contribution."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can a not-for-profit improve volunteer retention?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Improve volunteer retention by: running meetings that are well-prepared, start on time, produce clear outcomes and close with an action list read back to the room; making individual contributions visible through a maintained action register and regular progress reporting; providing clear role definitions and scope for every volunteer; being transparent about the organisation's strategy, finances and challenges; and having a defined onboarding process for new volunteers so they can contribute effectively from their first meeting."
+      }
+    }
+  ]
+}
+</script>

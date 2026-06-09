@@ -1,6 +1,8 @@
-﻿---
+---
 cta_hook: "Every vote counts. Process PA records motions, seconds and outcomes automatically — nothing gets lost."
-title: Of course you vote when you're on a board...
+cta_body: "Motions captured with mover, seconder and resolution wording in real time. Your voting record is always complete and audit-ready. Try it free for 30 days."
+description: "How voting works in Australian board and committee meetings — types of resolutions, voting rights, circular resolutions, and why accurate recording of every vote is a governance and compliance obligation."
+title: How Voting Works in Board and Committee Meetings
 date: 2019-06-05 10:50:00 +1000
 author: Process PA Team
 layout: post
@@ -11,36 +13,91 @@ categories:
   - Management
 ---
 
-As board members, it is your responsibility to address all the critical matters of the organization. Most of the time, a decision will come down to a vote. Each board member has the right to vote on any decision that is being made by the board.
+Voting is the mechanism through which a board converts discussion into decision. Without formal votes, a board has conversations but no binding commitments — no resolutions, no clear record of what was authorised, no accountability structure for what comes next.
 
-Voting in and of itself comes in different forms: a written vote (ballot), Video or Teleconference, a board portal system, and many more. Nowadays, more and more boards are voting using technology that eases the voting process while lowering some of the barriers that can hinder the vote — often the lack of a full quorum.
+Understanding how voting works is fundamental to effective governance. Here's what every board member needs to know.
 
-It is important to note the seriousness of individual board members’ voting responsibilities. If something were to occur that would hinder the company, each member could face personal liability for the organization. This is why each vote counts and is as important as another member's.
+## **Every Director Has an Equal Vote**
 
-In recent history, many boards have turned to majority voting when it comes to decision-making. &nbsp;The reasons for this have been argued over the last decade by many people. It is important to note, however, that if majority voting is the way you do things then again, each vote matters.
+In most Australian incorporated associations and not-for-profit boards, every director has one vote and votes carry equal weight — regardless of the director's tenure, seniority, or role. The Chair typically does not have an ordinary vote but holds a casting vote: the right to vote when the initial count results in a tie.
 
-## What do boards vote on?
+Your organisation's constitution specifies who can vote, on what matters, and what happens in a tied vote. If you haven't read the relevant sections of your constitution, do so before your next meeting. The rules you assume apply may not be the ones that actually govern your board.
 
-Boards tend to vote on a variety of topics, from day-to-day management activities to long-term strategy implementation. While every board is different, there are some common topics you will probably being voting on. These can include:
+## **Types of Resolutions**
 
-### Strategy and structure
+Not all board decisions carry the same weight. Australian incorporated associations typically recognise three types of resolutions, each requiring a different threshold to pass:
 
-One of the big umbrella-topics voted on are the strategies and structures of the organization. Some strategies might revolve around the implementation of new marketing campaigns. Some structural votes may look at creating or removing new departments.
+**Ordinary resolutions** are used for most routine board decisions — approving budget expenditures, adopting policies, accepting reports. They pass with a simple majority of members present and voting.
 
-### Management of funds
+**Special resolutions** are required for significant constitutional or structural changes — amending the constitution, changing the organisation's name, or (in most constitutions) winding up the organisation. They typically require 75% of members to vote in favour, and the proposed resolution must usually be notified to members in advance.
 
-All board members will face a financial or budgetary vote eventually. These votes will come in many forms: approvals for fund release, budget approvals, and many more. These votes, if recorded correctly, a crucial for accountability, as the board will have a complete record of what was approved.
+**Unanimous resolutions** require all eligible members to vote in favour. They're used sparingly, typically for the most fundamental organisational decisions, and any single opposing vote defeats them.
 
-### Everything else\!
+Check your constitution — the thresholds for special and unanimous resolutions, and which decisions require them, vary between organisations and jurisdictions.
 
-Seriously, while you will get common ones like above, you will also get all the other ones in between. You could be voting on what goes in the company vending machine, or if you even should have one. You might have to vote on whether Ted from Accounting deserves to get fired because he took some pens home.
+## **What Has to Be Recorded**
 
-You may find that the most common thing you vote on falls into the ‘everything else’ category. The mundane stuff. The stuff that seems irrelevant and makes you feel like you’re wasting your time. This stuff may bore you, but it's important none the less.
+Every vote taken at a board meeting must be recorded in the minutes. The minimum standard for each motion:
 
-## Quick take: Voting rights
+- The exact wording of the motion as put to the vote
+- The name of the member who moved it
+- The name of the member who seconded it (if required)
+- The outcome: carried, lost, or carried unanimously
+- If carried: the exact resolution wording (which should match the motion wording)
 
-Your members' voting rights are usually laid out somewhere, mostly in shareholders agreements for for-profit organizations. In most cases, what types of resolutions and minimum votes are explained as well.
+"The motion was carried" is not a sufficient minute entry. The resolution needs to be recorded verbatim, because it is the formal, binding record of what the board decided — and it may be relied upon for legal, financial or compliance purposes months or years later.
 
-There are three types of resolutions that voting boards will use: ordinary, special, and unanimous. An ordinary resolution is the most common and is used to keep the organization moving without every member agreeing. A special resolution will typically require at least 75% of the board to vote yes. A unanimous resolution is pretty self-explanatory, and is most commonly used for organizational level changes.
+{% include article-cta.html
+   headline="Every motion moved. Every vote recorded. Every resolution in your minutes — automatically."
+   body="Process PA captures motions in real time during your meeting: mover, seconder, vote and resolution wording flow directly into the minutes. Nothing to reconstruct or transcribe later." %}
 
-Voting is complex and understanding how it works is essential for board members to understand. If you’re unclear, check your shareholders’ agreements or consult another board member.
+## **Circular Resolutions**
+
+Sometimes a board decision is needed between meetings — too urgent to wait for the next scheduled meeting, but not significant enough to warrant calling a special meeting. Many constitutions allow circular resolutions: the proposed resolution is circulated to all directors in writing, and if enough respond with their vote (typically all members, or a specified majority, within a specified timeframe), the resolution passes without a meeting being held.
+
+Circular resolutions must be managed carefully. The proposed resolution wording needs to be clear and precise, all eligible directors must receive it and have an opportunity to vote, and the outcome — including who voted which way — must be formally recorded in the governance record. Many constitutions also require circular resolutions to be formally acknowledged or confirmed at the next ordinary meeting.
+
+## **What Happens When You're Not Sure**
+
+Governance questions arise in real time during meetings, and not every Chair will have the answer immediately. Common ones:
+
+*Can a director vote on an item where they have a conflict of interest?* Generally no — they should declare the conflict and absent themselves from both discussion and vote.
+
+*What happens if quorum is lost during the meeting?* The meeting typically cannot continue to transact business until quorum is restored or the meeting is adjourned.
+
+*Can a director vote by proxy?* Most Australian incorporated associations' constitutions do not permit proxy voting at board meetings (unlike at general meetings). Check yours.
+
+When in doubt, err on the side of more process, not less. The cost of following proper procedure is minimal; the cost of a governance challenge to an improperly made decision can be substantial.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the types of board resolutions in Australian associations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Australian incorporated associations typically use three types of resolutions: ordinary resolutions, which pass with a simple majority and are used for routine board decisions; special resolutions, which usually require 75% in favour and are used for constitutional changes and other significant decisions; and unanimous resolutions, which require all eligible members to vote in favour. The specific thresholds and which decisions require each type are specified in the organisation's constitution."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What must be recorded when a board vote is taken?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Every board vote must be recorded in the meeting minutes with: the exact wording of the motion as put to the vote; the name of the mover; the name of the seconder (if required); the outcome — carried, lost, or carried unanimously; and if carried, the exact resolution wording. 'The motion was carried' alone is not a sufficient minute entry — the resolution must be recorded verbatim as it is the formal legal record of what the board decided."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a circular resolution?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A circular resolution (also called a written resolution or out-of-session resolution) allows a board to make a formal decision between meetings by circulating the proposed resolution to all directors in writing. If the required number of directors respond with their agreement within the specified timeframe, the resolution passes without a meeting being held. The outcome must be formally recorded in the governance record and typically acknowledged at the next ordinary meeting."
+      }
+    }
+  ]
+}
+</script>

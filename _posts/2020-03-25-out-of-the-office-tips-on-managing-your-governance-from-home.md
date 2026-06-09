@@ -1,5 +1,7 @@
-﻿---
-cta_hook: "Manage governance from anywhere. Process PA keeps your meetings, minutes and actions accessible online."
+---
+cta_hook: "Manage your board governance from anywhere. Process PA keeps every meeting, minute and action accessible online."
+cta_body: "Agendas distributed digitally, minutes captured in real time, actions tracked between meetings — no physical office required. Try it free for 30 days."
+description: "How to run effective board meetings and maintain governance standards when directors are working remotely. Practical guidance for Australian associations, clubs and not-for-profit committees managing governance from home."
 title: 'Out of the Office: Tips on Managing Your Governance From Home'
 date: 2020-03-25 10:45:00 +1000
 author: Process PA Team
@@ -10,26 +12,85 @@ categories:
   - Management
 ---
 
-Working from home has never been more in vogue. Though the practice has been around for decades, the current global health crisis has forced most organisations to take a look at what their workers can achieve from the comfort of their homes. It’s a jarring transition to make, and one that can be demotivating if it isn’t handled carefully.
+Remote work has moved from exception to expectation for many Australian associations and not-for-profits. Directors and committee members who once gathered in a boardroom or community hall are now meeting via video call, reviewing board papers on their own devices, and signing off on minutes without ever being in the same room.
 
-So let’s look at some ways to smash out your work from home without caving to the temptations of that beautiful couch.
+The tools for video conferencing have become familiar quickly. The governance habits that should accompany them — proper agendas, formal minutes, tracked actions — often haven't kept pace. Here's how to maintain governance standards when your board is distributed.
 
-**Organise Your Space and Your Self**
+## Distribute Agendas and Papers Before the Meeting
 
-There’s a long buildup to the point where you sit down at your desk in an office. You wake up, go through your morning routine, have breakfast, commute to work while listening to your favourite podcast, grab a coffee, say hello to your coworkers, and then finally start the day.
+The single most important governance practice for remote boards is getting the agenda and all relevant papers to directors before the meeting — not at the start of it.
 
-At home, you lift your head from your pillow and you’re already in the workplace. It’s a lot. So think of ways to organise yourself and both your physical and digital spaces to help ease that transition.
+In a physical meeting, a late-circulated agenda is inconvenient. In a remote one, it's disabling. Directors can't flip through a stack of papers on a video call the way they might in a room. Reading a board paper on screen while trying to follow a discussion is genuinely difficult.
 
-A popular way to mentally adapt to the change is to pretend as though you *are* going to an office. Set your alarm, make some coffee, do your hair and put on some work clothes. Work from a clean desk, not your bed or couch, and maybe even create a new user profile on your computer just for work.
+The standard to aim for: agenda and all attachments distributed at least 48 hours before the meeting. Directors review materials independently, form views, and arrive ready to decide rather than ready to be briefed.
 
-Set yourself scheduled start and finish times and a proper lunch break. Keeping work and home life seperate in your mind takes a few steps, but it definitely leads to boosted productivity.
+## Run the Remote Meeting Like a Formal Meeting
 
-**Keep in Contact**
+The casual conventions that sometimes creep into video calls — cameras off, multitasking, running long without structure — are particularly damaging in a governance context. A director who is only half-present during a resolution vote is not fulfilling their duty.
 
-If you work in an organisation, you work with other people. That means, on a normal day in the office, you would be chatting and collaborating constantly. Human contact is important for more than just work reasons, so making sure you keep up your relationships with your coworkers helps keep everyone sane and productive.
+Run remote board meetings with the same formality you would apply in person:
+- A formal opening by the Chair
+- Agenda items taken in order, with time allocations respected
+- Motions formally moved and seconded, even via video
+- A clear close with the action list read back before anyone disconnects
 
-There’s some great technologies out there to help with this, like Slack, Trello, or Discord for text communication, and Zoom, Webex, or Starleaf for video meetings.
+The Chair's role in a remote meeting is arguably harder than in person — managing speaking time, watching for raised hands or signals in a video grid, and keeping discussion purposeful without the natural cues of a physical room. Preparation and a structured agenda make this manageable.
 
-One common way to keep up with your coworkers is to have what some call a ‘walk in’ or ‘stand up’ meeting first thing every day. This is just a quick ten minute video conference each morning to check in on each other and talk about what you’ll be working on that day.
+{% include article-cta.html
+   headline="Running board meetings remotely? Process PA keeps the governance standards exactly where they need to be."
+   body="Distribute agendas digitally, capture minutes and motions in real time during the video call, assign actions with owners and deadlines, and send signed minutes to the board automatically — wherever they are." %}
 
-Treat it like a real meeting, with an agenda and minutes, and be sure to keep it up every day. By announcing your intentions to achieve a particular thing in a given timeframe, you’re holding yourself more accountable, and tricking your mind into staying more focused on that task. Give this meeting style a try and see how it works for you\!
+## Capture Minutes During the Meeting, Not After
+
+Minute-taking is harder on a video call than in person. Audio quality varies, multiple people sometimes speak at once, and the minute-taker is typically also participating in the discussion.
+
+The solution is not to try to transcribe everything and clean it up later — that approach produces long, unreliable minutes and takes hours of work. Instead, use a structured approach: the agenda is your framework, and for each item you record only the key outcome, any resolution passed (exact wording), and any action arising.
+
+In Process PA, the minute-taker works directly against the meeting agenda during the call — adding notes, recording motions and votes, and assigning actions item by item. By the time the meeting closes, the minutes are substantially complete. The Chair reviews and signs off digitally, and they go out to the board without anyone having to reopen a Word document.
+
+## Track Actions Between Meetings
+
+Actions assigned in a remote meeting are at higher risk of being forgotten than those assigned face-to-face. There's no hallway conversation the next day, no visible reminder on the office whiteboard. If the action list sits in an email thread from three weeks ago, it's likely not being reviewed.
+
+The discipline of maintaining a live action register — visible to all directors, with owners and due dates — is what keeps remote governance accountable. Before each meeting, the Chair should open by reviewing the action list from the previous meeting. Which were completed? Which are overdue? Which need to be rolled forward?
+
+This single habit, consistently applied, closes the accountability loop that video-first governance otherwise leaves open.
+
+## Keep the Governance Record Accessible to Everyone
+
+One of the genuine advantages of remote governance is that everything should be digital — which means everything should be accessible. There's no reason for minutes to live only on the secretary's laptop, or for a new director to need to ask for the last six months of meeting records.
+
+A central, role-based system where every director can access the current agenda, past minutes, resolution history and outstanding actions regardless of their location is the infrastructure of effective remote governance. It's also the baseline expectation of any well-run Australian association or not-for-profit operating under modern incorporation standards.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you run a board meeting remotely?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Run a remote board meeting with the same formality as an in-person one: distribute the agenda and all board papers at least 48 hours in advance, open formally with the Chair, take agenda items in order with time allocations, formally move and second all motions, and close by reading back the action list. Capture minutes in real time against the agenda, not from memory afterwards."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you take minutes in a remote board meeting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Take minutes in a remote meeting by working directly against the agenda in real time — for each item, record the key outcome, the exact wording of any resolution passed with mover and seconder, and any action arising with an assigned owner and due date. Do not try to transcribe everything and clean it up later. A structured, agenda-based approach produces better minutes in less time."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you keep board members accountable when working remotely?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maintain accountability in a remote board by keeping a live action register that is visible to all directors, with each action assigned to a named person with a due date. Begin every meeting by reviewing the action list from the previous meeting — what was completed, what is overdue, what needs to be carried forward. This discipline closes the accountability loop that informal remote governance leaves open."
+      }
+    }
+  ]
+}
+</script>

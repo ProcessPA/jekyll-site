@@ -61,6 +61,17 @@ Content editors use CloudCannon. Follow these rules:
 | `convertkit-lead-capture.html` | Email capture form |
 | `wista-video.html` | Wistia video embed |
 | `help-card.html` | Contextual help CTA card |
+| `trial-cta.html` | End-of-post trial CTA — reads `page.cta_hook` / `page.cta_body` (see Blog posts) |
+| `article-cta.html` | Inline mid-article trial CTA card — takes `headline` / `body` params |
+
+## Blog posts (ExecutiveMatters)
+
+Posts in `_posts/` use `layout: post` and live under the `/ExecutiveMatters/` permalink. Each governance/meetings/management article follows a conversion + SEO convention (product-update and P&C posts are exempt):
+
+- **End-of-post CTA**: set `cta_hook` (headline) and optional `cta_body` (supporting line) in front matter. `post.html` renders `trial-cta.html` when `cta_hook` is present, else falls back to a generic panel. Keep the hook contextual to the article topic.
+- **Inline CTA**: place `{% include article-cta.html headline="…" body="…" %}` roughly 60% through the body, before the conclusion. Topic-specific, ties the article subject to a Process PA capability.
+- **Meta description**: set `description` in front matter (consumed by `{% seo %}` / jekyll-seo-tag). Specific to the article, with an Australian governance signal where natural. Without it, posts fall back to the generic site description.
+- **Schema**: end the body with an inline `<script type="application/ld+json">` block — `FAQPage` for Q&A-style articles, `HowTo` for step-based ones. Improves SEO and AI-answer-engine visibility. Jekyll renders Liquid inside `.md`, so includes/schema work directly in post markdown.
 
 ## Navigation
 

@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Not on Process PA yet? Try all these features free for 30 days."
 title: 'Email Attachments & Robustness, Exports & More Process PA Improvements'
 date: 2018-10-08 00:00:00 +1000
 author: Process PA Team

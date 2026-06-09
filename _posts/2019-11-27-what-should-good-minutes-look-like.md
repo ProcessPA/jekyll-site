@@ -1,4 +1,7 @@
 ---
+cta_hook: "Good minutes don't write themselves — but with Process PA, they come close."
+cta_body: "Minutes structured around your agenda, motions captured in real time, actions assigned with owners and due dates. Chair signs off digitally and they go out automatically. Try it free."
+description: "What good board meeting minutes should look like — the structure, the level of detail, and what must be included for compliance. Practical guidance for secretaries and chairs of Australian associations and not-for-profit committees."
 title: What Should Good Minutes Look Like?
 date: 2019-11-27 10:40:00 +1000
 author: Process PA Team
@@ -9,28 +12,89 @@ categories:
   - Management
 ---
 
-Minutes are the written record of everything that happens during every meeting that your organisation holds. They’re important for a number of reasons: anyone who couldn’t attend the meeting can read them to catch up; all decisions made during the meetings can be tracked; any future decisions can be cross-referenced with prior discussions to fully inform the decision-makers.
+Minutes are the official written record of your board meeting — what was discussed, what was decided, and who is responsible for what next. They're the document that a new director will rely on to understand what the board has committed to, that a regulator may request to confirm that governance obligations are being met, and that will be reviewed if a decision is ever disputed.
 
-Reviewing minutes is an important step when making any major decisions. It makes sense, then, that minutes need to be, you know, readable. So here’s a few tips to keep in mind next time you’re called on to write minutes in an important meeting.
+Given all that, it's worth being clear about what good minutes actually look like — because the gap between adequate minutes and genuinely useful ones is significant.
 
-## **Templates**
+## **Structure**
 
-When you’re first learning how to take minutes, a quick googling will find you dozens of templates that people across the world have created to streamline the process. These are an amazing tool to guide you in what good minutes should look like, but they’re not all created equal.&nbsp;
+Good minutes follow the same order as the meeting — which is to say, they follow the agenda. The structure should be consistent from meeting to meeting, because consistency makes minutes navigable over time.
 
-First, look for templates that allow you to edit their layout on the fly. Any file that Microsoft Word (and equivalent) can open is typically the easiest to manage. You’re going to need a lot more space than most of these templates initially give, and if you bring up a .pdf file and expect it to work out great, you might run into some trouble.&nbsp;
+A standard set of minutes for an Australian association or committee should include:
 
-Secondly, look over the template’s organisation structure. The meeting will have a flow to it, so your minutes should reflect that. Attendance to agenda items to adjournment is the most simplistic form of this flow, and if the template you’ve found doesn’t have a clear linear progression through these points and their (potentially very complex) subsections, it may not be up to scratch.
+1. **Meeting details**: Organisation name, meeting type (ordinary meeting, special meeting, AGM), date, time, location or platform
+2. **Attendance**: Names of members present, apologies received, and guests in attendance
+3. **Confirmation of quorum**: A statement that quorum was met
+4. **Minutes of the previous meeting**: Confirmation that the prior minutes were reviewed and approved (or any amendments noted)
+5. **Business items**: One entry per agenda item — see below for what each should contain
+6. **Next meeting**: Date, time and location if known
+7. **Close**: Time of adjournment, signed by the Chair
 
-## **Preplanning**
+## **What Each Business Item Entry Should Contain**
 
-While finding an appropriate template is a great first step, there are a number of other ways to plan ahead for your minute-taking role. Whoever is arranging the meeting will have an Agenda planned - a list of discussion topics in the order in which they’ll be addressed. Having this incorporated into your minutes before the meeting will help you focus on the more important things like major decision points, vote tallying, or holdover topics.&nbsp;
+This is where most minutes either succeed or fail. For every substantive agenda item, the minutes should record:
 
-Another great trick, if you can make it work, is confirming attendance and approving prior governance before the meeting begins. Sending out RSVP emails to all the invitees can be a massive time-saver once the meeting begins. All you need to do is mark off those who didn’t RSVP, rather than spend precious discussion time calling a roll and holding individual motions for the previous minutes, this meeting’s agenda, and/or amendments to any previous governance. Getting these arduous tasks out of the way via email or other recordable process before the meeting begins lets you get through the meeting in a breeze.
+- A brief summary of the discussion (not verbatim, but enough to understand what was considered)
+- Any **motion** moved: exact wording, name of mover, name of seconder
+- The **vote outcome**: carried, lost, or carried unanimously
+- If carried: the **resolution** — the exact wording of what was formally decided
+- Any **actions** arising: the task, the person responsible, and the due date
 
-## **On The Job**
+The motion wording and resolution wording should be identical — what was proposed and what was passed are the same thing. The temptation to paraphrase is real, but paraphrased resolutions create ambiguity. When the resolution authorised a specific expenditure or changed a policy, vague wording in the minutes becomes a genuine problem later.
 
-The previous two points are great ways to save time during the meeting, but how exactly should you spend that time once you’re there? Discussion can fly by a lot faster than you’re able to notate it. The biggest thing to keep in mind is that you’ll never be able to take down every word, so don’t try to. Take notes while the discussion happens, and come back to each point after the meeting adjourns to rewrite those notes into a clear and concise paragraph. Tracking just decisions, assignments, action steps, and holdovers on the fly is a quick way to cover all your bases.
+{% include article-cta.html
+   headline="Process PA structures your minutes around your agenda automatically."
+   body="As the meeting progresses, the Chair or secretary records notes, motions and actions against each item. By the time you adjourn, the minutes are nearly complete — exact resolution wording, named actions and all." %}
 
-That isn’t to say that you can just ignore things if they don’t seem relevant at the time. Always be sure to speak up and ask for clarification if it feels like something was glossed over. A great way to cover your bases here is to record the meeting - audio, video, doesn’t matter, so long as it’s easy to review once the meeting’s done. Be sure to get the board’s consent beforehand, of course.&nbsp;
+## **Level of Detail**
 
-Minutes are a vital part of every board’s life, and they should never be neglected. By keeping these tips in mind, you’ll make sure that your meetings flow smoothly, and all the information created during them can be easily read by anyone, anytime.
+The most common minutes mistake is too much detail — pages of transcript-style notes from every discussion, including opinions, tangents and withdrawn ideas. Long minutes are not better minutes. They're harder to read, harder to approve, and harder to navigate when you need to find a specific resolution from six months ago.
+
+The right level of detail: enough to understand what was considered and why a decision was made, without recording the full back-and-forth of how the board got there. A sentence or two of context per item is almost always sufficient.
+
+The exception: when a decision is controversial or when the board needs to demonstrate that it properly considered a matter — a significant financial commitment, a conflict of interest, a significant risk. In these cases, slightly more detail about what was weighed is useful, even if the discussion itself was lengthy.
+
+## **What Good Minutes Are Not**
+
+Good minutes are not:
+- A verbatim transcript of the meeting
+- A personal record of who said what or who argued against a decision (once a motion is carried, the resolution is the board's decision — not the majority's)
+- A narrative document written in the secretary's voice
+- A document that can wait three weeks to be drafted
+
+Minutes should be drafted as close to the meeting as possible — ideally within 24 to 48 hours — and approved at or before the next meeting. Minutes that circulate months after the fact, or that are approved at the same meeting as the one being minuted, are a governance problem.
+
+Good minutes, consistently produced and promptly approved, are one of the clearest signals of a well-governed organisation.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should board meeting minutes include?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Board meeting minutes should include: meeting details (organisation, type, date, time, location); names of attendees, apologies and guests; confirmation of quorum; approval of previous minutes; for each agenda item — a brief summary of discussion, any motion with exact wording, mover and seconder, vote outcome, resolution wording, and any actions arising with named owners and due dates; the date of the next meeting; and the time of adjournment, signed by the Chair."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much detail should board meeting minutes contain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Board meeting minutes should contain enough detail to understand what was considered and why a decision was made — not a verbatim transcript of the discussion. One to two sentences of context per agenda item is typically sufficient. The exception is significant decisions involving large financial commitments, conflicts of interest or major risks, where slightly more documentation of the board's reasoning is appropriate."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should board meeting minutes be distributed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Board meeting minutes should be drafted within 24 to 48 hours of the meeting, while the discussion is still fresh. They should be distributed to all directors promptly for review, and formally approved at the following meeting. Minutes that take weeks to circulate or that are approved at the same meeting they cover are a governance red flag."
+      }
+    }
+  ]
+}
+</script>

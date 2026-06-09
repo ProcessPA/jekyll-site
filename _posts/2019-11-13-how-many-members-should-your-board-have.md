@@ -1,4 +1,7 @@
 ---
+cta_hook: "Whatever your board size, Process PA keeps every member equally informed and every decision on the record."
+cta_body: "One platform for agendas, minutes, actions and governance history — accessible to every director, regardless of board size. Try it free for 30 days."
+description: "How many members should your board have? The right board size depends on your governance model, strategic needs and quorum requirements. Practical guidance for Australian associations, clubs and not-for-profits."
 title: How Many Members Should Your Board Have?
 date: 2019-11-13 10:40:00 +1000
 author: Process PA Team
@@ -9,24 +12,73 @@ categories:
   - Management
 ---
 
-When you first launch your startup, it’s just going to be you and, if you’re lucky, a couple of other founders. No volunteers, no management staff, no board of directors except yourselves. We’ve written before about the many ways to go about taking the next steps and finding the perfect members for your board - but how will you know when you have the right amount?
+Board size is one of those governance questions that sounds simple but has a surprisingly consequential answer. Too few members and you're vulnerable to quorum problems, skill gaps, and over-reliance on individuals. Too many and decision-making slows, accountability diffuses, and meetings become unwieldy.
 
-Well the overarching truth is that there’s no real limit: give everyone a seat\! But the reality is that having just the right number will smooth out the decision-making process while still allowing for constructive discussion and effective governance. That number changes depending on your style of organisation, so let’s have a look at a few ways to go about it.
+There's no universally correct answer — the right board size depends on your organisation's structure, strategy and governance model. But there are principles that make the decision clearer.
 
-## **Functionality**
+## **Start With Your Constitution**
 
-Choosing your members according to the skill set they bring to the table is a common - and great - way to pick a board. The way an organisation decides which skill sets are the ones they need is with strategic prioritisation - that is, what strategies take priority for the organisation.
+Before anything else, check your constitution. Most Australian incorporated associations specify a minimum and maximum number of board members, and sometimes a fixed number for particular roles. If your constitution says the board must have between five and nine members, that's your operating range — and changing it requires a formal constitutional amendment.
 
-If you plan to put on fundraisers, you need someone who knows event coordination, ideally with fundraising experience. Any given organisation will only have a few of these, because they’re the bare fundamentals of their mission and how they achieve it. Setting these strategies in stone means, once you count them all up, you know how many board members you need: one for each strategy (plus a chairperson). Simple, really.
+Your constitution will also specify quorum — the minimum number of members who must be present for a meeting to make valid decisions. If you have nine board members but quorum is five, and you regularly struggle to get five in the room (or on the call), your board may be too large for its actual participation rate. A smaller board with higher engagement is generally better governed than a larger one with chronic attendance problems.
 
-## **Diversity**
+## **Match Size to Strategy**
 
-Diversity is always a positive, and choosing a board that represents a broad collection of demographics is a great way to ensure your organisation can meet the needs of those groups. Determining the size of a board that puts this philosophy in the forefront of their decision making is a complicated process that starts with one question: who most needs your help? Is it the blind community? Is it female business owners? Is it the students of the school you are the P&F committee of?
+The most sustainable approach to board sizing is to work backwards from what the board needs to do. What are the two or three strategic priorities of the organisation right now? What skills, networks or perspectives does the board need to address them effectively?
 
-Whatever group you serve, they have people around them who know their situation: from support workers, to family members, to those who once stood where they stand. Choosing members from these people who can analyse issues from differing perspectives of race, gender, social class and personal philosophy will bring a solid foundation of ideas and discussion that a more “one-tone” board may miss out on.
+If you're a community sports club trying to improve fundraising and manage a new facility, you need someone with finance experience, someone with events and community engagement experience, and a Chair who can manage both. That's probably five to seven members — enough for breadth of skill and robust debate, small enough to meet quorum reliably and make decisions efficiently.
 
-## **Stakeholders**
+If you're a larger association with multiple programs, regulatory complexity, and a professional CEO to oversee, a board of seven to twelve is more appropriate — bringing the range of expertise needed to govern across that scope.
 
-While not as common for smaller organisations, a board may need to represent the organisation’s stakeholders directly. These can include different groups of customers or clients, those who directly collaborate with the organisation, or people from each geographic region in which the organisation operates. Determining exactly which of these groups need to be represented determines your board size.
+## **Diversity Over Homogeneity**
 
-When it comes down to it, boards can have anywhere from two to thirty members and function well enough. Finding the perfect number for your organisation may take some trial-and-error, but determining how you want your decisions made and by whom is a great first step.&nbsp;
+Whatever the number you land on, the composition matters as much as the count. A board of seven people who all think alike, come from the same background, and share the same professional experience will make lower quality decisions than a board of the same size with genuine diversity of perspective.
+
+Diversity here means more than demographic representation (though that matters too). It means including people who will ask uncomfortable questions, who bring different professional frameworks to problems, and who represent different parts of the community or stakeholder group the organisation serves.
+
+The governance implication: a diverse board is more likely to surface risks and challenge assumptions. It requires a Chair who can facilitate that tension productively — and meeting processes that make every voice equally accessible, not just the loudest ones in the room.
+
+{% include article-cta.html
+   headline="More board members means more people who need the same information at the same time."
+   body="Process PA gives every director equal access to the agenda, board papers, past minutes and outstanding actions — regardless of board size. Everyone arrives prepared." %}
+
+## **The Governance Overhead of a Larger Board**
+
+There's a governance cost to every additional board member that's easy to underestimate. More directors means more people who need to receive the agenda, review the board papers, attend the meeting, and have access to the governance record. Communication becomes more complex. Quorum becomes harder to achieve. Minutes need to be distributed and approved by a larger group.
+
+This doesn't argue against large boards where they're warranted — it argues for having the systems in place to manage them effectively. An organisation with a nine-member board that distributes agendas by email, takes minutes in a Word document, and tracks actions in someone's notebook is creating unnecessary overhead for itself. The same board with a proper governance platform runs the same meeting with a fraction of the administrative burden.
+
+The right board size, with the right structure behind it, is the combination that lets the board spend its time on governance rather than administration.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many members should a board of directors have?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The right board size depends on the organisation's strategic needs, governance model and constitution. Small community organisations typically function well with five to seven members; larger associations with complex programs or regulatory requirements may need seven to twelve. The key is matching board size to the skills needed, ensuring quorum can reliably be met, and choosing quality of engagement over quantity of members."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is quorum for a board meeting in Australia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Quorum is the minimum number of board members who must be present for a meeting to conduct valid business and pass resolutions. For Australian associations, quorum is typically specified in the organisation's constitution — often a majority of board members, or a fixed minimum number. A board that regularly struggles to meet quorum may need to reconsider its size or member selection process."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is a smaller or larger board better for governance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Neither is inherently better — it depends on the organisation. Smaller boards (five to seven) tend to make decisions more efficiently and achieve quorum more reliably. Larger boards (eight to twelve or more) can bring broader skills and perspectives but require stronger facilitation and more robust governance systems to avoid diffuse accountability and slow decision-making."
+      }
+    }
+  ]
+}
+</script>

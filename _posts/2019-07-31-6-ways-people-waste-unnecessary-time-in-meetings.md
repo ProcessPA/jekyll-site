@@ -1,4 +1,7 @@
 ---
+cta_hook: "Stop wasting meeting time on administration. Process PA automates agenda, minutes and action tracking."
+cta_body: "Your meeting time should go on decisions, not paperwork. Try Process PA free for 30 days."
+description: "Six common ways boards and committees waste time in meetings — and what to do about each one. Practical guidance for chairs and secretaries of Australian associations and not-for-profit committees."
 title: 6 Ways People Waste Unnecessary Time In Meetings
 date: 2019-07-31 10:50:00 +1000
 author: Kayleigh from Micro Startup
@@ -10,50 +13,83 @@ categories:
   - Volunteering
 ---
 
-Given how poorly they’re often put together, it’s easy to forget that meetings are supposed to be useful. Instead, they can feel like matters of obligation — wearying efforts to tick some bureaucratic boxes and keep management happy. Just think about how many hours are wasted in meetings across the globe on a daily basis, and how that time could be used effectively.
+Board meeting time is some of the most valuable time your organisation has — experienced, committed people in the same room (or call), with the authority to make real decisions. Wasting it is expensive. Not just in the dollar value of everyone's time, but in the erosion of motivation that happens when people leave meetings feeling like nothing was accomplished.
 
-If you fear that your meetings aren’t quite as succinct as they could be, then it’s probably a good time to start making some changes. To help you figure out where you’re going wrong, let’s take a look at 6 ways in which people often waste time in meetings:
+Here are six of the most common ways committees and boards waste meeting time — and what actually fixes each one.
 
-## Making rambling speeches
+## 1. No Agenda — or One Nobody Has Read
 
-Whether stemming from the head of the company trying to rally the troops, or an under-pressure employee eager to show some initiative, you can easily run into the kind of freewheeling speech that drags on for an eternity. Peppered with “um”, “ah” and lengthy pauses, it starts nowhere, goes nowhere, and ends far too late.
+The meeting with no agenda is the most obvious time waster, but the meeting where the agenda exists but nobody has read it is nearly as bad. Directors who see the papers for the first time when they sit down spend the first twenty minutes of the meeting getting oriented rather than making decisions.
 
-How do you get rid of these speeches? It’s simple: you require everyone speaking to [have a set of talking points prepared](https://www.wikihow.com/Write-Talking-Points){: target="_blank"}. If you’re absolutely confident about the abilities of a particular speaker, you can give them a pass — but if they start to take up too much time, step in and shut the speech down instead of letting it linger.
+The fix: distribute the agenda and all relevant board papers at least 48 hours before the meeting. Every item should have a time allocation. Directors who arrive prepared can engage with substance immediately, and the Chair can move through items with genuine momentum rather than constant context-setting.
 
-## Discussing life events
+## 2. Rambling, Unprepared Contributions
 
-What did you do at the weekend? How are the kids? What are your golfing plans for the next year? What superpower would you like to have? Each of these is a perfectly fine question for a social gathering, or even a communal lunch at work, but not particularly useful in a meeting.
+Whether it's a report that wanders without reaching a conclusion, a motion put without any supporting rationale, or a discussion that circles the same point without progressing — unfocused contribution is a meeting killer. It usually signals that the person hasn't had sufficient time to prepare, or that there's no structure pushing the discussion toward a decision.
 
-Team morale *is* important, yes, particularly in a time of [digital nomads](https://www.shopify.co.uk/blog/how-to-become-a-digital-nomad){: target="_blank"} — you might have employees that rarely see each other, so you don’t want a meeting to feel 100% cold and sterile. But there’s a vast gulf between allowing a light tone (with the occasional joke) and letting people chat away about things totally unrelated to work.
+The practical remedy is an agenda with explicit time limits per item. When the Chair can say "we have four minutes on this item" and mean it, speeches tighten. A presenter who knows they have five minutes to get to a recommendation will prepare differently than one who assumes the floor is theirs indefinitely.
 
-Do people’s personal lives matter in the context of the working world? Yes, to some extent. Happy employees are *productive* employees, so it’s definitely worth hearing about what people are up to after they clock out — just discuss those things between tasks, or at work socials.
+## 3. Relitigating Resolved Decisions
 
-## Taking redundant notes
+One of the clearest signs of poor governance records: decisions made three meetings ago get debated again because nobody can agree on exactly what was decided. A board member who wasn't at the previous meeting raises the same objection that was addressed and resolved. The Chair has to reconstruct the context from memory. Twenty minutes disappear.
 
-You’ve probably seen it before: a large group of employees heading into a meeting room, each one carrying a laptop and/or notepad. Throughout the meeting, each point from the boss leads to furious scrawling and typing as everyone seeks to record it for posterity. And between points, people make edits, restructuring their notes and end laying the foundation for subsequent notes.
+The solution is complete, approved minutes with exact resolution wording — and access to them before the meeting starts. When every director can review what was formally decided at the previous meeting, reopening settled matters becomes far less common. If a decision genuinely needs revisiting, that's a separate agenda item with proper notice, not an impromptu relitigating in the middle of another discussion.
 
-This slows everything down. It slows down the person speaking, since they must wait for everyone to have finished their notes before they resume. It slows down comprehension, because people are too busy writing down what’s been said to actually *listen* to it. And, of course, it’s hilariously redundant to have everyone write the same notes.
+{% include article-cta.html
+   headline="Every minute spent relitigating old decisions is a minute stolen from new ones."
+   body="Process PA keeps every resolution on the record with exact wording — so what was decided stays decided, and everyone arrives knowing it. Try it free for 30 days." %}
 
-How do you fix it? You make one person responsible for producing minutes and [turning them into action items](https://processpa.com/features.html){: target="_blank"} *after* the meeting has concluded. No one else may bring in a notepad or laptop (unless they need the latter to *present* something).
+## 4. No Record of Who Owns What
 
-## Being asleep (or half-asleep)
+The meeting ends, people leave, and nobody is quite sure who agreed to do what by when. The action list exists only in the secretary's notes, if at all. By the next meeting, half the actions haven't been completed, and nobody can remember who was supposed to do them.
 
-The speaker is in the middle of a point when they notice that Hopkins from Accounting appears to have drifted away into dreamland. This distracts them, and they stop to wake him up before continuing — but he’s drowsy and barely cognizant for the rest of the meeting. When it comes to a close, he trudges away, only vaguely aware of where he actually is.
+This is the accountability failure that compounds over time. The fix is simple but requires discipline: before the meeting closes, read back every action — the task, the name, the deadline — to the full room. Then distribute those actions in writing within 24 hours. And begin the next meeting by reviewing them publicly.
 
-Does this mean Hopkins is unprofessional? To some extent, sure, but maybe he should never have been invited to the meeting in the first place — or maybe the meeting is unbelievably dull. Not only should you schedule meetings for times when people are most alert, but you should also stick to guests who *need* to be there, and let them guide the format to some extent.
+When commitments are made explicitly and reviewed publicly, completion rates improve substantially. It's not about punishing anyone; it's about making accountability visible.
 
-## Asking needless questions
+## 5. Inviting the Wrong People
 
-During your career, have you ever felt out of place in a meeting? Eager to prove that you have something to contribute, but not entirely confident that you have anything worth saying? It’s quite a common scenario, and it can go one of two ways: the out-of-place person can stay quiet and let things continue as normal, or they can just say whatever pops into their mind.
+A meeting where five of the eight attendees are present out of obligation rather than relevance is a meeting where five people are disengaged and three are doing the work. Disengaged attendees generate tangential questions, side conversations, and low-grade distraction that slows everything down.
 
-While the latter approach will *occasionally* produce a flash of real insight, it mostly just leads to unnecessary or outright-stupid questions being posed ([some contend that there are no stupid questions](https://www.meetingstoday.com/blog/postid/538/are-there-stupid-meeting-questions-it-depends){: target="_blank"}, but I disagree). Those questions are then either shot down, either politely or impolitely (either way takes time), or answered, which takes time *and* annoys people.
+For recurring board meetings, this is less of an issue — the full board needs to be present for governance reasons. But for sub-committee meetings, working sessions, or briefings, ask honestly: does this person need to be in this room, or do they just need to receive the output? A well-distributed set of minutes reaches the same people more efficiently.
 
-To combat this, let everyone know that all questions must be held until the end. That way, if someone *does* come up with a question truly worth asking, they’ll still want to ask it when the meeting is over — and if you get any truly worthless questions, you can simply ignore them and end the meeting without causing any disruption.
+## 6. Starting Late and Running Long
 
-## Struggling with technology
+Starting five minutes late "waiting for everyone" is a habit that compounds across a year of meetings into hours of lost time — and worse, it signals that the schedule isn't serious. Directors who arrive on time are penalised; latecomers are rewarded.
 
-Plug in the HDMI lead. Unplug it. Plug it in again. Shake it slightly. Try (and fail) to access the source menu. This frustrating process of trying to diagnose and rectify a technological issue invariably results from one (or both) of two things on the part of the presenter: a complete lack of preparation, and a determination to hide their lack of technical prowess.
+Start on time, every time. The Chair who opens the meeting at the scheduled moment, checks quorum, and moves to the first agenda item sends a clear message that the meeting will be run properly. Directors notice and adjust accordingly.
 
-If you’re not entirely confident in connecting your laptop to a projector, *don’t do it*. Have someone else do it for you, or have it set up ahead of time so all you have to do is click the mouse button. In addition, keep your presentation short, *or* don’t bother with it at all — there’s an excellent chance that you’d get better results by sending out the file afterwards.
+Running long is the end-state failure of everything above: no agenda, poor preparation, unfocused discussion, no time management. A meeting that ends when the agenda is done — not when the clock says so — is the target. That requires a focused agenda with realistic time allocations and a Chair who actively manages the room.
 
-**Meetings should be snappy and productive: otherwise, they just eat into time that would be much better spent getting regular work done. The next time you hold a meeting, pay close attention to everything that slows it down — then mercilessly trim the fat.**
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why do board meetings run so long?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Board meetings run long primarily because of inadequate preparation: no agenda distributed in advance, board papers circulated late, unfocused discussion without time limits, and no discipline on closing off items when time is up. The structural fix is a distributed agenda with time allocations per item and a Chair who actively manages discussion pace and closes items at the allocated time."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you stop decisions being relitigated in board meetings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prevent decisions being relitigated by keeping complete minutes with exact resolution wording and ensuring all directors can access them before each meeting. When everyone can see what was formally decided at previous meetings, reopening settled matters becomes far less common. If a decision genuinely needs revisiting, that should be a separate agenda item added with proper notice — not an impromptu discussion during another item."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you ensure board meeting actions are completed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ensure board meeting actions are completed by: assigning every action to a named person with a specific deadline before the meeting closes; reading the complete action list back to the room before adjourning; distributing the action list in writing within 24 hours; and opening the following meeting with a review of outstanding actions. Public review of commitments significantly improves follow-through rates."
+      }
+    }
+  ]
+}
+</script>

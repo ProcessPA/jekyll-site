@@ -1,4 +1,7 @@
 ---
+cta_hook: "First board meeting as Chair? Process PA handles the structure so you can focus on leading the discussion."
+cta_body: "Agenda distributed in advance, motions recorded in real time, actions assigned before anyone leaves. Try it free for 30 days."
+description: "What to do in your first board meeting as Chair — from distributing the agenda in advance and managing time, to recording motions correctly and closing with a clear action list. Practical guidance for new chairs of Australian associations and committees."
 title: What To Do in Your First Board Meeting
 date: 2020-01-08 10:40:00 +1000
 author: Process PA Team
@@ -9,20 +12,89 @@ categories:
   - Management
 ---
 
-Whether you’ve come up through the ranks and know the whole board like your oldest friends, or you’re kicking off a startup with just you, a co-founder, and a lawyer, being a first-time chairperson is daunting. Some people make guiding a board’s discussion look easy, but now you’re in the perfect position to learn just how tough it can be. So here’s a few quick tips to keep in mind that’ll help make running that room go just a little smoother.
+Running your first board meeting as Chair is genuinely daunting, even if you've been a director for years. The skills of participating in a board — listening, debating, voting — are different from the skills of running one: managing time, facilitating fair discussion, knowing when to push for a decision and when to allow more deliberation.
 
-## **1\. Be Aware of the Time**
+The good news is that the fundamentals aren't complicated. Get these right in your first meeting and you'll have established the habits that make every meeting after it smoother.
 
-One of the biggest pitfalls that first-time chairs can fall into is not managing their time correctly during the meeting. When you have co-founders, investors, and lawyers all sitting around your table, it’s because they believe that you and your organisation are worth their time and money. So you need to respect that. To do that, the first thing to do is be organised early. At least 36 hours before the meeting, and preferably closer to 72, send each member of the board a copy of your agenda and presentations. This allows them to research and to plan their queries and advice to be most effective for the organisation. Secondly, do not start late, and do not run late. Your board are volunteers, and they have other things they could be doing, but they’re here to help you. Make it worth it for them.
+## **1\. Send the Agenda in Advance — With Everything Attached**
 
-## **2\. Be Aware of the Money**
+Your first governance act as Chair doesn't happen in the meeting room. It happens 48 to 72 hours before, when you send the agenda and all relevant board papers to every director.
 
-One of the easiest ways for a board member to embarrass you is for them to call you out on incorrect numbers. If you pawn off your financial responsibilities to anyone else, even if they’re your CFO, you can be caught out at the most inopportune times by questions about spending, collections, investments, debts, anything. Don’t be caught out - read up.
+Directors who receive materials the day before (or in the room) arrive to react, not to decide. Directors who receive materials with adequate time arrive having formed views, prepared questions, and ready to use the meeting time for genuine deliberation rather than catch-up briefing.
 
-## **3\. Be Aware of Your Plans**
+A good first-meeting agenda is focused: confirm quorum, approve the previous minutes if there are any, work through substantive items in priority order, and close with a review of actions. It should be one page — one and a half at most — with realistic time allocations per item. If you're not sure how long each item will take, estimate long rather than short.
 
-You were trusted with this position for a reason. Whether that’s a record of success, a willingness to shoulder responsibility, or a right-place-right-time situation, you’re a leader now. One of the biggest parts of this role is developing plans to take your organisation forward and make it grow. If you come to your meeting, present a slew of issues facing the organisation and hope that the board can just hash it out, you’re going to end up spending more time resolving arguments than real problems. If you instead come in with a stance on the issues and a plan that will guide the company through it and towards success, you’ll focus the board around how to make your plan work, and vastly boost the likelihood of it happening.
+## **2\. Manage Time Like It's the Only Thing That Matters**
 
-## **4\. Do a Dry-Run**
+Time management is the most visible skill of an effective Chair — and the most common failure in a first meeting. When a discussion runs 40 minutes over because the Chair couldn't close it, the entire board notices.
 
-Here’s the easiest trick to boost your confidence in your first meeting: sit down with your co-presenters, present to each other, and offer each other some constructive criticism. Point out any holes or problems with their (and your) presentations. If you can fix the most obvious issues, then when you give your real presentations the discussion will be focused around what was actually said rather than what was messed up or missed.
+The practical technique: when you're five minutes from an item's allocated time, say so. "We have five minutes left on this item — do we have enough to reach a decision, or should we note the discussion and schedule it for next time?" That question does two things: it signals that the schedule matters, and it puts the responsibility back on the board to decide whether to continue or move on.
+
+Don't start late. Your directors are giving their time voluntarily, and starting at the scheduled time — even if two people haven't arrived yet — signals that the meeting is a serious commitment. Check quorum, open formally, and begin.
+
+## **3\. Record Every Motion Properly**
+
+As Chair, you don't need to take the minutes yourself — but you do need to ensure every motion is formally recorded before the meeting moves on. This is the governance obligation that first-time chairs most commonly underestimate.
+
+For each motion: confirm the exact wording before calling the vote, confirm the mover and seconder by name, call the vote, and note the outcome — carried or lost, and by what margin if required by your constitution. Then confirm with the minute-taker that it's been recorded before moving to the next item.
+
+"We all agreed that was a good idea" is not a resolution. A formal motion, properly moved, seconded, voted on, and recorded with exact wording is a resolution. The difference matters in an audit, a dispute, or a regulatory review.
+
+{% include article-cta.html
+   headline="Let Process PA handle the governance mechanics so you can focus on leading the meeting."
+   body="Motions recorded in real time with mover, seconder and outcome. Actions assigned with owners and due dates. Minutes ready to distribute before you leave the room." %}
+
+## **4\. Close Every Meeting With the Action List**
+
+Before you adjourn, read back every action assigned during the meeting: the task, the owner, the due date. Out loud, to the room.
+
+This is the most underused governance habit in Australian associations and committees. When every person in the room hears their name attached to a specific commitment, accountability is established in the meeting rather than chased by email a week later.
+
+Then adjourn. Don't fill time if the agenda is done. Directors who sat through a focused, well-run meeting that ended when the work was complete will come back to the next one having done their actions.
+
+## **5\. Follow Up in Writing**
+
+Within 24 to 48 hours, send a summary of the meeting to all directors — the draft minutes if they're ready, or at minimum the resolution list and action list. Memories of exactly what was agreed diverge quickly; a written record distributed promptly closes that gap.
+
+The most common first-meeting mistake isn't made in the room. It's made in the week after, when no follow-up communication goes out and directors quietly assume someone else is handling the next steps.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Run Your First Board Meeting as Chair",
+  "description": "A step-by-step guide to running your first board meeting as Chair of an Australian association or committee.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Send the agenda in advance",
+      "text": "Distribute the agenda and all relevant board papers to every director 48 to 72 hours before the meeting. Include time allocations per item. Directors who receive materials in advance arrive prepared to decide, not just to react."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Open on time and confirm quorum",
+      "text": "Start at the scheduled time. Confirm quorum — that the minimum number of directors required by your constitution are present. Open formally as Chair before moving to any business."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Manage time per agenda item",
+      "text": "Alert the board when five minutes remain on each agenda item. Ask whether enough has been covered to reach a decision or whether the item should be carried to the next meeting. Do not allow a single item to consume the entire agenda."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Record every motion correctly",
+      "text": "For each motion, confirm the exact wording, confirm the mover and seconder by name, call the vote, record the outcome. Confirm with the minute-taker that it has been captured before moving on."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Close with the action list",
+      "text": "Before adjourning, read back every action assigned during the meeting — the task, the owner and the due date — out loud to the room. Then adjourn."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Follow up in writing within 48 hours",
+      "text": "Send the draft minutes or at minimum the resolution list and action list to all directors within 24 to 48 hours of the meeting closing."
+    }
+  ]
+}
+</script>

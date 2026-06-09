@@ -1,4 +1,7 @@
 ---
+cta_hook: "Give your secretary the tools that make the role manageable. Process PA handles the paperwork automatically."
+cta_body: "Agenda built from meeting items, minutes captured during the meeting, actions distributed automatically after. Your secretary gets hours back. Try it free for 30 days."
+description: "Why the secretary is the most important role in any committee or board — and the four core responsibilities that make or break a well-governed Australian association or not-for-profit."
 title: The Secretary is the Most Important Role in Any Committee
 date: 2019-04-03 10:50:00 +1000
 author: Process PA Team
@@ -10,43 +13,81 @@ categories:
   - Management
 ---
 
-In any organisation, there’s someone whose job is to grab everything that falls through the cracks. To keep everyone else on track. For a sports team, it’s the Coach. In a restaurant, it’s the Head Chef. On a board of directors, it’s not the Chair. Not even the Treasurer. While those are important roles, they couldn’t do their jobs without the most key piece to the committee puzzle: the Secretary.
+Every well-governed committee has someone who keeps everything together. Not the Chair, who facilitates the meetings. Not the Treasurer, who manages the finances. The person who makes sure the meeting happens, is documented correctly, and that the governance record is complete and accessible.
 
-So what is the Secretary’s job, then? The Secretary is responsible for four major processes:
+In most Australian associations and not-for-profits, that person is the Secretary.
 
-1. Making sure meetings are organised and minuted efficiently.
-2. Maintaining administration, records and governance requirements.
-3. Upholding the legal requirements of the industry the committee is based in (charity law, nonprofit law, etc.).
-4. Thorough communication and correspondence.
+The Secretary is the most operationally critical governance role in any committee — and also the one most frequently underestimated, undertrained, and undersupported. Here's what the role actually involves, and why getting it right matters so much.
 
-So let’s break each of these down, and pretty quickly you’ll start to see why a committee can’t function without their Secretary.
+## **The Secretary's Role in Meetings**
 
-## **The Secretary’s Role in Meetings**
+The meeting cycle that most people see — the Chair opening, directors debating, votes being called — runs on invisible infrastructure that the Secretary built.
 
-Meetings would be hell without an effective Secretary. The effort and planning that goes into a meeting is tremendous for all parties involved, but it’s the Secretary who *plans the planning*.
+Before the meeting: liaising with the Chair to construct the agenda, reaching out to sub-committee leads for their reports, collating and attaching board papers, distributing the full pack to directors in advance of the meeting. None of this happens on the day — it happens in the days beforehand, and its quality determines the quality of the meeting before anyone walks in the door.
 
-Secretaries will liaise with the Chair - and often other committee members - to put together the agenda, which will guide the meeting efficiently and effectively. They will need to send any required documents to participating board members before the meeting to ensure everyone is prepared.
+During the meeting: taking minutes. This is the Secretary's highest-stakes task in the governance calendar. The minutes are the official record of every discussion, every resolution, every action and every vote. A Secretary who captures motions without their exact wording, or who records "motion carried" without the resolution text, or who misses actions entirely, is creating a governance gap that may never be properly filled.
 
-The Secretary will also take minutes of the meeting and note actionable items, then edit and clear these for publication.
+After the meeting: editing and circulating the draft minutes for review, tracking corrections, presenting them for formal approval at the next meeting, and filing the approved minutes in the governance record.
 
-## **The Secretary’s Role in Administration**
+In Process PA, the Secretary works directly against the agenda during the meeting — capturing notes, recording motions with mover and seconder, and assigning actions to named members. By the time the meeting closes, the draft minutes are largely complete and ready for the Chair's review.
 
-If it wasn’t for this aspect of the role, a Secretary might be better referred to as an Assistant - and in big business the two roles are often separated. However when it comes to smaller committees the Secretary is who keeps the machines of bureaucracy well-oiled.
+## **The Secretary's Role in Administration**
 
-Managing filing, keeping records, keeping diaries, and managing contact lists are just a few broad forms of the many important parts of this position. If there’s an audit, the Secretary will be able to quickly provide relevant documentation. If somebody needs to contact the printer of a pamphlet your association put out two years ago, the Secretary can quickly find their details and connect the two parties.
+In a small committee, the Secretary is the organisation's institutional memory. They maintain the filing system — physical or digital — that allows the organisation to function across time. Committee resolutions from two years ago. The contact list for key stakeholders. The constitution and any amendments to it. The register of members. The schedule of upcoming meetings.
 
-## **The Secretary’s Legal Roles**
+When there's an audit, the Secretary produces the documentation. When a regulator requests information, the Secretary knows where it is. When a new board member needs context, the Secretary can provide it.
 
-An effective Secretary knows their way around the legal requirements of their committee like the back of their hand. Somebody new to the role might be surprised by just how many of the processes of a board are required by law.
+This function is only possible if records are maintained consistently throughout the organisation's life — not scrambled together in response to a specific need. The Secretary who treats the governance record as a live, maintained asset, rather than a filing task to catch up on, protects the organisation from a wide range of avoidable problems.
 
-Elections must follow particular structures. There must be a custodian of the organisation’s governing document, and someone who holds the board to the stipulations of that document. Charity law, non-profit law, or if you’re an incorporated association, your federation’s laws, all need to be thoroughly internalised. Quorum must be met and tracked every meeting. The Secretary is a mental powerhouse, able to track and balance each of these spinning plates with ease.
+{% include article-cta.html
+   headline="The Secretary's job is hard enough. Process PA makes the administrative side manageable."
+   body="Agendas built progressively from meeting items. Minutes structured around the agenda automatically. Actions distributed to members after the meeting. Your Secretary spends time on governance, not manual formatting." %}
 
-## **The Secretary’s Role as a Communicator**
+## **The Secretary's Legal Responsibilities**
 
-This is the string that ties it all together. Whether it’s planning a meeting, contacting a supplier, or liaising with a legal entity, the Secretary is the voice that ensures the organisation runs smoothly and efficiently.
+Many of the Secretary's responsibilities aren't just good practice — they're legal obligations.
 
-When board members correspond professionally, the Secretary responds if needed, then copies and files it. When a newsletter is published, the Secretary files it. When the association needs to report something to the public or the press, it’s the Secretary who pens that report. When the AGM rolls around, it’s the Secretary who has meticulously tracked and filed every action the board has done and compiled it into a report, so that everyone can clearly see the organisation’s position.
+For Australian incorporated associations, the relevant state legislation (Queensland's Associations Incorporation Act, Victoria's Associations Incorporation Reform Act, and equivalent legislation in other states) specifies requirements for: how meetings must be called and notified, what records must be kept and for how long, how the AGM must be conducted, how the register of members must be maintained, and what must be reported to the relevant state regulator.
 
-So next time your Secretary looks a little stressed out, just consider how many balls they’re juggling right now. It’s probably a lot, and they’re doing it pretty damn well. Maybe you should buy them a coffee some time.
+The Secretary doesn't need to be a lawyer — but they need to know where these obligations are documented, what they require, and whether the organisation is meeting them. A Secretary who is uncertain about any of these requirements should seek advice rather than guessing.
 
-They deserve it.
+## **The Secretary's Role as Communicator**
+
+The Secretary is often the primary point of contact between the organisation and its members, stakeholders, funders and regulators. Meeting notices go out over the Secretary's name. Correspondence is processed through the Secretary. Formal reports to members or to government agencies are typically compiled and submitted by the Secretary.
+
+The quality and consistency of this communication is part of the organisation's reputation. Members who receive well-written, timely notices, whose correspondence is acknowledged promptly, and who can access governance records when they need them develop trust in the organisation's governance. Members who receive nothing between meetings and can't get answers to basic questions about the organisation's activity don't.
+
+The Secretary makes this possible. Supporting them — with the right tools, adequate time allocation, and genuine recognition of the role — is one of the highest-value investments any committee can make.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does a committee secretary do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A committee secretary is responsible for: organising and documenting meetings (agenda preparation, minute-taking, action tracking); maintaining the governance record (filed minutes, member register, correspondence); meeting the organisation's legal obligations under relevant incorporation legislation; and managing the organisation's official communications with members, stakeholders and regulators. The Secretary is the organisational memory of the committee."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the legal obligations of a committee secretary in Australia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Australian incorporated associations, the secretary's legal obligations under the relevant state Associations Incorporation Act typically include: providing proper notice of meetings, keeping accurate minutes of all meetings, maintaining the register of members, keeping the organisation's governing documents (constitution and rules), and submitting required returns or notifications to the state regulator. Specific requirements vary by state and territory."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should a committee secretary take minutes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A committee secretary should take minutes concurrently during the meeting, structured against the agenda. For each item, record a brief summary of the discussion, the exact wording of any motion put, the mover and seconder, the vote outcome, and any actions arising with named owners and due dates. Draft minutes should be circulated to directors promptly after the meeting and formally approved at the next meeting."
+      }
+    }
+  ]
+}
+</script>

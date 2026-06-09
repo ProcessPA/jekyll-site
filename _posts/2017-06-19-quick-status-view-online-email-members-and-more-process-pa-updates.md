@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Not on Process PA yet? See what you're missing — start a free 30-day trial."
 title: Quick Status, View Online, Email Members and more Process PA updates
 date: 2017-06-19T22:16:43+00:00
 author: Matthew

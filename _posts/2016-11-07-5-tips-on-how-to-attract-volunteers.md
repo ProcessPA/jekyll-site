@@ -1,79 +1,100 @@
 ---
+cta_hook: "Well-run organisations attract better volunteers. Process PA keeps your governance organised and professional."
+cta_body: "Volunteers want to join organisations that are clearly well-run. Process PA helps you be one. Try it free for 30 days."
+description: "Five practical tips for attracting volunteers to your Australian association or not-for-profit — from planning and profiling to advertising, training and the support that turns recruits into long-term contributors."
 title: 5 Tips on How to Attract Volunteers
 date: 2016-11-07T12:43:02+00:00
-author: Matthew
+author: Process PA Team
 layout: post
 permalink: /ExecutiveMatters/5-tips-on-how-to-attract-volunteers/
 categories: Volunteering Tips
 ---
-Volunteers really do make the world of non-profit organizations go round. They are the driving force behind the success of many causes today. However, volunteers do not miraculously grow on trees. Some don’t even know they have what it takes until they are properly tapped. Inviting the correct volunteers doesn’t also happen overnight. It takes a tremendous amount of time, effort, persistence, careful planning and resources. 
 
-It is hard to recruit volunteers nowadays but it is not impossible to do so. Getting the right volunteers with skills and dedication is very doable. Here are tips on how you can do just that: 
+Volunteers are the engine of most Australian community organisations — but attracting good ones has become genuinely difficult. With volunteering rates declining and people's time increasingly stretched, organisations can no longer rely on volunteers simply turning up. Recruitment now requires the same care and planning as any other important organisational activity.
 
-<img title="How to Attract Volunteers" class="img-fluid"  alt="How to Attract Volunteers" src="/content/posts/How-to-Attract-Volunteers.png" />
+Here are five tips for attracting the volunteers your organisation needs.
 
-## 1. Plan
+## **1. Plan Before You Recruit**
 
-**** 
+Before approaching anyone, be clear about what you're actually offering. Prospective volunteers want to know:
 
-Planning your invitation strategy is very vital in getting high quality volunteers. Before you fully embark on inviting people make sure that you already have a concrete plan for them. Moreover, you also need to have an understandable presentation of your organization and cause or campaign. 
+- **What** will they be doing? What's the actual role, and what's in it for them?
+- **When** do you need them, and for how long? Is this a one-off, ongoing, or project-based?
+- **Where** will they be working?
 
-You need to show them the following: 
+Vague invitations — "we need some help around the place" — attract few people and the wrong ones. Specific, well-defined opportunities — "we need someone with bookkeeping experience to support the treasurer for about four hours a month" — attract people who can actually fill the need and who know what they're signing up for.
 
-**What :** What will they be doing? What is in store for them?  
-**When :** When do you need them? How long?  
-**Where :** Where will they be working? 
+This planning is itself a governance exercise: it forces clarity about the roles the organisation needs filled and how they connect to its goals.
 
-## 2. Profile
+## **2. Profile Your Ideal Volunteer**
 
-**** 
+Recruitment isn't about quantity — it's about fit. Before advertising, develop a clear picture of the volunteer who would genuinely add value: what skills they have, what motivates them, and how they'd work within your existing team.
 
-Make a persona of the personality or characteristics of the ideal type of volunteer that you are looking for. What skills should these people have? What passion should they want to pursue? Inviting volunteers is not quantity over quality. It should be balanced. One good way to check if they’re right for your organization is to have the candidates fill up a survey. You can also interview them before having them on board. When you do it this way, you’ll have a higher chance of getting long-term and volunteers that fit better with your organization. 
+A brief application form or informal interview helps assess fit before someone comes on board. This isn't bureaucracy for its own sake — it significantly increases the likelihood of recruiting volunteers who stay long-term and contribute well, rather than people who drift away after a few weeks because the role wasn't what they expected.
 
-## 3. Advertise
+## **3. Advertise Where the Right People Are**
 
-**** 
+Once you know who you're looking for, reach them where they are:
 
-The next step is to announce the recruitment. You can make announcement flyers and hand them out in strategic locations. We highly suggest the following: 
+- **Universities and colleges**: students are often energetic, idealistic and have time to give. Starting volunteers young can build long-term advocates.
+- **Community noticeboards**: schools, libraries, community centres and local businesses often have free spaces for recruitment notices.
+- **Social media**: the most efficient channel for most organisations. Keep the message clear, genuine and specific — online audiences quickly tune out anything that feels overwrought or insincere.
 
-**Universities** 
+Match the channel to the volunteer profile you developed. A specialist skill might be better sourced through professional networks than a community noticeboard.
 
-Starting your volunteers young is a good path to take. College students are very energetic, idealistic and highly motivated. They also have a good amount of time to share. 
+{% include article-cta.html
+   headline="The organisations that attract the best volunteers are visibly well-run."
+   body="Process PA keeps your governance organised, transparent and professional — exactly what capable volunteers look for before committing their time. Try it free for 30 days." %}
 
-**Community Boards** 
+## **4. Provide Proper Training and Orientation**
 
-These are free boards located in schools or neighborhoods where you can put up your announcement posters. 
+Nothing loses a new volunteer faster than being thrown into a role they don't understand. A volunteer who feels used — given tasks with no context, no support, and no sense of how they fit in — won't stay.
 
-**Social Media** 
+Provide a proper orientation that covers:
 
-This is the most efficient and effective way to advertise your announcement. Everybody is on social media, you just have to put up the correct material that is clean and straight to the point. Try to make it as sincere as possible because the online community can easily spot an overacting emotional material and it can easily ward them off. 
+- The history and mission of the organisation
+- The cause or campaign they're contributing to
+- The plan for achieving the organisation's goals
+- How their specific role contributes to that plan
+- What success looks like for them
 
-## 4. Training 
+When volunteers understand the bigger picture and can see how their work matters, they engage far more deeply than when they're simply handed tasks.
 
-**** 
+## **5. Support Volunteers So They Stay — and Recruit Others**
 
-Make sure that you have a complete training outline for your volunteers. Don’t make them feel like they’ve been thrown off to something that they do not fully understand. They will easily feel used for the sake of having people to work for you if this happens. Motivate them by showing the following before you completely let them fulfill their assigned role or task: 
+Recruitment doesn't end when someone signs up. The most effective volunteer recruitment is done by your existing happy volunteers, who bring in others through their genuine enthusiasm. That only happens if they're well-supported.
 
-* History of the organization. 
-* The cause or campaign. 
-* The complete plan to achieve the cause. 
-* How their roles contribute to the success of attaining the cause. 
-* Post campaign plan, if there is any.
- 
-## 5. Support
-    
-**** 
-            
-The thing that you do not want to happen is to have volunteers today and none tomorrow. Getting volunteers to sign up for the group is not the final step. It is a cycle. Keeping them and making them advocates so that you attract more volunteers is probably the hardest part. To make them stay and invite others to the organization entails time, a strong relationship with the group and a burning passion for the cause. Make them stay motivated by: 
-                
-* Recognizing their hard work. 
-* Asking for their comments and suggestions. 
-* Showing them how their work contributes to the cause/campaign. 
-* Not overworking them. 
-* Maintaining a positive social environment by having people work in groups and changing the grouping map every now and then.
+Keep volunteers engaged and advocating by:
 
-## Final Note
+- Recognising their work genuinely and specifically
+- Asking for and acting on their input and suggestions
+- Showing them the impact of their contribution
+- Not overworking them
+- Maintaining a positive, social team environment
 
-**** 
+Volunteer recruitment is a long, sometimes frustrating process — but an organisation that recruits thoughtfully, onboards properly, and supports its people well builds a self-sustaining volunteer base. The well-run organisation doesn't just retain volunteers; it turns them into its most effective recruiters.
 
-Volunteer recruitment is a very long and hard process. There will even be times when it can be frustrating. To have a solid volunteer recruitment activity, the recruiters should be strong and fulfilled themselves. Establish a strong support system during the recruitment process and remember to be persistent and patient. If you take delight and happiness from recruiting, it is impossible not to translate that when sharing your cause with others. Nothing is done overnight and at the end of the day, the cause that you are striving to aim for will always be worth all the challenges that will come your way.
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you attract volunteers to a not-for-profit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Attract volunteers by: planning clearly what you're offering (specific role, time commitment, location) before recruiting; profiling your ideal volunteer to recruit for fit rather than just numbers; advertising where the right people are (universities, community noticeboards, social media); providing proper training and orientation so volunteers understand the mission and their role; and supporting existing volunteers well so they stay and become advocates who recruit others."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is it hard to recruit volunteers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Volunteer recruitment has become harder due to declining volunteering rates, increased time pressure on people, and greater competition for volunteers' attention. Organisations can no longer rely on people simply turning up — recruitment now requires careful planning, clear role definition, targeted advertising, and proper onboarding. Organisations that are visibly well-run and that support their volunteers well have a significant advantage in attracting and retaining good people."
+      }
+    }
+  ]
+}
+</script>

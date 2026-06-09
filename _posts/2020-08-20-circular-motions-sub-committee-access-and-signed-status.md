@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Circular motions and signed minutes — both live in Process PA. Try it free for 30 days."
 title: 'Circular Motions, Sub Committee Access and Signed Status'
 date: 2020-08-20 22:00:00
 author: Process PA Team

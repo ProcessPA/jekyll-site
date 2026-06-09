@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Pair Office 365 with Process PA for a complete committee management setup. Try it free."
 title: >-
   How to Set Up FREE Office 365 for small Nonprofit Organizations such as
   Kindergartens and P&Cs in Australia

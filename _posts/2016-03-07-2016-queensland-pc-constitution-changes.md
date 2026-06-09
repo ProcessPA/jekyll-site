@@ -1,4 +1,5 @@
----
+﻿---
+cta_hook: "Stay on top of your P&C obligations. Process PA keeps your governance records complete and compliant."
 title: '2016 Queensland P&amp;C Constitution changes'
 date: 2016-03-07T11:57:19+00:00
 author: Matthew

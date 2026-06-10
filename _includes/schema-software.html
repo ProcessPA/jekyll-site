@@ -1,0 +1,40 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "@id": "{{ site.url }}/#software",
+  "name": "Process PA",
+  "applicationCategory": "BusinessApplication",
+  "applicationSubCategory": "Board Portal / Board Management Software",
+  "operatingSystem": "Web, iOS, Android",
+  "url": "{{ site.url }}/",
+  "description": {{ "Process PA is an easy-to-use board portal for Australian associations, not-for-profits, clubs and small businesses. Prepare board papers and agendas, take minutes and record motions during the meeting, track actions, maintain member and motion registers, and store board documents securely in the cloud." | jsonify }},
+  "publisher": { "@id": "{{ site.url }}/#organization" },
+  "softwareHelp": "{{ site.url }}/help.html",
+  "featureList": [
+    "Agenda templates and board paper preparation",
+    "Real-time minute taking with motions and resolutions",
+    "Action item tracking with owners and due dates",
+    "Member, motion and action registers",
+    "Secure cloud document storage",
+    "Automatic agenda and minute distribution",
+    "Digital sign-off of minutes",
+    "Sub-committee management"
+  ],
+  "offers": {
+    "@type": "AggregateOffer",
+    "priceCurrency": "AUD",
+    "lowPrice": "115",
+    "highPrice": "240",
+    "offerCount": "3",
+    "url": "{{ site.url }}/pricing.html"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "{{ site.company.rating }}",
+    "reviewCount": "{{ site.company.rating_count }}",
+    "bestRating": "5",
+    "worstRating": "1"
+  }
+}
+</script>

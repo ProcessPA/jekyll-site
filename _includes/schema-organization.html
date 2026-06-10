@@ -1,0 +1,19 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "{{ site.url }}/#organization",
+  "name": "{{ site.name }}",
+  "url": "{{ site.url }}/",
+  "logo": "{{ site.url }}{{ site.logo }}",
+  "image": "{{ site.url }}{{ site.company.splash_image }}",
+  "description": {{ "Process PA is board portal and governance software for Australian associations, not-for-profits, clubs and small businesses. It streamlines board papers, agendas, minutes, motions, registers and action tracking so volunteer committees and boards can run compliant, efficient meetings." | jsonify }},
+  "email": "{{ site.company.email }}",
+  "founder": { "@type": "Person", "name": "{{ site.company.founder }}" },
+  "areaServed": { "@type": "Country", "name": "{{ site.company.area_served }}" },
+  "sameAs": [
+    {% for link in site.social.links %}{{ link | jsonify }}{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}
+</script>

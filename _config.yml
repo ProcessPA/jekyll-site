@@ -5,3 +5,28 @@ url: https://processpa.com
 baseurl: ""
 sass:
     style: compressed
+
+# --- SEO / entity metadata (used by jekyll-seo-tag and custom schema includes) ---
+logo: /images/logo-sml.png
+twitter:
+    username: ProcessPA
+    card: summary_large_image
+social:
+    name: Process PA
+    links:
+        - https://www.facebook.com/ProcessPA
+        - https://www.linkedin.com/company/process-pa
+        - https://twitter.com/ProcessPA
+        - https://www.instagram.com/process.pa/
+        - https://www.capterra.com/p/176969/Process-PA/
+
+# Brand facts surfaced in structured data. Update rating/rating_count from the
+# live Capterra listing periodically so on-page display and schema stay in sync.
+company:
+    founder: Matthew Rowan
+    email: support@processpa.com
+    area_served: Australia
+    rating: "4.2"
+    rating_count: "63"
+    capterra: https://www.capterra.com/p/176969/Process-PA/
+    splash_image: /images/AppSplash_3000px.png

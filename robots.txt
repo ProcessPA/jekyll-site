@@ -1,0 +1,38 @@
+# robots.txt for processpa.com
+# All crawlers welcome, including AI crawlers — being crawlable and citable by
+# AI answer engines drives qualified referral traffic.
+
+User-agent: *
+Allow: /
+
+# Google AI (Gemini / AI Overviews) — Google-Extended controls whether content
+# can be used for AI grounding and generation. We explicitly allow it.
+User-agent: Google-Extended
+Allow: /
+
+# Other AI assistants and answer engines
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://processpa.com/sitemap.xml

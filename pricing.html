@@ -156,6 +156,8 @@ navigation_weight: 30
         <p class="text-muted editable">As many members, meetings and documents as you need. Pay per boards and committees required.</p>
     </div>
 
+    {% include capterra-rating.html %}
+
     <!-- Billing toggle -->
     <div class="toggle-row mt-4 mb-2">
         <span class="toggle-label active" id="labelMonthly">Monthly</span>
@@ -300,6 +302,53 @@ navigation_weight: 30
         </div>
     </div>
 </div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Process PA",
+  "description": "Board portal and governance software for Australian associations, not-for-profits, clubs and small businesses. Unlimited members, meetings and documents on every plan.",
+  "brand": { "@id": "{{ site.url }}/#organization" },
+  "url": "{{ site.url }}/pricing.html",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "{{ site.company.rating }}",
+    "reviewCount": "{{ site.company.rating_count }}",
+    "bestRating": "5",
+    "worstRating": "1"
+  },
+  "offers": [
+    {
+      "@type": "Offer",
+      "name": "Starter",
+      "description": "1 board or committee. Unlimited members, meetings and documents.",
+      "price": "115",
+      "priceCurrency": "AUD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://app.processpa.com/authenticate/password-register"
+    },
+    {
+      "@type": "Offer",
+      "name": "Standard",
+      "description": "1 board or committee plus 2 sub-committees. Unlimited members, meetings and documents.",
+      "price": "165",
+      "priceCurrency": "AUD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://app.processpa.com/authenticate/password-register"
+    },
+    {
+      "@type": "Offer",
+      "name": "Enterprise",
+      "description": "1 board or committee plus 5 sub-committees. Unlimited members, meetings and documents.",
+      "price": "240",
+      "priceCurrency": "AUD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://app.processpa.com/authenticate/password-register"
+    }
+  ]
+}
+</script>
 
 <script>
 (function () {

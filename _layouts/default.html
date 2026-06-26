@@ -16,6 +16,10 @@
         
         {% seo %}
 
+        {% include schema-organization.html %}
+        {% include schema-faq.html %}
+        {% if page.software_schema %}{% include schema-software.html %}{% endif %}
+
         {% include analytics.html %}
     </head>
     <body>

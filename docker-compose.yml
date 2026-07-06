@@ -1,0 +1,23 @@
+services:
+  jekyll:
+    build:
+      context: .
+      dockerfile: Dockerfile.jekyll
+    working_dir: /srv/jekyll
+    ports:
+      - "4000:4000"
+      - "35729:35729"
+    volumes:
+      - .:/srv/jekyll
+      - bundle_cache:/usr/local/bundle
+    environment:
+      BUNDLE_GEMFILE: /srv/jekyll/Gemfile.docker
+    command: >
+      sh -lc "(gem list -i bundler -v 2.4.22 || gem install bundler:2.4.22) &&
+      (bundle _2.4.22_ check || bundle _2.4.22_ install) &&
+      bundle _2.4.22_ exec jekyll serve --host 0.0.0.0 --port 4000 --livereload --incremental"
+    stdin_open: true
+    tty: true
+
+volumes:
+  bundle_cache:

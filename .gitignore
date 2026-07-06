@@ -263,3 +263,7 @@ __pycache__/
 
 # Mac Hidden files
 .DS_Store
+
+# Jekyll
+.jekyll-metadata
+.jekyll-cache/

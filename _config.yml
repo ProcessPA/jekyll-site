@@ -3,6 +3,22 @@ description: Enjoyable Governance for Associations, Non-Profits and SMEs
 timezone: Australia/Brisbane
 url: https://processpa.com
 baseurl: ""
+
+plugins:
+    - jekyll-seo-tag
+    - jekyll-sitemap
+    - jekyll-redirect-from
+
+exclude:
+    - node_modules
+    - vendor
+    - .bundle
+    - .sass-cache
+    - Dockerfile.jekyll
+    - docker-compose.yml
+    - Gemfile.docker
+    - Gemfile.docker.lock
+
 sass:
     style: compressed
 

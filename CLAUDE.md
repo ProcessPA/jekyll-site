@@ -93,6 +93,23 @@ bundle exec jekyll serve --incremental
 
 Site runs at `http://127.0.0.1:4000`. The `faraday-retry` gem warning and GitHub Metadata `site.title` notice are harmless.
 
+## Running with Docker (no local Ruby)
+
+Use Docker Compose when you want to avoid local Ruby/Bundler setup issues.
+
+```bash
+docker compose up --build
+```
+
+This uses `docker-compose.yml` and `Dockerfile.jekyll` in the repo root, installs gems in-container, and serves the site at `http://127.0.0.1:4000` with live reload enabled.
+
+Useful commands:
+
+```bash
+docker compose down
+docker compose logs -f
+```
+
 ## Commit messages
 
 Use [gitmoji.dev](https://gitmoji.dev) emoji prefixes on all commit messages. Pick the emoji that best matches the intent of the change (e.g. ✨ for new features, 🐛 for bug fixes, 💄 for UI/style changes, ♻️ for refactoring, 📝 for docs).

@@ -21,6 +21,9 @@ jobs:
         with:
           # Matches Dockerfile.jekyll — github-pages (Jekyll 3.10) needs Ruby < 3.1
           ruby-version: '3.0'
+          # Lockfile's precompiled ffi (x86_64-linux) needs RubyGems >= 3.3.22;
+          # Ruby 3.0 ships 3.2.33
+          rubygems: '3.4.22'
           bundler-cache: true
 
       - name: Build Jekyll site

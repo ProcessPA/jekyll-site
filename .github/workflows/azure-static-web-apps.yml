@@ -5,14 +5,13 @@ on:
     branches:
       - master
   pull_request:
-    types: [opened, synchronize, reopened, closed]
+    types: [opened, synchronize, reopened]
     branches:
       - master
   workflow_dispatch:
 
 jobs:
   build_and_deploy:
-    if: github.event_name != 'pull_request' || github.event.action != 'closed'
     runs-on: ubuntu-latest
     env:
       # Same as Dockerfile.jekyll: the lock's ffi platform entries predate the
@@ -33,7 +32,22 @@ jobs:
           JEKYLL_ENV: production
           JEKYLL_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Deploy
+      # Pull requests land on the QA app's "qa" named environment, which keeps a
+      # stable URL across PRs rather than the per-PR staging URL SWA defaults to.
+      - name: Deploy to QA
+        if: github.event_name == 'pull_request'
+        uses: Azure/static-web-apps-deploy@v1
+        with:
+          azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_QA }}
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          action: upload
+          app_location: _site
+          skip_app_build: true
+          skip_api_build: true
+          deployment_environment: qa
+
+      - name: Deploy to production
+        if: github.event_name != 'pull_request' && github.ref == 'refs/heads/master'
         uses: Azure/static-web-apps-deploy@v1
         with:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN }}
@@ -42,13 +56,3 @@ jobs:
           app_location: _site
           skip_app_build: true
           skip_api_build: true
-
-  close_pull_request:
-    if: github.event_name == 'pull_request' && github.event.action == 'closed'
-    runs-on: ubuntu-latest
-    steps:
-      - name: Close PR staging environment
-        uses: Azure/static-web-apps-deploy@v1
-        with:
-          azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN }}
-          action: close

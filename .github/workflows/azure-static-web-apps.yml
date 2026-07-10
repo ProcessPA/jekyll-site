@@ -13,10 +13,6 @@ on:
 jobs:
   build_and_deploy:
     runs-on: ubuntu-latest
-    env:
-      # Same as Dockerfile.jekyll: the lock's ffi platform entries predate the
-      # x86_64-linux-gnu split on rubygems.org, so build native gems from source
-      BUNDLE_FORCE_RUBY_PLATFORM: 'true'
     steps:
       - uses: actions/checkout@v4
 

@@ -8,7 +8,7 @@ This video will show you how to prepare your agenda for your meeting. Create Mot
 
 <div class="container my-5">
     <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/f2Fsh8rBxXQ" allowfullscreen></iframe>" allowfullscreen></iframe>
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/f2Fsh8rBxXQ" title="Process PA product video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
 </div>
 

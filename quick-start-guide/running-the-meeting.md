@@ -9,7 +9,7 @@ TIP: Make the Minutes everyone’s responsibility by displaying [Process PA]({{ 
 
 Click on the video to view a meeting from start to finish. For step by step instructions, refer to the images below the video.
 
-<div class="container my-5"><div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Co-3VQzzJxo" title="Process PA product video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div>
+<div class="container my-5"><div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Co-3VQzzJxo" title="Process PA product video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div></div>
 
 1. When it’s time for the meeting to start, simply click on the “START MEETING” action button on the left portion of the page.<br>![](/content/pages/help/clip_image002-3.jpg){: .img-fluid}
 2. A timer for the whole meeting will start as well as a timer per item in the agenda list. You will be prompted, if necessary, to fill in key information needed in the current agenda item.<br>![](/content/pages/help/clip_image004_thumb-3.jpg){: .img-fluid}

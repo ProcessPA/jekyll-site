@@ -6,8 +6,8 @@ Jekyll static site for [processpa.com](https://processpa.com) — a board/govern
 
 - **Jekyll** static site generator
 - **Bootstrap 4** via SASS (`css/main.scss` imports everything)
-- **CloudCannon** CMS for content editing
-- **Hosting**: CloudCannon (deployed from `master`)
+- **CloudCannon** CMS for content editing (being retired — see Deployments)
+- **Hosting**: Azure Static Web Apps, via GitHub Actions (see Deployments)
 
 ## Design principles
 
@@ -110,10 +110,25 @@ docker compose down
 docker compose logs -f
 ```
 
+## Deployments
+
+`.github/workflows/azure-static-web-apps.yml` builds the site with `bundle exec jekyll build` and deploys `_site/` to Azure Static Web Apps. Both apps are Free tier in East Asia (Static Web Apps is not offered in an Australian region; content is served from the global edge regardless).
+
+| Trigger | Azure resource | Resource group / subscription | URL |
+|---|---|---|---|
+| PR against `master` | `ProcessPAMarketingSiteQA` | `ppa-qa-mpn` / Microsoft Partner Network | https://gentle-water-0c7874300.7.azurestaticapps.net |
+| Push to `master` | `ProcessPAMarketingSite` | `PPA-Prod` / BizSpark | https://proud-sand-05735ce00.7.azurestaticapps.net |
+
+Deployment tokens live in the repo secrets `AZURE_STATIC_WEB_APPS_API_TOKEN` (prod) and `AZURE_STATIC_WEB_APPS_API_TOKEN_QA`. Regenerate with `az staticwebapp secrets list`.
+
+The QA step uses the SWA CLI (`swa deploy _site --env production`) rather than `Azure/static-web-apps-deploy`. This is deliberate: on `pull_request` events that action forces the target environment to the PR number, publishing to a throwaway `…-<PR>.eastasia…` URL and leaving the QA app's real hostname empty. The CLI honours `--env`, so every PR lands on the one fixed QA URL. Don't swap it back for the action.
+
+CloudCannon still builds from `master` and is still the editors' CMS, but it is being retired. DNS for processpa.com has not yet been pointed at the prod app — that switch, and removing CloudCannon's access to `master`, are the remaining steps.
+
 ## Commit messages
 
 Use [gitmoji.dev](https://gitmoji.dev) emoji prefixes on all commit messages. Pick the emoji that best matches the intent of the change (e.g. ✨ for new features, 🐛 for bug fixes, 💄 for UI/style changes, ♻️ for refactoring, 📝 for docs).
 
 ## Branching
 
-Work in feature branches off `master`. `master` deploys automatically via CloudCannon.
+Work in feature branches off `master` and open a PR — the PR build deploys to the QA site for review. Merging deploys `master` to production.

@@ -8,7 +8,7 @@ This video gives a quick overview of storage for Minutes, Motions and File Attac
 
 <div class="container my-5">
     <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/nDw7UKWmSV8" allowfullscreen></iframe>
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/nDw7UKWmSV8" title="Process PA product video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 </div>
 

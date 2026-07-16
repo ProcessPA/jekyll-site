@@ -3,74 +3,422 @@ title: Help Documentation
 layout: page
 navigation_title: Help
 navigation_weight: 60
+description: Process PA help documentation — step-by-step guides for accounts, members, meetings, agendas, minutes, documents, email distribution and settings.
 redirect_from:
   - /quick-start-guide/
+help_categories:
+  - id: getting-started
+    title: Getting Started & Account
+  - id: members
+    title: Members & Access
+  - id: workspace
+    title: Committee Workspace
+  - id: meetings
+    title: Meetings
+  - id: agendas
+    title: Agendas & Minutes
+  - id: documents
+    title: Documents
+  - id: distribution
+    title: Email & Distribution
+  - id: settings
+    title: Settings & Organisation
+help_topics:
+  # --- Getting Started & Account ---
+  - category: getting-started
+    title: Create an account
+    link: help/onboarding/create%20an%20account
+    summary: Register for Process PA with your name, email and a password. A confirmation email is sent so you can verify your address and start your free trial.
+    keywords: sign up register new user password confirmation email trial
+  - category: getting-started
+    title: Log in to Process PA
+    link: help/onboarding/log%20in
+    summary: Sign in with your email and password and use "remember me" to stay signed in. Learn what happens with an unknown email or an incorrect password, and how to move between the login, register and reset pages.
+    keywords: sign in login remember me password wrong incorrect unknown user authenticate
+  - category: getting-started
+    title: Reset a forgotten password
+    link: help/onboarding/reset%20your%20password
+    summary: Request a password reset link by email and choose a new password. For your security, Process PA never reveals whether an email address has an account.
+    keywords: forgot password reset forgotten link email recover account locked out
+  - category: getting-started
+    title: Create an organisation and committee
+    link: help/onboarding/create%20an%20organization%20and%20committee
+    summary: Set up your organisation (tenant) and its first committee — enter the name, choose a time zone, language and agenda template, and land on your home dashboard.
+    keywords: organisation organization tenant committee setup initialise time zone language template
+  - category: getting-started
+    title: Browser compatibility
+    link: help/browser-compatibility
+    summary: Process PA runs in any modern browser — Chrome, Edge, Firefox or Safari — on PC, Mac, tablet or phone. Nothing to install.
+    keywords: browser chrome edge firefox safari device supported compatible install
+  - category: getting-started
+    title: Multiple users, one email
+    link: help/multiple-users-one-email
+    summary: How Process PA handles more than one person sharing a single email address, and why each member should have their own login where possible.
+    keywords: shared email multiple users one email address login accounts
+  - category: getting-started
+    title: Trust the email sender
+    link: help/trust-email-sender
+    summary: Make sure agenda, minutes and invitation emails from Process PA reach your inbox by trusting the sender and avoiding the spam folder.
+    keywords: email spam junk sender trust whitelist deliverability inbox
+
+  # --- Members & Access ---
+  - category: members
+    title: Add a committee member
+    link: help/members/create%20a%20new%20member
+    summary: Add a member and give them a security role (Admin, Normal, Email-only or No-access) and a committee role such as President, Vice President, Treasurer or Secretary. Any add can be cancelled before saving.
+    keywords: add member new create admin normal email only no access president vice president treasurer secretary role
+  - category: members
+    title: Invite and onboard a member
+    link: help/members/invite%20and%20onboard%20a%20member
+    summary: Inviting a member sends an activation email with a set-up link. Follow the full loop — the member opens the link, sets a password, logs in and lands on the home page.
+    keywords: invite activation email onboarding set up link password welcome new member join
+  - category: members
+    title: Edit and manage members
+    link: help/members/edit%20member%20details
+    summary: Update a member's personal details, change their access level, and show or hide no-access members in the list. Note the 100 active-member limit and how email-only members are treated.
+    keywords: edit member details manage show hide no access active member limit 100 register
+  - category: members
+    title: Access levels and roles
+    link: help/members/access%20levels%20and%20roles
+    summary: Understand the difference between security access levels (Admin, Normal, Email-only, No-access) and committee roles, and what each level can see and do.
+    keywords: access level permission security role admin normal email only no access viewer
+
+  # --- Committee Workspace ---
+  - category: workspace
+    title: The committee dashboard
+    link: help/workspace/dashboard
+    summary: Your committee home page shows its panels at a glance and lists upcoming meetings so you can jump straight into the next one.
+    keywords: dashboard home panels upcoming meetings overview workspace
+  - category: workspace
+    title: View past minutes
+    link: help/workspace/minutes
+    summary: The Minutes page lists your completed meetings. Select any meeting to read its minutes.
+    keywords: minutes past completed history read view previous meetings
+  - category: workspace
+    title: View motions
+    link: help/workspace/motions
+    summary: The Motions page lists every motion across your meetings. Select a motion to see its full detail, mover, seconder and outcome.
+    keywords: motions list resolution moved seconded carried detail view
+  - category: workspace
+    title: Track action items
+    link: help/workspace/actions
+    summary: The Actions page lists all action items and lets you create a new action to keep tasks moving between meetings.
+    keywords: actions action items tasks todo create track follow up
+
+  # --- Meetings ---
+  - category: meetings
+    title: Create a meeting
+    link: help/meetings/create%20a%20meeting
+    summary: Create a General, Annual General or Special meeting. Each creation can be cancelled before it is saved.
+    keywords: create meeting general annual agm special new schedule
+  - category: meetings
+    title: Open a meeting
+    link: help/meetings/open%20a%20meeting
+    summary: Open a meeting from the list to view its agenda and controls.
+    keywords: open meeting select view controls
+  - category: meetings
+    title: Preview a meeting
+    link: help/meetings/preview%20the%20selected%20meeting
+    summary: Preview a scheduled meeting's agenda or a completed meeting's minutes on screen, then navigate back to the meeting.
+    keywords: preview agenda minutes on screen view back
+  - category: meetings
+    title: Rename a meeting
+    link: help/meetings/rename%20a%20meeting
+    summary: Change the title of the selected meeting.
+    keywords: rename title edit meeting name
+  - category: meetings
+    title: Edit the location
+    link: help/meetings/edit%20the%20location%20of%20the%20selected%20meeting
+    summary: Update the location of the selected meeting, along with its scheduled start and end dates.
+    keywords: edit location venue address start end date scheduled
+  - category: meetings
+    title: Re-schedule a meeting
+    link: help/meetings/re-schedule%20a%20meeting
+    summary: Move a scheduled meeting to a new date and time.
+    keywords: reschedule re-schedule move date time change scheduled
+  - category: meetings
+    title: Meeting lifecycle and states
+    link: help/meetings/meeting%20lifecycle%20and%20states
+    summary: The full meeting state machine — Start, Pause, Resume, Reset, Close, Re-open, Finalize and Sign, plus Re-schedule and Cancel. Learn which actions are valid in each state and why some are blocked.
+    keywords: lifecycle state machine scheduled started paused closed finalized valid actions transitions rules blocked guard
+  - category: meetings
+    title: Start a meeting
+    link: help/meetings/start%20a%20meeting
+    summary: Launch a scheduled meeting so minutes can be taken and the meeting timer begins.
+    keywords: start begin launch meeting timer scheduled started
+  - category: meetings
+    title: Pause and resume a meeting
+    link: help/meetings/pause%20and%20resume%20a%20meeting
+    summary: Pause a meeting to stop the timer, then resume when you are ready to continue.
+    keywords: pause resume timer break stop continue
+  - category: meetings
+    title: Reset a meeting
+    link: help/meetings/reset%20a%20meeting
+    summary: Return a started meeting to its scheduled state if you need to start over.
+    keywords: reset restart start over scheduled started clear
+  - category: meetings
+    title: Close a meeting
+    link: help/meetings/close%20a%20meeting
+    summary: Close a meeting with or without finalization. Finalizing requires the meeting opener to be configured first.
+    keywords: close end finish finalize finalization opener email minutes
+  - category: meetings
+    title: Re-open a meeting
+    link: help/meetings/re-open%20a%20meeting
+    summary: Re-open a closed meeting to make further changes before it is finalized.
+    keywords: reopen re-open closed changes edit continue
+  - category: meetings
+    title: Finalize and sign the minutes
+    link: help/meetings/finalize%20a%20meeting
+    summary: Finalize a meeting to lock its minutes, then sign them. Each step has a confirm and abort flow.
+    keywords: finalize finalise sign minutes lock confirm abort complete
+  - category: meetings
+    title: Cancel a meeting
+    link: help/meetings/cancel%20a%20meeting
+    summary: Cancel a meeting with a replacement option — none, a meeting of the same type, or a copy. Each choice can be cancelled.
+    keywords: cancel meeting replacement same type copy abort
+  - category: meetings
+    title: Delete a meeting
+    link: help/meetings/delete%20a%20meeting
+    summary: Delete a scheduled meeting, optionally replacing it with the same type or a copy.
+    keywords: delete remove meeting replacement copy abort scheduled
+  - category: meetings
+    title: Configure the meeting opener
+    link: help/meetings/configure%20the%20opener%20of%20a%20meeting
+    summary: Set who opened the meeting and an explicit open time — required before a meeting can be finalized.
+    keywords: opener open time chair configure finalize required
+  - category: meetings
+    title: Configure the next meeting
+    link: help/meetings/configure%20the%20next%20meeting
+    summary: Choose what follows this meeting — none, a new meeting of the same type, a new meeting using this one as a template, or an existing scheduled meeting.
+    keywords: next meeting none same type template existing scheduled configure follow-up
+  - category: meetings
+    title: Navigating from a meeting
+    link: help/meetings/navigate%20to%20the
+    summary: Move between a meeting and the other pages of your committee, such as the attendance request and distribution pages, and back again.
+    keywords: navigate navigation back pages request attendance distribution meeting
+
+  # --- Agendas & Minutes ---
+  - category: agendas
+    title: Add action items and motions
+    link: help/meetings/add%20action%20items%20and%20motions
+    summary: Add or delete action items and motions on any agenda item to capture decisions and tasks as they happen.
+    keywords: agenda item action item motion add delete create remove decision task
+  - category: agendas
+    title: Allot time to an agenda item
+    link: help/meetings/allot%20time%20to%20an%20agenda%20item
+    summary: Assign an amount of time to an agenda item to keep your meeting running to schedule.
+    keywords: allot time agenda item duration timing schedule minutes keep on track
+  - category: agendas
+    title: Attach a document to an agenda item
+    link: help/meetings/attach%20a%20document%20to%20an%20agenda%20item
+    summary: Attach a supporting document to an agenda item so it travels with the agenda and its distribution.
+    keywords: attach document agenda item file supporting paper upload link
+  - category: agendas
+    title: Mark attendance and apologies
+    link: help/meetings/assign%20attendance%20and%20apology%20responses
+    summary: Record each member as attending or an apology, and confirm attendance for the meeting.
+    keywords: attendance apology present absent mark record member responses
+  - category: agendas
+    title: Confirm minutes and business arising
+    link: help/meetings/confirm%20previous%20minutes
+    summary: Confirm the minutes of a previous meeting, and see how outstanding items carry over automatically as business arising.
+    keywords: confirm minutes previous business arising carry over outstanding items follow up
+  - category: agendas
+    title: Preview and download the PDF
+    link: help/meetings/preview%20and%20download%20pdf
+    summary: Preview a meeting's agenda or minutes on screen, then download the matching PDF — the generated document mirrors exactly what you see.
+    keywords: preview pdf download agenda minutes generate document print matching
+  - category: agendas
+    title: Sign the minutes
+    link: help/sign-minutes
+    summary: Sign the minutes of a finalized meeting to formally record their approval.
+    keywords: sign minutes signature approve finalize formal record
+
+  # --- Documents ---
+  - category: documents
+    title: Upload a file
+    link: help/documents/upload%20a%20file
+    summary: Upload a single file into any folder — root, second level or third level.
+    keywords: upload file single document add folder root nested
+  - category: documents
+    title: Upload multiple files
+    link: help/documents/upload%20multiple%20files
+    summary: Upload several files at once into any folder in your document library.
+    keywords: upload multiple files batch bulk documents folder
+  - category: documents
+    title: Download a file
+    link: help/documents/download%20a%20file
+    summary: Download a single file from your committee's document library.
+    keywords: download file single save document
+  - category: documents
+    title: Download multiple files
+    link: help/documents/download%20multiple%20files
+    summary: Select and download several files at once.
+    keywords: download multiple files batch bulk save
+  - category: documents
+    title: Delete a file
+    link: help/documents/delete%20a%20file
+    summary: Delete a single file, with a confirmation step you can cancel.
+    keywords: delete remove file single confirm abort
+  - category: documents
+    title: Delete multiple files
+    link: help/documents/delete%20multiple%20files
+    summary: Select and delete several files at once, with a confirmation you can cancel.
+    keywords: delete remove multiple files batch bulk confirm abort
+  - category: documents
+    title: Move a file
+    link: help/documents/move%20a%20file
+    summary: Move a single file from one folder to another, with an option to cancel.
+    keywords: move file single folder relocate organise abort
+  - category: documents
+    title: Move multiple files
+    link: help/documents/move%20multiple%20files
+    summary: Move several files between folders at once, with an option to cancel.
+    keywords: move multiple files batch folder relocate organise abort
+  - category: documents
+    title: Rename a file
+    link: help/documents/rename%20a%20file
+    summary: Rename a file to keep your document library tidy and easy to search.
+    keywords: rename file name edit document tidy
+  - category: documents
+    title: Organise documents with folders
+    link: help/documents/folders
+    summary: Create root, second-level and third-level folders to build a clear folder hierarchy for your committee's documents.
+    keywords: folder folders hierarchy root second third level nested create organise structure
+  - category: documents
+    title: Set a default folder
+    link: help/documents/set%20a%20default%20folder
+    summary: Choose a default folder — root or nested — from the context menu or toolbar so new documents land where you expect.
+    keywords: default folder set root nested context menu toolbar
+
+  # --- Email & Distribution ---
+  - category: distribution
+    title: Request attendance from members
+    link: help/meetings/request%20attendance%20from%20committee%20members
+    summary: Request attendance from all members, only those who haven't responded, just yourself, or specific members. You can't send with no recipients selected.
+    keywords: request attendance rsvp email members no response specific everyone reminder
+  - category: distribution
+    title: Send the agenda
+    link: help/meetings/send%20the%20agenda
+    summary: Email the agenda to all members, attending members, just yourself or specific members.
+    keywords: send agenda email distribute members attending specific me
+  - category: distribution
+    title: Send the minutes
+    link: help/meetings/send%20the%20minutes
+    summary: Email the minutes to all members, members who attended, just yourself or specific members.
+    keywords: send minutes email distribute members attended specific me
+  - category: distribution
+    title: Agenda and minutes attachments
+    link: help/meetings/email%20attachments
+    summary: Agenda emails carry the agenda PDF, a calendar (.ics) invite and a ZIP pack of attached documents. Minutes emails carry the minutes PDF — each matching the on-screen preview.
+    keywords: attachment agenda pdf minutes calendar ics invite zip pack documents email
+  - category: distribution
+    title: View the email history
+    link: help/meetings/email%20history
+    summary: Every distribution appears in the meeting's email history. Open any entry to view its detail, and navigate back to the meeting.
+    keywords: email history sent distribution record log detail view back
+  - category: distribution
+    title: Return to a meeting after sending
+    link: help/meetings/navigate%20from%20attendance%20request%20back%20to%20the%20origin%20meeting%20page
+    summary: After requesting attendance or sending a distribution, navigate straight back to the meeting you started from.
+    keywords: navigate back origin meeting attendance request distribution return
+
+  # --- Settings & Organisation ---
+  - category: settings
+    title: Switch between organisations
+    link: help/settings/switch%20organisations
+    summary: If you belong to more than one organisation, switch between them easily. You only ever see the organisations you belong to.
+    keywords: switch organisation organization tenant multi-tenancy change belong isolation
+  - category: settings
+    title: Edit the committee name
+    link: help/settings/committee%20name
+    summary: Rename your committee in general settings.
+    keywords: committee name rename edit settings general
+  - category: settings
+    title: Add or remove a role
+    link: help/settings/member%20roles
+    summary: Add and remove committee roles in settings so members can be assigned the positions your organisation uses.
+    keywords: role add remove edit roles settings position president treasurer custom
+  - category: settings
+    title: Copy a meeting template
+    link: help/settings/copy%20meeting%20template
+    summary: Copy an existing meeting template to reuse a proven agenda structure for a new meeting type.
+    keywords: copy template meeting agenda reuse duplicate settings
+  - category: settings
+    title: Who can do what — permissions
+    link: help/settings/permissions
+    summary: How access levels shape what members can do — for example, a normal member cannot administer a meeting, and a "to all" distribution only ever reaches that committee's members.
+    keywords: permissions access administer normal member distribution committee isolation security who can do what
 ---
+<style>
+.help-card-transition {
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+.help-card-transition:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+}
+.help-card .card-accent {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: linear-gradient(to right,
+        #dc3545 0%, #dc3545 33.33%,
+        #ffc107 33.33%, #ffc107 66.66%,
+        #28a745 66.66%, #28a745 100%);
+}
+.help-card a:hover { text-decoration: none !important; }
+.help-category { scroll-margin-top: 95px; }
+.help-category-title {
+    border-bottom: 2px solid #7CBB00;
+    display: inline-block;
+    padding-bottom: 0.35rem;
+}
+mark.help-hit { background: #fff3b0; padding: 0 .1em; border-radius: 2px; }
+@media (prefers-reduced-motion: no-preference) {
+    html { scroll-behavior: smooth; }
+}
+</style>
+
 <div class="container">
     <div class="entry-content">
-    
-        <!-- Onboarding Section -->
-        <div class="mb-5">
-            <h3 class="mb-4 text-primary">Onboarding</h3>            <div class="row">
-                {% include help-card.html title="Create an Account" link="help/onboarding/create%20an%20account" heading_level="5" %}
-                {% include help-card.html title="Create An Organization And Committee" link="help/onboarding/create%20an%20organization%20and%20committee" heading_level="5" %}
-                {% include help-card.html title="Browser Compatibility" link="help/browser-compatibility" heading_level="5" %}
-                {% include help-card.html title="Multiple Users, One Email" link="help/multiple-users-one-email" heading_level="5" %}
-                {% include help-card.html title="Sign Minutes" link="help/sign-minutes" heading_level="5" %}
-                {% include help-card.html title="Trust Email Sender" link="help/trust-email-sender" heading_level="5" %}
-            </div>
+
+        <div class="mb-4">
+            <p class="lead text-muted editable">Step-by-step guides for every part of Process PA. Search below, jump to a category, or browse the tiles.</p>
+            <input type="search" id="help-search" class="form-control form-control-lg" placeholder="Search the help documentation&hellip;" aria-label="Search help documentation">
         </div>
 
-        <!-- Members Section -->
-        <div class="mb-5">
-            <h3 class="mb-4 text-primary">Members</h3>            <div class="row">
-                {% include help-card.html title="Create A New Member" link="help/members/create%20a%20new%20member" heading_level="5" %}
-            </div>
-        </div>
+        <nav class="nav nav-pills mb-4" aria-label="Help categories">
+            {% for cat in page.help_categories %}
+            <a class="nav-link py-1 px-3 m-1 border rounded-pill" href="#{{ cat.id }}">{{ cat.title }}</a>
+            {% endfor %}
+        </nav>
 
-        <!-- Meetings Section -->
-        <div class="mb-5">
-            <h3 class="mb-4 text-primary">Meetings</h3>            <div class="row">
-                {% include help-card.html title="Create A Meeting" link="help/meetings/create%20a%20meeting" %}
-                {% include help-card.html title="Open A Meeting" link="help/meetings/open%20a%20meeting" %}
-                {% include help-card.html title="Start A Meeting" link="help/meetings/start%20a%20meeting" %}
-                {% include help-card.html title="Pause and Resume A Meeting" link="help/meetings/pause%20and%20resume%20a%20meeting" %}
-                {% include help-card.html title="Close A Meeting" link="help/meetings/close%20a%20meeting" %}
-                {% include help-card.html title="Finalize A Meeting" link="help/meetings/finalize%20a%20meeting" %}
-                {% include help-card.html title="Rename a Meeting" link="help/meetings/rename%20a%20meeting" %}
-                {% include help-card.html title="Reset A Meeting" link="help/meetings/reset%20a%20meeting" %}
-                {% include help-card.html title="Cancel A Meeting" link="help/meetings/cancel%20a%20meeting" %}
-                {% include help-card.html title="Delete A Meeting" link="help/meetings/delete%20a%20meeting" %}
-                {% include help-card.html title="Re-Open A Meeting" link="help/meetings/re-open%20a%20meeting" %}
-                {% include help-card.html title="Configure The Opener Of A Meeting" link="help/meetings/configure%20the%20opener%20of%20a%20meeting" %}
-                {% include help-card.html title="Configure The Next Meeting" link="help/meetings/configure%20the%20next%20meeting" %}
-                {% include help-card.html title="Navigating To Other Pages From A Meeting" link="help/meetings/navigate%20to%20the" %}
-                {% include help-card.html title="Re-Schedule A Meeting" link="help/meetings/re-schedule%20a%20meeting" %}
-                {% include help-card.html title="Edit The Location Of The Selected Meeting" link="help/meetings/edit%20the%20location%20of%20the%20selected%20meeting" %}
-                {% include help-card.html title="Preview The Selected Meeting" link="help/meetings/preview%20the%20selected%20meeting" %}
-                {% include help-card.html title="Assign Attendance And Apology Responses" link="help/meetings/assign%20attendance%20and%20apology%20responses" %}
-                {% include help-card.html title="Send The Minutes" link="help/meetings/send%20the%20minutes" %}
-                {% include help-card.html title="Send The Agenda" link="help/meetings/send%20the%20agenda" %}
-                {% include help-card.html title="Request Attendance From Committee Members" link="help/meetings/request%20attendance%20from%20committee%20members" %}
-                {% include help-card.html title="Navigate From Attendance Request Back To The Meeting Page" link="help/meetings/navigate%20from%20attendance%20request%20back%20to%20the%20origin%20meeting%20page" %}
+        {% for cat in page.help_categories %}
+        <section class="help-category mb-5" id="{{ cat.id }}">
+            <h3 class="h4 help-category-title mb-4 text-primary">{{ cat.title }}</h3>
+            <div class="row">
+                {% assign topics = page.help_topics | where: "category", cat.id %}
+                {% for topic in topics %}
+                <div class="col-md-6 col-lg-4 mb-3 help-card" data-keywords="{{ topic.keywords }}">
+                    <a href="{{ topic.link }}" class="text-decoration-none">
+                        <div class="card h-100 shadow-sm bg-primary text-white position-relative overflow-hidden help-card-transition">
+                            <div class="card-body">
+                                <h5 class="card-title text-white mb-2 help-card-title">{{ topic.title }}</h5>
+                                <p class="card-text small text-white-50 mb-0 help-card-summary">{{ topic.summary }}</p>
+                            </div>
+                            <div class="card-accent"></div>
+                        </div>
+                    </a>
+                </div>
+                {% endfor %}
             </div>
-        </div>
+        </section>
+        {% endfor %}
 
-        <!-- Documents Section -->
-        <div class="mb-5">
-            <h3 class="mb-4 text-primary">Documents</h3>            <div class="row">
-                {% include help-card.html title="Upload A File" link="help/documents/upload%20a%20file" %}
-                {% include help-card.html title="Upload Multiple Files" link="help/documents/upload%20multiple%20files" %}
-                {% include help-card.html title="Download A File" link="help/documents/download%20a%20file" %}
-                {% include help-card.html title="Download Multiple Files" link="help/documents/download%20multiple%20files" %}
-                {% include help-card.html title="Delete A File" link="help/documents/delete%20a%20file" %}
-                {% include help-card.html title="Delete Multiple Files" link="help/documents/delete%20multiple%20files" %}
-                {% include help-card.html title="Move A File" link="help/documents/move%20a%20file" %}
-                {% include help-card.html title="Move Multiple Files" link="help/documents/move%20multiple%20files" %}
-                {% include help-card.html title="Rename A File" link="help/documents/rename%20a%20file" %}
-                {% include help-card.html title="Set A Default Folder" link="help/documents/set%20a%20default%20folder" %}
-            </div>
-        </div>
+        <p class="text-center text-muted h5" id="help-no-results" hidden>No guides match your search. Try different words, browse the <a href="/faq">FAQ</a>, or <a href="mailto:support@processpa.com">ask us directly</a>.</p>
 
 		<!-- FAQ Section -->
         <div class="mb-5">
@@ -112,3 +460,39 @@ redirect_from:
 
     </div><!-- #entry-content -->
 </div><!-- .container -->
+
+<script>
+(function () {
+    var cards = Array.prototype.slice.call(document.querySelectorAll('.help-card'));
+    var categories = Array.prototype.slice.call(document.querySelectorAll('.help-category'));
+    var nav = document.querySelector('nav[aria-label="Help categories"]');
+    var search = document.getElementById('help-search');
+    var noResults = document.getElementById('help-no-results');
+
+    // Cache the searchable text for each card once
+    cards.forEach(function (card) {
+        var kw = card.getAttribute('data-keywords') || '';
+        card.setAttribute('data-search', (card.textContent + ' ' + kw).toLowerCase());
+    });
+
+    search.addEventListener('input', function () {
+        var query = search.value.trim().toLowerCase();
+        var anyVisible = false;
+
+        cards.forEach(function (card) {
+            var match = !query || card.getAttribute('data-search').indexOf(query) !== -1;
+            card.hidden = !match;
+            if (match) anyVisible = true;
+        });
+
+        // Hide categories (and their nav pills) with no visible cards
+        categories.forEach(function (section) {
+            var has = !!section.querySelector('.help-card:not([hidden])');
+            section.hidden = !has;
+        });
+
+        if (nav) nav.hidden = !!query;
+        noResults.hidden = anyVisible;
+    });
+})();
+</script>

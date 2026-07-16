@@ -60,3 +60,72 @@
 {
     @include img-fluid;
 }
+
+/* --- Markdown help/doc page headings: a cleaner, clearer hierarchy --- */
+.md-page {
+    // Section headings (e.g. "Overview", "Step-by-Step Guide")
+    h2 {
+        margin-top: 2.75rem;
+        margin-bottom: 1.25rem;
+        padding-bottom: 0.5rem;
+        font-size: 1.55rem;
+        font-weight: 700;
+        letter-spacing: -0.01em;
+        color: #212529;
+        border-bottom: 2px solid $green;
+    }
+
+    // Don't push the first section down the page
+    > h2:first-child {
+        margin-top: 0.75rem;
+    }
+
+    // Step / sub-section headings (e.g. "1. Open the meeting")
+    h3 {
+        margin-top: 1.85rem;
+        margin-bottom: 0.6rem;
+        font-size: 1.2rem;
+        font-weight: 600;
+        color: darken($green, 8%);
+    }
+
+    // Minor headings (content sub-headers and the "Page Details" footer)
+    h4 {
+        margin-top: 1.6rem;
+        margin-bottom: 0.5rem;
+        font-size: 1rem;
+        font-weight: 700;
+        color: #343a40;
+    }
+
+    // Comfortable reading rhythm for body copy and steps
+    p,
+    li {
+        line-height: 1.65;
+    }
+
+    // Tidy, readable tables (markdown tables carry no Bootstrap class)
+    table {
+        width: 100%;
+        margin: 1.25rem 0 1.75rem;
+        border-collapse: collapse;
+
+        th,
+        td {
+            padding: 0.6rem 0.85rem;
+            border: 1px solid #e4e7eb;
+            vertical-align: top;
+            text-align: left;
+        }
+
+        thead th {
+            background: #f6f8f5;
+            border-bottom: 2px solid $green;
+            font-weight: 600;
+        }
+
+        tbody tr:nth-child(even) {
+            background: #fafbfc;
+        }
+    }
+}

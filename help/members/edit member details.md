@@ -27,13 +27,13 @@ This makes "No-access" a useful alternative to deleting someone: their history s
 A committee can have up to **100 active members**. Active members are those who can sign in or receive content as part of the committee.
 
 - Once a committee reaches 100 active members, adding another *active* member is blocked.
-- You can still add *inactive* (Email-only) members beyond that point.
+- You can still add *inactive* (No-Access) members beyond that point.
 - If you need more active members, set some to No-access, or contact [support@processpa.com](mailto:support@processpa.com).
 
 ## Tips
 
 - Changing a member's access level takes effect immediately.
-- Deleting a member removes their details; setting them to No-access keeps the record. Prefer No-access when the person may return.
+- Deleting a member removes their details; setting them to No-access keeps the record. Prefer No-access.
 
 #### Page Details
 Updated on July 16th, 2026

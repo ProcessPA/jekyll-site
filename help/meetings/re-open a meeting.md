@@ -25,5 +25,14 @@ If the meeting is being continiued ensure that the `Resume` button is pressed to
 
 ![Image](../media\meetings\re_open_a_meeting\Re_open_a_meeting_1.png)
 
+
+![Image](../media\meetings\re_open_a_closed_meeting\Re_open_a_closed_meeting_1.png)
+## Video 
+<div class="container my-5">
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe class="embed-responsive-item" src="..\media\meetings\re_open_a_closed_meeting\Re_open_a_closed_meeting.webm" allowfullscreen></iframe>
+	</div>
+</div>
+
 #### Page Details
 Updated on June 09th, 2025

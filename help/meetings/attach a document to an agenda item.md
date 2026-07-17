@@ -22,5 +22,14 @@ When you email the agenda, attached documents are bundled and delivered as a ZIP
 - [Organise documents with folders](/help/documents/folders)
 - [Send the agenda](/help/meetings/send%20the%20agenda)
 
+
+![Image](../media\meetings\add_an_attachment_to_an_agenda_item\Add_an_attachment_to_an_agenda_item_1.png)
+## Video 
+<div class="container my-5">
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe class="embed-responsive-item" src="..\media\meetings\add_an_attachment_to_an_agenda_item\Add_an_attachment_to_an_agenda_item.webm" allowfullscreen></iframe>
+	</div>
+</div>
+
 #### Page Details
 Updated on July 16th, 2026

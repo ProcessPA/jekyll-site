@@ -55,5 +55,14 @@ A committee can have up to **100 active members**. Active members are those who 
 - Changing a member's access level takes effect immediately.
 - Deleting a member removes their details; setting them to No-access keeps the record. Prefer No-access.
 
+
+![Image](../media\members\edit_the_personal_details_of_a_member\Edit_the_personal_details_of_a_member_1.png)
+## Video 
+<div class="container my-5">
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe class="embed-responsive-item" src="..\media\members\edit_the_personal_details_of_a_member\Edit_the_personal_details_of_a_member.webm" allowfullscreen></iframe>
+	</div>
+</div>
+
 #### Page Details
 Updated on July 16th, 2026

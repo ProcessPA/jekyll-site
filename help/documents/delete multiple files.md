@@ -85,5 +85,14 @@ This guide provides you with easy-to-follow steps on how to delete multiple file
    - Ensure no unintended files were deleted during the process
    - Verify that remaining files are properly organized
 
+
+![Image](../media\documents\delete_multiple_files\Delete_multiple_files_1.png)
+## Video 
+<div class="container my-5">
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe class="embed-responsive-item" src="..\media\documents\delete_multiple_files\Delete_multiple_files.webm" allowfullscreen></iframe>
+	</div>
+</div>
+
 #### Page Details
 Updated on June 09th, 2025

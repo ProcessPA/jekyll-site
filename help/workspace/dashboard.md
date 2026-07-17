@@ -28,5 +28,14 @@ The dashboard is your committee's home page. It brings together the panels you u
 - The dashboard is the quickest route to your next meeting — start here each session.
 - The menu bar at the top of every page takes you to the other areas of your committee.
 
+
+![Image](../media\workspace\the_dashboard_displays_its_panels\The_dashboard_displays_its_panels_1.png)
+## Video 
+<div class="container my-5">
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe class="embed-responsive-item" src="..\media\workspace\the_dashboard_displays_its_panels\The_dashboard_displays_its_panels.webm" allowfullscreen></iframe>
+	</div>
+</div>
+
 #### Page Details
 Updated on July 16th, 2026

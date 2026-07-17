@@ -29,5 +29,14 @@ Carried-over actions and motions keep their original numbers, so they're easy to
 - [Track action items](/help/workspace/actions)
 - [Assign and complete action items](/help/meetings/assign%20and%20complete%20action%20items)
 
+
+![Image](../media\meetings\confirm_the_minutes_of_a_previous_meeting\Confirm_the_minutes_of_a_previous_meeting_1.png)
+## Video 
+<div class="container my-5">
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe class="embed-responsive-item" src="..\media\meetings\confirm_the_minutes_of_a_previous_meeting\Confirm_the_minutes_of_a_previous_meeting.webm" allowfullscreen></iframe>
+	</div>
+</div>
+
 #### Page Details
 Updated on July 17th, 2026

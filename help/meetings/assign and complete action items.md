@@ -35,5 +35,14 @@ If an action is no longer needed, set its status to **Cancelled**. This keeps it
 - [Track action items](/help/workspace/actions)
 - [Sub-committees](/help/settings/sub-committees)
 
+
+![Image](../media\meetings\create_an_action_item_on_an_agenda_item\Create_an_action_item_on_an_agenda_item_1.png)
+## Video 
+<div class="container my-5">
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe class="embed-responsive-item" src="..\media\meetings\create_an_action_item_on_an_agenda_item\Create_an_action_item_on_an_agenda_item.webm" allowfullscreen></iframe>
+	</div>
+</div>
+
 #### Page Details
 Updated on July 17th, 2026

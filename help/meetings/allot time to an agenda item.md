@@ -21,5 +21,14 @@ Allotting time to agenda items helps your meetings finish on schedule. By giving
 
 - [Pause and resume a meeting](/help/meetings/pause%20and%20resume%20a%20meeting)
 
+
+![Image](../media\meetings\allot_time_to_an_agenda_item\Allot_time_to_an_agenda_item_1.png)
+## Video 
+<div class="container my-5">
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe class="embed-responsive-item" src="..\media\meetings\allot_time_to_an_agenda_item\Allot_time_to_an_agenda_item.webm" allowfullscreen></iframe>
+	</div>
+</div>
+
 #### Page Details
 Updated on July 16th, 2026

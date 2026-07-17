@@ -134,5 +134,14 @@ Make sure you have:
 - **Using tags or metadata** for organization without changing file locations
 - **Copying files** when multiple people need access from different locations
 
+
+![Image](../media\documents\move_multiple_files\Move_multiple_files_1.png)
+## Video 
+<div class="container my-5">
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe class="embed-responsive-item" src="..\media\documents\move_multiple_files\Move_multiple_files.webm" allowfullscreen></iframe>
+	</div>
+</div>
+
 #### Page Details
 Updated on June 09th, 2025

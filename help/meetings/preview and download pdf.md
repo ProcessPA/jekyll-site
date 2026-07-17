@@ -28,5 +28,22 @@ Before sending anything, you can preview a meeting on screen and download a PDF.
 - [Send the agenda](/help/meetings/send%20the%20agenda)
 - [Send the minutes](/help/meetings/send%20the%20minutes)
 
+
+![Image](../media\meetings\download_the_agenda_pdf_and_verify_it_matches_the_preview\Download_the_agenda_PDF_and_verify_it_matches_the_preview_1.png)
+## Video 
+<div class="container my-5">
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe class="embed-responsive-item" src="..\media\meetings\download_the_agenda_pdf_and_verify_it_matches_the_preview\Download_the_agenda_PDF_and_verify_it_matches_the_preview.webm" allowfullscreen></iframe>
+	</div>
+</div>
+
+![Image](../media\meetings\download_the_minutes_pdf_and_verify_it_matches_the_preview\Download_the_minutes_PDF_and_verify_it_matches_the_preview_1.png)
+## Video 
+<div class="container my-5">
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe class="embed-responsive-item" src="..\media\meetings\download_the_minutes_pdf_and_verify_it_matches_the_preview\Download_the_minutes_PDF_and_verify_it_matches_the_preview.webm" allowfullscreen></iframe>
+	</div>
+</div>
+
 #### Page Details
 Updated on July 16th, 2026

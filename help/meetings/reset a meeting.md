@@ -28,5 +28,14 @@ Resetting a meeting allows you to return it to the original state, which can be 
 3. **Reset The Meeting**
    - Click the reset button from the toolbar.
 
+
+![Image](../media\meetings\reset_a_meeting_from_the_started_state\Reset_a_meeting_from_the_started_state_1.png)
+## Video 
+<div class="container my-5">
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe class="embed-responsive-item" src="..\media\meetings\reset_a_meeting_from_the_started_state\Reset_a_meeting_from_the_started_state.webm" allowfullscreen></iframe>
+	</div>
+</div>
+
 #### Page Details
 Updated on June 09th, 2025

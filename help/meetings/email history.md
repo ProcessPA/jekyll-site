@@ -27,5 +27,14 @@ Every email you send from a meeting — attendance requests, agendas and minutes
 
 - [Return to a meeting after sending](/help/meetings/navigate%20from%20attendance%20request%20back%20to%20the%20origin%20meeting%20page)
 
+
+![Image](../media\meetings\a_sent_agenda_appears_in_the_meeting_email_history\A_sent_agenda_appears_in_the_meeting_email_history_1.png)
+## Video 
+<div class="container my-5">
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe class="embed-responsive-item" src="..\media\meetings\a_sent_agenda_appears_in_the_meeting_email_history\A_sent_agenda_appears_in_the_meeting_email_history.webm" allowfullscreen></iframe>
+	</div>
+</div>
+
 #### Page Details
 Updated on July 16th, 2026

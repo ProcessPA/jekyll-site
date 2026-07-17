@@ -28,5 +28,14 @@ In this guide, you will learn how to set the root folder as your default folder 
 
 
 
+
+![Image](../media\documents\set_a_root_folder_as_default_folder_using_the_toolbar\Set_a_root_folder_as_default_folder_using_the_toolbar_1.png)
+## Video 
+<div class="container my-5">
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe class="embed-responsive-item" src="..\media\documents\set_a_root_folder_as_default_folder_using_the_toolbar\Set_a_root_folder_as_default_folder_using_the_toolbar.webm" allowfullscreen></iframe>
+	</div>
+</div>
+
 #### Page Details
 Updated on June 09th, 2025

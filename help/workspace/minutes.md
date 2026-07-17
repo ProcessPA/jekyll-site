@@ -29,5 +29,14 @@ The Minutes page is your committee's history of completed meetings. Every meetin
 - [Confirm minutes and business arising](/help/meetings/confirm%20previous%20minutes)
 - [Send the minutes](/help/meetings/send%20the%20minutes)
 
+
+![Image](../media\workspace\completed_meetings_are_listed_on_the_minutes_page\Completed_meetings_are_listed_on_the_minutes_page_1.png)
+## Video 
+<div class="container my-5">
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe class="embed-responsive-item" src="..\media\workspace\completed_meetings_are_listed_on_the_minutes_page\Completed_meetings_are_listed_on_the_minutes_page.webm" allowfullscreen></iframe>
+	</div>
+</div>
+
 #### Page Details
 Updated on July 16th, 2026

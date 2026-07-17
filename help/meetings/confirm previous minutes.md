@@ -4,25 +4,30 @@ layout: markdown-page
 ---
 ## Overview
 
-Most meetings begin by confirming the minutes of the previous meeting and reviewing outstanding items. Process PA handles both automatically, so the continuity between meetings is built in.
+Most meetings begin by confirming the minutes of the previous meeting and reviewing outstanding items. Process PA keeps the continuity between meetings clear, while leaving you in control of exactly what carries forward.
 
 ## Confirm the previous minutes
 
-1. Before a meeting can close, a date for the next meeting must be set. The minutes of the meeting you're closing are then automatically included on that next agenda.
-2. At the next meeting, open the agenda item for confirming the previous minutes.
+You don't have to schedule the next meeting to finalize the current one — that requirement was removed. Instead, when you prepare the next meeting, you choose which previous minutes to include:
+
+1. While preparing the next meeting, select from your **unconfirmed minutes** the ones to include on the agenda. This prepares a *Confirm Minutes* motion and links the previous minutes directly to the agenda.
+2. At the meeting, open the confirm-minutes agenda item.
 3. Record that the minutes were confirmed.
 
-## Business arising (carry-over)
+## Business arising (Carry Forward)
 
-Outstanding action items and unfinished business from prior meetings appear automatically as **business arising** on the next agenda. You don't have to copy anything across — items stay visible until they're resolved.
+Outstanding action items and motions from prior meetings are surfaced automatically as **business arising** — a yellow exclamation mark (**!**) flags when there's something to carry forward, so nothing is overlooked.
 
-1. Review the business arising items on the agenda.
-2. Update, complete or add notes to each as the meeting progresses.
+1. When preparing the agenda, review the outstanding items and **choose which to carry forward** onto this meeting. You decide what's still relevant rather than having everything copied across.
+2. During the meeting, update, complete or add notes to each carried-forward item.
+
+Carried-over actions and motions keep their original numbers, so they're easy to track from one meeting to the next.
 
 ## Related
 
 - [Configure the next meeting](/help/meetings/configure%20the%20next%20meeting)
 - [Track action items](/help/workspace/actions)
+- [Assign and complete action items](/help/meetings/assign%20and%20complete%20action%20items)
 
 #### Page Details
-Updated on July 16th, 2026
+Updated on July 17th, 2026

@@ -13,6 +13,26 @@ This guide covers keeping your member list up to date — editing a member's per
 3. Update their name, email, access level or committee role.
 4. Save your changes.
 
+Members can also update their own personal details once they're logged in.
+
+## What the member register holds
+
+The Members register is a full record for each person, not just a name and email:
+
+- **Personal details** — phone, date of birth and address, plus a free-text **Notes** field for anything else (skills, availability, reason for leaving).
+- **Tags** — label members to suit your organisation, for example *Parent / Staff / Community*, *Paid / Volunteer*, or *Ordinary / Voting / Life Member*.
+- **Role terms** — record the role a member held and the period they held it, keeping a full history of your committee. The current role shows on the Members list.
+- **Attachments** — store documents against a member, such as ID copies, blue-card or police checks, or signed membership forms.
+
+## Email your members
+
+From the Members page, administrators can email members using their own email application:
+
+- Select **Email** to add all members to the **BCC** field of a new email.
+- Or click an individual member's address to start an email to just that person.
+
+Member email addresses are only visible to Administrators — Normal and Email-only members don't see them.
+
 ## Show or hide no-access members
 
 Members set to **No-access** remain in your records but can't sign in. To keep the list tidy you can show or hide them:

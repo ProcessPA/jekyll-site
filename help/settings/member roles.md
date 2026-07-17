@@ -26,5 +26,14 @@ Once a role exists, set it against a member from the [Members register](/help/me
 
 - [Access levels and roles](/help/members/access%20levels%20and%20roles)
 
+
+![Image](../media\settings\add_and_remove_a_member_role\Add_and_remove_a_member_role_1.png)
+## Video 
+<div class="container my-5">
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe class="embed-responsive-item" src="..\media\settings\add_and_remove_a_member_role\Add_and_remove_a_member_role.webm" allowfullscreen></iframe>
+	</div>
+</div>
+
 #### Page Details
 Updated on July 16th, 2026

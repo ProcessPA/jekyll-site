@@ -69,5 +69,14 @@ If you encounter problems while downloading:
 - **Incomplete download**: Delete the partial file and restart the download process
 - **Can't find downloaded file**: Check your browser's download settings to see the default save location
 
+
+![Image](../media\documents\download_a_single_file\Download_a_single_file_1.png)
+## Video 
+<div class="container my-5">
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe class="embed-responsive-item" src="..\media\documents\download_a_single_file\Download_a_single_file.webm" allowfullscreen></iframe>
+	</div>
+</div>
+
 #### Page Details
 Updated on June 09th, 2025

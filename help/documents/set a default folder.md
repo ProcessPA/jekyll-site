@@ -30,5 +30,14 @@ This visual marker confirms that your folder is now set as the default and will 
 ## What Happens Next?
 Once you've completed these steps, your chosen folder will automatically be selected or highlighted whenever you open your document management system. This means faster access to your most important files and a more streamlined workflow for your daily document tasks.
 
+
+![Image](../media\documents\set_a_root_folder_as_default_using_its_context_menu\Set_a_root_folder_as_default_using_its_context_menu_1.png)
+## Video 
+<div class="container my-5">
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe class="embed-responsive-item" src="..\media\documents\set_a_root_folder_as_default_using_its_context_menu\Set_a_root_folder_as_default_using_its_context_menu.webm" allowfullscreen></iframe>
+	</div>
+</div>
+
 #### Page Details
 Updated on June 09th, 2025

@@ -32,5 +32,13 @@ Whether or not that address has an account, you'll see the same confirmation mes
 - Reset links are time-limited. If yours has expired, simply request another.
 - If you never receive an email, the address may differ from the one on your account — try any alternate addresses, or contact [support@processpa.com](mailto:support@processpa.com).
 
+
+## Video 
+<div class="container my-5">
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe class="embed-responsive-item" src="..\media\onboarding\password_reset_regular_(sends_email)\Password_reset_regular_(SENDS_EMAIL).webm" allowfullscreen></iframe>
+	</div>
+</div>
+
 #### Page Details
 Updated on July 16th, 2026

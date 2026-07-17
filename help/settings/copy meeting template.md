@@ -23,5 +23,14 @@ Agenda templates give every meeting a consistent structure. If you've built a te
 - [Configure the next meeting](/help/meetings/configure%20the%20next%20meeting)
 - [Add action items and motions](/help/meetings/add%20action%20items%20and%20motions)
 
+
+![Image](../media\settings\copy_a_meeting_template\Copy_a_meeting_template_1.png)
+## Video 
+<div class="container my-5">
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe class="embed-responsive-item" src="..\media\settings\copy_a_meeting_template\Copy_a_meeting_template.webm" allowfullscreen></iframe>
+	</div>
+</div>
+
 #### Page Details
 Updated on July 16th, 2026

@@ -40,5 +40,13 @@ You can move freely between these pages without losing your place.
 - Bookmark [https://app.processpa.com/](https://app.processpa.com/) for quick access.
 - Emails sent from Process PA include a link that takes you straight to the relevant meeting after you log in.
 
+
+## Video 
+<div class="container my-5">
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe class="embed-responsive-item" src="..\media\onboarding\password_login_regular\Password_login_regular.webm" allowfullscreen></iframe>
+	</div>
+</div>
+
 #### Page Details
 Updated on July 16th, 2026

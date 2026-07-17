@@ -66,5 +66,14 @@ After confirming, check that:
 - Meeting history and any prepared materials are preserved
 - Reports will show the meeting was scheduled but cancelled
 
+
+![Image](../media\meetings\cancel_a_meeting_(no_replacement)\Cancel_a_meeting_(no_replacement)_1.png)
+## Video 
+<div class="container my-5">
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe class="embed-responsive-item" src="..\media\meetings\cancel_a_meeting_(no_replacement)\Cancel_a_meeting_(no_replacement).webm" allowfullscreen></iframe>
+	</div>
+</div>
+
 #### Page Details
 Updated on June 09th, 2025

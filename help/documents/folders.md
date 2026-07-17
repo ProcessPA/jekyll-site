@@ -38,5 +38,14 @@ Once your structure is in place you can:
 - Plan a simple, shallow structure first; you can always add depth later.
 - Set the folder you use most as the default to save clicks.
 
+
+![Image](../media\documents\create_3_committee_root_level_folders\Create_3_committee_root_level_folders_1.png)
+## Video 
+<div class="container my-5">
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe class="embed-responsive-item" src="..\media\documents\create_3_committee_root_level_folders\Create_3_committee_root_level_folders.webm" allowfullscreen></iframe>
+	</div>
+</div>
+
 #### Page Details
 Updated on July 16th, 2026

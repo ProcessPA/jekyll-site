@@ -29,5 +29,13 @@ When you add a member, Process PA can send them an activation email so they can 
 - Members who only ever need content by email can be left as **Email-only** and never have to log in. See [Access levels and roles](/help/members/access%20levels%20and%20roles).
 - There is no per-user charge, so invite everyone who needs to be kept in the loop.
 
+
+## Video 
+<div class="container my-5">
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe class="embed-responsive-item" src="..\media\members\new_member_onboarding_loop__invite__activate_from_the_email_link__then_log_in_(sends_email)\New_member_onboarding_loop__invite__activate_from_the_email_link__then_log_in_(SENDS_EMAIL).webm" allowfullscreen></iframe>
+	</div>
+</div>
+
 #### Page Details
 Updated on July 16th, 2026

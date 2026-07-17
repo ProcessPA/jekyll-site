@@ -41,5 +41,20 @@ You decide how much is sent. In **Settings** you can choose whether an email inc
 - [Send the minutes](/help/meetings/send%20the%20minutes)
 - [Customise your agenda & minutes](/help/settings/report%20options)
 
+
+## Video 
+<div class="container my-5">
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe class="embed-responsive-item" src="..\media\meetings\the_agenda_email_carries_a_pdf_that_matches_the_preview__plus_a_calendar_invite_(sends_email)\The_agenda_email_carries_a_PDF_that_matches_the_preview__plus_a_calendar_invite_(SENDS_EMAIL).webm" allowfullscreen></iframe>
+	</div>
+</div>
+
+## Video 
+<div class="container my-5">
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe class="embed-responsive-item" src="..\media\meetings\the_agenda_email_delivers_meeting_attachments_as_a_zip_pack_(sends_email)\The_agenda_email_delivers_meeting_attachments_as_a_ZIP_pack_(SENDS_EMAIL).webm" allowfullscreen></iframe>
+	</div>
+</div>
+
 #### Page Details
 Updated on July 17th, 2026

@@ -26,5 +26,14 @@ This guide provides simple instructions on how to navigate various pages related
 2. Find the option to send the meeting minutes report and click it.
 
 
+
+![Image](../media\meetings\navigate_to_the_request_attendance_page\Navigate_to_the_request_attendance_page_1.png)
+## Video 
+<div class="container my-5">
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe class="embed-responsive-item" src="..\media\meetings\navigate_to_the_request_attendance_page\Navigate_to_the_request_attendance_page.webm" allowfullscreen></iframe>
+	</div>
+</div>
+
 #### Page Details
 Updated on June 09th, 2025

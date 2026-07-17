@@ -27,5 +27,22 @@ This guide outlines the steps to assign attendance and apology responses for mee
 1. Ensure that the four remaining members do not have any attendance or apology responses assigned to them.
 2. Verify that their statuses remain unchanged, indicating no response.
 
+
+![Image](../media\meetings\mark_a_member_as_attending_a_meeting\Mark_a_member_as_attending_a_meeting_1.png)
+## Video 
+<div class="container my-5">
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe class="embed-responsive-item" src="..\media\meetings\mark_a_member_as_attending_a_meeting\Mark_a_member_as_attending_a_meeting.webm" allowfullscreen></iframe>
+	</div>
+</div>
+
+![Image](../media\meetings\mark_a_member_as_an_apology_for_a_meeting\Mark_a_member_as_an_apology_for_a_meeting_1.png)
+## Video 
+<div class="container my-5">
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe class="embed-responsive-item" src="..\media\meetings\mark_a_member_as_an_apology_for_a_meeting\Mark_a_member_as_an_apology_for_a_meeting.webm" allowfullscreen></iframe>
+	</div>
+</div>
+
 #### Page Details
 Updated on June 09th, 2025

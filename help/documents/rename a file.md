@@ -69,5 +69,14 @@ If you encounter issues while renaming:
 - **Version control**: Consider including version numbers in file names for better document management
 - **Backup**: For critical files, consider creating a backup before renaming in case you need to revert changes
 
+
+![Image](../media\documents\rename_a_file\Rename_a_file_1.png)
+## Video 
+<div class="container my-5">
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe class="embed-responsive-item" src="..\media\documents\rename_a_file\Rename_a_file.webm" allowfullscreen></iframe>
+	</div>
+</div>
+
 #### Page Details
 Updated on June 09th, 2025

@@ -34,5 +34,22 @@ Action items and motions are the heart of good minutes. In Process PA you add th
 - Standard motions and actions can be built into your agenda template so they're generated for every meeting.
 - Outstanding action items carry over automatically as business arising on the next agenda.
 
+
+![Image](../media\meetings\create_an_action_item_on_an_agenda_item\Create_an_action_item_on_an_agenda_item_1.png)
+## Video 
+<div class="container my-5">
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe class="embed-responsive-item" src="..\media\meetings\create_an_action_item_on_an_agenda_item\Create_an_action_item_on_an_agenda_item.webm" allowfullscreen></iframe>
+	</div>
+</div>
+
+![Image](../media\meetings\create_a_motion_on_an_agenda_item\Create_a_motion_on_an_agenda_item_1.png)
+## Video 
+<div class="container my-5">
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe class="embed-responsive-item" src="..\media\meetings\create_a_motion_on_an_agenda_item\Create_a_motion_on_an_agenda_item.webm" allowfullscreen></iframe>
+	</div>
+</div>
+
 #### Page Details
 Updated on July 16th, 2026

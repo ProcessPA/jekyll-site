@@ -31,5 +31,14 @@ This guide will help you move a single file from one folder to another within yo
 
 This process will help ensure that your files are well-organized and easy to find within your business document structure.
 
+
+![Image](../media\documents\move_a_single_file\Move_a_single_file_1.png)
+## Video 
+<div class="container my-5">
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe class="embed-responsive-item" src="..\media\documents\move_a_single_file\Move_a_single_file.webm" allowfullscreen></iframe>
+	</div>
+</div>
+
 #### Page Details
 Updated on June 09th, 2025

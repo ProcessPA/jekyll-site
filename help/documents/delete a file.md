@@ -66,5 +66,14 @@ In this guide, you will learn how to delete a single file from a specific folder
 2. Update any documentation that may have referenced the deleted file
 3. Inform relevant team members if the deleted file was shared or referenced elsewhere
 
+
+![Image](../media\documents\delete_a_single_file\Delete_a_single_file_1.png)
+## Video 
+<div class="container my-5">
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe class="embed-responsive-item" src="..\media\documents\delete_a_single_file\Delete_a_single_file.webm" allowfullscreen></iframe>
+	</div>
+</div>
+
 #### Page Details
 Updated on June 09th, 2025

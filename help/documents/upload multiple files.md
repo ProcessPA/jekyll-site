@@ -66,5 +66,14 @@ If your upload encounters issues:
 - Try uploading files in smaller batches if uploading many files at once
 - Refresh the page and retry if the upload process stalls
 
+
+![Image](../media\documents\upload_multiple_files_to_a_root_level_folder\Upload_multiple_files_to_a_root_level_folder_1.png)
+## Video 
+<div class="container my-5">
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe class="embed-responsive-item" src="..\media\documents\upload_multiple_files_to_a_root_level_folder\Upload_multiple_files_to_a_root_level_folder.webm" allowfullscreen></iframe>
+	</div>
+</div>
+
 #### Page Details
 Updated on June 09th, 2025

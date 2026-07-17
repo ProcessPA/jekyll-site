@@ -98,5 +98,14 @@ Make sure you have:
 - **File size limits**: Large files may require individual download rather than batch processing
 - **Browser compatibility**: Different browsers may handle multiple downloads differently
 
+
+![Image](../media\documents\download_multiple_files\Download_multiple_files_1.png)
+## Video 
+<div class="container my-5">
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe class="embed-responsive-item" src="..\media\documents\download_multiple_files\Download_multiple_files.webm" allowfullscreen></iframe>
+	</div>
+</div>
+
 #### Page Details
 Updated on June 09th, 2025

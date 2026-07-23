@@ -1,0 +1,77 @@
+---
+layout: standard
+title: Affordable Board Portal for Growing Companies
+description: Secure board papers, prep and minutes for SME boards. Transparent pricing, no sales process.
+canonical_url: https://processpa.com/business.html
+redirect_from:
+  - /boards.html
+benefits:
+  - title: Enterprise-grade security, SME-grade setup
+    description: >-
+      Hosted on Microsoft Azure with data protection in access, transit and
+      storage. The security directors expect, without the rollout they dread.
+    icon: /images/Compliance.png
+  - title: Every director, fully prepared
+    description: >-
+      Distribute board papers to any device, keep the latest version in one
+      place, and give directors what they need ahead of the meeting —
+      automatically.
+    icon: /images/Automation.png
+  - title: A defensible record, automatically
+    description: >-
+      Resolutions, motions and action items captured and signed. Your governance
+      trail is complete without anyone chasing it.
+    icon: /images/Continuity.png
+---
+
+<div class="jumbotron jumbotron-fluid pb-0 mb-0" style="background-color: #00A1F1; color: white;">
+    <div class="container text-center">
+        <h1 class="display-1 editable">The Board Portal Big Companies Have Had for Years. Priced for the Rest.</h1>
+        <p class="display-4 editable">Process PA connects your whole board cycle — prep, papers, minutes and follow-ups — in one secure place, without the enterprise price tag.</p>
+    </div>
+</div>
+
+<div class="container">
+    {% include cta-primary.html %}
+    {% include social-proof.html %}
+    <div class="row justify-content-center mb-4">
+        <div class="col-8 col-md-4 text-center">
+            <img class="img-fluid" src="/images/westpac_businesses-of-tomorrow-2017_stamphorizontal_rgb.png" alt="Westpac Business of Tomorrow 2017" />
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid">
+    <div class="row mt-4">
+        {% for benefit in page.benefits %}
+        <div class="col-sm-4 px-5 py-5">
+            <div class="media">
+                <img class="d-flex mr-3" width="64" src="{{ benefit.icon }}" alt="" />
+                <div class="media-body">
+                    <h4 class="mt-0">{{ benefit.title }}</h4>
+                    <p>{{ benefit.description }}</p>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+<div class="container-fluid bg-light py-5">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-9 text-center">
+                <h2 class="editable">No sales process. No &ldquo;request a quote.&rdquo;</h2>
+                <p class="lead editable">Enterprise board portals don't list their prices. We do — transparent pricing, self-serve signup, running on your next meeting today.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% include between-meetings.html body="Sound decisions need sound process — before, during and after the boardroom. Process PA keeps the whole cycle connected so your board operates like one twice its size." %}
+
+<div class="container py-5 text-center">
+    <h2 class="editable">Try it on your next board meeting.</h2>
+    <p class="lead editable">Set up in minutes. If your board likes it, take it through proper approval after.</p>
+    {% include cta-primary.html %}
+</div>

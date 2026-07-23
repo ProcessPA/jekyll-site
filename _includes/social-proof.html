@@ -1,0 +1,9 @@
+<section class="social-proof text-center my-4">
+  <p class="proof-line font-weight-bold mb-3">Trusted by {{ site.customer_count }} clubs, associations and not-for-profits.</p>
+  {% if include.quote %}
+  <blockquote class="blockquote">
+    <p class="mb-1">{{ include.quote }}</p>
+    <cite class="text-muted">{{ include.author }}, {{ include.org }}</cite>
+  </blockquote>
+  {% endif %}
+</section>

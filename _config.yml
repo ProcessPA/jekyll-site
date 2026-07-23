@@ -26,6 +26,14 @@ exclude:
 sass:
     style: compressed
 
+# Default Open Graph / Twitter card image for pages that don't set their own.
+# Consumed by jekyll-seo-tag as page.image; individual pages can override.
+defaults:
+    - scope:
+        path: ""
+      values:
+        image: /images/AppSplash_3000px.png
+
 # --- SEO / entity metadata (used by jekyll-seo-tag and custom schema includes) ---
 logo: /images/logo-sml.png
 twitter:

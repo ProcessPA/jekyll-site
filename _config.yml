@@ -4,9 +4,9 @@ timezone: Australia/Brisbane
 url: https://processpa.com
 baseurl: ""
 
-# Social-proof customer count — single-sourced, referenced via {{ site.customer_count }}.
-# Confirm the current figure with the site owner before shipping and update here if it has changed.
-customer_count: "140+"
+# Scale wording for social proof — deliberately qualitative ("hundreds of") so we
+# signal scale without publishing an exact customer count to competitors.
+customer_count: "hundreds of"
 
 plugins:
     - jekyll-seo-tag

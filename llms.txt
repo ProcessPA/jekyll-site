@@ -35,7 +35,7 @@
 
 - [Associations](https://processpa.com/associations.html)
 - [Not-for-Profits](https://processpa.com/nfp.html)
-- [Business / Boards](https://processpa.com/boards.html)
+- [Business / Boards](https://processpa.com/business.html)
 - [Body Corporate](https://processpa.com/bodycorporate.html)
 
 ## Governance resources

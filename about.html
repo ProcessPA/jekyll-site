@@ -4,59 +4,23 @@ author: Marketing
 layout: page
 navigation_title: About
 navigation_weight: 70
+description: Process PA was built by a volunteer board secretary to handle his own board paperwork. Today it serves hundreds of clubs, associations and not-for-profits.
+canonical_url: https://processpa.com/about.html
 ---
 <div class="container my-5">
-    <h2>
-        Hi, I'm Matthew Rowan. Watch this video to see why I started Process PA
-    </h2>
-    {% include wista-video.html id="i2r2cfu962" %}
-</div>
-
-<div class="container my-5">
-    <div class="row">
-        <div class="col-sm-6">
-            <div class="center" style="visibility: visible;">
-                <h2>
-                    Want to learn more?
-                </h2>
-
-                <p class="lead">
-                    <a href="{% link help.html %}">Check out our help guides here.</a>
-                </p>
-            </div>
+    <div class="row align-items-center">
+        <div class="col-md-7">
+            <h2 class="editable">I built Process PA to handle my own board paperwork.</h2>
+            <p class="lead editable">I'm Matthew Rowan. I sat on boards and committees as a volunteer, and the paperwork always fell to whoever put their hand up — building the agenda, getting the papers out, writing up the minutes and chasing the actions before the next meeting.</p>
+            <p class="editable">There was plenty of advice on how a board <em>should</em> run, but nothing that did the repetitive work. So I built Process PA to guide the prep and turn my notes into signed minutes — for my own board first.</p>
+            <p class="editable">Today it does the same for {{ site.customer_count }} clubs, associations and not-for-profits across Australia — run by capable people who have better things to do than wrestle with Word templates.</p>
         </div>
-
-        <div class="col-sm-6">
-            <h2>Contact Me</h2>
-            {% include media-object.html title="Matthew Rowan" description="Founder & CEO" icon="/images/Matthew-Rowan-Headshot-No-Background.png" %}
-            <a href="http://twitter.com/mgrowan"><i class="fa fa-twitter"></i>Twitter</a>
-            <a href="https://au.linkedin.com/in/mgrowan"><i class="fa fa-linkedin"></i>LinkedIn</a>
-            <a href="mailto:matthew@processpa.com"><i class="fa fa-envelope"></i>Email</a>
+        <div class="col-md-5 mt-4 mt-md-0">
+            <img class="img-fluid rounded shadow-sm" src="/content/pages/Responsive Web App.png" alt="Process PA on laptop, tablet and phone" />
         </div>
     </div>
-</div>
 
+    {% include cta-primary.html %}
 
-<div class="container my-5">
-    <h2>Supported By</h2>
-    <div class="row">
-        <div class="col-md-3 col-sm-6"><img src="/images/RiverCityLabs-logo.png" class="img-fluid" alt="River City Labs"></div>
-        <div class="col-md-3 col-sm-6"><img src="/images/muru-large.png" class="img-fluid" alt="Muru-D"></div>
-        <div class="col-md-3 col-sm-6"><img src="/images/telstra.png" class="img-fluid" alt="Telstra"></div>
-        <div class="col-md-3 col-sm-6"><img src="/images/MIC-Logo-FY16-black.png" class="img-fluid" alt="Microsoft Innovation Centre Queensland"></div>
-    </div>
-</div>
-
-<div class="container my-5">
-    <h2>Careers</h2>
-    <p class="lead">
-        Want to work with us? Check out positions currently available <a href="{% link careers.html %}">here</a>.
-    </p>
-</div>
-
-<div class="container my-5">
-    <h2>Watch more of the journey</h2>
-    <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/nO4fWVwa-0k" title="Process PA product video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    </div>
+    <p class="text-center mb-0"><a href="{% link help.html %}">Browse our help guides</a></p>
 </div>

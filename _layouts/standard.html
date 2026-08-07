@@ -21,6 +21,17 @@ layout: default
                     <li class="nav-item {% if p.url == page.url %}active{% endif %}">
                         <a class="nav-link" href="{{ p.url }}">{{ p.navigation_title }}</a>
                     </li>
+                    {% if p.url == '/' %}
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="solutionsDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Solutions</a>
+                        <div class="dropdown-menu" aria-labelledby="solutionsDropdown">
+                            <a class="dropdown-item" href="/clubs.html">Clubs</a>
+                            <a class="dropdown-item" href="/nfp.html">Not-for-Profit</a>
+                            <a class="dropdown-item" href="/associations.html">Associations</a>
+                            <a class="dropdown-item" href="/business.html">Business</a>
+                        </div>
+                    </li>
+                    {% endif %}
                     {% endif %}
                     {% endfor %}
                 </ul>

@@ -50,6 +50,50 @@
     padding-bottom: 10rem !important;
 }
 
+/* --- Shared messaging includes (cta-primary, social-proof, between-meetings) --- */
+.cta-subline {
+    letter-spacing: 0.02em;
+}
+
+.social-proof .proof-line {
+    font-size: 1.05rem;
+    color: $green;
+}
+
+.social-proof cite {
+    display: block;
+    margin-top: 0.35rem;
+    font-style: normal;
+}
+
+.between-meetings h2 {
+    margin-bottom: 0.75rem;
+}
+
+/* --- Solutions nav dropdown ---
+   The site runs an old Bootstrap build whose dropdown JS is unreliable, so drive
+   the Solutions menu with CSS: reveal on hover/focus on desktop, and show the
+   segment links inline inside the collapsed mobile menu. */
+@include media-breakpoint-up(lg) {
+    .navbar .nav-item.dropdown:hover > .dropdown-menu,
+    .navbar .nav-item.dropdown:focus-within > .dropdown-menu {
+        display: block;
+        margin-top: 0;
+    }
+    .navbar .nav-item.dropdown > .dropdown-toggle {
+        cursor: pointer;
+    }
+}
+
+@include media-breakpoint-down(md) {
+    .navbar .nav-item.dropdown .dropdown-menu {
+        display: block;
+        border: 0;
+        padding-left: 1rem;
+        background: transparent;
+    }
+}
+
 /* Responsive images on blog posts */
 .post-content * img
 {

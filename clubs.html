@@ -1,0 +1,89 @@
+---
+layout: standard
+title: Board Portal for Licensed & Community Clubs
+description: Run your club's board prep, papers and minutes in one place. Trusted by 140+ clubs.
+canonical_url: https://processpa.com/clubs.html
+benefits:
+  - title: Board packs out without the chase
+    description: >-
+      Guided agendas pull forward open items and last meeting's actions. Build
+      the pack, send it to every director's device — no Word wrestling, no
+      last-minute scramble.
+    icon: /images/Automation.png
+  - title: Minutes from your notes, signed the same night
+    description: >-
+      Take notes in the meeting; Process PA turns them into signed, letterhead
+      minutes you send before everyone's left the car park.
+    icon: /images/Compliance.png
+  - title: A record that holds up
+    description: >-
+      Every motion, resolution and action on file. When the auditor, the
+      regulator or a member asks "was that minuted?", the answer is yes.
+    icon: /images/Continuity.png
+---
+
+<div class="jumbotron jumbotron-fluid mb-0" style="background-color: #00A1F1; color: white;">
+    <div class="container text-center">
+        <h1 class="display-1 editable">Govern Like a Bigger Club. Without the Overhead of One.</h1>
+        <p class="lead editable">Process PA connects your whole board cycle — prep, papers, minutes and the follow-ups in between — in one place, so your board runs on process, not on one person's memory.</p>
+    </div>
+</div>
+
+<div class="container">
+    {% include cta-primary.html %}
+    {% include social-proof.html quote="With Process PA we are saving hours of tedious paperwork and everything is in the one place. I wish this was available years ago." author="Kim Miles" org="Capalaba Football Club" %}
+</div>
+
+<div class="container-fluid">
+    <div class="row mt-4">
+        {% for benefit in page.benefits %}
+        <div class="col-sm-4 px-5 py-5">
+            <div class="media">
+                <img class="d-flex mr-3" width="64" src="{{ benefit.icon }}" alt="" />
+                <div class="media-body">
+                    <h4 class="mt-0">{{ benefit.title }}</h4>
+                    <p>{{ benefit.description }}</p>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+<div class="container-fluid bg-light py-5">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-9 text-center">
+                <h2 class="editable">Your board is accountable. Your licence depends on the records.</h2>
+                <p class="lead editable">Process PA keeps a defensible trail of every decision and action — so good governance is something you can demonstrate, not just claim.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container py-5">
+    <div class="row justify-content-center">
+        <div class="col-lg-9 text-center">
+            <h2 class="editable">Up and running before your next meeting.</h2>
+            <p class="lead editable">Our free concierge team enters your members, sets your agenda templates and letterhead, and loads your last minutes — so your first meeting on Process PA is ready to go. Included in your trial.</p>
+            {% include cta-primary.html %}
+        </div>
+    </div>
+</div>
+
+{% include between-meetings.html body="The board meets monthly; the club runs every day. Process PA keeps the prep, the follow-ups and the records moving in between — so nothing waits for the next meeting to get done." %}
+
+<div class="container py-5">
+    <div class="row justify-content-center">
+        <div class="col-lg-9 text-center">
+            <h2 class="editable">You know governance. We handle the paperwork.</h2>
+            <p class="lead editable">You don't need another manual on how a board should run — you need the repetitive work off your desk. Process PA guides the prep and follows your process, so you spend your time running the club, not administering the board.</p>
+        </div>
+    </div>
+</div>
+
+<div class="container py-5 text-center">
+    <h2 class="editable">Try it on your next board meeting.</h2>
+    <p class="lead editable">Set up in minutes, or let our concierge do it for you.</p>
+    {% include cta-primary.html %}
+</div>

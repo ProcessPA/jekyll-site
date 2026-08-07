@@ -1,113 +1,71 @@
 ---
-title: Associations
-layout: page
-features:
-  - title: "Decision Making"
-    description: "Good governance helps the board make sound decisions by following guidelines that puts the associations' future first."
-    icon: "/images/list.png"
-  - title: "Communication"
-    description: "Improve communication with the association by prioritizing transparency and visibility for all committee members."
-    icon: "/images/communication.png"
-  - title: "Accountability"
-    description: "Promote accountability by clearly identifying the roles of board members, so they understand their responsibilities."
-    icon: "/images/relationship.png"
-  - title: "Checks & Balances"
-    description: "Monitor the activities of the association by regular meetings and evaluations to ensure that everything is in line with associations’ goals and targets."
-    icon: "/images/balance.png"
-  - title: "Reduces Risk"
-    description: "Ensure all records and minutes are securely stored, consistent, and accessible to back up all decisions and handle inquiries."
-    icon: "/images/security-badge.png"
-  - title: "Automatic Notifications"
-    description: "Notice periods for meetings, agenda distribution with attachments, action item follow up all done for you."
-    icon: "/images/notification-bell.png"
-  
+layout: standard
+title: Board Software for Committees & Associations
+description: Board prep, papers and signed minutes for volunteer committees and associations. Governance that doesn't fall on one person.
+canonical_url: https://processpa.com/associations.html
+benefits:
+  - title: Prep without the chase
+    description: >-
+      Guided agendas pull forward open items and last meeting's actions. Build
+      the pack, send it, done — no Word wrestling.
+    icon: /images/Automation.png
+  - title: Minutes from your notes, not your weekend
+    description: >-
+      Take notes in the meeting; Process PA turns them into signed, letterhead
+      minutes you send the same night.
+    icon: /images/Compliance.png
+  - title: Nothing slips between meetings
+    description: >-
+      Action items assigned, reminders automatic, every resolution on record.
+      The board ball never drops.
+    icon: /images/Continuity.png
 ---
 
-<div class="container text-center">
-    {% include wista-video.html id="73n4tdgd7k" %}
-</div>
-
-<div class="container-fluid bg-danger px-5 py-5 text-center text-white">
-    <h1 class="display-4">Are your volunteers burning out?</h1>
-    <span class="lead">Keep administration simple and stay focused on the outcomes of your organization</span>
-</div>
-
-<div class="container-fluid">
-    <div class="row mx-0 px-0">
-        <div class="col-md-6">
-            <div class="px-3 py-3">
-                <h1 class="display-4 editable">The problem for Associations</h1>
-                <p class="editable">
-                    We understand that there are many types of associations out there, from school P&amp;C, community groups to sporting clubs.
-                    <br /><br />
-                    Need  more people to get involved and help out? Tired of the conflict amongst the committee? Not receiving minutes until just before the next meeting? Questioning how compliant you really are if audited? Losing sleep that you may be personally liable?
-                    <br /><br />
-                    Use Process PA to take care of administration for you and free you to make a positive impact in your association.
-                </p>
-                <p><div class="container py-4">
-                        <div class="card border-info p-3">
-                            <div class="card-block">
-                                <h3 class="card-title">Need help getting started?</h3>
-                                <p class="card-text">Book a free concierge service. We will enter your members, minutes from your last meeting, set agenda templates and your letterhead. Your next meeting will be scheduled and ready to go for a productive meeting and instant minutes. (Concierge service also available in our 30 Day Free Trial)</p>
-                                <a class="btn btn-info" href="/concierge">Book Now</a>
-                            </div>
-                        </div>
-                    </div></p>
-            </div>
-        </div>
-        <div class="col-md-6">
-            <div class="container my-5">
-    <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/3iqA7LlV-9I" title="Process PA product video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="jumbotron jumbotron-fluid mb-0" style="background-color: #00A1F1; color: white;">
+    <div class="container text-center">
+        <h1 class="display-1 editable">Governance That Doesn't Fall on One Person.</h1>
+        <p class="lead editable">Process PA guides the prep, gets the papers out and helps you produce signed minutes — so your committee runs on process, not on whoever volunteered last.</p>
     </div>
 </div>
+
+<div class="container">
+    {% include cta-primary.html %}
+    {% include social-proof.html quote="If 'non-techies' like us can use it, anyone can!" author="Leanne Barnes &amp; Tracey Spiers" org="Nerang State High School" %}
+</div>
+
+<div class="container py-5">
+    <div class="row justify-content-center">
+        <div class="col-lg-9 text-center">
+            <h2 class="editable">The problem for committees</h2>
+            <p class="lead editable">Most committee administration is done by people who put their hand up, not people who were trained for it. The guidance exists — it just takes more time than anyone has to volunteer. Process PA guides you through what's required and takes care of the repetitive work.</p>
         </div>
     </div>
 </div>
 
 <div class="container-fluid">
-    <div class="row mx-0 px-0">
-        <div class="col-md-6">
-            <img class="img-fluid" src="/content/pages/Responsive Web App.png " alt="Process PA is available on mutliple devices" />
-        </div>
-        
-        <div class="col-md-6">
-            <div class="px-3 py-3">
-                <h1 class="display-4 editable">The solution in the cloud</h1>
-                <p class="editable">
-                    Using Process PA, Associations can implement good governance strategies to strengthen their board.<br /><br />Process PA is an easy to use online portal that associations use to maintain good governance.<br /><br />Using our secure system, the association can manage:<br /><br />- &nbsp;The roles and responsibilities of each board member<br />-&nbsp; How effectively the board operates<br />-&nbsp; How effectively the board interacts with management<br />-&nbsp; The board&rsquo;s accountability to its constituents<br />-&nbsp; Directors&rsquo; accountability to one another
-                </p>
+    <div class="row mt-4">
+        {% for benefit in page.benefits %}
+        <div class="col-sm-4 px-5 py-5">
+            <div class="media">
+                <img class="d-flex mr-3" width="64" src="{{ benefit.icon }}" alt="" />
+                <div class="media-body">
+                    <h4 class="mt-0">{{ benefit.title }}</h4>
+                    <p>{{ benefit.description }}</p>
+                </div>
             </div>
         </div>
+        {% endfor %}
     </div>
 </div>
 
-<div class="container-fluid" style="background-color: #00a1f1; color: white;">
-    <div class="container">
-        <div class="lead pt-4">
-            <h1 style="color: white;">
-                Features
-            </h1>
-            <br/>
-        </div>
-        <div class="row">
-            {% for feature in page.features %}
-            <div class="col-sm-6">
-                {% include media-object.html title=feature.title description=feature.description icon=feature.icon %}
-            </div>
-            {% endfor %}
+{% include between-meetings.html %}
+
+<div class="container py-5">
+    <div class="row justify-content-center">
+        <div class="col-lg-9 text-center">
+            <h2 class="editable">Up and running before your next meeting.</h2>
+            <p class="lead editable">Our free concierge team enters your members, sets your agenda templates and letterhead, and loads your last minutes — so your first meeting on Process PA is ready to go. Included in your trial.</p>
+            {% include cta-primary.html %}
         </div>
     </div>
 </div>
-
-<div class="container-fluid">
-    <div class="row">
-        <div class="col bg-warning">{% include wista-video.html id="wjbyl43sob" %}</div>
-        <div class="col px-5 py-5">
-            <h1 class="display-4">Know what to do without the manuals</h1>
-            <p class="lead">For people on committees running associations or boards, the administration is often done by people who put their hand up but without training. There are many resources available that give guidance on what needs to be done, but that takes more time than people have to volunteer. Process PA provides a tool that guides the committee member through the role requirements and automatically performs many of the repetitive tasks.</p>
-            <a class="btn btn-success" href="https://app.processpa.com/authenticate/password-register">Try it for Free</a>
-        </div>
-    </div>
-</div>
-
